@@ -1,15 +1,15 @@
 {
   "imageHash": "0c0ebd0ae2a6919a",
   "imageLocation": {
-    "latitude": 37.44806215359713,
-    "longitude": -122.1589155500381,
-    "accuracy": 19.247459457579545,
-    "source": "browser"
+    "latitude": null,
+    "longitude": null,
+    "accuracy": null,
+    "source": "exif"
   },
-  "utImageTaken": 1772910816,
+  "utImageTaken": null,
   "plantNetPredictions": [
     {
-      "confidence": 0.13627,
+      "confidence": 0.4829,
       "species": "Magnolia doltsopa (Buch.-Ham. ex DC.) Figlar",
       "genus": "Magnolia",
       "family": "Magnoliaceae",
@@ -17,12 +17,123 @@
         "Sweet Michelia",
         "Temple Magnolia"
       ],
-      "gbifId": "3153955",
-      "powoId": "20011686-1",
-      "iucnId": "193936",
-      "iucnCategory": "DD"
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.02957,
+      "species": "Magnolia maudiae (Dunn) Figlar",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01065,
+      "species": "Magnolia laevifolia (Y.W.Law & Y.F.Wu) Noot.",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "commonNames": [
+        "Small-leaf Chinese magnolia"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00629,
+      "species": "Pedicularis comosa L.",
+      "genus": "Pedicularis",
+      "family": "Orobanchaceae",
+      "commonNames": [
+        "Crested lousewort",
+        "Tufted lousewort"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00473,
+      "species": "Magnolia grandiflora L.",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "commonNames": [
+        "Southern magnolia",
+        "Evergreen Magnolia",
+        "Magnolia little gem"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0045,
+      "species": "Asimina obovata (Willd.) Nash",
+      "genus": "Asimina",
+      "family": "Annonaceae",
+      "commonNames": [
+        "Flag pawpaw",
+        "Bigflower pawpaw"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00331,
+      "species": "Magnolia denudata Desr.",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "commonNames": [
+        "Yulan Magnolia",
+        "Lilytree",
+        "Yulan"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00315,
+      "species": "Magnolia cavaleriei (Finet & Gagnep.) Figlar",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00291,
+      "species": "Citrus × aurantium L.",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Sour orange",
+        "Bitter orange",
+        "Seville orange"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00237,
+      "species": "Magnolia virginiana L.",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "commonNames": [
+        "Sweetbay Magnolia",
+        "Swamp-laurel",
+        "Sweet bay"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
     }
-  ],
-  "deviceIPAddress": "146.75.136.184",
-  "userId": "4c5bc7a0"
+  ]
 }
