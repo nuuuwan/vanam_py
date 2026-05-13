@@ -1,0 +1,56 @@
+{
+  "imageHash": "aa88bdf31955c239",
+  "imageLocation": {
+    "latitude": 6.912502777777778,
+    "longitude": 79.86273055555554,
+    "accuracy": 15.88515013436149,
+    "source": "exif"
+  },
+  "utImageTaken": 1778463910,
+  "userId": "4c5bc7a0",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.93118,
+      "species": "Artocarpus heterophyllus Lam.",
+      "genus": "Artocarpus",
+      "family": "Moraceae",
+      "commonNames": [
+        "Jackfruit",
+        "Nangka",
+        "Jack"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.04122,
+      "species": "Artocarpus integer (Thunb.) Merr.",
+      "genus": "Artocarpus",
+      "family": "Moraceae",
+      "commonNames": [
+        "Chempedak",
+        "Champedak",
+        "Tjampedak"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00127,
+      "species": "Treculia africana Decne. ex Trécul",
+      "genus": "Treculia",
+      "family": "Moraceae",
+      "commonNames": [
+        "African breadfruit",
+        "African-boxwood",
+        "African breadnut"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}
