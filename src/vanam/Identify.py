@@ -98,8 +98,8 @@ class Identify:
         predictions = []
         for result in raw.get("results", []):
             species = result.get("species", {})
-            gbif = species.get("gbif") or {}
-            iucn = species.get("iucn") or {}
+            gbif = result.get("gbif") or {}
+            iucn = result.get("iucn") or {}
             predictions.append(
                 {
                     "confidence": round(result.get("score", 0), 5),

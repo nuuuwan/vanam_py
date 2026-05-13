@@ -1,0 +1,112 @@
+{
+  "query": {
+    "project": "all",
+    "images": ["2b4fab6daf48cf674474662047d1f32a"],
+    "organs": ["auto"],
+    "includeRelatedImages": false,
+    "noReject": false,
+    "type": "None"
+  },
+  "predictedOrgans": [
+    {
+      "image": "2b4fab6daf48cf674474662047d1f32a",
+      "filename": "image.png",
+      "organ": "habit",
+      "score": 0.73325
+    }
+  ],
+  "language": "en",
+  "preferedReferential": "k-world-flora",
+  "bestMatch": "Artocarpus heterophyllus Lam.",
+  "results": [
+    {
+      "score": 0.93118,
+      "species": {
+        "scientificNameWithoutAuthor": "Artocarpus heterophyllus",
+        "scientificNameAuthorship": "Lam.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Artocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Artocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": ["Jackfruit", "Nangka", "Jack"],
+        "scientificName": "Artocarpus heterophyllus Lam."
+      },
+      "gbif": {
+        "id": "2984565"
+      },
+      "powo": {
+        "id": "850389-1"
+      }
+    },
+    {
+      "score": 0.04122,
+      "species": {
+        "scientificNameWithoutAuthor": "Artocarpus integer",
+        "scientificNameAuthorship": "(Thunb.) Merr.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Artocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Artocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": ["Chempedak", "Champedak", "Tjampedak"],
+        "scientificName": "Artocarpus integer (Thunb.) Merr."
+      },
+      "gbif": {
+        "id": "2984566"
+      },
+      "powo": {
+        "id": "582622-1"
+      },
+      "iucn": {
+        "id": "61220334",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00127,
+      "species": {
+        "scientificNameWithoutAuthor": "Treculia africana",
+        "scientificNameAuthorship": "Decne. ex Trécul",
+        "genus": {
+          "scientificNameWithoutAuthor": "Treculia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Treculia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "African breadfruit",
+          "African-boxwood",
+          "African breadnut"
+        ],
+        "scientificName": "Treculia africana Decne. ex Trécul"
+      },
+      "gbif": {
+        "id": "7895921"
+      },
+      "powo": {
+        "id": "856719-1"
+      },
+      "iucn": {
+        "id": "87717226",
+        "category": "LC"
+      }
+    }
+  ],
+  "version": "2026-03-20 (7.4)",
+  "remainingIdentificationRequests": 427
+}

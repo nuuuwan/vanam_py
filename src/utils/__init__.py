@@ -1,3 +1,4 @@
-from utils.Log import Log
+# utils (auto generate by build_inits.py)
+# flake8: noqa: F408
 
-__all__ = ["Log"]
+from utils.Log import Log
