@@ -3,6 +3,7 @@ import os
 import re
 
 import requests
+
 from utils import Log
 
 log = Log(__name__)
@@ -69,9 +70,8 @@ class Identify:
     # PlantNet API
     # ------------------------------------------------------------------
 
-    def _call_plantnet(self, photo_path: str) -> list[dict]:
-        """Submit a photo to PlantNet and return a list of predictions
-        in the project's canonical format."""
+    def _call_plantnet_raw(self, photo_path: str) -> dict:
+        """Submit a photo to PlantNet and return the raw API response dict."""
         with open(photo_path, "rb") as f:
             response = requests.post(
                 PLANTNET_API_URL,
@@ -88,6 +88,12 @@ class Identify:
         response.raise_for_status()
         raw = response.json()
         log.debug(json.dumps(raw, indent=2, ensure_ascii=False))
+        return raw
+
+    def _call_plantnet(self, photo_path: str) -> list[dict]:
+        """Submit a photo to PlantNet and return a list of predictions
+        in the project's canonical format."""
+        raw = self._call_plantnet_raw(photo_path)
 
         predictions = []
         for result in raw.get("results", []):
@@ -139,7 +145,9 @@ class Identify:
         saved_paths = []
 
         for stem in pending:
-            photo_path = os.path.join(DATA_IMAGES_DIR, stem[:4], f"{stem}.png")
+            photo_path = os.path.join(
+                DATA_IMAGES_DIR, stem[:4], f"{stem}.png"
+            )
             if not os.path.exists(photo_path):
                 log.debug(f"Photo not found on disk: {photo_path}")
                 continue
