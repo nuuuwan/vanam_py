@@ -108,7 +108,9 @@ class DataReadMeBuild:
 
         image_path = f"images/{image_hash[:4]}/{image_hash}.png"
         ident_path = f"identifications/{image_hash[:4]}/{image_hash}.json"
-        thumbnail = f'<a href="{image_path}"><img src="{image_path}" width="64"/></a>'
+        thumbnail = (
+            f'<a href="{image_path}"><img src="{image_path}" width="64"/></a>'
+        )
         species_link = f"[*{species}*]({ident_path})"
         hash_link = f"[`{image_hash}`]({image_path})"
 
