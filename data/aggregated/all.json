@@ -1,29 +1,5 @@
 [
   {
-    "imageHash": "e79e2b9486b56a5f",
-    "latLng": {
-      "lat": 8.118783333333333,
-      "lng": 80.66185
-    },
-    "source": "exif",
-    "utImageTaken": 1775281007,
-    "userId": "e1776bd6",
-    "topPrediction": {
-      "confidence": 0.16997,
-      "species": "Juglans regia L.",
-      "genus": "Juglans",
-      "family": "Juglandaceae",
-      "commonNames": [
-        "Black Walnut",
-        "English walnut",
-        "Common Walnut"
-      ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  },
-  {
     "imageHash": "f3ecf71f799b6ea0",
     "latLng": {
       "lat": 6.9187627970892756,
@@ -70,30 +46,6 @@
     }
   },
   {
-    "imageHash": "3877d6522ec7264c",
-    "latLng": {
-      "lat": 8.11713888888889,
-      "lng": 80.66550555555555
-    },
-    "source": "exif",
-    "utImageTaken": 1775275179,
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.01754,
-      "species": "Mimusops elengi L.",
-      "genus": "Mimusops",
-      "family": "Sapotaceae",
-      "commonNames": [
-        "Bakul tree",
-        "పొగడ చెట్టు",
-        "Medlar"
-      ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  },
-  {
     "imageHash": "59d2626621ce9351",
     "latLng": {
       "lat": 6.918936111111112,
@@ -111,30 +63,6 @@
         "Angel's-trumpet",
         "Daitura",
         "Angel's tears"
-      ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  },
-  {
-    "imageHash": "39674615e593a6f4",
-    "latLng": {
-      "lat": 8.1171,
-      "lng": 80.66554166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1775275177,
-    "userId": "d2aa26b0",
-    "topPrediction": {
-      "confidence": 0.01934,
-      "species": "Chrysobalanus icaco L.",
-      "genus": "Chrysobalanus",
-      "family": "Chrysobalanaceae",
-      "commonNames": [
-        "Coco plum",
-        "Icaco Coco-Plum",
-        "Coco Plant"
       ],
       "gbifId": "",
       "iucnId": "",
@@ -332,30 +260,6 @@
     }
   },
   {
-    "imageHash": "673f744e0679031e",
-    "latLng": {
-      "lat": 8.031822222222223,
-      "lng": 80.74829166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1775363658,
-    "userId": "e1776bd6",
-    "topPrediction": {
-      "confidence": 0.12065,
-      "species": "Arachnothryx leucophylla (Kunth) Planch.",
-      "genus": "Arachnothryx",
-      "family": "Rubiaceae",
-      "commonNames": [
-        "Panama rose",
-        "Bush pentas",
-        "White Arachno"
-      ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  },
-  {
     "imageHash": "859e87d6074390d2",
     "latLng": {
       "lat": 6.897664,
@@ -397,30 +301,6 @@
         "Obedience",
         "Obedient plant",
         "False dragonhead"
-      ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  },
-  {
-    "imageHash": "9e23a8d3781f75cc",
-    "latLng": {
-      "lat": 8.11865,
-      "lng": 80.66156111111111
-    },
-    "source": "exif",
-    "utImageTaken": 1775279428,
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.15368,
-      "species": "Delonix regia (Bojer ex Hook.) Raf.",
-      "genus": "Delonix",
-      "family": "Fabaceae",
-      "commonNames": [
-        "Flamboyant",
-        "Royal poinciana",
-        "Flametree"
       ],
       "gbifId": "",
       "iucnId": "",
@@ -523,30 +403,6 @@
     }
   },
   {
-    "imageHash": "d3656042fded8498",
-    "latLng": {
-      "lat": 8.11668888888889,
-      "lng": 80.66548055555556
-    },
-    "source": "exif",
-    "utImageTaken": 1775276643,
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.1673,
-      "species": "Ocotea foetens (Aiton) Baill.",
-      "genus": "Ocotea",
-      "family": "Lauraceae",
-      "commonNames": [
-        "Tilo",
-        "Rain tree",
-        "Stinkwood"
-      ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  },
-  {
     "imageHash": "ee5180b5a108b2ce",
     "latLng": {
       "lat": 6.918762814868359,
@@ -588,74 +444,6 @@
         "Rhododendron",
         "Alpine-rose",
         "Alpenrose"
-      ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  },
-  {
-    "imageHash": "6fb5b958cdf33b6e",
-    "latLng": {
-      "lat": 6.918762825598124,
-      "lng": 79.85912956346775
-    },
-    "source": "browser",
-    "utImageTaken": 1775276975,
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.01842,
-      "species": "Monodora grandidieri Baill.",
-      "genus": "Monodora",
-      "family": "Annonaceae",
-      "commonNames": [],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  },
-  {
-    "imageHash": "b7a0682c09276b91",
-    "latLng": {
-      "lat": 8.148288888888889,
-      "lng": 80.68016944444445
-    },
-    "source": "exif",
-    "utImageTaken": 1775275828,
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.02963,
-      "species": "Quercus suber L.",
-      "genus": "Quercus",
-      "family": "Fagaceae",
-      "commonNames": [
-        "Cork oak",
-        "Sûr",
-        "Cork bark oak"
-      ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  },
-  {
-    "imageHash": "80c75b037c863c3e",
-    "latLng": {
-      "lat": 6.918762800561572,
-      "lng": 79.85912966700043
-    },
-    "source": "browser",
-    "utImageTaken": 1773059836,
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.13408,
-      "species": "Eriobotrya japonica (Thunb.) Lindl.",
-      "genus": "Eriobotrya",
-      "family": "Rosaceae",
-      "commonNames": [
-        "Loquat",
-        "Nispero",
-        "Μουσμουλιά"
       ],
       "gbifId": "",
       "iucnId": "",
