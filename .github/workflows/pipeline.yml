@@ -1,0 +1,56 @@
+name: Vanam Pipeline
+
+on:
+    schedule:
+        # Run every 1 hour between 6am and 6pm UTC (8am-8pm in Sri Lanka)
+        - cron: "0 6-18 * * *"
+    workflow_dispatch:
+
+jobs:
+    pipeline:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  token: ${{ secrets.REPO_TOKEN }}
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.13"
+
+            - name: Install dependencies
+              run: pip install -r requirements.txt
+
+            - name: Ingest photos and metadata
+              env:
+                  BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
+              run: python -m workflows.photo_ingest
+
+            - name: Identify plants
+              env:
+                  PLANTNET_API_KEY: ${{ secrets.PLANTNET_API_KEY }}
+              run: python -m workflows.identify
+
+            - name: Aggregate identifications
+              run: python -m workflows.aggregate
+
+            - name: Clean up Vercel temporary storage
+              env:
+                  BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
+              run: python -m workflows.cleanup
+
+            - name: Build data README
+              run: python -m workflows.data_readme_build
+
+            - name: Commit and push updated data
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  git add data/
+                  git diff --cached --quiet || git commit -m "chore: update data [$(date -u +%Y-%m-%d)]"
+                  git push
