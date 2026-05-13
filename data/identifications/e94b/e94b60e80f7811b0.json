@@ -20,7 +20,7 @@
         "Turquoise crossandra",
         "డిసెంబర్ పూల చెట్టు"
       ],
-      "gbifId": "",
+      "gbifId": "7264277",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -32,7 +32,7 @@
       "commonNames": [
         "Cascabel"
       ],
-      "gbifId": "",
+      "gbifId": "3771627",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -44,7 +44,7 @@
       "commonNames": [
         "Ice crossandra"
       ],
-      "gbifId": "",
+      "gbifId": "5576253",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -58,7 +58,7 @@
         "Daun Rusa",
         "Gandarusa"
       ],
-      "gbifId": "",
+      "gbifId": "7447231",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -68,9 +68,9 @@
       "genus": "Barleria",
       "family": "Acanthaceae",
       "commonNames": [],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3771513",
+      "iucnId": "129871838",
+      "iucnCategory": "EN"
     },
     {
       "confidence": 0.01245,
@@ -78,7 +78,7 @@
       "genus": "Barleria",
       "family": "Acanthaceae",
       "commonNames": [],
-      "gbifId": "",
+      "gbifId": "3770457",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -92,7 +92,7 @@
         "Yellow shrimp-plant",
         "Golden-candle"
       ],
-      "gbifId": "",
+      "gbifId": "3778625",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -102,7 +102,7 @@
       "genus": "Justicia",
       "family": "Acanthaceae",
       "commonNames": [],
-      "gbifId": "",
+      "gbifId": "3770285",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -116,9 +116,9 @@
         "కనకాంబరం",
         "Firecracker-plant"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "6359825",
+      "iucnId": "70371223",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.0045,
@@ -128,7 +128,7 @@
       "commonNames": [
         "Yellow Bractspike"
       ],
-      "gbifId": "",
+      "gbifId": "3173218",
       "iucnId": "",
       "iucnCategory": ""
     }

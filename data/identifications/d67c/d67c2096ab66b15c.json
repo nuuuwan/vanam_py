@@ -20,7 +20,7 @@
         "Nangka",
         "Jack"
       ],
-      "gbifId": "",
+      "gbifId": "2984565",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -34,9 +34,9 @@
         "Champedak",
         "Tjampedak"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2984566",
+      "iucnId": "61220334",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00276,
@@ -48,9 +48,9 @@
         "Shaddock",
         "Pummelo"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3190160",
+      "iucnId": "62042732",
+      "iucnCategory": "LC"
     }
   ]
 }

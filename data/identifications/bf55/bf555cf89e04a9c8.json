@@ -19,7 +19,7 @@
         "Sea aster",
         "Sea starwort"
       ],
-      "gbifId": "",
+      "gbifId": "3098616",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -33,7 +33,7 @@
         "Teasel",
         "Wild teasel"
       ],
-      "gbifId": "",
+      "gbifId": "8435025",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -47,9 +47,9 @@
         "American century plant",
         "American agave"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2767031",
+      "iucnId": "13507070",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00473,
@@ -61,7 +61,7 @@
         "هلو",
         "Peach tree"
       ],
-      "gbifId": "",
+      "gbifId": "3022511",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -75,7 +75,7 @@
         "Propeller Plant",
         "Crassula falcata"
       ],
-      "gbifId": "",
+      "gbifId": "7172987",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -89,7 +89,7 @@
         "Weber Agave",
         "Weber's Agave"
       ],
-      "gbifId": "",
+      "gbifId": "2766599",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -103,9 +103,9 @@
         "Syrup palm",
         "Honey palm"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2735138",
+      "iucnId": "38586",
+      "iucnCategory": "EN"
     },
     {
       "confidence": 0.00244,
@@ -117,9 +117,9 @@
         "Canary Island Dragon Tree",
         "Canary Islands dragon tree"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5304469",
+      "iucnId": "30394",
+      "iucnCategory": "EN"
     },
     {
       "confidence": 0.00233,
@@ -131,7 +131,7 @@
         "Sand Lily",
         "نرگس دریایی"
       ],
-      "gbifId": "",
+      "gbifId": "2853283",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -145,9 +145,9 @@
         "West Indian mahogany",
         "Spanish mahogany"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3190485",
+      "iucnId": "32519",
+      "iucnCategory": "NT"
     }
   ]
 }

@@ -20,7 +20,7 @@
         "Obedient plant",
         "False dragonhead"
       ],
-      "gbifId": "",
+      "gbifId": "2926572",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -34,7 +34,7 @@
         "Clubmoss",
         "Interrupted Clubmoss"
       ],
-      "gbifId": "",
+      "gbifId": "2688369",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -47,9 +47,9 @@
         "Horse-Radish",
         "Common Horseradish"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3041022",
+      "iucnId": "176596",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.01654,
@@ -61,7 +61,7 @@
         "Flax",
         "Common flax"
       ],
-      "gbifId": "",
+      "gbifId": "2873861",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -74,9 +74,9 @@
         "Ostrich Fern",
         "Fiddlehead fern"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "8239382",
+      "iucnId": "203369",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00923,
@@ -88,9 +88,9 @@
         "Ground Hemlock",
         "American yew"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5284570",
+      "iucnId": "42547",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00885,
@@ -102,7 +102,7 @@
         "Peach-leaved Bellflower",
         "Peach-bells"
       ],
-      "gbifId": "",
+      "gbifId": "5411475",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -116,7 +116,7 @@
         "Savory",
         "Winter savory"
       ],
-      "gbifId": "",
+      "gbifId": "2926884",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -130,7 +130,7 @@
         "Harrington's Cephalotaxus",
         "Harrington's plum-yew"
       ],
-      "gbifId": "",
+      "gbifId": "6360715",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -144,7 +144,7 @@
         "Common Toadflax",
         "Wild snapdragon"
       ],
-      "gbifId": "",
+      "gbifId": "5415020",
       "iucnId": "",
       "iucnCategory": ""
     }

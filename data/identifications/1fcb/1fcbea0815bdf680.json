@@ -20,7 +20,7 @@
         "Pigweed",
         "Wild Amaranth"
       ],
-      "gbifId": "",
+      "gbifId": "8911082",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -34,7 +34,7 @@
         "Lemon-tree",
         "Mandarin lime"
       ],
-      "gbifId": "",
+      "gbifId": "7647136",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -46,11 +46,11 @@
       "commonNames": [
         "Golden rain tree",
         "Laburnum",
-        "Golden-chain Laburnum"
+        "Common Laburnum"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5356345",
+      "iucnId": "79919483",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.04219,
@@ -62,7 +62,7 @@
         "China Rose",
         "Chinese rose"
       ],
-      "gbifId": "",
+      "gbifId": "3005039",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -76,9 +76,9 @@
         "Makrut-lime",
         "Mauritius papeda"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "6433679",
+      "iucnId": "62038171",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.0221,
@@ -90,9 +90,9 @@
         "Citron",
         "Buddha's hand"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3190157",
+      "iucnId": "62041221",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.01904,
@@ -104,7 +104,7 @@
         "Miracle Leaf",
         "Tree-of-life"
       ],
-      "gbifId": "",
+      "gbifId": "2985930",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -118,7 +118,7 @@
         "Tropical green amaranth",
         "Pigweed"
       ],
-      "gbifId": "",
+      "gbifId": "5384334",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -132,9 +132,9 @@
         "Flowering-quince",
         "Japanese Flowering Quince"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3000610",
+      "iucnId": "170120919",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.01659,
@@ -146,7 +146,7 @@
         "Swedish clover",
         "Hybrid clover"
       ],
-      "gbifId": "",
+      "gbifId": "6109535",
       "iucnId": "",
       "iucnCategory": ""
     }

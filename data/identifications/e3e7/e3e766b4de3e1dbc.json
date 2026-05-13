@@ -11,14 +11,14 @@
   "deviceIPAddress": null,
   "plantNetPredictions": [
     {
-      "confidence": 0.30489,
+      "confidence": 0.30488,
       "species": "Eranthemum pulchellum Andrews",
       "genus": "Eranthemum",
       "family": "Acanthaceae",
       "commonNames": [
         "Blue-sage"
       ],
-      "gbifId": "",
+      "gbifId": "3172936",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -29,10 +29,10 @@
       "family": "Polemoniaceae",
       "commonNames": [
         "Forest phlox",
-        "Woodland Phlox",
-        "Wild blue phlox"
+        "Wild blue phlox",
+        "Woodland Phlox"
       ],
-      "gbifId": "",
+      "gbifId": "2927730",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -46,7 +46,7 @@
         "Spanish-ladies",
         "اطلسی مکزیکی"
       ],
-      "gbifId": "",
+      "gbifId": "5572994",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -60,7 +60,7 @@
         "Spotted phlox",
         "Wild sweet-William"
       ],
-      "gbifId": "",
+      "gbifId": "2927783",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -74,7 +74,7 @@
         "Perennial Money-flower",
         "Perennial Lunaria"
       ],
-      "gbifId": "",
+      "gbifId": "5373322",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -88,7 +88,7 @@
         "Narrow-leaf blue-eyed-grass",
         "Bastard Toadflax"
       ],
-      "gbifId": "",
+      "gbifId": "5296015",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -100,7 +100,7 @@
       "commonNames": [
         "Chinese-plumbago"
       ],
-      "gbifId": "",
+      "gbifId": "4089798",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -114,7 +114,7 @@
         "Hardy plumbago",
         "Blue-flowered leadwort"
       ],
-      "gbifId": "",
+      "gbifId": "3082279",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -124,7 +124,7 @@
       "genus": "Eranthemum",
       "family": "Acanthaceae",
       "commonNames": [],
-      "gbifId": "",
+      "gbifId": "3776692",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -138,7 +138,7 @@
         "Broad-Leaved Cranesbill",
         "Knotted cranesbill"
       ],
-      "gbifId": "",
+      "gbifId": "2890287",
       "iucnId": "",
       "iucnCategory": ""
     }

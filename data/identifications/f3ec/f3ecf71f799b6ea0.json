@@ -20,9 +20,9 @@
         "Pincushion",
         "Nodding pincushion"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3997490",
+      "iucnId": "113172076",
+      "iucnCategory": "NT"
     },
     {
       "confidence": 0.03072,
@@ -34,9 +34,9 @@
         "King sugarbush",
         "Giant Protea"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5637947",
+      "iucnId": "113204772",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.01965,
@@ -48,9 +48,9 @@
         "Narrowleaf protea",
         "Blue Sugarbush"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5637070",
+      "iucnId": "113210943",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00875,
@@ -62,7 +62,7 @@
         "Bottle brush",
         "Lemon Bottlebrush"
       ],
-      "gbifId": "",
+      "gbifId": "3173413",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -76,7 +76,7 @@
         "Paper daisy",
         "Bracted Strawflower"
       ],
-      "gbifId": "",
+      "gbifId": "3102871",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -90,9 +90,9 @@
         "Philippine waxflower",
         "Porcelain Rose"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2759896",
+      "iucnId": "117234456",
+      "iucnCategory": "DD"
     },
     {
       "confidence": 0.00395,
@@ -104,9 +104,9 @@
         "Waratah",
         "White waratah"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3996729",
+      "iucnId": "113260504",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00346,
@@ -118,9 +118,9 @@
         "Common peony",
         "Wild Peony"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3083488",
+      "iucnId": "162001",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00278,
@@ -132,9 +132,9 @@
         "Red conebush",
         "Safari Sunshine Conebush"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "8220927",
+      "iucnId": "113170608",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00151,
@@ -146,9 +146,9 @@
         "Scoly",
         "Small green protea"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5636671",
+      "iucnId": "113220846",
+      "iucnCategory": "VU"
     }
   ]
 }

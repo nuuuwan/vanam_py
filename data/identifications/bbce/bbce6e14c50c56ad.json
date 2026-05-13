@@ -20,7 +20,7 @@
         "Pinxter-flower",
         "Pinxterbloom azalea"
       ],
-      "gbifId": "",
+      "gbifId": "2883027",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -34,9 +34,9 @@
         "Piedmont azalea",
         "Southern pinxterbloom azalea"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2883039",
+      "iucnId": "200390841",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.08862,
@@ -48,7 +48,7 @@
         "Sonoma azalea",
         "Western Azalea"
       ],
-      "gbifId": "",
+      "gbifId": "2883077",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -62,7 +62,7 @@
         "Election-pink",
         "Roseshell azalea"
       ],
-      "gbifId": "",
+      "gbifId": "2883079",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -76,9 +76,9 @@
         "Rhododendron",
         "Cultivated Rhododendron"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2883036",
+      "iucnId": "200390526",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.01538,
@@ -90,9 +90,9 @@
         "White-honeysuckle",
         "Smooth azalea"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2883054",
+      "iucnId": "200390306",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00631,
@@ -104,9 +104,9 @@
         "Great laurel",
         "Summer Rhododendron"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2883094",
+      "iucnId": "82889952",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00539,
@@ -117,7 +117,7 @@
         "Dwarf azalea",
         "Coast azalea"
       ],
-      "gbifId": "",
+      "gbifId": "2883032",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -131,9 +131,9 @@
         "Mountain rose bay",
         "Purple-laurel"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2883047",
+      "iucnId": "156821604",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00233,
@@ -143,7 +143,7 @@
       "commonNames": [
         "Chinese azalea"
       ],
-      "gbifId": "",
+      "gbifId": "7135625",
       "iucnId": "",
       "iucnCategory": ""
     }

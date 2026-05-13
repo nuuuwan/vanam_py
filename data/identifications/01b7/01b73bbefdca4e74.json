@@ -20,9 +20,9 @@
         "Alpine-rose",
         "Alpenrose"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2883073",
+      "iucnId": "203007",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.2264,
@@ -34,9 +34,9 @@
         "Mountain rose bay",
         "Purple-laurel"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2883047",
+      "iucnId": "156821604",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.08007,
@@ -46,9 +46,9 @@
       "commonNames": [
         "Tree rhododendron"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "7328114",
+      "iucnId": "136143885",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.03551,
@@ -60,9 +60,9 @@
         "Great laurel",
         "Late Rhododendron"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2883094",
+      "iucnId": "82889952",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.01868,
@@ -70,7 +70,7 @@
       "genus": "Rhododendron",
       "family": "Ericaceae",
       "commonNames": [],
-      "gbifId": "",
+      "gbifId": "7328077",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -80,7 +80,7 @@
       "genus": "Rhododendron",
       "family": "Ericaceae",
       "commonNames": [],
-      "gbifId": "",
+      "gbifId": "4171125",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -90,7 +90,7 @@
       "genus": "Rhododendron",
       "family": "Ericaceae",
       "commonNames": [],
-      "gbifId": "",
+      "gbifId": "4167862",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -104,7 +104,7 @@
         "Pontic Rhododendron",
         "Pontian rhododendron"
       ],
-      "gbifId": "",
+      "gbifId": "7327990",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -114,7 +114,7 @@
       "genus": "Rhododendron",
       "family": "Ericaceae",
       "commonNames": [],
-      "gbifId": "",
+      "gbifId": "4172689",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -124,9 +124,9 @@
       "genus": "Rhododendron",
       "family": "Ericaceae",
       "commonNames": [],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "8377374",
+      "iucnId": "147647820",
+      "iucnCategory": "LC"
     }
   ]
 }

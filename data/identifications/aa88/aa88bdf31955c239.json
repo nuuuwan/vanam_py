@@ -20,7 +20,7 @@
         "Nangka",
         "Jack"
       ],
-      "gbifId": "",
+      "gbifId": "2984565",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -34,9 +34,9 @@
         "Champedak",
         "Tjampedak"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2984566",
+      "iucnId": "61220334",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00127,
@@ -48,9 +48,9 @@
         "African-boxwood",
         "African breadnut"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "7895921",
+      "iucnId": "87717226",
+      "iucnCategory": "LC"
     }
   ]
 }

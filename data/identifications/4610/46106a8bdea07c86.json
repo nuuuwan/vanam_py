@@ -20,12 +20,12 @@
         "کاپنس گندمی\n\nخانواده: لیلیاسه ها (سوسنی ها)",
         "Hen-and-chickens"
       ],
-      "gbifId": "",
+      "gbifId": "2774846",
       "iucnId": "",
       "iucnCategory": ""
     },
     {
-      "confidence": 0.0691,
+      "confidence": 0.06911,
       "species": "Dracaena reflexa Lam.",
       "genus": "Dracaena",
       "family": "Asparagaceae",
@@ -34,9 +34,9 @@
         "It IS NOT a Song of India. This is a Tri-Colored Dracaena",
         "Tri-colored Dracaena"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5304436",
+      "iucnId": "68150169",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.06139,
@@ -48,7 +48,7 @@
         "Ananas",
         "Hala-kahiki"
       ],
-      "gbifId": "",
+      "gbifId": "5288819",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -62,7 +62,7 @@
         "Pink starfish",
         "Pink starlite"
       ],
-      "gbifId": "",
+      "gbifId": "5287727",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -76,7 +76,7 @@
         "Bracketplant",
         "عنکبوتی"
       ],
-      "gbifId": "",
+      "gbifId": "2774721",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -89,7 +89,7 @@
         "Majestic calathea",
         "Jacundá"
       ],
-      "gbifId": "",
+      "gbifId": "8299888",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -103,7 +103,7 @@
         "Giant cabuya",
         "Green-aloe"
       ],
-      "gbifId": "",
+      "gbifId": "2769796",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -115,7 +115,7 @@
       "commonNames": [
         "Persian shield"
       ],
-      "gbifId": "",
+      "gbifId": "7263204",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -129,9 +129,9 @@
         "Earth-almond",
         "Tigernut"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2716226",
+      "iucnId": "164083",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00712,
@@ -143,9 +143,9 @@
         "Small-fruited Yellow-sedge",
         "Small-fruited yellow sedge"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "7973697",
+      "iucnId": "64272624",
+      "iucnCategory": "LC"
     }
   ]
 }

@@ -20,9 +20,9 @@
         "Guave",
         "Common guava"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5420380",
+      "iucnId": "49485755",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.01103,
@@ -34,7 +34,7 @@
         "Lemon-tree",
         "Mandarin lime"
       ],
-      "gbifId": "",
+      "gbifId": "7647136",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -46,7 +46,7 @@
       "commonNames": [
         "Strawberry guava",
         "Cherry guava",
-        "Cattley Psidium"
+        "Red Guava"
       ],
       "gbifId": "",
       "iucnId": "",
@@ -60,9 +60,9 @@
       "commonNames": [
         "Uvaia"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5417616",
+      "iucnId": "152947794",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00221,
@@ -74,9 +74,9 @@
         "Wild crapemyrtle",
         "Acerola"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5421429",
+      "iucnId": "131036549",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00197,
@@ -88,9 +88,9 @@
         "Corkwood",
         "Cow-apple"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5407100",
+      "iucnId": "142424510",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00194,
@@ -102,9 +102,9 @@
         "Citron",
         "Buddha's hand"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3190157",
+      "iucnId": "62041221",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00187,
@@ -116,7 +116,7 @@
         "Key lime",
         "Egyptian lime"
       ],
-      "gbifId": "",
+      "gbifId": "3190164",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -130,9 +130,9 @@
         "Shaddock",
         "Pummelo"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3190160",
+      "iucnId": "62042732",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00151,
@@ -142,11 +142,11 @@
       "commonNames": [
         "Pomegranate",
         "انار",
-        "अनार"
+        "Dwarf Pomegranate"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5420901",
+      "iucnId": "63531",
+      "iucnCategory": "LC"
     }
   ]
 }

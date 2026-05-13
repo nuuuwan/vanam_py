@@ -18,7 +18,7 @@
       "commonNames": [
         "Blue-sage"
       ],
-      "gbifId": "",
+      "gbifId": "3172936",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -32,7 +32,7 @@
         "Spotted phlox",
         "Wild sweet-William"
       ],
-      "gbifId": "",
+      "gbifId": "2927783",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -46,7 +46,7 @@
         "Perennial Money-flower",
         "Perennial Lunaria"
       ],
-      "gbifId": "",
+      "gbifId": "5373322",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -60,7 +60,7 @@
         "Pinnate Coralroot",
         "Lady's smock"
       ],
-      "gbifId": "",
+      "gbifId": "3045634",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -74,7 +74,7 @@
         "Spanish-ladies",
         "اطلسی مکزیکی"
       ],
-      "gbifId": "",
+      "gbifId": "5572994",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -84,7 +84,7 @@
       "genus": "Eranthemum",
       "family": "Acanthaceae",
       "commonNames": [],
-      "gbifId": "",
+      "gbifId": "3776692",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -97,7 +97,7 @@
         "Busy lizzy",
         "రిక్క గోరింట"
       ],
-      "gbifId": "",
+      "gbifId": "4193555",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -111,7 +111,7 @@
         "Woodland Phlox",
         "Wild blue phlox"
       ],
-      "gbifId": "",
+      "gbifId": "2927730",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -125,9 +125,9 @@
         "కనకాంబరం",
         "Firecracker-plant"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "6359825",
+      "iucnId": "70371223",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00357,
@@ -139,9 +139,9 @@
         "Turk's-turban",
         "Tubbeflower"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2925349",
+      "iucnId": "150213451",
+      "iucnCategory": "LC"
     }
   ]
 }

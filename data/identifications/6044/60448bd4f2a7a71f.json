@@ -20,9 +20,9 @@
         "European chestnut",
         "Spanish chestnut"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5333294",
+      "iucnId": "202948",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.02905,
@@ -34,9 +34,9 @@
         "English Laurel",
         "Common Laurel"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3021496",
+      "iucnId": "172277",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.02031,
@@ -48,9 +48,9 @@
         "Sansapote",
         "Sunsapote"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2985306",
+      "iucnId": "61988416",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.01294,
@@ -58,9 +58,9 @@
       "genus": "Polyalthia",
       "family": "Annonaceae",
       "commonNames": [],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3156403",
+      "iucnId": "180811940",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00651,
@@ -72,9 +72,9 @@
         "Ƿīnlendisc cystel",
         "ᎤᎾᎩᎾ"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5333230",
+      "iucnId": "62004455",
+      "iucnCategory": "CR"
     },
     {
       "confidence": 0.00616,
@@ -82,9 +82,9 @@
       "genus": "Syzygium",
       "family": "Myrtaceae",
       "commonNames": [],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3182133",
+      "iucnId": "181014621",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00525,
@@ -92,9 +92,9 @@
       "genus": "Pycnandra",
       "family": "Sapotaceae",
       "commonNames": [],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "6306936",
+      "iucnId": "158035306",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00446,
@@ -106,9 +106,9 @@
         "Ashoka",
         "Red saraca"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5359538",
+      "iucnId": "170270761",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00435,
@@ -117,12 +117,12 @@
       "family": "Annonaceae",
       "commonNames": [
         "Soursop",
-        "Guanabana",
-        "Sirsak"
+        "Sirsak",
+        "Guanabana"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "5407273",
+      "iucnId": "143323191",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00325,
@@ -130,9 +130,9 @@
       "genus": "Aspidosperma",
       "family": "Apocynaceae",
       "commonNames": [],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "7316950",
+      "iucnId": "34746",
+      "iucnCategory": "LC"
     }
   ]
 }

@@ -18,9 +18,9 @@
       "commonNames": [
         "Cuban-oregano",
         "Indian-mint",
-        "Orégano brujo"
+        "Ajwayan leaf indian"
       ],
-      "gbifId": "",
+      "gbifId": "2926636",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -34,7 +34,7 @@
         "Coleus",
         "Indian borage"
       ],
-      "gbifId": "",
+      "gbifId": "6412796",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -48,9 +48,9 @@
         "Pineapple Mint",
         "Round-leaved Mint"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2927190",
+      "iucnId": "164109",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.00185,
@@ -62,7 +62,7 @@
         "Red snakeweed",
         "Pink snakeweed"
       ],
-      "gbifId": "",
+      "gbifId": "2925462",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -76,7 +76,7 @@
         "Cockspur-flower",
         "Swedish ivy"
       ],
-      "gbifId": "",
+      "gbifId": "2926642",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -90,9 +90,9 @@
         "Common Sage",
         "Garden Sage"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2927004",
+      "iucnId": "203260",
+      "iucnCategory": "LC"
     }
   ]
 }

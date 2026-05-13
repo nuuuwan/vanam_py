@@ -20,9 +20,9 @@
         "Chili",
         "Bell Pepper"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "2932944",
+      "iucnId": "100895534",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.08161,
@@ -34,7 +34,7 @@
         "Pigweed",
         "Wild Amaranth"
       ],
-      "gbifId": "",
+      "gbifId": "8911082",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -48,7 +48,7 @@
         "Lemon-tree",
         "Mandarin lime"
       ],
-      "gbifId": "",
+      "gbifId": "7647136",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -62,9 +62,9 @@
         "Makrut-lime",
         "Mauritius papeda"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "6433679",
+      "iucnId": "62038171",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.01913,
@@ -76,7 +76,7 @@
         "Tropical green amaranth",
         "Pigweed"
       ],
-      "gbifId": "",
+      "gbifId": "5384334",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -90,9 +90,9 @@
         "گل مرجان",
         "مرجان مینیاتوری"
       ],
-      "gbifId": "",
-      "iucnId": "",
-      "iucnCategory": ""
+      "gbifId": "3067157",
+      "iucnId": "44389",
+      "iucnCategory": "LC"
     },
     {
       "confidence": 0.01445,
@@ -104,7 +104,7 @@
         "Thorny amaranth",
         "Thorny pigweed"
       ],
-      "gbifId": "",
+      "gbifId": "5384401",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -118,7 +118,7 @@
         "Blackjack",
         "Beggar-ticks"
       ],
-      "gbifId": "",
+      "gbifId": "5391845",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -132,7 +132,7 @@
         "China Rose",
         "Chinese rose"
       ],
-      "gbifId": "",
+      "gbifId": "3005039",
       "iucnId": "",
       "iucnCategory": ""
     },
@@ -146,7 +146,7 @@
         "Aubergine",
         "Brinjal"
       ],
-      "gbifId": "",
+      "gbifId": "2930617",
       "iucnId": "",
       "iucnCategory": ""
     }
