@@ -20,7 +20,7 @@ class CleanupLowConf:
     """
 
     CONFIDENCE_THRESHOLD = 0.20
-    MAX_AGE_DAYS = 28
+    MAX_AGE_DAYS = 1
 
     # ------------------------------------------------------------------
     # Internal helpers
