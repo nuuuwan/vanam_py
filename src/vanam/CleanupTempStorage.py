@@ -7,7 +7,7 @@ from utils import Log
 log = Log(__name__)
 
 
-class Cleanup:
+class CleanupTempStorage:
     """Deletes Vercel Blob entries that have already been ingested locally.
 
     A blob is considered processed when its corresponding local file exists:
