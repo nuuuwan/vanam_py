@@ -138,7 +138,9 @@ class Identify:
         saved_paths = []
 
         for stem in pending:
-            photo_path = os.path.join(DATA_IMAGES_DIR, stem[:4], f"{stem}.png")
+            photo_path = os.path.join(
+                DATA_IMAGES_DIR, stem[:4], f"{stem}.png"
+            )
             if not os.path.exists(photo_path):
                 log.debug(f"Photo not found on disk: {photo_path}")
                 continue
