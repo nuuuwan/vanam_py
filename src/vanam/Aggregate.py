@@ -1,3 +1,4 @@
+import datetime
 import json
 import os
 
@@ -41,7 +42,7 @@ class Aggregate:
 
     @staticmethod
     def _top_prediction(identification: dict) -> dict | None:
-        results = identification.get("plantnet", {}).get("results", [])
+        results = identification.get("plantnet_data", {}).get("results", [])
         if not results:
             return None
         result = results[0]
@@ -84,6 +85,7 @@ class Aggregate:
         for ident in self._iter_identifications():
             image_hash = ident.get("hash", "")
             image_meta = ident.get("image_metadata", {})
+            location = image_meta.get("imageLocation", {})
             user_id = image_meta.get("userId")
             top = self._top_prediction(ident)
 
@@ -92,15 +94,23 @@ class Aggregate:
                 user_map.setdefault(user_id, []).append(image_hash)
 
             # all.json summary
+            ut = image_meta.get("utImageTaken")
+            try:
+                time_taken = datetime.datetime.utcfromtimestamp(int(ut)).strftime(
+                    "%Y-%m-%d %H:%M:%S"
+                ) if ut is not None else None
+            except (ValueError, OSError, OverflowError):
+                time_taken = None
             all_summaries.append(
                 {
                     "imageHash": image_hash,
                     "latLng": {
-                        "lat": image_meta.get("latitude"),
-                        "lng": image_meta.get("longitude"),
+                        "lat": location.get("latitude"),
+                        "lng": location.get("longitude"),
                     },
-                    "source": image_meta.get("source"),
-                    "utImageTaken": image_meta.get("utImageTaken"),
+                    "source": location.get("source"),
+                    "utImageTaken": ut,
+                    "timeImageTaken": time_taken,
                     "userId": user_id,
                     "topPrediction": top,
                 }

@@ -7,6 +7,7 @@
     },
     "source": "browser",
     "utImageTaken": 1772863980,
+    "timeImageTaken": "2026-03-07 06:13:00",
     "userId": "1bi07e4",
     "topPrediction": {
       "confidence": 0.78142,
@@ -20,7 +21,8 @@
       ],
       "gbifId": "2891661",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "375259-1"
     }
   },
   {
@@ -31,6 +33,7 @@
     },
     "source": "browser",
     "utImageTaken": 1772864014,
+    "timeImageTaken": "2026-03-07 06:13:34",
     "userId": "1bi07e4",
     "topPrediction": {
       "confidence": 0.29798,
@@ -44,7 +47,8 @@
       ],
       "gbifId": "3997490",
       "iucnId": "113172076",
-      "iucnCategory": "NT"
+      "iucnCategory": "NT",
+      "powoId": ""
     }
   },
   {
@@ -55,6 +59,7 @@
     },
     "source": "browser",
     "utImageTaken": "1778656068",
+    "timeImageTaken": "2026-05-13 07:07:48",
     "userId": "06qahco",
     "topPrediction": {
       "confidence": 0.0147,
@@ -67,7 +72,8 @@
       ],
       "gbifId": "3098616",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "256563-1"
     }
   },
   {
@@ -78,6 +84,7 @@
     },
     "source": "browser",
     "utImageTaken": "1778645972",
+    "timeImageTaken": "2026-05-13 04:19:32",
     "userId": "9f6fcdc6",
     "topPrediction": {
       "confidence": 0.91645,
@@ -91,7 +98,8 @@
       ],
       "gbifId": "2984565",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "850389-1"
     }
   },
   {
@@ -102,6 +110,7 @@
     },
     "source": "browser",
     "utImageTaken": 1772862899,
+    "timeImageTaken": "2026-03-07 05:54:59",
     "userId": "1bi07e4",
     "topPrediction": {
       "confidence": 0.26526,
@@ -115,7 +124,8 @@
       ],
       "gbifId": "2883073",
       "iucnId": "203007",
-      "iucnCategory": "LC"
+      "iucnCategory": "LC",
+      "powoId": "332420-1"
     }
   },
   {
@@ -126,6 +136,7 @@
     },
     "source": "browser",
     "utImageTaken": 1772863873,
+    "timeImageTaken": "2026-03-07 06:11:13",
     "userId": "1bi07e4",
     "topPrediction": {
       "confidence": 0.58154,
@@ -139,7 +150,8 @@
       ],
       "gbifId": "2883027",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "219516-2"
     }
   },
   {
@@ -150,6 +162,7 @@
     },
     "source": "browser",
     "utImageTaken": "1778648524",
+    "timeImageTaken": "2026-05-13 05:02:04",
     "userId": "9f6fcdc6",
     "topPrediction": {
       "confidence": 0.89692,
@@ -163,7 +176,8 @@
       ],
       "gbifId": "5420380",
       "iucnId": "49485755",
-      "iucnCategory": "LC"
+      "iucnCategory": "LC",
+      "powoId": "600841-1"
     }
   },
   {
@@ -174,6 +188,7 @@
     },
     "source": "browser",
     "utImageTaken": "1778656698",
+    "timeImageTaken": "2026-05-13 07:18:18",
     "userId": "1bi07e4",
     "topPrediction": {
       "confidence": 0.07863,
@@ -187,7 +202,8 @@
       ],
       "gbifId": "8911082",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "10619-2"
     }
   },
   {
@@ -198,6 +214,7 @@
     },
     "source": "exif",
     "utImageTaken": 1778463910,
+    "timeImageTaken": "2026-05-11 01:45:10",
     "userId": "4c5bc7a0",
     "topPrediction": {
       "confidence": 0.93118,
@@ -211,7 +228,8 @@
       ],
       "gbifId": "2984565",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "850389-1"
     }
   },
   {
@@ -222,9 +240,10 @@
     },
     "source": "exif",
     "utImageTaken": 1775277302,
+    "timeImageTaken": "2026-04-04 04:35:02",
     "userId": "e1776bd6",
     "topPrediction": {
-      "confidence": 0.30488,
+      "confidence": 0.30489,
       "species": "Eranthemum pulchellum Andrews",
       "genus": "Eranthemum",
       "family": "Acanthaceae",
@@ -233,7 +252,8 @@
       ],
       "gbifId": "3172936",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "48879-1"
     }
   },
   {
@@ -244,6 +264,7 @@
     },
     "source": "exif",
     "utImageTaken": 1775277324,
+    "timeImageTaken": "2026-04-04 04:35:24",
     "userId": "e1776bd6",
     "topPrediction": {
       "confidence": 0.38905,
@@ -255,7 +276,8 @@
       ],
       "gbifId": "3172936",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "48879-1"
     }
   },
   {
@@ -266,9 +288,10 @@
     },
     "source": "exif",
     "utImageTaken": 1775282853,
+    "timeImageTaken": "2026-04-04 06:07:33",
     "userId": "e1776bd6",
     "topPrediction": {
-      "confidence": 0.62639,
+      "confidence": 0.62638,
       "species": "Castanea sativa Mill.",
       "genus": "Castanea",
       "family": "Fagaceae",
@@ -279,7 +302,8 @@
       ],
       "gbifId": "5333294",
       "iucnId": "202948",
-      "iucnCategory": "LC"
+      "iucnCategory": "LC",
+      "powoId": "295349-1"
     }
   },
   {
@@ -290,6 +314,7 @@
     },
     "source": "exif",
     "utImageTaken": 1778656726,
+    "timeImageTaken": "2026-05-13 07:18:46",
     "userId": "1bi07e4",
     "topPrediction": {
       "confidence": 0.0931,
@@ -303,7 +328,8 @@
       ],
       "gbifId": "2932944",
       "iucnId": "100895534",
-      "iucnCategory": "LC"
+      "iucnCategory": "LC",
+      "powoId": "316944-2"
     }
   },
   {
@@ -314,6 +340,7 @@
     },
     "source": "exif",
     "utImageTaken": 1777514231,
+    "timeImageTaken": "2026-04-30 01:57:11",
     "userId": "e1776bd6",
     "topPrediction": {
       "confidence": 0.35893,
@@ -327,7 +354,8 @@
       ],
       "gbifId": "2926572",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "30043311-2"
     }
   },
   {
@@ -338,6 +366,7 @@
     },
     "source": "exif",
     "utImageTaken": 1778656727,
+    "timeImageTaken": "2026-05-13 07:18:47",
     "userId": "1bi07e4",
     "topPrediction": {
       "confidence": 0.11875,
@@ -351,7 +380,8 @@
       ],
       "gbifId": "2774846",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "532810-1"
     }
   },
   {
@@ -362,6 +392,7 @@
     },
     "source": "exif",
     "utImageTaken": 1775277316,
+    "timeImageTaken": "2026-04-04 04:35:16",
     "userId": "e1776bd6",
     "topPrediction": {
       "confidence": 0.54083,
@@ -375,7 +406,8 @@
       ],
       "gbifId": "7264277",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": "48609-1"
     }
   },
   {
@@ -386,6 +418,7 @@
     },
     "source": "exif",
     "utImageTaken": 1778656728,
+    "timeImageTaken": "2026-05-13 07:18:48",
     "userId": "1bi07e4",
     "topPrediction": {
       "confidence": 0.30146,
@@ -399,7 +432,8 @@
       ],
       "gbifId": "2926636",
       "iucnId": "",
-      "iucnCategory": ""
+      "iucnCategory": "",
+      "powoId": ""
     }
   }
 ]

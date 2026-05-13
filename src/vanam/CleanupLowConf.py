@@ -40,7 +40,7 @@ class CleanupLowConf:
                     log.warning(f"Skipping {path}: {exc}")
 
     def _is_low_confidence(self, data: dict) -> bool:
-        results = data.get("plantnet", {}).get("results", [])
+        results = data.get("plantnet_data", {}).get("results", [])
         if not results:
             return True
         return results[0].get("score", 0) < self.CONFIDENCE_THRESHOLD
@@ -89,11 +89,11 @@ class CleanupLowConf:
         deleted = 0
         for path, data in self._iter_identifications():
             if self._is_low_confidence(data) and self._is_old(data):
-                predictions = data.get("plantNetPredictions", [{}])
-                conf = predictions[0].get("confidence", 0)
+                results = data.get("plantnet_data", {}).get("results", [{}])
+                conf = results[0].get("score", 0)
                 log.info(
                     f"Deleting low-confidence old record: "
-                    f"{data.get('imageHash')} "
+                    f"{data.get('hash')} "
                     f"(conf={conf:.0%})"
                 )
                 self._delete_record(path, data)
