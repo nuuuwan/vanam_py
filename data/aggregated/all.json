@@ -1,0 +1,26 @@
+[
+  {
+    "imageHash": "d67c2096ab66b15c",
+    "latLng": {
+      "lat": 6.897664,
+      "lng": 79.8654464
+    },
+    "source": "browser",
+    "utImageTaken": "1778645972",
+    "userId": "9f6fcdc6",
+    "topPrediction": {
+      "confidence": 0.91645,
+      "species": "Artocarpus heterophyllus Lam.",
+      "genus": "Artocarpus",
+      "family": "Moraceae",
+      "commonNames": [
+        "Jackfruit",
+        "Nangka",
+        "Jack"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  }
+]
