@@ -87,6 +87,7 @@ class Identify:
             )
         response.raise_for_status()
         raw = response.json()
+        log.debug(json.dumps(raw, indent=2, ensure_ascii=False))
 
         predictions = []
         for result in raw.get("results", []):
@@ -138,9 +139,7 @@ class Identify:
         saved_paths = []
 
         for stem in pending:
-            photo_path = os.path.join(
-                DATA_IMAGES_DIR, stem[:4], f"{stem}.png"
-            )
+            photo_path = os.path.join(DATA_IMAGES_DIR, stem[:4], f"{stem}.png")
             if not os.path.exists(photo_path):
                 log.debug(f"Photo not found on disk: {photo_path}")
                 continue
