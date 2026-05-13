@@ -1,8 +1,8 @@
 # Vanam - Data
 
-![updated](https://img.shields.io/badge/updated-2026--05--13%2013:51:39-blue)  ![data size](https://img.shields.io/badge/data%20size-3.1M-lightgrey)
+![updated](https://img.shields.io/badge/updated-2026--05--13%2014:31:34-blue)  ![data size](https://img.shields.io/badge/data%20size-3.2M-lightgrey)
 
-**41** plant identification(s), sorted by most recently photographed.
+**43** plant identification(s), sorted by most recently photographed.
 
 | # | Image | Species | Confidence | Time Taken | User | Image Hash |
 |---|---|---|---|---|---|---|
@@ -47,6 +47,8 @@
 | 39 | <a href="images/b8ad/b8ad9be301563966.png"><img src="images/b8ad/b8ad9be301563966.png" width="64"/></a> | [*Crinum moorei Hook.f.*](identifications/b8ad/b8ad9be301563966.json) | 61.0% | 2023-10-18 07:39 UTC | `1bi07e4` | [`b8ad9be301563966`](images/b8ad/b8ad9be301563966.png) |
 | 40 | <a href="images/3a7b/3a7b5f729e42e61e.png"><img src="images/3a7b/3a7b5f729e42e61e.png" width="64"/></a> | [*Bougainvillea spectabilis Willd.*](identifications/3a7b/3a7b5f729e42e61e.json) | 62.9% | 2023-10-01 03:37 UTC | `1bi07e4` | [`3a7b5f729e42e61e`](images/3a7b/3a7b5f729e42e61e.png) |
 | 41 | <a href="images/e56b/e56bf4cb053f23c6.png"><img src="images/e56b/e56bf4cb053f23c6.png" width="64"/></a> | [*Alysicarpus vaginalis (L.) DC.*](identifications/e56b/e56bf4cb053f23c6.json) | 92.9% | 2023-10-01 03:36 UTC | `1bi07e4` | [`e56bf4cb053f23c6`](images/e56b/e56bf4cb053f23c6.png) |
+| 42 | <a href="images/df3c/df3ce15a4da1a2ad.png"><img src="images/df3c/df3ce15a4da1a2ad.png" width="64"/></a> | [*Alcea rosea L.*](identifications/df3c/df3ce15a4da1a2ad.json) | 79.7% | 2022-09-21 09:35 UTC | `1bi07e4` | [`df3ce15a4da1a2ad`](images/df3c/df3ce15a4da1a2ad.png) |
+| 43 | <a href="images/b20c/b20c18d33feb6010.png"><img src="images/b20c/b20c18d33feb6010.png" width="64"/></a> | [*Punica granatum L.*](identifications/b20c/b20c18d33feb6010.json) | 98.4% | 2022-09-21 09:31 UTC | `1bi07e4` | [`b20c18d33feb6010`](images/b20c/b20c18d33feb6010.png) |
 
 ---
 

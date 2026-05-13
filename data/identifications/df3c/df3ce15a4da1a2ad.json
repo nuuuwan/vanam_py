@@ -1,0 +1,274 @@
+{
+  "hash": "df3ce15a4da1a2ad",
+  "image_metadata": {
+    "imageHash": "df3ce15a4da1a2ad",
+    "imageLocation": {
+      "latitude": 37.47770277777778,
+      "longitude": -122.29952222222222,
+      "accuracy": 1414,
+      "source": "exif"
+    },
+    "utImageTaken": 1663752919,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/df3ce15a4da1a2ad.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "46ad19561938cde897d8ac30ff95c8cf"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "46ad19561938cde897d8ac30ff95c8cf",
+        "filename": "df3ce15a4da1a2ad.png",
+        "organ": "flower",
+        "score": 0.57529
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Alcea rosea L.",
+    "results": [
+      {
+        "score": 0.79748,
+        "species": {
+          "scientificNameWithoutAuthor": "Alcea rosea",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alcea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alcea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Hollyhock",
+            "Common Hollyhock",
+            "Garden Hollyhock"
+          ],
+          "scientificName": "Alcea rosea L."
+        },
+        "gbif": {
+          "id": "5406789"
+        },
+        "powo": {
+          "id": "558713-1"
+        }
+      },
+      {
+        "score": 0.02336,
+        "species": {
+          "scientificNameWithoutAuthor": "Alcea setosa",
+          "scientificNameAuthorship": "(Boiss.) Alef.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alcea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alcea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Hollyhock",
+            "گل ختمی",
+            "Bristly Hollyhock"
+          ],
+          "scientificName": "Alcea setosa (Boiss.) Alef."
+        },
+        "gbif": {
+          "id": "5617456"
+        },
+        "powo": {
+          "id": "558721-1"
+        }
+      },
+      {
+        "score": 0.00892,
+        "species": {
+          "scientificNameWithoutAuthor": "Malva arborea",
+          "scientificNameAuthorship": "(L.) Webb & Berthel.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Malva",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malva"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Tree mallow",
+            "Velvet leaf",
+            "Velvet tree mallow"
+          ],
+          "scientificName": "Malva arborea (L.) Webb & Berthel."
+        },
+        "gbif": {
+          "id": "3935079"
+        },
+        "powo": {
+          "id": "561541-1"
+        }
+      },
+      {
+        "score": 0.00493,
+        "species": {
+          "scientificNameWithoutAuthor": "Malva subovata",
+          "scientificNameAuthorship": "(DC.) Molero & J.M.Monts.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Malva",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malva"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Sea Mallow"
+          ],
+          "scientificName": "Malva subovata (DC.) Molero & J.M.Monts."
+        },
+        "gbif": {
+          "id": "7279633"
+        },
+        "powo": {
+          "id": "60440500-2"
+        }
+      },
+      {
+        "score": 0.00286,
+        "species": {
+          "scientificNameWithoutAuthor": "Papaver somniferum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Papaver",
+            "scientificNameAuthorship": "",
+            "scientificName": "Papaver"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Papaveraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Papaveraceae"
+          },
+          "commonNames": [
+            "Opium poppy",
+            "Common garden poppy",
+            "Oilseed poppy"
+          ],
+          "scientificName": "Papaver somniferum L."
+        },
+        "gbif": {
+          "id": "2888439"
+        },
+        "powo": {
+          "id": "673724-1"
+        }
+      },
+      {
+        "score": 0.0028,
+        "species": {
+          "scientificNameWithoutAuthor": "Hibiscus cannabinus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hibiscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hibiscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Indian-hemp",
+            "Bimli-jute",
+            "Bastard-jute"
+          ],
+          "scientificName": "Hibiscus cannabinus L."
+        },
+        "gbif": {
+          "id": "3152547"
+        },
+        "powo": {
+          "id": "560068-1"
+        }
+      },
+      {
+        "score": 0.00272,
+        "species": {
+          "scientificNameWithoutAuthor": "Alcea biennis",
+          "scientificNameAuthorship": "Winterl",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alcea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alcea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Hollyhock",
+            "Pale Hollyhock",
+            "Eastern hollyhock"
+          ],
+          "scientificName": "Alcea biennis Winterl"
+        },
+        "gbif": {
+          "id": "5617600"
+        },
+        "powo": {
+          "id": "558650-1"
+        }
+      },
+      {
+        "score": 0.00221,
+        "species": {
+          "scientificNameWithoutAuthor": "Cardiocrinum giganteum",
+          "scientificNameAuthorship": "(Wall.) Makino",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cardiocrinum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cardiocrinum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Liliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Liliaceae"
+          },
+          "commonNames": [
+            "Giant Himalayan Lily",
+            "Himalaya Lily",
+            "Himalayan Lily"
+          ],
+          "scientificName": "Cardiocrinum giganteum (Wall.) Makino"
+        },
+        "gbif": {
+          "id": "2752917"
+        },
+        "powo": {
+          "id": "532549-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 297
+  }
+}

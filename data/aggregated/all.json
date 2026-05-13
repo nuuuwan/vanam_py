@@ -77,6 +77,32 @@
     }
   },
   {
+    "imageHash": "b20c18d33feb6010",
+    "latLng": {
+      "lat": 37.47040277777778,
+      "lng": -122.31145555555555
+    },
+    "source": "exif",
+    "utImageTaken": 1663752718,
+    "timeImageTaken": "2022-09-21 09:31:58",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.98413,
+      "species": "Punica granatum L.",
+      "genus": "Punica",
+      "family": "Lythraceae",
+      "commonNames": [
+        "Pomegranate",
+        "انار",
+        "अनार"
+      ],
+      "gbifId": "5420901",
+      "iucnId": "63531",
+      "iucnCategory": "LC",
+      "powoId": "554129-1"
+    }
+  },
+  {
     "imageHash": "f3ecf71f799b6ea0",
     "latLng": {
       "lat": 6.9187627970892756,
@@ -278,6 +304,32 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "30048918-2"
+    }
+  },
+  {
+    "imageHash": "df3ce15a4da1a2ad",
+    "latLng": {
+      "lat": 37.47770277777778,
+      "lng": -122.29952222222222
+    },
+    "source": "exif",
+    "utImageTaken": 1663752919,
+    "timeImageTaken": "2022-09-21 09:35:19",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.79748,
+      "species": "Alcea rosea L.",
+      "genus": "Alcea",
+      "family": "Malvaceae",
+      "commonNames": [
+        "Hollyhock",
+        "Common Hollyhock",
+        "Garden Hollyhock"
+      ],
+      "gbifId": "5406789",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "558713-1"
     }
   },
   {

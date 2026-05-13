@@ -1,0 +1,77 @@
+{
+  "hash": "b20c18d33feb6010",
+  "image_metadata": {
+    "imageHash": "b20c18d33feb6010",
+    "imageLocation": {
+      "latitude": 37.47040277777778,
+      "longitude": -122.31145555555555,
+      "accuracy": 10,
+      "source": "exif"
+    },
+    "utImageTaken": 1663752718,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/b20c18d33feb6010.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "489885fdb520549c9ca40cf017af9337"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "489885fdb520549c9ca40cf017af9337",
+        "filename": "b20c18d33feb6010.png",
+        "organ": "fruit",
+        "score": 0.72807
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Punica granatum L.",
+    "results": [
+      {
+        "score": 0.98413,
+        "species": {
+          "scientificNameWithoutAuthor": "Punica granatum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Punica",
+            "scientificNameAuthorship": "",
+            "scientificName": "Punica"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lythraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lythraceae"
+          },
+          "commonNames": [
+            "Pomegranate",
+            "انار",
+            "अनार"
+          ],
+          "scientificName": "Punica granatum L."
+        },
+        "gbif": {
+          "id": "5420901"
+        },
+        "powo": {
+          "id": "554129-1"
+        },
+        "iucn": {
+          "id": "63531",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 301
+  }
+}
