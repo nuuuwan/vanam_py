@@ -1,0 +1,136 @@
+{
+  "imageHash": "e94b60e80f7811b0",
+  "imageLocation": {
+    "latitude": 8.118133333333335,
+    "longitude": 80.66473333333334,
+    "accuracy": 27.995014023060143,
+    "source": "exif"
+  },
+  "utImageTaken": 1775277316,
+  "userId": "e1776bd6",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.54083,
+      "species": "Ecbolium viride (Forssk.) Alston",
+      "genus": "Ecbolium",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Green shrimp plant",
+        "Turquoise crossandra",
+        "డిసెంబర్ పూల చెట్టు"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.07554,
+      "species": "Barleria oenotheroides Dum.Cours.",
+      "genus": "Barleria",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Cascabel"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.06433,
+      "species": "Ecbolium ligustrinum (Vahl) Vollesen",
+      "genus": "Ecbolium",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Ice crossandra"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.04452,
+      "species": "Justicia gendarussa Burm.f.",
+      "genus": "Justicia",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Warer Willow",
+        "Daun Rusa",
+        "Gandarusa"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.02574,
+      "species": "Barleria paucidentata Benoist",
+      "genus": "Barleria",
+      "family": "Acanthaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01245,
+      "species": "Barleria strigosa Willd.",
+      "genus": "Barleria",
+      "family": "Acanthaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00998,
+      "species": "Pachystachys lutea Nees",
+      "genus": "Pachystachys",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Golden shrimp-plant",
+        "Yellow shrimp-plant",
+        "Golden-candle"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0081,
+      "species": "Justicia refractifolia (Kuntze) Leonard",
+      "genus": "Justicia",
+      "family": "Acanthaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00569,
+      "species": "Crossandra infundibuliformis (L.) Nees",
+      "genus": "Crossandra",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Firecracker-flower",
+        "కనకాంబరం",
+        "Firecracker-plant"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0045,
+      "species": "Yeatesia viridiflora (Nees) Small",
+      "genus": "Yeatesia",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Yellow Bractspike"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

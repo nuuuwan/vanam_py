@@ -1,5 +1,169 @@
 [
   {
+    "imageHash": "e79e2b9486b56a5f",
+    "latLng": {
+      "lat": 8.118783333333333,
+      "lng": 80.66185
+    },
+    "source": "exif",
+    "utImageTaken": 1775281007,
+    "userId": "e1776bd6",
+    "topPrediction": {
+      "confidence": 0.16997,
+      "species": "Juglans regia L.",
+      "genus": "Juglans",
+      "family": "Juglandaceae",
+      "commonNames": [
+        "Black Walnut",
+        "English walnut",
+        "Common Walnut"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "e3e766b4de3e1dbc",
+    "latLng": {
+      "lat": 8.118408333333333,
+      "lng": 80.66439166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1775277302,
+    "userId": "e1776bd6",
+    "topPrediction": {
+      "confidence": 0.30489,
+      "species": "Eranthemum pulchellum Andrews",
+      "genus": "Eranthemum",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Blue-sage"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "39674615e593a6f4",
+    "latLng": {
+      "lat": 8.1171,
+      "lng": 80.66554166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1775275177,
+    "userId": "d2aa26b0",
+    "topPrediction": {
+      "confidence": 0.01934,
+      "species": "Chrysobalanus icaco L.",
+      "genus": "Chrysobalanus",
+      "family": "Chrysobalanaceae",
+      "commonNames": [
+        "Coco plum",
+        "Icaco Coco-Plum",
+        "Coco Plant"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "60448bd4f2a7a71f",
+    "latLng": {
+      "lat": 8.117208333333334,
+      "lng": 80.66475000000001
+    },
+    "source": "exif",
+    "utImageTaken": 1775282853,
+    "userId": "e1776bd6",
+    "topPrediction": {
+      "confidence": 0.62639,
+      "species": "Castanea sativa Mill.",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "commonNames": [
+        "Sweet Chestnut",
+        "European chestnut",
+        "Spanish chestnut"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "9477aa8de53c1b89",
+    "latLng": {
+      "lat": 8.118325,
+      "lng": 80.66455833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1775277324,
+    "userId": "e1776bd6",
+    "topPrediction": {
+      "confidence": 0.38905,
+      "species": "Eranthemum pulchellum Andrews",
+      "genus": "Eranthemum",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Blue-sage"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "e94b60e80f7811b0",
+    "latLng": {
+      "lat": 8.118133333333335,
+      "lng": 80.66473333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1775277316,
+    "userId": "e1776bd6",
+    "topPrediction": {
+      "confidence": 0.54083,
+      "species": "Ecbolium viride (Forssk.) Alston",
+      "genus": "Ecbolium",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Green shrimp plant",
+        "Turquoise crossandra",
+        "డిసెంబర్ పూల చెట్టు"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "673f744e0679031e",
+    "latLng": {
+      "lat": 8.031822222222223,
+      "lng": 80.74829166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1775363658,
+    "userId": "e1776bd6",
+    "topPrediction": {
+      "confidence": 0.12065,
+      "species": "Arachnothryx leucophylla (Kunth) Planch.",
+      "genus": "Arachnothryx",
+      "family": "Rubiaceae",
+      "commonNames": [
+        "Panama rose",
+        "Bush pentas",
+        "White Arachno"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
     "imageHash": "859e87d6074390d2",
     "latLng": {
       "lat": 6.897664,
@@ -17,6 +181,30 @@
         "Guava",
         "Guave",
         "Common guava"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "592e30fc7278ab3b",
+    "latLng": {
+      "lat": 6.912958333333334,
+      "lng": 79.85987777777777
+    },
+    "source": "exif",
+    "utImageTaken": 1777514231,
+    "userId": "e1776bd6",
+    "topPrediction": {
+      "confidence": 0.35893,
+      "species": "Physostegia virginiana (L.) Benth.",
+      "genus": "Physostegia",
+      "family": "Lamiaceae",
+      "commonNames": [
+        "Obedience",
+        "Obedient plant",
+        "False dragonhead"
       ],
       "gbifId": "",
       "iucnId": "",

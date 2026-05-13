@@ -1,0 +1,138 @@
+{
+  "imageHash": "60448bd4f2a7a71f",
+  "imageLocation": {
+    "latitude": 8.117208333333334,
+    "longitude": 80.66475000000001,
+    "accuracy": 13.195014000541956,
+    "source": "exif"
+  },
+  "utImageTaken": 1775282853,
+  "userId": "e1776bd6",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.62639,
+      "species": "Castanea sativa Mill.",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "commonNames": [
+        "Sweet Chestnut",
+        "European chestnut",
+        "Spanish chestnut"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.02905,
+      "species": "Prunus laurocerasus L.",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Cherry laurel",
+        "English Laurel",
+        "Common Laurel"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.02031,
+      "species": "Moquilea platypus Hemsl.",
+      "genus": "Moquilea",
+      "family": "Chrysobalanaceae",
+      "commonNames": [
+        "Licania",
+        "Sansapote",
+        "Sunsapote"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01294,
+      "species": "Polyalthia cinnamomea Hook.f. & Thomson",
+      "genus": "Polyalthia",
+      "family": "Annonaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00651,
+      "species": "Castanea dentata (Marshall) Borkh.",
+      "genus": "Castanea",
+      "family": "Fagaceae",
+      "commonNames": [
+        "American chestnut",
+        "Ƿīnlendisc cystel",
+        "ᎤᎾᎩᎾ"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00616,
+      "species": "Syzygium aggregatum J.W.Dawson",
+      "genus": "Syzygium",
+      "family": "Myrtaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00525,
+      "species": "Pycnandra gordoniifolia (S.Moore) Swenson & Munzinger",
+      "genus": "Pycnandra",
+      "family": "Sapotaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00446,
+      "species": "Saraca indica L.",
+      "genus": "Saraca",
+      "family": "Fabaceae",
+      "commonNames": [
+        "Asoka-tree",
+        "Ashoka",
+        "Red saraca"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00435,
+      "species": "Annona muricata L.",
+      "genus": "Annona",
+      "family": "Annonaceae",
+      "commonNames": [
+        "Soursop",
+        "Guanabana",
+        "Sirsak"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00325,
+      "species": "Aspidosperma megalocarpon Müll.Arg.",
+      "genus": "Aspidosperma",
+      "family": "Apocynaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

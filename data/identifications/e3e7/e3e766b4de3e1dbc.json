@@ -1,0 +1,146 @@
+{
+  "imageHash": "e3e766b4de3e1dbc",
+  "imageLocation": {
+    "latitude": 8.118408333333333,
+    "longitude": 80.66439166666667,
+    "accuracy": 256.46183368869936,
+    "source": "exif"
+  },
+  "utImageTaken": 1775277302,
+  "userId": "e1776bd6",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.30489,
+      "species": "Eranthemum pulchellum Andrews",
+      "genus": "Eranthemum",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Blue-sage"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.03409,
+      "species": "Phlox divaricata L.",
+      "genus": "Phlox",
+      "family": "Polemoniaceae",
+      "commonNames": [
+        "Forest phlox",
+        "Woodland Phlox",
+        "Wild blue phlox"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0174,
+      "species": "Ruellia simplex C.Wright",
+      "genus": "Ruellia",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Mexican petunia",
+        "Spanish-ladies",
+        "اطلسی مکزیکی"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01328,
+      "species": "Phlox maculata L.",
+      "genus": "Phlox",
+      "family": "Polemoniaceae",
+      "commonNames": [
+        "Meadow phlox",
+        "Spotted phlox",
+        "Wild sweet-William"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01225,
+      "species": "Lunaria rediviva L.",
+      "genus": "Lunaria",
+      "family": "Brassicaceae",
+      "commonNames": [
+        "Perennial honesty",
+        "Perennial Money-flower",
+        "Perennial Lunaria"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00798,
+      "species": "Sisyrinchium angustifolium Mill.",
+      "genus": "Sisyrinchium",
+      "family": "Iridaceae",
+      "commonNames": [
+        "Narrowleaf blue-eyed grass",
+        "Narrow-leaf blue-eyed-grass",
+        "Bastard Toadflax"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00618,
+      "species": "Ceratostigma willmottianum Stapf",
+      "genus": "Ceratostigma",
+      "family": "Plumbaginaceae",
+      "commonNames": [
+        "Chinese-plumbago"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00541,
+      "species": "Ceratostigma plumbaginoides Bunge",
+      "genus": "Ceratostigma",
+      "family": "Plumbaginaceae",
+      "commonNames": [
+        "Blue leadwood",
+        "Hardy plumbago",
+        "Blue-flowered leadwort"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00531,
+      "species": "Eranthemum purpurascens Wight ex Nees",
+      "genus": "Eranthemum",
+      "family": "Acanthaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00515,
+      "species": "Geranium nodosum L.",
+      "genus": "Geranium",
+      "family": "Geraniaceae",
+      "commonNames": [
+        "Knotted crane's-bill",
+        "Broad-Leaved Cranesbill",
+        "Knotted cranesbill"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

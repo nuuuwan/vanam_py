@@ -1,0 +1,147 @@
+{
+  "imageHash": "9477aa8de53c1b89",
+  "imageLocation": {
+    "latitude": 8.118325,
+    "longitude": 80.66455833333333,
+    "accuracy": 12.004009855548578,
+    "source": "exif"
+  },
+  "utImageTaken": 1775277324,
+  "userId": "e1776bd6",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.38905,
+      "species": "Eranthemum pulchellum Andrews",
+      "genus": "Eranthemum",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Blue-sage"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.05068,
+      "species": "Phlox maculata L.",
+      "genus": "Phlox",
+      "family": "Polemoniaceae",
+      "commonNames": [
+        "Meadow phlox",
+        "Spotted phlox",
+        "Wild sweet-William"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0303,
+      "species": "Lunaria rediviva L.",
+      "genus": "Lunaria",
+      "family": "Brassicaceae",
+      "commonNames": [
+        "Perennial honesty",
+        "Perennial Money-flower",
+        "Perennial Lunaria"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01393,
+      "species": "Cardamine heptaphylla (Vill.) O.E.Schulz",
+      "genus": "Cardamine",
+      "family": "Brassicaceae",
+      "commonNames": [
+        "Bitter-Cress",
+        "Pinnate Coralroot",
+        "Lady's smock"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00788,
+      "species": "Ruellia simplex C.Wright",
+      "genus": "Ruellia",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Mexican petunia",
+        "Spanish-ladies",
+        "اطلسی مکزیکی"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00664,
+      "species": "Eranthemum purpurascens Wight ex Nees",
+      "genus": "Eranthemum",
+      "family": "Acanthaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00659,
+      "species": "Impatiens flaccida Arn.",
+      "genus": "Impatiens",
+      "family": "Balsaminaceae",
+      "commonNames": [
+        "Busy lizzy",
+        "రిక్క గోరింట"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00583,
+      "species": "Phlox divaricata L.",
+      "genus": "Phlox",
+      "family": "Polemoniaceae",
+      "commonNames": [
+        "Forest phlox",
+        "Woodland Phlox",
+        "Wild blue phlox"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00525,
+      "species": "Crossandra infundibuliformis (L.) Nees",
+      "genus": "Crossandra",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Firecracker-flower",
+        "కనకాంబరం",
+        "Firecracker-plant"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00357,
+      "species": "Clerodendrum indicum (L.) Kuntze",
+      "genus": "Clerodendrum",
+      "family": "Lamiaceae",
+      "commonNames": [
+        "Turk's turbin",
+        "Turk's-turban",
+        "Tubbeflower"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

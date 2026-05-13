@@ -1,0 +1,152 @@
+{
+  "imageHash": "592e30fc7278ab3b",
+  "imageLocation": {
+    "latitude": 6.912958333333334,
+    "longitude": 79.85987777777777,
+    "accuracy": 3.1193900724559316,
+    "source": "exif"
+  },
+  "utImageTaken": 1777514231,
+  "userId": "e1776bd6",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.35893,
+      "species": "Physostegia virginiana (L.) Benth.",
+      "genus": "Physostegia",
+      "family": "Lamiaceae",
+      "commonNames": [
+        "Obedience",
+        "Obedient plant",
+        "False dragonhead"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.05971,
+      "species": "Lycopodium annotinum L.",
+      "genus": "Lycopodium",
+      "family": "Lycopodiaceae",
+      "commonNames": [
+        "Stiff clubmoss",
+        "Clubmoss",
+        "Interrupted Clubmoss"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01726,
+      "species": "Armoracia rusticana G.Gaertn., B.Mey. & Scherb.",
+      "genus": "Armoracia",
+      "family": "Brassicaceae",
+      "commonNames": [
+        "Horse-Radish",
+        "Common Horseradish"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01654,
+      "species": "Linum usitatissimum L.",
+      "genus": "Linum",
+      "family": "Linaceae",
+      "commonNames": [
+        "Linseed",
+        "Flax",
+        "Common flax"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01,
+      "species": "Onoclea struthiopteris (L.) Roth",
+      "genus": "Onoclea",
+      "family": "Aspleniaceae",
+      "commonNames": [
+        "Ostrich Fern",
+        "Fiddlehead fern"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00923,
+      "species": "Taxus canadensis Marshall",
+      "genus": "Taxus",
+      "family": "Taxaceae",
+      "commonNames": [
+        "Canadian Yew",
+        "Ground Hemlock",
+        "American yew"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00885,
+      "species": "Campanula persicifolia L.",
+      "genus": "Campanula",
+      "family": "Campanulaceae",
+      "commonNames": [
+        "Paper Bellflower",
+        "Peach-leaved Bellflower",
+        "Peach-bells"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00601,
+      "species": "Satureja montana L.",
+      "genus": "Satureja",
+      "family": "Lamiaceae",
+      "commonNames": [
+        "White Thyme",
+        "Savory",
+        "Winter savory"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00565,
+      "species": "Cephalotaxus harringtonia (Knight ex J.Forbes) K.Koch",
+      "genus": "Cephalotaxus",
+      "family": "Cephalotaxaceae",
+      "commonNames": [
+        "Harrington plum-yew",
+        "Harrington's Cephalotaxus",
+        "Harrington's plum-yew"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00553,
+      "species": "Linaria vulgaris Mill.",
+      "genus": "Linaria",
+      "family": "Plantaginaceae",
+      "commonNames": [
+        "Butter-and-eggs",
+        "Common Toadflax",
+        "Wild snapdragon"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}
