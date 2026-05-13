@@ -70,7 +70,7 @@ class DataReadMeBuild:
         return f"![{label}]({url})"
 
     def _top_badges(self, data_size: str) -> str:
-        now = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+        now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
         updated = self._shield("updated", now, "blue")
         size = self._shield("data size", data_size, "lightgrey")
         return f"{updated}  {size}\n"
