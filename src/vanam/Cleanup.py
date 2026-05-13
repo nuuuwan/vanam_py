@@ -89,7 +89,7 @@ class Cleanup:
 
         delete_url = f"{self.VERCEL_BLOB_API_URL}/delete"
         for i in range(0, len(urls), self.DELETE_BATCH_SIZE):
-            batch = urls[i : i + self.DELETE_BATCH_SIZE]
+            batch = urls[i: i + self.DELETE_BATCH_SIZE]
             response = requests.post(
                 delete_url,
                 headers={
