@@ -1,0 +1,56 @@
+{
+  "imageHash": "d67c2096ab66b15c",
+  "imageLocation": {
+    "latitude": 6.897664,
+    "longitude": 79.8654464,
+    "accuracy": 163722.89385756708,
+    "source": "browser"
+  },
+  "utImageTaken": "1778645972",
+  "userId": "9f6fcdc6",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.91645,
+      "species": "Artocarpus heterophyllus Lam.",
+      "genus": "Artocarpus",
+      "family": "Moraceae",
+      "commonNames": [
+        "Jackfruit",
+        "Nangka",
+        "Jack"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.04809,
+      "species": "Artocarpus integer (Thunb.) Merr.",
+      "genus": "Artocarpus",
+      "family": "Moraceae",
+      "commonNames": [
+        "Chempedak",
+        "Champedak",
+        "Tjampedak"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00276,
+      "species": "Citrus maxima (Burm.) Merr.",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Pomelo",
+        "Shaddock",
+        "Pummelo"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}
