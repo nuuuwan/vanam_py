@@ -1,0 +1,153 @@
+{
+  "imageHash": "bf555cf89e04a9c8",
+  "imageLocation": {
+    "latitude": 6.8910557,
+    "longitude": 79.8632725,
+    "accuracy": 1393.4478925049518,
+    "source": "browser"
+  },
+  "utImageTaken": "1778656068",
+  "userId": "06qahco",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.0147,
+      "species": "Tripolium pannonicum (Jacq.) Dobrocz.",
+      "genus": "Tripolium",
+      "family": "Asteraceae",
+      "commonNames": [
+        "Sea aster",
+        "Sea starwort"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01039,
+      "species": "Dipsacus fullonum L.",
+      "genus": "Dipsacus",
+      "family": "Caprifoliaceae",
+      "commonNames": [
+        "Common Teasel",
+        "Teasel",
+        "Wild teasel"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00623,
+      "species": "Agave americana L.",
+      "genus": "Agave",
+      "family": "Asparagaceae",
+      "commonNames": [
+        "Agave",
+        "American century plant",
+        "American agave"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00473,
+      "species": "Prunus persica (L.) Batsch",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Peach",
+        "هلو",
+        "Peach tree"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0042,
+      "species": "Crassula perfoliata L.",
+      "genus": "Crassula",
+      "family": "Crassulaceae",
+      "commonNames": [
+        "Red treasure",
+        "Propeller Plant",
+        "Crassula falcata"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00347,
+      "species": "Agave weberi J.F.Cels ex J.Poiss.",
+      "genus": "Agave",
+      "family": "Asparagaceae",
+      "commonNames": [
+        "Weber's century plant",
+        "Weber Agave",
+        "Weber's Agave"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00298,
+      "species": "Jubaea chilensis (Molina) Baill.",
+      "genus": "Jubaea",
+      "family": "Arecaceae",
+      "commonNames": [
+        "Coquito palm",
+        "Syrup palm",
+        "Honey palm"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00244,
+      "species": "Dracaena draco (L.) L.",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "commonNames": [
+        "Dragontree",
+        "Canary Island Dragon Tree",
+        "Canary Islands dragon tree"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00233,
+      "species": "Pancratium maritimum L.",
+      "genus": "Pancratium",
+      "family": "Amaryllidaceae",
+      "commonNames": [
+        "Sea Daffodil",
+        "Sand Lily",
+        "نرگس دریایی"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00229,
+      "species": "Swietenia mahagoni (L.) Jacq.",
+      "genus": "Swietenia",
+      "family": "Meliaceae",
+      "commonNames": [
+        "Cuban mahogany",
+        "West Indian mahogany",
+        "Spanish mahogany"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}
