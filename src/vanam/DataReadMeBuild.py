@@ -93,7 +93,7 @@ class DataReadMeBuild:
         except Exception:
             return ut
 
-    def _render_row(self, ident: dict) -> str:
+    def _render_row(self, ident: dict, row_num: int = 0) -> str:
         image_hash = ident.get("hash", "")
         results = ident.get("plantnet_data", {}).get("results", [])
         top = results[0] if results else {}
@@ -115,6 +115,7 @@ class DataReadMeBuild:
         hash_link = f"[`{image_hash}`]({image_path})"
 
         return (
+            f"| {row_num} "
             f"| {thumbnail} "
             f"| {species_link} "
             f"| {confidence} "
@@ -129,11 +130,11 @@ class DataReadMeBuild:
 
     def _build_table_lines(self, identifications: list) -> list[str]:
         lines = [
-            "| Image | Species | Confidence | Time Taken | User | Image Hash |",
-            "|---|---|---|---|---|---|",
+            "| # | Image | Species | Confidence | Time Taken | User | Image Hash |",
+            "|---|---|---|---|---|---|---|",
         ]
-        for ident in identifications:
-            lines.append(self._render_row(ident))
+        for i, ident in enumerate(identifications, 1):
+            lines.append(self._render_row(ident, i))
         return lines
 
     def run(self) -> str:
