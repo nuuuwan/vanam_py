@@ -1,8 +1,8 @@
 # Vanam - Data
 
-![updated](https://img.shields.io/badge/updated-2026--05--13%2006:56:10-blue)  ![data size](https://img.shields.io/badge/data%20size-948K-lightgrey)
+![updated](https://img.shields.io/badge/updated-2026--05--13%2007:02:26-blue)  ![data size](https://img.shields.io/badge/data%20size-1.3M-lightgrey)
 
-**15** plant identification(s), sorted by most recently photographed.
+**20** plant identification(s), sorted by most recently photographed.
 
 | Image Hash | Species | Common Name | Family | Confidence | Location (lat, lng) | Time Taken | User |
 |---|---|---|---|---|---|---|---|
@@ -21,6 +21,11 @@
 | `e94b60e80f7811b0` | *Ecbolium viride (Forssk.) Alston* | Green shrimp plant | Acanthaceae | 54.1% | 8.1181, 80.6647 | 2026-04-04 04:35 UTC | `e1776bd6` |
 | `e3e766b4de3e1dbc` | *Eranthemum pulchellum Andrews* | Blue-sage | Acanthaceae | 30.5% | 8.1184, 80.6644 | 2026-04-04 04:35 UTC | `e1776bd6` |
 | `39674615e593a6f4` | *Chrysobalanus icaco L.* | Coco plum | Chrysobalanaceae | 1.9% | 8.1171, 80.6655 | 2026-04-04 03:59 UTC | `d2aa26b0` |
+| `80c75b037c863c3e` | *Eriobotrya japonica (Thunb.) Lindl.* | Loquat | Rosaceae | 13.4% | 6.9188, 79.8591 | 2026-03-09 12:37 UTC | `1bi07e4` |
+| `f3ecf71f799b6ea0` | *Leucospermum cordifolium Fourc.* | Red pincushion-protea | Proteaceae | 29.8% | 6.9188, 79.8591 | 2026-03-07 06:13 UTC | `1bi07e4` |
+| `ee5180b5a108b2ce` | *Oxalis pes-caprae L.* | Bermuda-buttercup | Oxalidaceae | 78.1% | 6.9188, 79.8591 | 2026-03-07 06:13 UTC | `1bi07e4` |
+| `bbce6e14c50c56ad` | *Rhododendron periclymenoides (Michx.) Shinners* | Election-pink | Ericaceae | 58.2% | 6.9188, 79.8591 | 2026-03-07 06:11 UTC | `1bi07e4` |
+| `01b73bbefdca4e74` | *Rhododendron ferrugineum L.* | Rhododendron | Ericaceae | 26.5% | 6.9188, 79.8591 | 2026-03-07 05:54 UTC | `1bi07e4` |
 
 ---
 

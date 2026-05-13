@@ -1,0 +1,154 @@
+{
+  "imageHash": "f3ecf71f799b6ea0",
+  "imageLocation": {
+    "latitude": 6.9187627970892756,
+    "longitude": 79.85912963991777,
+    "accuracy": 8.615575946996158,
+    "source": "browser"
+  },
+  "utImageTaken": 1772864014,
+  "userId": "1bi07e4",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.29798,
+      "species": "Leucospermum cordifolium Fourc.",
+      "genus": "Leucospermum",
+      "family": "Proteaceae",
+      "commonNames": [
+        "Red pincushion-protea",
+        "Pincushion",
+        "Nodding pincushion"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.03072,
+      "species": "Protea cynaroides (L.) L.",
+      "genus": "Protea",
+      "family": "Proteaceae",
+      "commonNames": [
+        "King protea",
+        "King sugarbush",
+        "Giant Protea"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01965,
+      "species": "Protea neriifolia R. Br.",
+      "genus": "Protea",
+      "family": "Proteaceae",
+      "commonNames": [
+        "Oleander-leaf protea",
+        "Narrowleaf protea",
+        "Blue Sugarbush"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00875,
+      "species": "Callistemon citrinus (Curtis) Skeels",
+      "genus": "Callistemon",
+      "family": "Myrtaceae",
+      "commonNames": [
+        "Crimson bottlebrush",
+        "Bottle brush",
+        "Lemon Bottlebrush"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00441,
+      "species": "Xerochrysum bracteatum (Vent.) Tzvelev",
+      "genus": "Xerochrysum",
+      "family": "Asteraceae",
+      "commonNames": [
+        "Strawflower",
+        "Paper daisy",
+        "Bracted Strawflower"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00436,
+      "species": "Etlingera elatior (Jack) R.M.Sm.",
+      "genus": "Etlingera",
+      "family": "Zingiberaceae",
+      "commonNames": [
+        "Torch Ginger",
+        "Philippine waxflower",
+        "Porcelain Rose"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00395,
+      "species": "Telopea speciosissima (Sm.) R. Br.",
+      "genus": "Telopea",
+      "family": "Proteaceae",
+      "commonNames": [
+        "New South Wales waratah",
+        "Waratah",
+        "White waratah"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00346,
+      "species": "Paeonia officinalis L.",
+      "genus": "Paeonia",
+      "family": "Paeoniaceae",
+      "commonNames": [
+        "Cottage peony",
+        "Common peony",
+        "Wild Peony"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00278,
+      "species": "Leucadendron salignum R. Br.",
+      "genus": "Leucadendron",
+      "family": "Proteaceae",
+      "commonNames": [
+        "Common Sunshine Conebush",
+        "Red conebush",
+        "Safari Sunshine Conebush"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00151,
+      "species": "Protea scolymocephala Reich.",
+      "genus": "Protea",
+      "family": "Proteaceae",
+      "commonNames": [
+        "Thistle Sugarbush",
+        "Scoly",
+        "Small green protea"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

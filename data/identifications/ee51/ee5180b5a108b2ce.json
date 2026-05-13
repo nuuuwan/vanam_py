@@ -1,0 +1,124 @@
+{
+  "imageHash": "ee5180b5a108b2ce",
+  "imageLocation": {
+    "latitude": 6.918762814868359,
+    "longitude": 79.85912964071474,
+    "accuracy": 7.948222888377434,
+    "source": "browser"
+  },
+  "utImageTaken": 1772863980,
+  "userId": "1bi07e4",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.78142,
+      "species": "Oxalis pes-caprae L.",
+      "genus": "Oxalis",
+      "family": "Oxalidaceae",
+      "commonNames": [
+        "Bermuda-buttercup",
+        "Sourgrass",
+        "Englishweed"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01001,
+      "species": "Reinwardtia indica Dumort.",
+      "genus": "Reinwardtia",
+      "family": "Linaceae",
+      "commonNames": [
+        "Pyoli",
+        "Yellow flax",
+        "Himalayan yellow flax"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00951,
+      "species": "Oxalis dillenii Jacq.",
+      "genus": "Oxalis",
+      "family": "Oxalidaceae",
+      "commonNames": [
+        "Common yellow wood-sorrel",
+        "Wood-shamrock",
+        "Common Yellow Woodsorrel"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0048,
+      "species": "Camonea umbellata (L.) A.R.Simões & Staples",
+      "genus": "Camonea",
+      "family": "Convolvulaceae",
+      "commonNames": [
+        "Hogvine",
+        "Yellow merremia",
+        "Yellow wood rose"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00279,
+      "species": "Oxalis stricta L.",
+      "genus": "Oxalis",
+      "family": "Oxalidaceae",
+      "commonNames": [
+        "Yellow wood-sorrel",
+        "Sourgrass",
+        "Yellow sheep-sorrel"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0026,
+      "species": "Linum flavum L.",
+      "genus": "Linum",
+      "family": "Linaceae",
+      "commonNames": [
+        "Yellow flax",
+        "Golden flax"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00184,
+      "species": "Linum campanulatum L.",
+      "genus": "Linum",
+      "family": "Linaceae",
+      "commonNames": [
+        "Campanulate flax",
+        "Yellow herbaceous flax"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00178,
+      "species": "Bunias erucago L.",
+      "genus": "Bunias",
+      "family": "Brassicaceae",
+      "commonNames": [
+        "Southern warty-cabbage",
+        "Crested wartycabbage",
+        "Crested Bunias"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

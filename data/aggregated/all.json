@@ -24,6 +24,30 @@
     }
   },
   {
+    "imageHash": "f3ecf71f799b6ea0",
+    "latLng": {
+      "lat": 6.9187627970892756,
+      "lng": 79.85912963991777
+    },
+    "source": "browser",
+    "utImageTaken": 1772864014,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.29798,
+      "species": "Leucospermum cordifolium Fourc.",
+      "genus": "Leucospermum",
+      "family": "Proteaceae",
+      "commonNames": [
+        "Red pincushion-protea",
+        "Pincushion",
+        "Nodding pincushion"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
     "imageHash": "e3e766b4de3e1dbc",
     "latLng": {
       "lat": 8.118408333333333,
@@ -87,6 +111,30 @@
         "Coco plum",
         "Icaco Coco-Plum",
         "Coco Plant"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "bbce6e14c50c56ad",
+    "latLng": {
+      "lat": 6.918762809474212,
+      "lng": 79.85912962116655
+    },
+    "source": "browser",
+    "utImageTaken": 1772863873,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.58154,
+      "species": "Rhododendron periclymenoides (Michx.) Shinners",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "commonNames": [
+        "Election-pink",
+        "Pinxter-flower",
+        "Pinxterbloom azalea"
       ],
       "gbifId": "",
       "iucnId": "",
@@ -301,6 +349,78 @@
         "Jackfruit",
         "Nangka",
         "Jack"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "ee5180b5a108b2ce",
+    "latLng": {
+      "lat": 6.918762814868359,
+      "lng": 79.85912964071474
+    },
+    "source": "browser",
+    "utImageTaken": 1772863980,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.78142,
+      "species": "Oxalis pes-caprae L.",
+      "genus": "Oxalis",
+      "family": "Oxalidaceae",
+      "commonNames": [
+        "Bermuda-buttercup",
+        "Sourgrass",
+        "Englishweed"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "01b73bbefdca4e74",
+    "latLng": {
+      "lat": 6.918762814868358,
+      "lng": 79.85912964071473
+    },
+    "source": "browser",
+    "utImageTaken": 1772862899,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.26526,
+      "species": "Rhododendron ferrugineum L.",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "commonNames": [
+        "Rhododendron",
+        "Alpine-rose",
+        "Alpenrose"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "80c75b037c863c3e",
+    "latLng": {
+      "lat": 6.918762800561572,
+      "lng": 79.85912966700043
+    },
+    "source": "browser",
+    "utImageTaken": 1773059836,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.13408,
+      "species": "Eriobotrya japonica (Thunb.) Lindl.",
+      "genus": "Eriobotrya",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Loquat",
+        "Nispero",
+        "Μουσμουλιά"
       ],
       "gbifId": "",
       "iucnId": "",
