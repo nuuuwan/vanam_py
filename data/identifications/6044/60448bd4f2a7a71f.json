@@ -1,138 +1,358 @@
 {
-  "imageHash": "60448bd4f2a7a71f",
-  "imageLocation": {
-    "latitude": 8.117208333333334,
-    "longitude": 80.66475000000001,
-    "accuracy": 13.195014000541956,
-    "source": "exif"
+  "hash": "60448bd4f2a7a71f",
+  "image_metadata": {
+    "imageHash": "60448bd4f2a7a71f",
+    "imageLocation": {
+      "latitude": 8.117208333333334,
+      "longitude": 80.66475000000001,
+      "accuracy": 13.195014000541956,
+      "source": "exif"
+    },
+    "utImageTaken": 1775282853,
+    "userId": "e1776bd6",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/60448bd4f2a7a71f.png"
   },
-  "utImageTaken": 1775282853,
-  "userId": "e1776bd6",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.62639,
-      "species": "Castanea sativa Mill.",
-      "genus": "Castanea",
-      "family": "Fagaceae",
-      "commonNames": [
-        "Sweet Chestnut",
-        "European chestnut",
-        "Spanish chestnut"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "66454e737cec9470c9dc25358c036c75"
       ],
-      "gbifId": "5333294",
-      "iucnId": "202948",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.02905,
-      "species": "Prunus laurocerasus L.",
-      "genus": "Prunus",
-      "family": "Rosaceae",
-      "commonNames": [
-        "Cherry laurel",
-        "English Laurel",
-        "Common Laurel"
+      "organs": [
+        "auto"
       ],
-      "gbifId": "3021496",
-      "iucnId": "172277",
-      "iucnCategory": "LC"
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.02031,
-      "species": "Moquilea platypus Hemsl.",
-      "genus": "Moquilea",
-      "family": "Chrysobalanaceae",
-      "commonNames": [
-        "Licania",
-        "Sansapote",
-        "Sunsapote"
-      ],
-      "gbifId": "2985306",
-      "iucnId": "61988416",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.01294,
-      "species": "Polyalthia cinnamomea Hook.f. & Thomson",
-      "genus": "Polyalthia",
-      "family": "Annonaceae",
-      "commonNames": [],
-      "gbifId": "3156403",
-      "iucnId": "180811940",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00651,
-      "species": "Castanea dentata (Marshall) Borkh.",
-      "genus": "Castanea",
-      "family": "Fagaceae",
-      "commonNames": [
-        "American chestnut",
-        "Ƿīnlendisc cystel",
-        "ᎤᎾᎩᎾ"
-      ],
-      "gbifId": "5333230",
-      "iucnId": "62004455",
-      "iucnCategory": "CR"
-    },
-    {
-      "confidence": 0.00616,
-      "species": "Syzygium aggregatum J.W.Dawson",
-      "genus": "Syzygium",
-      "family": "Myrtaceae",
-      "commonNames": [],
-      "gbifId": "3182133",
-      "iucnId": "181014621",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00525,
-      "species": "Pycnandra gordoniifolia (S.Moore) Swenson & Munzinger",
-      "genus": "Pycnandra",
-      "family": "Sapotaceae",
-      "commonNames": [],
-      "gbifId": "6306936",
-      "iucnId": "158035306",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00446,
-      "species": "Saraca indica L.",
-      "genus": "Saraca",
-      "family": "Fabaceae",
-      "commonNames": [
-        "Asoka-tree",
-        "Ashoka",
-        "Red saraca"
-      ],
-      "gbifId": "5359538",
-      "iucnId": "170270761",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00435,
-      "species": "Annona muricata L.",
-      "genus": "Annona",
-      "family": "Annonaceae",
-      "commonNames": [
-        "Soursop",
-        "Sirsak",
-        "Guanabana"
-      ],
-      "gbifId": "5407273",
-      "iucnId": "143323191",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00325,
-      "species": "Aspidosperma megalocarpon Müll.Arg.",
-      "genus": "Aspidosperma",
-      "family": "Apocynaceae",
-      "commonNames": [],
-      "gbifId": "7316950",
-      "iucnId": "34746",
-      "iucnCategory": "LC"
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "66454e737cec9470c9dc25358c036c75",
+        "filename": "60448bd4f2a7a71f.png",
+        "organ": "habit",
+        "score": 0.89602
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Castanea sativa Mill.",
+    "results": [
+      {
+        "score": 0.62638,
+        "species": {
+          "scientificNameWithoutAuthor": "Castanea sativa",
+          "scientificNameAuthorship": "Mill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Castanea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Castanea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fagaceae"
+          },
+          "commonNames": [
+            "Sweet Chestnut",
+            "European chestnut",
+            "Spanish chestnut"
+          ],
+          "scientificName": "Castanea sativa Mill."
+        },
+        "gbif": {
+          "id": "5333294"
+        },
+        "powo": {
+          "id": "295349-1"
+        },
+        "iucn": {
+          "id": "202948",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02905,
+        "species": {
+          "scientificNameWithoutAuthor": "Prunus laurocerasus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Prunus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Prunus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Cherry laurel",
+            "English Laurel",
+            "Common Laurel"
+          ],
+          "scientificName": "Prunus laurocerasus L."
+        },
+        "gbif": {
+          "id": "3021496"
+        },
+        "powo": {
+          "id": "324745-2"
+        },
+        "iucn": {
+          "id": "172277",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02031,
+        "species": {
+          "scientificNameWithoutAuthor": "Moquilea platypus",
+          "scientificNameAuthorship": "Hemsl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Moquilea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moquilea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Chrysobalanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chrysobalanaceae"
+          },
+          "commonNames": [
+            "Licania",
+            "Sansapote",
+            "Sunsapote"
+          ],
+          "scientificName": "Moquilea platypus Hemsl."
+        },
+        "gbif": {
+          "id": "2985306"
+        },
+        "powo": {
+          "id": "726774-1"
+        },
+        "iucn": {
+          "id": "61988416",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01294,
+        "species": {
+          "scientificNameWithoutAuthor": "Polyalthia cinnamomea",
+          "scientificNameAuthorship": "Hook.f. & Thomson",
+          "genus": {
+            "scientificNameWithoutAuthor": "Polyalthia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polyalthia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Annonaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Annonaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Polyalthia cinnamomea Hook.f. & Thomson"
+        },
+        "gbif": {
+          "id": "3156403"
+        },
+        "powo": {
+          "id": "74530-1"
+        },
+        "iucn": {
+          "id": "180811940",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00651,
+        "species": {
+          "scientificNameWithoutAuthor": "Castanea dentata",
+          "scientificNameAuthorship": "(Marshall) Borkh.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Castanea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Castanea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fagaceae"
+          },
+          "commonNames": [
+            "American chestnut",
+            "Ƿīnlendisc cystel",
+            "ᎤᎾᎩᎾ"
+          ],
+          "scientificName": "Castanea dentata (Marshall) Borkh."
+        },
+        "gbif": {
+          "id": "5333230"
+        },
+        "powo": {
+          "id": "295320-1"
+        },
+        "iucn": {
+          "id": "62004455",
+          "category": "CR"
+        }
+      },
+      {
+        "score": 0.00616,
+        "species": {
+          "scientificNameWithoutAuthor": "Syzygium aggregatum",
+          "scientificNameAuthorship": "J.W.Dawson",
+          "genus": {
+            "scientificNameWithoutAuthor": "Syzygium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Syzygium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Myrtaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Myrtaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Syzygium aggregatum J.W.Dawson"
+        },
+        "gbif": {
+          "id": "3182133"
+        },
+        "powo": {
+          "id": "1014935-1"
+        },
+        "iucn": {
+          "id": "181014621",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00525,
+        "species": {
+          "scientificNameWithoutAuthor": "Pycnandra gordoniifolia",
+          "scientificNameAuthorship": "(S.Moore) Swenson & Munzinger",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pycnandra",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pycnandra"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Sapotaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sapotaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Pycnandra gordoniifolia (S.Moore) Swenson & Munzinger"
+        },
+        "gbif": {
+          "id": "6306936"
+        },
+        "powo": {
+          "id": "77104106-1"
+        },
+        "iucn": {
+          "id": "158035306",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00446,
+        "species": {
+          "scientificNameWithoutAuthor": "Saraca indica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Saraca",
+            "scientificNameAuthorship": "",
+            "scientificName": "Saraca"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Asoka-tree",
+            "Ashoka",
+            "Red saraca"
+          ],
+          "scientificName": "Saraca indica L."
+        },
+        "gbif": {
+          "id": "5359538"
+        },
+        "powo": {
+          "id": "517899-1"
+        },
+        "iucn": {
+          "id": "170270761",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00435,
+        "species": {
+          "scientificNameWithoutAuthor": "Annona muricata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Annona",
+            "scientificNameAuthorship": "",
+            "scientificName": "Annona"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Annonaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Annonaceae"
+          },
+          "commonNames": [
+            "Soursop",
+            "Sirsak",
+            "Guanabana"
+          ],
+          "scientificName": "Annona muricata L."
+        },
+        "gbif": {
+          "id": "5407273"
+        },
+        "powo": {
+          "id": "14308-2"
+        },
+        "iucn": {
+          "id": "143323191",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00325,
+        "species": {
+          "scientificNameWithoutAuthor": "Aspidosperma megalocarpon",
+          "scientificNameAuthorship": "Müll.Arg.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aspidosperma",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aspidosperma"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Aspidosperma megalocarpon Müll.Arg."
+        },
+        "gbif": {
+          "id": "7316950"
+        },
+        "powo": {
+          "id": "77405-1"
+        },
+        "iucn": {
+          "id": "34746",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 391
+  }
 }

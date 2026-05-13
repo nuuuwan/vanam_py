@@ -90,36 +90,6 @@ class Identify:
         log.debug(json.dumps(raw, indent=2, ensure_ascii=False))
         return raw
 
-    def _call_plantnet(self, photo_path: str) -> list[dict]:
-        """Submit a photo to PlantNet and return a list of predictions
-        in the project's canonical format."""
-        raw = self._call_plantnet_raw(photo_path)
-
-        predictions = []
-        for result in raw.get("results", []):
-            species = result.get("species", {})
-            gbif = result.get("gbif") or {}
-            iucn = result.get("iucn") or {}
-            powo = result.get("powo") or {}
-            predictions.append(
-                {
-                    "confidence": round(result.get("score", 0), 5),
-                    "species": species.get("scientificName", ""),
-                    "genus": species.get("genus", {}).get(
-                        "scientificNameWithoutAuthor", ""
-                    ),
-                    "family": species.get("family", {}).get(
-                        "scientificNameWithoutAuthor", ""
-                    ),
-                    "commonNames": species.get("commonNames", []),
-                    "gbifId": str(gbif.get("id", "")),
-                    "iucnId": str(iucn.get("id", "")),
-                    "iucnCategory": iucn.get("category", ""),
-                    "powoId": str(powo.get("id", "")),
-                }
-            )
-        return predictions
-
     # ------------------------------------------------------------------
     # Save
     # ------------------------------------------------------------------
@@ -156,25 +126,16 @@ class Identify:
 
             log.info(f"Identifying {stem} …")
             try:
-                meta = self._load_image_metadata(stem)
-                predictions = self._call_plantnet(photo_path)
+                image_metadata = self._load_image_metadata(stem)
+                plantnet_data = self._call_plantnet_raw(photo_path)
             except requests.HTTPError as exc:
                 log.warning(f"PlantNet error for {stem}: {exc}")
                 continue
 
-            location = meta.get("imageLocation", {})
             identification = {
-                "imageHash": stem,
-                "imageLocation": {
-                    "latitude": location.get("latitude"),
-                    "longitude": location.get("longitude"),
-                    "accuracy": location.get("accuracy"),
-                    "source": location.get("source", "image-metadata"),
-                },
-                "utImageTaken": meta.get("utImageTaken"),
-                "userId": meta.get("userId"),
-                "deviceIPAddress": meta.get("deviceIPAddress"),
-                "plantNetPredictions": predictions,
+                "hash": stem,
+                "image_metadata": image_metadata,
+                "plantnet_data": plantnet_data,
             }
 
             saved_paths.append(self._save(stem, identification))

@@ -1,151 +1,343 @@
 {
-  "imageHash": "46106a8bdea07c86",
-  "imageLocation": {
-    "latitude": 6.918830555555556,
-    "longitude": 79.85912222222221,
-    "accuracy": 14.468714768883878,
-    "source": "exif"
+  "hash": "46106a8bdea07c86",
+  "image_metadata": {
+    "imageHash": "46106a8bdea07c86",
+    "imageLocation": {
+      "latitude": 6.918830555555556,
+      "longitude": 79.85912222222221,
+      "accuracy": 14.468714768883878,
+      "source": "exif"
+    },
+    "utImageTaken": 1778656727,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/46106a8bdea07c86.png"
   },
-  "utImageTaken": 1778656727,
-  "userId": "1bi07e4",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.11875,
-      "species": "Chlorophytum comosum (Thunb.) Jacques",
-      "genus": "Chlorophytum",
-      "family": "Asparagaceae",
-      "commonNames": [
-        "Spider plant",
-        "کاپنس گندمی\n\nخانواده: لیلیاسه ها (سوسنی ها)",
-        "Hen-and-chickens"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "88249357a19010ff03dbcd73017367cd"
       ],
-      "gbifId": "2774846",
-      "iucnId": "",
-      "iucnCategory": ""
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.06911,
-      "species": "Dracaena reflexa Lam.",
-      "genus": "Dracaena",
-      "family": "Asparagaceae",
-      "commonNames": [
-        "Song-of-India",
-        "It IS NOT a Song of India. This is a Tri-Colored Dracaena",
-        "Tri-colored Dracaena"
-      ],
-      "gbifId": "5304436",
-      "iucnId": "68150169",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.06139,
-      "species": "Ananas comosus (L.) Merr.",
-      "genus": "Ananas",
-      "family": "Bromeliaceae",
-      "commonNames": [
-        "Pineapple",
-        "Ananas",
-        "Hala-kahiki"
-      ],
-      "gbifId": "5288819",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01787,
-      "species": "Cryptanthus bivittatus (Hook.) Regel",
-      "genus": "Cryptanthus",
-      "family": "Bromeliaceae",
-      "commonNames": [
-        "Earth Star",
-        "Pink starfish",
-        "Pink starlite"
-      ],
-      "gbifId": "5287727",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01713,
-      "species": "Chlorophytum capense (L.) Voss",
-      "genus": "Chlorophytum",
-      "family": "Asparagaceae",
-      "commonNames": [
-        "Spider plant",
-        "Bracketplant",
-        "عنکبوتی"
-      ],
-      "gbifId": "2774721",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01494,
-      "species": "Goeppertia majestica (Linden) Borchs. & S.Suárez",
-      "genus": "Goeppertia",
-      "family": "Marantaceae",
-      "commonNames": [
-        "Majestic calathea",
-        "Jacundá"
-      ],
-      "gbifId": "8299888",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01354,
-      "species": "Furcraea foetida (L.) Haw.",
-      "genus": "Furcraea",
-      "family": "Asparagaceae",
-      "commonNames": [
-        "Mauritius-hemp",
-        "Giant cabuya",
-        "Green-aloe"
-      ],
-      "gbifId": "2769796",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01298,
-      "species": "Strobilanthes auriculata Nees",
-      "genus": "Strobilanthes",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Persian shield"
-      ],
-      "gbifId": "7263204",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00806,
-      "species": "Cyperus esculentus L.",
-      "genus": "Cyperus",
-      "family": "Cyperaceae",
-      "commonNames": [
-        "Yellow nutsedge",
-        "Earth-almond",
-        "Tigernut"
-      ],
-      "gbifId": "2716226",
-      "iucnId": "164083",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00712,
-      "species": "Carex oederi Retz.",
-      "genus": "Carex",
-      "family": "Cyperaceae",
-      "commonNames": [
-        "Common & Small-fruited Yellow-sedge",
-        "Small-fruited Yellow-sedge",
-        "Small-fruited yellow sedge"
-      ],
-      "gbifId": "7973697",
-      "iucnId": "64272624",
-      "iucnCategory": "LC"
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "88249357a19010ff03dbcd73017367cd",
+        "filename": "46106a8bdea07c86.png",
+        "organ": "leaf",
+        "score": 0.54405
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Chlorophytum comosum (Thunb.) Jacques",
+    "results": [
+      {
+        "score": 0.11875,
+        "species": {
+          "scientificNameWithoutAuthor": "Chlorophytum comosum",
+          "scientificNameAuthorship": "(Thunb.) Jacques",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chlorophytum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chlorophytum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asparagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagaceae"
+          },
+          "commonNames": [
+            "Spider plant",
+            "کاپنس گندمی\n\nخانواده: لیلیاسه ها (سوسنی ها)",
+            "Hen-and-chickens"
+          ],
+          "scientificName": "Chlorophytum comosum (Thunb.) Jacques"
+        },
+        "gbif": {
+          "id": "2774846"
+        },
+        "powo": {
+          "id": "532810-1"
+        }
+      },
+      {
+        "score": 0.0691,
+        "species": {
+          "scientificNameWithoutAuthor": "Dracaena reflexa",
+          "scientificNameAuthorship": "Lam.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dracaena",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dracaena"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asparagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagaceae"
+          },
+          "commonNames": [
+            "Song-of-India",
+            "It IS NOT a Song of India. This is a Tri-Colored Dracaena",
+            "Tri-colored Dracaena"
+          ],
+          "scientificName": "Dracaena reflexa Lam."
+        },
+        "gbif": {
+          "id": "5304436"
+        },
+        "powo": {
+          "id": "534338-1"
+        },
+        "iucn": {
+          "id": "68150169",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.06139,
+        "species": {
+          "scientificNameWithoutAuthor": "Ananas comosus",
+          "scientificNameAuthorship": "(L.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ananas",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ananas"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Bromeliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bromeliaceae"
+          },
+          "commonNames": [
+            "Pineapple",
+            "Ananas",
+            "Hala-kahiki"
+          ],
+          "scientificName": "Ananas comosus (L.) Merr."
+        },
+        "gbif": {
+          "id": "5288819"
+        },
+        "powo": {
+          "id": "12322-2"
+        }
+      },
+      {
+        "score": 0.01787,
+        "species": {
+          "scientificNameWithoutAuthor": "Cryptanthus bivittatus",
+          "scientificNameAuthorship": "(Hook.) Regel",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cryptanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cryptanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Bromeliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bromeliaceae"
+          },
+          "commonNames": [
+            "Earth Star",
+            "Pink starfish",
+            "Pink starlite"
+          ],
+          "scientificName": "Cryptanthus bivittatus (Hook.) Regel"
+        },
+        "gbif": {
+          "id": "5287727"
+        },
+        "powo": {
+          "id": "122611-1"
+        }
+      },
+      {
+        "score": 0.01713,
+        "species": {
+          "scientificNameWithoutAuthor": "Chlorophytum capense",
+          "scientificNameAuthorship": "(L.) Voss",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chlorophytum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chlorophytum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asparagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagaceae"
+          },
+          "commonNames": [
+            "Spider plant",
+            "Bracketplant",
+            "عنکبوتی"
+          ],
+          "scientificName": "Chlorophytum capense (L.) Voss"
+        },
+        "gbif": {
+          "id": "2774721"
+        },
+        "powo": {
+          "id": "532792-1"
+        }
+      },
+      {
+        "score": 0.01494,
+        "species": {
+          "scientificNameWithoutAuthor": "Goeppertia majestica",
+          "scientificNameAuthorship": "(Linden) Borchs. & S.Suárez",
+          "genus": {
+            "scientificNameWithoutAuthor": "Goeppertia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Goeppertia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Marantaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Marantaceae"
+          },
+          "commonNames": [
+            "Majestic calathea",
+            "Jacundá"
+          ],
+          "scientificName": "Goeppertia majestica (Linden) Borchs. & S.Suárez"
+        },
+        "gbif": {
+          "id": "8299888"
+        },
+        "powo": {
+          "id": "60461040-2"
+        }
+      },
+      {
+        "score": 0.01354,
+        "species": {
+          "scientificNameWithoutAuthor": "Furcraea foetida",
+          "scientificNameAuthorship": "(L.) Haw.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Furcraea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Furcraea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asparagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagaceae"
+          },
+          "commonNames": [
+            "Mauritius-hemp",
+            "Giant cabuya",
+            "Green-aloe"
+          ],
+          "scientificName": "Furcraea foetida (L.) Haw."
+        },
+        "gbif": {
+          "id": "2769796"
+        },
+        "powo": {
+          "id": "64429-1"
+        }
+      },
+      {
+        "score": 0.01298,
+        "species": {
+          "scientificNameWithoutAuthor": "Strobilanthes auriculata",
+          "scientificNameAuthorship": "Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Strobilanthes",
+            "scientificNameAuthorship": "",
+            "scientificName": "Strobilanthes"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Persian shield"
+          ],
+          "scientificName": "Strobilanthes auriculata Nees"
+        },
+        "gbif": {
+          "id": "7263204"
+        },
+        "powo": {
+          "id": "55560-1"
+        }
+      },
+      {
+        "score": 0.00806,
+        "species": {
+          "scientificNameWithoutAuthor": "Cyperus esculentus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cyperus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cyperus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cyperaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cyperaceae"
+          },
+          "commonNames": [
+            "Yellow nutsedge",
+            "Earth-almond",
+            "Tigernut"
+          ],
+          "scientificName": "Cyperus esculentus L."
+        },
+        "gbif": {
+          "id": "2716226"
+        },
+        "powo": {
+          "id": "300668-2"
+        },
+        "iucn": {
+          "id": "164083",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00712,
+        "species": {
+          "scientificNameWithoutAuthor": "Carex oederi",
+          "scientificNameAuthorship": "Retz.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Carex",
+            "scientificNameAuthorship": "",
+            "scientificName": "Carex"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cyperaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cyperaceae"
+          },
+          "commonNames": [
+            "Common & Small-fruited Yellow-sedge",
+            "Small-fruited Yellow-sedge",
+            "Small-fruited yellow sedge"
+          ],
+          "scientificName": "Carex oederi Retz."
+        },
+        "gbif": {
+          "id": "7973697"
+        },
+        "powo": {
+          "id": "30017187-2"
+        },
+        "iucn": {
+          "id": "64272624",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 395
+  }
 }

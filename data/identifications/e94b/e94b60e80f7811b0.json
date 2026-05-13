@@ -1,136 +1,324 @@
 {
-  "imageHash": "e94b60e80f7811b0",
-  "imageLocation": {
-    "latitude": 8.118133333333335,
-    "longitude": 80.66473333333334,
-    "accuracy": 27.995014023060143,
-    "source": "exif"
+  "hash": "e94b60e80f7811b0",
+  "image_metadata": {
+    "imageHash": "e94b60e80f7811b0",
+    "imageLocation": {
+      "latitude": 8.118133333333335,
+      "longitude": 80.66473333333334,
+      "accuracy": 27.995014023060143,
+      "source": "exif"
+    },
+    "utImageTaken": 1775277316,
+    "userId": "e1776bd6",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/e94b60e80f7811b0.png"
   },
-  "utImageTaken": 1775277316,
-  "userId": "e1776bd6",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.54083,
-      "species": "Ecbolium viride (Forssk.) Alston",
-      "genus": "Ecbolium",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Green shrimp plant",
-        "Turquoise crossandra",
-        "డిసెంబర్ పూల చెట్టు"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "6a4a8105b5e2948a50cefd8cf9b24bc1"
       ],
-      "gbifId": "7264277",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.07554,
-      "species": "Barleria oenotheroides Dum.Cours.",
-      "genus": "Barleria",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Cascabel"
+      "organs": [
+        "auto"
       ],
-      "gbifId": "3771627",
-      "iucnId": "",
-      "iucnCategory": ""
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.06433,
-      "species": "Ecbolium ligustrinum (Vahl) Vollesen",
-      "genus": "Ecbolium",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Ice crossandra"
-      ],
-      "gbifId": "5576253",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.04452,
-      "species": "Justicia gendarussa Burm.f.",
-      "genus": "Justicia",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Warer Willow",
-        "Daun Rusa",
-        "Gandarusa"
-      ],
-      "gbifId": "7447231",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.02574,
-      "species": "Barleria paucidentata Benoist",
-      "genus": "Barleria",
-      "family": "Acanthaceae",
-      "commonNames": [],
-      "gbifId": "3771513",
-      "iucnId": "129871838",
-      "iucnCategory": "EN"
-    },
-    {
-      "confidence": 0.01245,
-      "species": "Barleria strigosa Willd.",
-      "genus": "Barleria",
-      "family": "Acanthaceae",
-      "commonNames": [],
-      "gbifId": "3770457",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00998,
-      "species": "Pachystachys lutea Nees",
-      "genus": "Pachystachys",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Golden shrimp-plant",
-        "Yellow shrimp-plant",
-        "Golden-candle"
-      ],
-      "gbifId": "3778625",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.0081,
-      "species": "Justicia refractifolia (Kuntze) Leonard",
-      "genus": "Justicia",
-      "family": "Acanthaceae",
-      "commonNames": [],
-      "gbifId": "3770285",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00569,
-      "species": "Crossandra infundibuliformis (L.) Nees",
-      "genus": "Crossandra",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Firecracker-flower",
-        "కనకాంబరం",
-        "Firecracker-plant"
-      ],
-      "gbifId": "6359825",
-      "iucnId": "70371223",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.0045,
-      "species": "Yeatesia viridiflora (Nees) Small",
-      "genus": "Yeatesia",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Yellow Bractspike"
-      ],
-      "gbifId": "3173218",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "6a4a8105b5e2948a50cefd8cf9b24bc1",
+        "filename": "e94b60e80f7811b0.png",
+        "organ": "leaf",
+        "score": 0.52635
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Ecbolium viride (Forssk.) Alston",
+    "results": [
+      {
+        "score": 0.54083,
+        "species": {
+          "scientificNameWithoutAuthor": "Ecbolium viride",
+          "scientificNameAuthorship": "(Forssk.) Alston",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ecbolium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ecbolium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Green shrimp plant",
+            "Turquoise crossandra",
+            "డిసెంబర్ పూల చెట్టు"
+          ],
+          "scientificName": "Ecbolium viride (Forssk.) Alston"
+        },
+        "gbif": {
+          "id": "7264277"
+        },
+        "powo": {
+          "id": "48609-1"
+        }
+      },
+      {
+        "score": 0.07554,
+        "species": {
+          "scientificNameWithoutAuthor": "Barleria oenotheroides",
+          "scientificNameAuthorship": "Dum.Cours.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Barleria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Barleria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Cascabel"
+          ],
+          "scientificName": "Barleria oenotheroides Dum.Cours."
+        },
+        "gbif": {
+          "id": "3771627"
+        },
+        "powo": {
+          "id": "46114-1"
+        }
+      },
+      {
+        "score": 0.06433,
+        "species": {
+          "scientificNameWithoutAuthor": "Ecbolium ligustrinum",
+          "scientificNameAuthorship": "(Vahl) Vollesen",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ecbolium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ecbolium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Ice crossandra"
+          ],
+          "scientificName": "Ecbolium ligustrinum (Vahl) Vollesen"
+        },
+        "gbif": {
+          "id": "5576253"
+        },
+        "powo": {
+          "id": "947242-1"
+        }
+      },
+      {
+        "score": 0.04452,
+        "species": {
+          "scientificNameWithoutAuthor": "Justicia gendarussa",
+          "scientificNameAuthorship": "Burm.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Justicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Justicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Warer Willow",
+            "Daun Rusa",
+            "Gandarusa"
+          ],
+          "scientificName": "Justicia gendarussa Burm.f."
+        },
+        "gbif": {
+          "id": "7447231"
+        },
+        "powo": {
+          "id": "50766-1"
+        }
+      },
+      {
+        "score": 0.02574,
+        "species": {
+          "scientificNameWithoutAuthor": "Barleria paucidentata",
+          "scientificNameAuthorship": "Benoist",
+          "genus": {
+            "scientificNameWithoutAuthor": "Barleria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Barleria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Barleria paucidentata Benoist"
+        },
+        "gbif": {
+          "id": "3771513"
+        },
+        "powo": {
+          "id": "46129-1"
+        },
+        "iucn": {
+          "id": "129871838",
+          "category": "EN"
+        }
+      },
+      {
+        "score": 0.01245,
+        "species": {
+          "scientificNameWithoutAuthor": "Barleria strigosa",
+          "scientificNameAuthorship": "Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Barleria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Barleria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Barleria strigosa Willd."
+        },
+        "gbif": {
+          "id": "3770457"
+        },
+        "powo": {
+          "id": "46236-1"
+        }
+      },
+      {
+        "score": 0.00998,
+        "species": {
+          "scientificNameWithoutAuthor": "Pachystachys lutea",
+          "scientificNameAuthorship": "Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pachystachys",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pachystachys"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Golden shrimp-plant",
+            "Yellow shrimp-plant",
+            "Golden-candle"
+          ],
+          "scientificName": "Pachystachys lutea Nees"
+        },
+        "gbif": {
+          "id": "3778625"
+        },
+        "powo": {
+          "id": "52814-1"
+        }
+      },
+      {
+        "score": 0.0081,
+        "species": {
+          "scientificNameWithoutAuthor": "Justicia refractifolia",
+          "scientificNameAuthorship": "(Kuntze) Leonard",
+          "genus": {
+            "scientificNameWithoutAuthor": "Justicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Justicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Justicia refractifolia (Kuntze) Leonard"
+        },
+        "gbif": {
+          "id": "3770285"
+        },
+        "powo": {
+          "id": "133076-2"
+        }
+      },
+      {
+        "score": 0.00569,
+        "species": {
+          "scientificNameWithoutAuthor": "Crossandra infundibuliformis",
+          "scientificNameAuthorship": "(L.) Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Crossandra",
+            "scientificNameAuthorship": "",
+            "scientificName": "Crossandra"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Firecracker-flower",
+            "కనకాంబరం",
+            "Firecracker-plant"
+          ],
+          "scientificName": "Crossandra infundibuliformis (L.) Nees"
+        },
+        "gbif": {
+          "id": "6359825"
+        },
+        "powo": {
+          "id": "47014-1"
+        },
+        "iucn": {
+          "id": "70371223",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0045,
+        "species": {
+          "scientificNameWithoutAuthor": "Yeatesia viridiflora",
+          "scientificNameAuthorship": "(Nees) Small",
+          "genus": {
+            "scientificNameWithoutAuthor": "Yeatesia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Yeatesia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Yellow Bractspike"
+          ],
+          "scientificName": "Yeatesia viridiflora (Nees) Small"
+        },
+        "gbif": {
+          "id": "3173218"
+        },
+        "powo": {
+          "id": "270247-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 378
+  }
 }

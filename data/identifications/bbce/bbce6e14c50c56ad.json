@@ -1,151 +1,348 @@
 {
-  "imageHash": "bbce6e14c50c56ad",
-  "imageLocation": {
-    "latitude": 6.918762809474212,
-    "longitude": 79.85912962116655,
-    "accuracy": 8.083774293391945,
-    "source": "browser"
+  "hash": "bbce6e14c50c56ad",
+  "image_metadata": {
+    "imageHash": "bbce6e14c50c56ad",
+    "imageLocation": {
+      "latitude": 6.918762809474212,
+      "longitude": 79.85912962116655,
+      "accuracy": 8.083774293391945,
+      "source": "browser"
+    },
+    "utImageTaken": 1772863873,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/bbce6e14c50c56ad.png"
   },
-  "utImageTaken": 1772863873,
-  "userId": "1bi07e4",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.58154,
-      "species": "Rhododendron periclymenoides (Michx.) Shinners",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Election-pink",
-        "Pinxter-flower",
-        "Pinxterbloom azalea"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "d2d584041183a8cd988dd9cb17f8376a"
       ],
-      "gbifId": "2883027",
-      "iucnId": "",
-      "iucnCategory": ""
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.13539,
-      "species": "Rhododendron canescens (Michx.) Sweet",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Hoary azalea",
-        "Piedmont azalea",
-        "Southern pinxterbloom azalea"
-      ],
-      "gbifId": "2883039",
-      "iucnId": "200390841",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.08862,
-      "species": "Rhododendron occidentale (Torr. & A.Gray) A.Gray",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "California azalea",
-        "Sonoma azalea",
-        "Western Azalea"
-      ],
-      "gbifId": "2883077",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.02236,
-      "species": "Rhododendron prinophyllum (Small) Millais",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Early azalea",
-        "Election-pink",
-        "Roseshell azalea"
-      ],
-      "gbifId": "2883079",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01658,
-      "species": "Rhododendron calendulaceum (Michx.) Torr.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Flame azalea",
-        "Rhododendron",
-        "Cultivated Rhododendron"
-      ],
-      "gbifId": "2883036",
-      "iucnId": "200390526",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.01538,
-      "species": "Rhododendron arborescens (Pursh) Torr.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Sweet azalea",
-        "White-honeysuckle",
-        "Smooth azalea"
-      ],
-      "gbifId": "2883054",
-      "iucnId": "200390306",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00631,
-      "species": "Rhododendron maximum L.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "American Rhododendron",
-        "Great laurel",
-        "Summer Rhododendron"
-      ],
-      "gbifId": "2883094",
-      "iucnId": "82889952",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00539,
-      "species": "Rhododendron atlanticum (Ashe) Rehder",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Dwarf azalea",
-        "Coast azalea"
-      ],
-      "gbifId": "2883032",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00239,
-      "species": "Rhododendron catawbiense Michx.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Catawba rhododendron",
-        "Mountain rose bay",
-        "Purple-laurel"
-      ],
-      "gbifId": "2883047",
-      "iucnId": "156821604",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00233,
-      "species": "Rhododendron molle (Blume) G.Don",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Chinese azalea"
-      ],
-      "gbifId": "7135625",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "d2d584041183a8cd988dd9cb17f8376a",
+        "filename": "bbce6e14c50c56ad.png",
+        "organ": "flower",
+        "score": 0.81556
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Rhododendron periclymenoides (Michx.) Shinners",
+    "results": [
+      {
+        "score": 0.58154,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron periclymenoides",
+          "scientificNameAuthorship": "(Michx.) Shinners",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Election-pink",
+            "Pinxter-flower",
+            "Pinxterbloom azalea"
+          ],
+          "scientificName": "Rhododendron periclymenoides (Michx.) Shinners"
+        },
+        "gbif": {
+          "id": "2883027"
+        },
+        "powo": {
+          "id": "219516-2"
+        }
+      },
+      {
+        "score": 0.13539,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron canescens",
+          "scientificNameAuthorship": "(Michx.) Sweet",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Hoary azalea",
+            "Piedmont azalea",
+            "Southern pinxterbloom azalea"
+          ],
+          "scientificName": "Rhododendron canescens (Michx.) Sweet"
+        },
+        "gbif": {
+          "id": "2883039"
+        },
+        "powo": {
+          "id": "30117552-2"
+        },
+        "iucn": {
+          "id": "200390841",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.08862,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron occidentale",
+          "scientificNameAuthorship": "(Torr. & A.Gray) A.Gray",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "California azalea",
+            "Sonoma azalea",
+            "Western Azalea"
+          ],
+          "scientificName": "Rhododendron occidentale (Torr. & A.Gray) A.Gray"
+        },
+        "gbif": {
+          "id": "2883077"
+        },
+        "powo": {
+          "id": "332991-1"
+        }
+      },
+      {
+        "score": 0.02236,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron prinophyllum",
+          "scientificNameAuthorship": "(Small) Millais",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Early azalea",
+            "Election-pink",
+            "Roseshell azalea"
+          ],
+          "scientificName": "Rhododendron prinophyllum (Small) Millais"
+        },
+        "gbif": {
+          "id": "2883079"
+        }
+      },
+      {
+        "score": 0.01658,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron calendulaceum",
+          "scientificNameAuthorship": "(Michx.) Torr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Flame azalea",
+            "Rhododendron",
+            "Cultivated Rhododendron"
+          ],
+          "scientificName": "Rhododendron calendulaceum (Michx.) Torr."
+        },
+        "gbif": {
+          "id": "2883036"
+        },
+        "powo": {
+          "id": "30159718-2"
+        },
+        "iucn": {
+          "id": "200390526",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01538,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron arborescens",
+          "scientificNameAuthorship": "(Pursh) Torr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Sweet azalea",
+            "White-honeysuckle",
+            "Smooth azalea"
+          ],
+          "scientificName": "Rhododendron arborescens (Pursh) Torr."
+        },
+        "gbif": {
+          "id": "2883054"
+        },
+        "powo": {
+          "id": "30079394-2"
+        },
+        "iucn": {
+          "id": "200390306",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00631,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron maximum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "American Rhododendron",
+            "Great laurel",
+            "Late Rhododendron"
+          ],
+          "scientificName": "Rhododendron maximum L."
+        },
+        "gbif": {
+          "id": "2883094"
+        },
+        "powo": {
+          "id": "219492-2"
+        },
+        "iucn": {
+          "id": "82889952",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00539,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron atlanticum",
+          "scientificNameAuthorship": "(Ashe) Rehder",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Dwarf azalea",
+            "Coast azalea"
+          ],
+          "scientificName": "Rhododendron atlanticum (Ashe) Rehder"
+        },
+        "gbif": {
+          "id": "2883032"
+        },
+        "powo": {
+          "id": "219441-2"
+        }
+      },
+      {
+        "score": 0.00239,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron catawbiense",
+          "scientificNameAuthorship": "Michx.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Catawba rhododendron",
+            "Mountain rose bay",
+            "Purple-laurel"
+          ],
+          "scientificName": "Rhododendron catawbiense Michx."
+        },
+        "gbif": {
+          "id": "2883047"
+        },
+        "powo": {
+          "id": "332124-1"
+        },
+        "iucn": {
+          "id": "156821604",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00233,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron molle",
+          "scientificNameAuthorship": "(Blume) G.Don",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Chinese azalea"
+          ],
+          "scientificName": "Rhododendron molle (Blume) G.Don"
+        },
+        "gbif": {
+          "id": "7135625"
+        },
+        "powo": {
+          "id": "332902-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 383
+  }
 }

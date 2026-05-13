@@ -40,13 +40,13 @@ class CleanupLowConf:
                     log.warning(f"Skipping {path}: {exc}")
 
     def _is_low_confidence(self, data: dict) -> bool:
-        predictions = data.get("plantNetPredictions", [])
-        if not predictions:
+        results = data.get("plantnet", {}).get("results", [])
+        if not results:
             return True
-        return predictions[0].get("confidence", 0) < self.CONFIDENCE_THRESHOLD
+        return results[0].get("score", 0) < self.CONFIDENCE_THRESHOLD
 
     def _is_old(self, data: dict) -> bool:
-        ut = data.get("utImageTaken")
+        ut = data.get("image_metadata", {}).get("utImageTaken")
         if not ut:
             return False
         try:
@@ -65,7 +65,7 @@ class CleanupLowConf:
             pass
 
     def _delete_record(self, ident_path: str, data: dict) -> None:
-        stem = data.get("imageHash", "")
+        stem = data.get("hash", "")
         if not stem:
             return
 

@@ -1,98 +1,217 @@
 {
-  "imageHash": "4827878cc3b6cd03",
-  "imageLocation": {
-    "latitude": 6.918872222222222,
-    "longitude": 79.85911666666667,
-    "accuracy": 14.189871591400951,
-    "source": "exif"
+  "hash": "4827878cc3b6cd03",
+  "image_metadata": {
+    "imageHash": "4827878cc3b6cd03",
+    "imageLocation": {
+      "latitude": 6.918872222222222,
+      "longitude": 79.85911666666667,
+      "accuracy": 14.189871591400951,
+      "source": "exif"
+    },
+    "utImageTaken": 1778656728,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/4827878cc3b6cd03.png"
   },
-  "utImageTaken": 1778656728,
-  "userId": "1bi07e4",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.30146,
-      "species": "Plectranthus amboinicus (Lour.) Spreng.",
-      "genus": "Plectranthus",
-      "family": "Lamiaceae",
-      "commonNames": [
-        "Cuban-oregano",
-        "Indian-mint",
-        "Ajwayan leaf indian"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "bd6359128b11aa2e82b898d05dce0bf8"
       ],
-      "gbifId": "2926636",
-      "iucnId": "",
-      "iucnCategory": ""
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.20673,
-      "species": "Plectranthus barbatus Andrews",
-      "genus": "Plectranthus",
-      "family": "Lamiaceae",
-      "commonNames": [
-        "Forskohlii",
-        "Coleus",
-        "Indian borage"
-      ],
-      "gbifId": "6412796",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00872,
-      "species": "Mentha suaveolens Ehrh.",
-      "genus": "Mentha",
-      "family": "Lamiaceae",
-      "commonNames": [
-        "Apple mint",
-        "Pineapple Mint",
-        "Round-leaved Mint"
-      ],
-      "gbifId": "2927190",
-      "iucnId": "164109",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00185,
-      "species": "Stachytarpheta mutabilis (Jacq.) Vahl",
-      "genus": "Stachytarpheta",
-      "family": "Verbenaceae",
-      "commonNames": [
-        "Coral porterweed",
-        "Red snakeweed",
-        "Pink snakeweed"
-      ],
-      "gbifId": "2925462",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00129,
-      "species": "Plectranthus parviflorus Willd.",
-      "genus": "Plectranthus",
-      "family": "Lamiaceae",
-      "commonNames": [
-        "Little spurflower",
-        "Cockspur-flower",
-        "Swedish ivy"
-      ],
-      "gbifId": "2926642",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00121,
-      "species": "Salvia officinalis L.",
-      "genus": "Salvia",
-      "family": "Lamiaceae",
-      "commonNames": [
-        "Sage",
-        "Common Sage",
-        "Garden Sage"
-      ],
-      "gbifId": "2927004",
-      "iucnId": "203260",
-      "iucnCategory": "LC"
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "bd6359128b11aa2e82b898d05dce0bf8",
+        "filename": "4827878cc3b6cd03.png",
+        "organ": "leaf",
+        "score": 0.62127
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "useful",
+    "bestMatch": "Plectranthus amboinicus (Lour.) Spreng.",
+    "results": [
+      {
+        "score": 0.30146,
+        "species": {
+          "scientificNameWithoutAuthor": "Plectranthus amboinicus",
+          "scientificNameAuthorship": "(Lour.) Spreng.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plectranthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plectranthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Cuban-oregano",
+            "Indian-mint",
+            "Ajwayan leaf indian"
+          ],
+          "scientificName": "Plectranthus amboinicus (Lour.) Spreng."
+        },
+        "gbif": {
+          "id": "2926636"
+        }
+      },
+      {
+        "score": 0.20672,
+        "species": {
+          "scientificNameWithoutAuthor": "Plectranthus barbatus",
+          "scientificNameAuthorship": "Andrews",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plectranthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plectranthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Forskohlii",
+            "Coleus",
+            "Indian borage"
+          ],
+          "scientificName": "Plectranthus barbatus Andrews"
+        },
+        "gbif": {
+          "id": "6412796"
+        }
+      },
+      {
+        "score": 0.00872,
+        "species": {
+          "scientificNameWithoutAuthor": "Mentha suaveolens",
+          "scientificNameAuthorship": "Ehrh.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Mentha",
+            "scientificNameAuthorship": "",
+            "scientificName": "Mentha"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Apple mint",
+            "Pineapple Mint",
+            "Round-leaved Mint"
+          ],
+          "scientificName": "Mentha suaveolens Ehrh."
+        },
+        "gbif": {
+          "id": "2927190"
+        },
+        "powo": {
+          "id": "451188-1"
+        },
+        "iucn": {
+          "id": "164109",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00185,
+        "species": {
+          "scientificNameWithoutAuthor": "Stachytarpheta mutabilis",
+          "scientificNameAuthorship": "(Jacq.) Vahl",
+          "genus": {
+            "scientificNameWithoutAuthor": "Stachytarpheta",
+            "scientificNameAuthorship": "",
+            "scientificName": "Stachytarpheta"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Verbenaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Verbenaceae"
+          },
+          "commonNames": [
+            "Coral porterweed",
+            "Red snakeweed",
+            "Pink snakeweed"
+          ],
+          "scientificName": "Stachytarpheta mutabilis (Jacq.) Vahl"
+        },
+        "gbif": {
+          "id": "2925462"
+        },
+        "powo": {
+          "id": "243385-2"
+        }
+      },
+      {
+        "score": 0.00129,
+        "species": {
+          "scientificNameWithoutAuthor": "Plectranthus parviflorus",
+          "scientificNameAuthorship": "Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plectranthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plectranthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Little spurflower",
+            "Cockspur-flower",
+            "Swedish ivy"
+          ],
+          "scientificName": "Plectranthus parviflorus Willd."
+        },
+        "gbif": {
+          "id": "2926642"
+        }
+      },
+      {
+        "score": 0.00121,
+        "species": {
+          "scientificNameWithoutAuthor": "Salvia officinalis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Salvia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salvia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Sage",
+            "Common Sage",
+            "Garden Sage"
+          ],
+          "scientificName": "Salvia officinalis L."
+        },
+        "gbif": {
+          "id": "2927004"
+        },
+        "powo": {
+          "id": "456833-1"
+        },
+        "iucn": {
+          "id": "203260",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 394
+  }
 }

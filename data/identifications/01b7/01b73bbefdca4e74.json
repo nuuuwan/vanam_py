@@ -1,132 +1,332 @@
 {
-  "imageHash": "01b73bbefdca4e74",
-  "imageLocation": {
-    "latitude": 6.918762814868358,
-    "longitude": 79.85912964071473,
-    "accuracy": 7.948223726995294,
-    "source": "browser"
+  "hash": "01b73bbefdca4e74",
+  "image_metadata": {
+    "imageHash": "01b73bbefdca4e74",
+    "imageLocation": {
+      "latitude": 6.918762814868358,
+      "longitude": 79.85912964071473,
+      "accuracy": 7.948223726995294,
+      "source": "browser"
+    },
+    "utImageTaken": 1772862899,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/01b73bbefdca4e74.png"
   },
-  "utImageTaken": 1772862899,
-  "userId": "1bi07e4",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.26526,
-      "species": "Rhododendron ferrugineum L.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Rhododendron",
-        "Alpine-rose",
-        "Alpenrose"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "198f1c233c7fe0b261f579c0476513a0"
       ],
-      "gbifId": "2883073",
-      "iucnId": "203007",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.2264,
-      "species": "Rhododendron catawbiense Michx.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Catawba rhododendron",
-        "Mountain rose bay",
-        "Purple-laurel"
+      "organs": [
+        "auto"
       ],
-      "gbifId": "2883047",
-      "iucnId": "156821604",
-      "iucnCategory": "LC"
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.08007,
-      "species": "Rhododendron arboreum Sm.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Tree rhododendron"
-      ],
-      "gbifId": "7328114",
-      "iucnId": "136143885",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.03551,
-      "species": "Rhododendron maximum L.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "American Rhododendron",
-        "Great laurel",
-        "Late Rhododendron"
-      ],
-      "gbifId": "2883094",
-      "iucnId": "82889952",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.01868,
-      "species": "Rhododendron pachytrichum Franch.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [],
-      "gbifId": "7328077",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01427,
-      "species": "Rhododendron lukiangense Franch.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [],
-      "gbifId": "4171125",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00865,
-      "species": "Rhododendron × planetum Balf.f.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [],
-      "gbifId": "4167862",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00638,
-      "species": "Rhododendron ponticum L.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Rhododendron",
-        "Pontic Rhododendron",
-        "Pontian rhododendron"
-      ],
-      "gbifId": "7327990",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00584,
-      "species": "Rhododendron kendrickii Nutt.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [],
-      "gbifId": "4172689",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00537,
-      "species": "Rhododendron uvariifolium Diels",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [],
-      "gbifId": "8377374",
-      "iucnId": "147647820",
-      "iucnCategory": "LC"
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "198f1c233c7fe0b261f579c0476513a0",
+        "filename": "01b73bbefdca4e74.png",
+        "organ": "flower",
+        "score": 0.8069
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Rhododendron ferrugineum L.",
+    "results": [
+      {
+        "score": 0.26526,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron ferrugineum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Rhododendron",
+            "Alpine-rose",
+            "Alpenrose"
+          ],
+          "scientificName": "Rhododendron ferrugineum L."
+        },
+        "gbif": {
+          "id": "2883073"
+        },
+        "powo": {
+          "id": "332420-1"
+        },
+        "iucn": {
+          "id": "203007",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.2264,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron catawbiense",
+          "scientificNameAuthorship": "Michx.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Catawba rhododendron",
+            "Mountain rose bay",
+            "Purple-laurel"
+          ],
+          "scientificName": "Rhododendron catawbiense Michx."
+        },
+        "gbif": {
+          "id": "2883047"
+        },
+        "powo": {
+          "id": "332124-1"
+        },
+        "iucn": {
+          "id": "156821604",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.08007,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron arboreum",
+          "scientificNameAuthorship": "Sm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Tree rhododendron"
+          ],
+          "scientificName": "Rhododendron arboreum Sm."
+        },
+        "gbif": {
+          "id": "7328114"
+        },
+        "powo": {
+          "id": "331945-1"
+        },
+        "iucn": {
+          "id": "136143885",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.03551,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron maximum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "American Rhododendron",
+            "Great laurel",
+            "Rosebay Rhododendron"
+          ],
+          "scientificName": "Rhododendron maximum L."
+        },
+        "gbif": {
+          "id": "2883094"
+        },
+        "powo": {
+          "id": "219492-2"
+        },
+        "iucn": {
+          "id": "82889952",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01868,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron pachytrichum",
+          "scientificNameAuthorship": "Franch.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Rhododendron pachytrichum Franch."
+        },
+        "gbif": {
+          "id": "7328077"
+        },
+        "powo": {
+          "id": "333031-1"
+        }
+      },
+      {
+        "score": 0.01427,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron lukiangense",
+          "scientificNameAuthorship": "Franch.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Rhododendron lukiangense Franch."
+        },
+        "gbif": {
+          "id": "4171125"
+        },
+        "powo": {
+          "id": "332808-1"
+        }
+      },
+      {
+        "score": 0.00865,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron × planetum",
+          "scientificNameAuthorship": "Balf.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Rhododendron × planetum Balf.f."
+        },
+        "gbif": {
+          "id": "4167862"
+        },
+        "powo": {
+          "id": "333091-1"
+        }
+      },
+      {
+        "score": 0.00638,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron ponticum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Rhododendron",
+            "Pontic Rhododendron",
+            "Pontian rhododendron"
+          ],
+          "scientificName": "Rhododendron ponticum L."
+        },
+        "gbif": {
+          "id": "7327990"
+        },
+        "powo": {
+          "id": "333114-1"
+        }
+      },
+      {
+        "score": 0.00584,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron kendrickii",
+          "scientificNameAuthorship": "Nutt.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Rhododendron kendrickii Nutt."
+        },
+        "gbif": {
+          "id": "4172689"
+        },
+        "powo": {
+          "id": "332672-1"
+        }
+      },
+      {
+        "score": 0.00537,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron uvariifolium",
+          "scientificNameAuthorship": "Diels",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Rhododendron uvariifolium Diels"
+        },
+        "gbif": {
+          "id": "8377374"
+        },
+        "powo": {
+          "id": "333534-1"
+        },
+        "iucn": {
+          "id": "147647820",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 397
+  }
 }

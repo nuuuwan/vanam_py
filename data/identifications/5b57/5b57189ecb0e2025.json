@@ -1,154 +1,346 @@
 {
-  "imageHash": "5b57189ecb0e2025",
-  "imageLocation": {
-    "latitude": 6.918805555555556,
-    "longitude": 79.85913055555555,
-    "accuracy": 14.718423372371237,
-    "source": "exif"
+  "hash": "5b57189ecb0e2025",
+  "image_metadata": {
+    "imageHash": "5b57189ecb0e2025",
+    "imageLocation": {
+      "latitude": 6.918805555555556,
+      "longitude": 79.85913055555555,
+      "accuracy": 14.718423372371237,
+      "source": "exif"
+    },
+    "utImageTaken": 1778656726,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/5b57189ecb0e2025.png"
   },
-  "utImageTaken": 1778656726,
-  "userId": "1bi07e4",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.0931,
-      "species": "Capsicum annuum L.",
-      "genus": "Capsicum",
-      "family": "Solanaceae",
-      "commonNames": [
-        "Peppers",
-        "Chili",
-        "Bell Pepper"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "dfd9bceef3a89a02288b7133a35b978b"
       ],
-      "gbifId": "2932944",
-      "iucnId": "100895534",
-      "iucnCategory": "LC"
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.08161,
-      "species": "Amaranthus blitum L.",
-      "genus": "Amaranthus",
-      "family": "Amaranthaceae",
-      "commonNames": [
-        "Purple amaranth",
-        "Pigweed",
-        "Wild Amaranth"
-      ],
-      "gbifId": "8911082",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.05774,
-      "species": "Citrus × limon (L.) Osbeck",
-      "genus": "Citrus",
-      "family": "Rutaceae",
-      "commonNames": [
-        "Lemon",
-        "Lemon-tree",
-        "Mandarin lime"
-      ],
-      "gbifId": "7647136",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.04621,
-      "species": "Citrus hystrix DC.",
-      "genus": "Citrus",
-      "family": "Rutaceae",
-      "commonNames": [
-        "Kaffir lime",
-        "Makrut-lime",
-        "Mauritius papeda"
-      ],
-      "gbifId": "6433679",
-      "iucnId": "62038171",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.01913,
-      "species": "Amaranthus viridis L.",
-      "genus": "Amaranthus",
-      "family": "Amaranthaceae",
-      "commonNames": [
-        "Green amaranth",
-        "Tropical green amaranth",
-        "Pigweed"
-      ],
-      "gbifId": "5384334",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01795,
-      "species": "Euphorbia milii Des Moul.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Crown-of-thorns",
-        "گل مرجان",
-        "مرجان مینیاتوری"
-      ],
-      "gbifId": "3067157",
-      "iucnId": "44389",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.01445,
-      "species": "Amaranthus spinosus L.",
-      "genus": "Amaranthus",
-      "family": "Amaranthaceae",
-      "commonNames": [
-        "Pigweed",
-        "Thorny amaranth",
-        "Thorny pigweed"
-      ],
-      "gbifId": "5384401",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01124,
-      "species": "Bidens pilosa L.",
-      "genus": "Bidens",
-      "family": "Asteraceae",
-      "commonNames": [
-        "Spanish-needles",
-        "Blackjack",
-        "Beggar-ticks"
-      ],
-      "gbifId": "5391845",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.0112,
-      "species": "Rosa chinensis Jacq.",
-      "genus": "Rosa",
-      "family": "Rosaceae",
-      "commonNames": [
-        "Bengal rose",
-        "China Rose",
-        "Chinese rose"
-      ],
-      "gbifId": "3005039",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00962,
-      "species": "Solanum melongena L.",
-      "genus": "Solanum",
-      "family": "Solanaceae",
-      "commonNames": [
-        "Eggplant",
-        "Aubergine",
-        "Brinjal"
-      ],
-      "gbifId": "2930617",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "dfd9bceef3a89a02288b7133a35b978b",
+        "filename": "5b57189ecb0e2025.png",
+        "organ": "leaf",
+        "score": 0.82417
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Capsicum annuum L.",
+    "results": [
+      {
+        "score": 0.0931,
+        "species": {
+          "scientificNameWithoutAuthor": "Capsicum annuum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Capsicum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Capsicum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Peppers",
+            "Chili",
+            "Bell Pepper"
+          ],
+          "scientificName": "Capsicum annuum L."
+        },
+        "gbif": {
+          "id": "2932944"
+        },
+        "powo": {
+          "id": "316944-2"
+        },
+        "iucn": {
+          "id": "100895534",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.08161,
+        "species": {
+          "scientificNameWithoutAuthor": "Amaranthus blitum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Amaranthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Purple amaranth",
+            "Pigweed",
+            "Wild Amaranth"
+          ],
+          "scientificName": "Amaranthus blitum L."
+        },
+        "gbif": {
+          "id": "8911082"
+        },
+        "powo": {
+          "id": "10619-2"
+        }
+      },
+      {
+        "score": 0.05774,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × limon",
+          "scientificNameAuthorship": "(L.) Osbeck",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Lemon-tree",
+            "Mandarin lime"
+          ],
+          "scientificName": "Citrus × limon (L.) Osbeck"
+        },
+        "gbif": {
+          "id": "7647136"
+        },
+        "powo": {
+          "id": "60454758-2"
+        }
+      },
+      {
+        "score": 0.04621,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus hystrix",
+          "scientificNameAuthorship": "DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Kaffir lime",
+            "Makrut-lime",
+            "Mauritius papeda"
+          ],
+          "scientificName": "Citrus hystrix DC."
+        },
+        "gbif": {
+          "id": "6433679"
+        },
+        "powo": {
+          "id": "771927-1"
+        },
+        "iucn": {
+          "id": "62038171",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01913,
+        "species": {
+          "scientificNameWithoutAuthor": "Amaranthus viridis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Amaranthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Green amaranth",
+            "Tropical green amaranth",
+            "Pigweed"
+          ],
+          "scientificName": "Amaranthus viridis L."
+        },
+        "gbif": {
+          "id": "5384334"
+        },
+        "powo": {
+          "id": "316349-2"
+        }
+      },
+      {
+        "score": 0.01795,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia milii",
+          "scientificNameAuthorship": "Des Moul.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Crown-of-thorns",
+            "گل مرجان",
+            "مرجان مینیاتوری"
+          ],
+          "scientificName": "Euphorbia milii Des Moul."
+        },
+        "gbif": {
+          "id": "3067157"
+        },
+        "powo": {
+          "id": "347359-1"
+        },
+        "iucn": {
+          "id": "44389",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01445,
+        "species": {
+          "scientificNameWithoutAuthor": "Amaranthus spinosus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Amaranthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Pigweed",
+            "Thorny amaranth",
+            "Thorny pigweed"
+          ],
+          "scientificName": "Amaranthus spinosus L."
+        },
+        "gbif": {
+          "id": "5384401"
+        },
+        "powo": {
+          "id": "10711-2"
+        }
+      },
+      {
+        "score": 0.01124,
+        "species": {
+          "scientificNameWithoutAuthor": "Bidens pilosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bidens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bidens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Spanish-needles",
+            "Blackjack",
+            "Beggar-ticks"
+          ],
+          "scientificName": "Bidens pilosa L."
+        },
+        "gbif": {
+          "id": "5391845"
+        },
+        "powo": {
+          "id": "32564-2"
+        }
+      },
+      {
+        "score": 0.0112,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa chinensis",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Bengal rose",
+            "China Rose",
+            "Chinese rose"
+          ],
+          "scientificName": "Rosa chinensis Jacq."
+        },
+        "gbif": {
+          "id": "3005039"
+        },
+        "powo": {
+          "id": "732029-1"
+        }
+      },
+      {
+        "score": 0.00962,
+        "species": {
+          "scientificNameWithoutAuthor": "Solanum melongena",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Solanum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Eggplant",
+            "Aubergine",
+            "Brinjal"
+          ],
+          "scientificName": "Solanum melongena L."
+        },
+        "gbif": {
+          "id": "2930617"
+        },
+        "powo": {
+          "id": "820053-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 392
+  }
 }

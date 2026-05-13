@@ -1,56 +1,138 @@
 {
-  "imageHash": "d67c2096ab66b15c",
-  "imageLocation": {
-    "latitude": 6.897664,
-    "longitude": 79.8654464,
-    "accuracy": 163722.89385756708,
-    "source": "browser"
+  "hash": "d67c2096ab66b15c",
+  "image_metadata": {
+    "imageHash": "d67c2096ab66b15c",
+    "imageLocation": {
+      "latitude": 6.897664,
+      "longitude": 79.8654464,
+      "accuracy": 163722.89385756708,
+      "source": "browser"
+    },
+    "utImageTaken": "1778645972",
+    "userId": "9f6fcdc6"
   },
-  "utImageTaken": "1778645972",
-  "userId": "9f6fcdc6",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.91645,
-      "species": "Artocarpus heterophyllus Lam.",
-      "genus": "Artocarpus",
-      "family": "Moraceae",
-      "commonNames": [
-        "Jackfruit",
-        "Nangka",
-        "Jack"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "286c36db2e75dd721d06fef9a0bc722f"
       ],
-      "gbifId": "2984565",
-      "iucnId": "",
-      "iucnCategory": ""
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.04809,
-      "species": "Artocarpus integer (Thunb.) Merr.",
-      "genus": "Artocarpus",
-      "family": "Moraceae",
-      "commonNames": [
-        "Chempedak",
-        "Champedak",
-        "Tjampedak"
-      ],
-      "gbifId": "2984566",
-      "iucnId": "61220334",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00276,
-      "species": "Citrus maxima (Burm.) Merr.",
-      "genus": "Citrus",
-      "family": "Rutaceae",
-      "commonNames": [
-        "Pomelo",
-        "Shaddock",
-        "Pummelo"
-      ],
-      "gbifId": "3190160",
-      "iucnId": "62042732",
-      "iucnCategory": "LC"
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "286c36db2e75dd721d06fef9a0bc722f",
+        "filename": "d67c2096ab66b15c.png",
+        "organ": "fruit",
+        "score": 0.77049
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Artocarpus heterophyllus Lam.",
+    "results": [
+      {
+        "score": 0.91645,
+        "species": {
+          "scientificNameWithoutAuthor": "Artocarpus heterophyllus",
+          "scientificNameAuthorship": "Lam.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Artocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Artocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Jackfruit",
+            "Nangka",
+            "Jack"
+          ],
+          "scientificName": "Artocarpus heterophyllus Lam."
+        },
+        "gbif": {
+          "id": "2984565"
+        },
+        "powo": {
+          "id": "850389-1"
+        }
+      },
+      {
+        "score": 0.04809,
+        "species": {
+          "scientificNameWithoutAuthor": "Artocarpus integer",
+          "scientificNameAuthorship": "(Thunb.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Artocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Artocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Chempedak",
+            "Champedak",
+            "Tjampedak"
+          ],
+          "scientificName": "Artocarpus integer (Thunb.) Merr."
+        },
+        "gbif": {
+          "id": "2984566"
+        },
+        "powo": {
+          "id": "582622-1"
+        },
+        "iucn": {
+          "id": "61220334",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00276,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus maxima",
+          "scientificNameAuthorship": "(Burm.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Pomelo",
+            "Shaddock",
+            "Pummelo"
+          ],
+          "scientificName": "Citrus maxima (Burm.) Merr."
+        },
+        "gbif": {
+          "id": "3190160"
+        },
+        "powo": {
+          "id": "30075266-2"
+        },
+        "iucn": {
+          "id": "62042732",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 380
+  }
 }

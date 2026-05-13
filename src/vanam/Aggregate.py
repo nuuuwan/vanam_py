@@ -41,8 +41,29 @@ class Aggregate:
 
     @staticmethod
     def _top_prediction(identification: dict) -> dict | None:
-        predictions = identification.get("plantNetPredictions", [])
-        return predictions[0] if predictions else None
+        results = identification.get("plantnet", {}).get("results", [])
+        if not results:
+            return None
+        result = results[0]
+        species = result.get("species", {})
+        gbif = result.get("gbif") or {}
+        iucn = result.get("iucn") or {}
+        powo = result.get("powo") or {}
+        return {
+            "confidence": round(result.get("score", 0), 5),
+            "species": species.get("scientificName", ""),
+            "genus": species.get("genus", {}).get(
+                "scientificNameWithoutAuthor", ""
+            ),
+            "family": species.get("family", {}).get(
+                "scientificNameWithoutAuthor", ""
+            ),
+            "commonNames": species.get("commonNames", []),
+            "gbifId": str(gbif.get("id", "")),
+            "iucnId": str(iucn.get("id", "")),
+            "iucnCategory": iucn.get("category", ""),
+            "powoId": str(powo.get("id", "")),
+        }
 
     @staticmethod
     def _write_json(path: str, data) -> None:
@@ -61,9 +82,9 @@ class Aggregate:
         all_summaries: list[dict] = []
 
         for ident in self._iter_identifications():
-            image_hash = ident.get("imageHash", "")
-            location = ident.get("imageLocation", {})
-            user_id = ident.get("userId")
+            image_hash = ident.get("hash", "")
+            image_meta = ident.get("image_metadata", {})
+            user_id = image_meta.get("userId")
             top = self._top_prediction(ident)
 
             # user_map
@@ -75,11 +96,11 @@ class Aggregate:
                 {
                     "imageHash": image_hash,
                     "latLng": {
-                        "lat": location.get("latitude"),
-                        "lng": location.get("longitude"),
+                        "lat": image_meta.get("latitude"),
+                        "lng": image_meta.get("longitude"),
                     },
-                    "source": location.get("source"),
-                    "utImageTaken": ident.get("utImageTaken"),
+                    "source": image_meta.get("source"),
+                    "utImageTaken": image_meta.get("utImageTaken"),
                     "userId": user_id,
                     "topPrediction": top,
                 }

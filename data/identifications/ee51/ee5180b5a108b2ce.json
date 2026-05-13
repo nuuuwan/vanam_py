@@ -1,124 +1,274 @@
 {
-  "imageHash": "ee5180b5a108b2ce",
-  "imageLocation": {
-    "latitude": 6.918762814868359,
-    "longitude": 79.85912964071474,
-    "accuracy": 7.948222888377434,
-    "source": "browser"
+  "hash": "ee5180b5a108b2ce",
+  "image_metadata": {
+    "imageHash": "ee5180b5a108b2ce",
+    "imageLocation": {
+      "latitude": 6.918762814868359,
+      "longitude": 79.85912964071474,
+      "accuracy": 7.948222888377434,
+      "source": "browser"
+    },
+    "utImageTaken": 1772863980,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/ee5180b5a108b2ce.png"
   },
-  "utImageTaken": 1772863980,
-  "userId": "1bi07e4",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.78142,
-      "species": "Oxalis pes-caprae L.",
-      "genus": "Oxalis",
-      "family": "Oxalidaceae",
-      "commonNames": [
-        "Bermuda-buttercup",
-        "Sourgrass",
-        "Yellow-flower oxalis"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "567e5d2d5b846128c8fa347c6c447678"
       ],
-      "gbifId": "2891661",
-      "iucnId": "",
-      "iucnCategory": ""
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.01001,
-      "species": "Reinwardtia indica Dumort.",
-      "genus": "Reinwardtia",
-      "family": "Linaceae",
-      "commonNames": [
-        "Pyoli",
-        "Yellow flax",
-        "Himalayan yellow flax"
-      ],
-      "gbifId": "5658009",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00951,
-      "species": "Oxalis dillenii Jacq.",
-      "genus": "Oxalis",
-      "family": "Oxalidaceae",
-      "commonNames": [
-        "Common yellow wood-sorrel",
-        "Wood-shamrock",
-        "Common Yellow Woodsorrel"
-      ],
-      "gbifId": "2891677",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.0048,
-      "species": "Camonea umbellata (L.) A.R.Simões & Staples",
-      "genus": "Camonea",
-      "family": "Convolvulaceae",
-      "commonNames": [
-        "Hogvine",
-        "Yellow merremia",
-        "Yellow wood rose"
-      ],
-      "gbifId": "9452352",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00279,
-      "species": "Oxalis stricta L.",
-      "genus": "Oxalis",
-      "family": "Oxalidaceae",
-      "commonNames": [
-        "Yellow wood-sorrel",
-        "Sourgrass",
-        "Yellow sheep-sorrel"
-      ],
-      "gbifId": "9823072",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.0026,
-      "species": "Linum flavum L.",
-      "genus": "Linum",
-      "family": "Linaceae",
-      "commonNames": [
-        "Yellow flax",
-        "Golden flax"
-      ],
-      "gbifId": "7293238",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00184,
-      "species": "Linum campanulatum L.",
-      "genus": "Linum",
-      "family": "Linaceae",
-      "commonNames": [
-        "Campanulate flax",
-        "Yellow herbaceous flax"
-      ],
-      "gbifId": "7734774",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00178,
-      "species": "Bunias erucago L.",
-      "genus": "Bunias",
-      "family": "Brassicaceae",
-      "commonNames": [
-        "Southern warty-cabbage",
-        "Crested wartycabbage",
-        "Crested Bunias"
-      ],
-      "gbifId": "3050357",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "567e5d2d5b846128c8fa347c6c447678",
+        "filename": "ee5180b5a108b2ce.png",
+        "organ": "flower",
+        "score": 0.7622
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Oxalis pes-caprae L.",
+    "results": [
+      {
+        "score": 0.78142,
+        "species": {
+          "scientificNameWithoutAuthor": "Oxalis pes-caprae",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Oxalis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oxalis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oxalidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oxalidaceae"
+          },
+          "commonNames": [
+            "Bermuda-buttercup",
+            "Sourgrass",
+            "Yellow-flower oxalis"
+          ],
+          "scientificName": "Oxalis pes-caprae L."
+        },
+        "gbif": {
+          "id": "2891661"
+        },
+        "powo": {
+          "id": "375259-1"
+        }
+      },
+      {
+        "score": 0.01001,
+        "species": {
+          "scientificNameWithoutAuthor": "Reinwardtia indica",
+          "scientificNameAuthorship": "Dumort.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Reinwardtia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Reinwardtia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Linaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Linaceae"
+          },
+          "commonNames": [
+            "Pyoli",
+            "Yellow flax",
+            "Himalayan yellow flax"
+          ],
+          "scientificName": "Reinwardtia indica Dumort."
+        },
+        "gbif": {
+          "id": "5658009"
+        },
+        "powo": {
+          "id": "544868-1"
+        }
+      },
+      {
+        "score": 0.00951,
+        "species": {
+          "scientificNameWithoutAuthor": "Oxalis dillenii",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Oxalis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oxalis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oxalidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oxalidaceae"
+          },
+          "commonNames": [
+            "Common yellow wood-sorrel",
+            "Wood-shamrock",
+            "Common Yellow Woodsorrel"
+          ],
+          "scientificName": "Oxalis dillenii Jacq."
+        },
+        "gbif": {
+          "id": "2891677"
+        },
+        "powo": {
+          "id": "177944-2"
+        }
+      },
+      {
+        "score": 0.0048,
+        "species": {
+          "scientificNameWithoutAuthor": "Camonea umbellata",
+          "scientificNameAuthorship": "(L.) A.R.Simões & Staples",
+          "genus": {
+            "scientificNameWithoutAuthor": "Camonea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Camonea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Convolvulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulaceae"
+          },
+          "commonNames": [
+            "Hogvine",
+            "Yellow merremia",
+            "Yellow wood rose"
+          ],
+          "scientificName": "Camonea umbellata (L.) A.R.Simões & Staples"
+        },
+        "gbif": {
+          "id": "9452352"
+        },
+        "powo": {
+          "id": "77163301-1"
+        }
+      },
+      {
+        "score": 0.00279,
+        "species": {
+          "scientificNameWithoutAuthor": "Oxalis stricta",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Oxalis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oxalis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oxalidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oxalidaceae"
+          },
+          "commonNames": [
+            "Yellow wood-sorrel",
+            "Sourgrass",
+            "Yellow sheep-sorrel"
+          ],
+          "scientificName": "Oxalis stricta L."
+        },
+        "gbif": {
+          "id": "9823072"
+        },
+        "powo": {
+          "id": "178499-2"
+        }
+      },
+      {
+        "score": 0.0026,
+        "species": {
+          "scientificNameWithoutAuthor": "Linum flavum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Linum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Linum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Linaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Linaceae"
+          },
+          "commonNames": [
+            "Yellow flax",
+            "Golden flax"
+          ],
+          "scientificName": "Linum flavum L."
+        },
+        "gbif": {
+          "id": "7293238"
+        },
+        "powo": {
+          "id": "544473-1"
+        }
+      },
+      {
+        "score": 0.00184,
+        "species": {
+          "scientificNameWithoutAuthor": "Linum campanulatum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Linum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Linum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Linaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Linaceae"
+          },
+          "commonNames": [
+            "Campanulate flax",
+            "Yellow herbaceous flax"
+          ],
+          "scientificName": "Linum campanulatum L."
+        },
+        "gbif": {
+          "id": "7734774"
+        },
+        "powo": {
+          "id": "544394-1"
+        }
+      },
+      {
+        "score": 0.00178,
+        "species": {
+          "scientificNameWithoutAuthor": "Bunias erucago",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bunias",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bunias"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Southern warty-cabbage",
+            "Crested wartycabbage",
+            "Crested Bunias"
+          ],
+          "scientificName": "Bunias erucago L."
+        },
+        "gbif": {
+          "id": "3050357"
+        },
+        "powo": {
+          "id": "279698-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 377
+  }
 }

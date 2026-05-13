@@ -1,147 +1,335 @@
 {
-  "imageHash": "9477aa8de53c1b89",
-  "imageLocation": {
-    "latitude": 8.118325,
-    "longitude": 80.66455833333333,
-    "accuracy": 12.004009855548578,
-    "source": "exif"
+  "hash": "9477aa8de53c1b89",
+  "image_metadata": {
+    "imageHash": "9477aa8de53c1b89",
+    "imageLocation": {
+      "latitude": 8.118325,
+      "longitude": 80.66455833333333,
+      "accuracy": 12.004009855548578,
+      "source": "exif"
+    },
+    "utImageTaken": 1775277324,
+    "userId": "e1776bd6",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/9477aa8de53c1b89.png"
   },
-  "utImageTaken": 1775277324,
-  "userId": "e1776bd6",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.38905,
-      "species": "Eranthemum pulchellum Andrews",
-      "genus": "Eranthemum",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Blue-sage"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "cd396f71714d8a4a26d8602e100b0ac5"
       ],
-      "gbifId": "3172936",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.05068,
-      "species": "Phlox maculata L.",
-      "genus": "Phlox",
-      "family": "Polemoniaceae",
-      "commonNames": [
-        "Meadow phlox",
-        "Spotted phlox",
-        "Wild sweet-William"
+      "organs": [
+        "auto"
       ],
-      "gbifId": "2927783",
-      "iucnId": "",
-      "iucnCategory": ""
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.0303,
-      "species": "Lunaria rediviva L.",
-      "genus": "Lunaria",
-      "family": "Brassicaceae",
-      "commonNames": [
-        "Perennial honesty",
-        "Perennial Money-flower",
-        "Perennial Lunaria"
-      ],
-      "gbifId": "5373322",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01393,
-      "species": "Cardamine heptaphylla (Vill.) O.E.Schulz",
-      "genus": "Cardamine",
-      "family": "Brassicaceae",
-      "commonNames": [
-        "Bitter-Cress",
-        "Pinnate Coralroot",
-        "Lady's smock"
-      ],
-      "gbifId": "3045634",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00788,
-      "species": "Ruellia simplex C.Wright",
-      "genus": "Ruellia",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Mexican petunia",
-        "Spanish-ladies",
-        "اطلسی مکزیکی"
-      ],
-      "gbifId": "5572994",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00664,
-      "species": "Eranthemum purpurascens Wight ex Nees",
-      "genus": "Eranthemum",
-      "family": "Acanthaceae",
-      "commonNames": [],
-      "gbifId": "3776692",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00659,
-      "species": "Impatiens flaccida Arn.",
-      "genus": "Impatiens",
-      "family": "Balsaminaceae",
-      "commonNames": [
-        "Busy lizzy",
-        "రిక్క గోరింట"
-      ],
-      "gbifId": "4193555",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00583,
-      "species": "Phlox divaricata L.",
-      "genus": "Phlox",
-      "family": "Polemoniaceae",
-      "commonNames": [
-        "Forest phlox",
-        "Woodland Phlox",
-        "Wild blue phlox"
-      ],
-      "gbifId": "2927730",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00525,
-      "species": "Crossandra infundibuliformis (L.) Nees",
-      "genus": "Crossandra",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Firecracker-flower",
-        "కనకాంబరం",
-        "Firecracker-plant"
-      ],
-      "gbifId": "6359825",
-      "iucnId": "70371223",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00357,
-      "species": "Clerodendrum indicum (L.) Kuntze",
-      "genus": "Clerodendrum",
-      "family": "Lamiaceae",
-      "commonNames": [
-        "Turk's turbin",
-        "Turk's-turban",
-        "Tubbeflower"
-      ],
-      "gbifId": "2925349",
-      "iucnId": "150213451",
-      "iucnCategory": "LC"
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "cd396f71714d8a4a26d8602e100b0ac5",
+        "filename": "9477aa8de53c1b89.png",
+        "organ": "flower",
+        "score": 0.77501
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Eranthemum pulchellum Andrews",
+    "results": [
+      {
+        "score": 0.38905,
+        "species": {
+          "scientificNameWithoutAuthor": "Eranthemum pulchellum",
+          "scientificNameAuthorship": "Andrews",
+          "genus": {
+            "scientificNameWithoutAuthor": "Eranthemum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Eranthemum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Blue-sage"
+          ],
+          "scientificName": "Eranthemum pulchellum Andrews"
+        },
+        "gbif": {
+          "id": "3172936"
+        },
+        "powo": {
+          "id": "48879-1"
+        }
+      },
+      {
+        "score": 0.05068,
+        "species": {
+          "scientificNameWithoutAuthor": "Phlox maculata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phlox",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phlox"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Polemoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polemoniaceae"
+          },
+          "commonNames": [
+            "Meadow phlox",
+            "Spotted phlox",
+            "Wild sweet-William"
+          ],
+          "scientificName": "Phlox maculata L."
+        },
+        "gbif": {
+          "id": "2927783"
+        },
+        "powo": {
+          "id": "193570-2"
+        }
+      },
+      {
+        "score": 0.0303,
+        "species": {
+          "scientificNameWithoutAuthor": "Lunaria rediviva",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lunaria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lunaria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Perennial honesty",
+            "Perennial Money-flower",
+            "Perennial Lunaria"
+          ],
+          "scientificName": "Lunaria rediviva L."
+        },
+        "gbif": {
+          "id": "5373322"
+        },
+        "powo": {
+          "id": "286670-1"
+        }
+      },
+      {
+        "score": 0.01393,
+        "species": {
+          "scientificNameWithoutAuthor": "Cardamine heptaphylla",
+          "scientificNameAuthorship": "(Vill.) O.E.Schulz",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cardamine",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cardamine"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Bitter-Cress",
+            "Pinnate Coralroot",
+            "Lady's smock"
+          ],
+          "scientificName": "Cardamine heptaphylla (Vill.) O.E.Schulz"
+        },
+        "gbif": {
+          "id": "3045634"
+        },
+        "powo": {
+          "id": "280365-1"
+        }
+      },
+      {
+        "score": 0.00788,
+        "species": {
+          "scientificNameWithoutAuthor": "Ruellia simplex",
+          "scientificNameAuthorship": "C.Wright",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ruellia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ruellia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Mexican petunia",
+            "Spanish-ladies",
+            "اطلسی مکزیکی"
+          ],
+          "scientificName": "Ruellia simplex C.Wright"
+        },
+        "gbif": {
+          "id": "5572994"
+        },
+        "powo": {
+          "id": "54585-1"
+        }
+      },
+      {
+        "score": 0.00664,
+        "species": {
+          "scientificNameWithoutAuthor": "Eranthemum purpurascens",
+          "scientificNameAuthorship": "Wight ex Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Eranthemum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Eranthemum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Eranthemum purpurascens Wight ex Nees"
+        },
+        "gbif": {
+          "id": "3776692"
+        },
+        "powo": {
+          "id": "48883-1"
+        }
+      },
+      {
+        "score": 0.00659,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens flaccida",
+          "scientificNameAuthorship": "Arn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "Busy lizzy",
+            "రిక్క గోరింట"
+          ],
+          "scientificName": "Impatiens flaccida Arn."
+        },
+        "gbif": {
+          "id": "4193555"
+        },
+        "powo": {
+          "id": "374090-1"
+        }
+      },
+      {
+        "score": 0.00583,
+        "species": {
+          "scientificNameWithoutAuthor": "Phlox divaricata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phlox",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phlox"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Polemoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polemoniaceae"
+          },
+          "commonNames": [
+            "Forest phlox",
+            "Wild blue phlox",
+            "Woodland Phlox"
+          ],
+          "scientificName": "Phlox divaricata L."
+        },
+        "gbif": {
+          "id": "2927730"
+        },
+        "powo": {
+          "id": "193437-2"
+        }
+      },
+      {
+        "score": 0.00525,
+        "species": {
+          "scientificNameWithoutAuthor": "Crossandra infundibuliformis",
+          "scientificNameAuthorship": "(L.) Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Crossandra",
+            "scientificNameAuthorship": "",
+            "scientificName": "Crossandra"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Firecracker-flower",
+            "కనకాంబరం",
+            "Firecracker-plant"
+          ],
+          "scientificName": "Crossandra infundibuliformis (L.) Nees"
+        },
+        "gbif": {
+          "id": "6359825"
+        },
+        "powo": {
+          "id": "47014-1"
+        },
+        "iucn": {
+          "id": "70371223",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00357,
+        "species": {
+          "scientificNameWithoutAuthor": "Clerodendrum indicum",
+          "scientificNameAuthorship": "(L.) Kuntze",
+          "genus": {
+            "scientificNameWithoutAuthor": "Clerodendrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Clerodendrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Turk's turbin",
+            "Turk's-turban",
+            "Tubbeflower"
+          ],
+          "scientificName": "Clerodendrum indicum (L.) Kuntze"
+        },
+        "gbif": {
+          "id": "2925349"
+        },
+        "powo": {
+          "id": "862153-1"
+        },
+        "iucn": {
+          "id": "150213451",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 388
+  }
 }

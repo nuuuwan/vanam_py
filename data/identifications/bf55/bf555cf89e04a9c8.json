@@ -1,153 +1,349 @@
 {
-  "imageHash": "bf555cf89e04a9c8",
-  "imageLocation": {
-    "latitude": 6.8910557,
-    "longitude": 79.8632725,
-    "accuracy": 1393.4478925049518,
-    "source": "browser"
+  "hash": "bf555cf89e04a9c8",
+  "image_metadata": {
+    "imageHash": "bf555cf89e04a9c8",
+    "imageLocation": {
+      "latitude": 6.8910557,
+      "longitude": 79.8632725,
+      "accuracy": 1393.4478925049518,
+      "source": "browser"
+    },
+    "utImageTaken": "1778656068",
+    "userId": "06qahco",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/bf555cf89e04a9c8.png"
   },
-  "utImageTaken": "1778656068",
-  "userId": "06qahco",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.0147,
-      "species": "Tripolium pannonicum (Jacq.) Dobrocz.",
-      "genus": "Tripolium",
-      "family": "Asteraceae",
-      "commonNames": [
-        "Sea aster",
-        "Sea starwort"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "5e53a0a3c56fea07c43033b3c262b3dc"
       ],
-      "gbifId": "3098616",
-      "iucnId": "",
-      "iucnCategory": ""
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.01039,
-      "species": "Dipsacus fullonum L.",
-      "genus": "Dipsacus",
-      "family": "Caprifoliaceae",
-      "commonNames": [
-        "Common Teasel",
-        "Teasel",
-        "Wild teasel"
-      ],
-      "gbifId": "8435025",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00623,
-      "species": "Agave americana L.",
-      "genus": "Agave",
-      "family": "Asparagaceae",
-      "commonNames": [
-        "Agave",
-        "American century plant",
-        "American agave"
-      ],
-      "gbifId": "2767031",
-      "iucnId": "13507070",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00473,
-      "species": "Prunus persica (L.) Batsch",
-      "genus": "Prunus",
-      "family": "Rosaceae",
-      "commonNames": [
-        "Peach",
-        "هلو",
-        "Peach tree"
-      ],
-      "gbifId": "3022511",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.0042,
-      "species": "Crassula perfoliata L.",
-      "genus": "Crassula",
-      "family": "Crassulaceae",
-      "commonNames": [
-        "Red treasure",
-        "Propeller Plant",
-        "Crassula falcata"
-      ],
-      "gbifId": "7172987",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00347,
-      "species": "Agave weberi J.F.Cels ex J.Poiss.",
-      "genus": "Agave",
-      "family": "Asparagaceae",
-      "commonNames": [
-        "Weber's century plant",
-        "Weber Agave",
-        "Weber's Agave"
-      ],
-      "gbifId": "2766599",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00298,
-      "species": "Jubaea chilensis (Molina) Baill.",
-      "genus": "Jubaea",
-      "family": "Arecaceae",
-      "commonNames": [
-        "Coquito palm",
-        "Syrup palm",
-        "Honey palm"
-      ],
-      "gbifId": "2735138",
-      "iucnId": "38586",
-      "iucnCategory": "EN"
-    },
-    {
-      "confidence": 0.00244,
-      "species": "Dracaena draco (L.) L.",
-      "genus": "Dracaena",
-      "family": "Asparagaceae",
-      "commonNames": [
-        "Dragontree",
-        "Canary Island Dragon Tree",
-        "Canary Islands dragon tree"
-      ],
-      "gbifId": "5304469",
-      "iucnId": "30394",
-      "iucnCategory": "EN"
-    },
-    {
-      "confidence": 0.00233,
-      "species": "Pancratium maritimum L.",
-      "genus": "Pancratium",
-      "family": "Amaryllidaceae",
-      "commonNames": [
-        "Sea Daffodil",
-        "Sand Lily",
-        "نرگس دریایی"
-      ],
-      "gbifId": "2853283",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00229,
-      "species": "Swietenia mahagoni (L.) Jacq.",
-      "genus": "Swietenia",
-      "family": "Meliaceae",
-      "commonNames": [
-        "Cuban mahogany",
-        "West Indian mahogany",
-        "Spanish mahogany"
-      ],
-      "gbifId": "3190485",
-      "iucnId": "32519",
-      "iucnCategory": "NT"
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "5e53a0a3c56fea07c43033b3c262b3dc",
+        "filename": "bf555cf89e04a9c8.png",
+        "organ": "leaf",
+        "score": 0.17221
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Tripolium pannonicum (Jacq.) Dobrocz.",
+    "results": [
+      {
+        "score": 0.0147,
+        "species": {
+          "scientificNameWithoutAuthor": "Tripolium pannonicum",
+          "scientificNameAuthorship": "(Jacq.) Dobrocz.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tripolium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tripolium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Sea aster",
+            "Sea starwort"
+          ],
+          "scientificName": "Tripolium pannonicum (Jacq.) Dobrocz."
+        },
+        "gbif": {
+          "id": "3098616"
+        },
+        "powo": {
+          "id": "256563-1"
+        }
+      },
+      {
+        "score": 0.01039,
+        "species": {
+          "scientificNameWithoutAuthor": "Dipsacus fullonum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dipsacus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dipsacus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caprifoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caprifoliaceae"
+          },
+          "commonNames": [
+            "Common Teasel",
+            "Teasel",
+            "Wild teasel"
+          ],
+          "scientificName": "Dipsacus fullonum L."
+        },
+        "gbif": {
+          "id": "8435025"
+        },
+        "powo": {
+          "id": "319260-1"
+        }
+      },
+      {
+        "score": 0.00623,
+        "species": {
+          "scientificNameWithoutAuthor": "Agave americana",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Agave",
+            "scientificNameAuthorship": "",
+            "scientificName": "Agave"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asparagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagaceae"
+          },
+          "commonNames": [
+            "Agave",
+            "American century plant",
+            "American agave"
+          ],
+          "scientificName": "Agave americana L."
+        },
+        "gbif": {
+          "id": "2767031"
+        },
+        "powo": {
+          "id": "319063-2"
+        },
+        "iucn": {
+          "id": "13507070",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00473,
+        "species": {
+          "scientificNameWithoutAuthor": "Prunus persica",
+          "scientificNameAuthorship": "(L.) Batsch",
+          "genus": {
+            "scientificNameWithoutAuthor": "Prunus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Prunus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Peach",
+            "هلو",
+            "Peach tree"
+          ],
+          "scientificName": "Prunus persica (L.) Batsch"
+        },
+        "gbif": {
+          "id": "3022511"
+        },
+        "powo": {
+          "id": "1212858-2"
+        }
+      },
+      {
+        "score": 0.0042,
+        "species": {
+          "scientificNameWithoutAuthor": "Crassula perfoliata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Crassula",
+            "scientificNameAuthorship": "",
+            "scientificName": "Crassula"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Crassulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Crassulaceae"
+          },
+          "commonNames": [
+            "Red treasure",
+            "Propeller Plant",
+            "Crassula falcata"
+          ],
+          "scientificName": "Crassula perfoliata L."
+        },
+        "gbif": {
+          "id": "7172987"
+        },
+        "powo": {
+          "id": "273376-1"
+        }
+      },
+      {
+        "score": 0.00347,
+        "species": {
+          "scientificNameWithoutAuthor": "Agave weberi",
+          "scientificNameAuthorship": "J.F.Cels ex J.Poiss.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Agave",
+            "scientificNameAuthorship": "",
+            "scientificName": "Agave"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asparagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagaceae"
+          },
+          "commonNames": [
+            "Weber's century plant",
+            "Weber Agave",
+            "Weber's Agave"
+          ],
+          "scientificName": "Agave weberi J.F.Cels ex J.Poiss."
+        },
+        "gbif": {
+          "id": "2766599"
+        },
+        "powo": {
+          "id": "6788-2"
+        }
+      },
+      {
+        "score": 0.00298,
+        "species": {
+          "scientificNameWithoutAuthor": "Jubaea chilensis",
+          "scientificNameAuthorship": "(Molina) Baill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Jubaea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Jubaea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Arecaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Arecaceae"
+          },
+          "commonNames": [
+            "Coquito palm",
+            "Syrup palm",
+            "Honey palm"
+          ],
+          "scientificName": "Jubaea chilensis (Molina) Baill."
+        },
+        "gbif": {
+          "id": "2735138"
+        },
+        "powo": {
+          "id": "131713-2"
+        },
+        "iucn": {
+          "id": "38586",
+          "category": "EN"
+        }
+      },
+      {
+        "score": 0.00244,
+        "species": {
+          "scientificNameWithoutAuthor": "Dracaena draco",
+          "scientificNameAuthorship": "(L.) L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dracaena",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dracaena"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asparagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagaceae"
+          },
+          "commonNames": [
+            "Dragontree",
+            "Canary Island Dragon Tree",
+            "Canary Islands dragon tree"
+          ],
+          "scientificName": "Dracaena draco (L.) L."
+        },
+        "gbif": {
+          "id": "5304469"
+        },
+        "powo": {
+          "id": "534171-1"
+        },
+        "iucn": {
+          "id": "30394",
+          "category": "EN"
+        }
+      },
+      {
+        "score": 0.00233,
+        "species": {
+          "scientificNameWithoutAuthor": "Pancratium maritimum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pancratium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pancratium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Sea Daffodil",
+            "Sand Lily",
+            "نرگس دریایی"
+          ],
+          "scientificName": "Pancratium maritimum L."
+        },
+        "gbif": {
+          "id": "2853283"
+        },
+        "powo": {
+          "id": "66466-1"
+        }
+      },
+      {
+        "score": 0.00229,
+        "species": {
+          "scientificNameWithoutAuthor": "Swietenia mahagoni",
+          "scientificNameAuthorship": "(L.) Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Swietenia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Swietenia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Meliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Meliaceae"
+          },
+          "commonNames": [
+            "Cuban mahogany",
+            "West Indian mahogany",
+            "Spanish mahogany"
+          ],
+          "scientificName": "Swietenia mahagoni (L.) Jacq."
+        },
+        "gbif": {
+          "id": "3190485"
+        },
+        "powo": {
+          "id": "1080203-2"
+        },
+        "iucn": {
+          "id": "32519",
+          "category": "NT"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 382
+  }
 }

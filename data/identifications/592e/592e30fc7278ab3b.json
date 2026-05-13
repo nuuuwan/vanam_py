@@ -1,152 +1,344 @@
 {
-  "imageHash": "592e30fc7278ab3b",
-  "imageLocation": {
-    "latitude": 6.912958333333334,
-    "longitude": 79.85987777777777,
-    "accuracy": 3.1193900724559316,
-    "source": "exif"
+  "hash": "592e30fc7278ab3b",
+  "image_metadata": {
+    "imageHash": "592e30fc7278ab3b",
+    "imageLocation": {
+      "latitude": 6.912958333333334,
+      "longitude": 79.85987777777777,
+      "accuracy": 3.1193900724559316,
+      "source": "exif"
+    },
+    "utImageTaken": 1777514231,
+    "userId": "e1776bd6",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/592e30fc7278ab3b.png"
   },
-  "utImageTaken": 1777514231,
-  "userId": "e1776bd6",
-  "deviceIPAddress": null,
-  "plantNetPredictions": [
-    {
-      "confidence": 0.35893,
-      "species": "Physostegia virginiana (L.) Benth.",
-      "genus": "Physostegia",
-      "family": "Lamiaceae",
-      "commonNames": [
-        "Obedience",
-        "Obedient plant",
-        "False dragonhead"
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "f7d367deee4406102c0f7c8986a7dc21"
       ],
-      "gbifId": "2926572",
-      "iucnId": "",
-      "iucnCategory": ""
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
     },
-    {
-      "confidence": 0.05971,
-      "species": "Lycopodium annotinum L.",
-      "genus": "Lycopodium",
-      "family": "Lycopodiaceae",
-      "commonNames": [
-        "Stiff clubmoss",
-        "Clubmoss",
-        "Interrupted Clubmoss"
-      ],
-      "gbifId": "2688369",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01726,
-      "species": "Armoracia rusticana G.Gaertn., B.Mey. & Scherb.",
-      "genus": "Armoracia",
-      "family": "Brassicaceae",
-      "commonNames": [
-        "Horse-Radish",
-        "Common Horseradish"
-      ],
-      "gbifId": "3041022",
-      "iucnId": "176596",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.01654,
-      "species": "Linum usitatissimum L.",
-      "genus": "Linum",
-      "family": "Linaceae",
-      "commonNames": [
-        "Linseed",
-        "Flax",
-        "Common flax"
-      ],
-      "gbifId": "2873861",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.01,
-      "species": "Onoclea struthiopteris (L.) Roth",
-      "genus": "Onoclea",
-      "family": "Aspleniaceae",
-      "commonNames": [
-        "Ostrich Fern",
-        "Fiddlehead fern"
-      ],
-      "gbifId": "8239382",
-      "iucnId": "203369",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00923,
-      "species": "Taxus canadensis Marshall",
-      "genus": "Taxus",
-      "family": "Taxaceae",
-      "commonNames": [
-        "Canadian Yew",
-        "Ground Hemlock",
-        "American yew"
-      ],
-      "gbifId": "5284570",
-      "iucnId": "42547",
-      "iucnCategory": "LC"
-    },
-    {
-      "confidence": 0.00885,
-      "species": "Campanula persicifolia L.",
-      "genus": "Campanula",
-      "family": "Campanulaceae",
-      "commonNames": [
-        "Paper Bellflower",
-        "Peach-leaved Bellflower",
-        "Peach-bells"
-      ],
-      "gbifId": "5411475",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00601,
-      "species": "Satureja montana L.",
-      "genus": "Satureja",
-      "family": "Lamiaceae",
-      "commonNames": [
-        "White Thyme",
-        "Savory",
-        "Winter savory"
-      ],
-      "gbifId": "2926884",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00565,
-      "species": "Cephalotaxus harringtonia (Knight ex J.Forbes) K.Koch",
-      "genus": "Cephalotaxus",
-      "family": "Cephalotaxaceae",
-      "commonNames": [
-        "Harrington plum-yew",
-        "Harrington's Cephalotaxus",
-        "Harrington's plum-yew"
-      ],
-      "gbifId": "6360715",
-      "iucnId": "",
-      "iucnCategory": ""
-    },
-    {
-      "confidence": 0.00553,
-      "species": "Linaria vulgaris Mill.",
-      "genus": "Linaria",
-      "family": "Plantaginaceae",
-      "commonNames": [
-        "Butter-and-eggs",
-        "Common Toadflax",
-        "Wild snapdragon"
-      ],
-      "gbifId": "5415020",
-      "iucnId": "",
-      "iucnCategory": ""
-    }
-  ]
+    "predictedOrgans": [
+      {
+        "image": "f7d367deee4406102c0f7c8986a7dc21",
+        "filename": "592e30fc7278ab3b.png",
+        "organ": "habit",
+        "score": 0.74099
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Physostegia virginiana (L.) Benth.",
+    "results": [
+      {
+        "score": 0.35893,
+        "species": {
+          "scientificNameWithoutAuthor": "Physostegia virginiana",
+          "scientificNameAuthorship": "(L.) Benth.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Physostegia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Physostegia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Obedience",
+            "Obedient plant",
+            "False dragonhead"
+          ],
+          "scientificName": "Physostegia virginiana (L.) Benth."
+        },
+        "gbif": {
+          "id": "2926572"
+        },
+        "powo": {
+          "id": "30043311-2"
+        }
+      },
+      {
+        "score": 0.05971,
+        "species": {
+          "scientificNameWithoutAuthor": "Lycopodium annotinum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lycopodium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lycopodium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lycopodiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lycopodiaceae"
+          },
+          "commonNames": [
+            "Stiff clubmoss",
+            "Clubmoss",
+            "Interrupted Clubmoss"
+          ],
+          "scientificName": "Lycopodium annotinum L."
+        },
+        "gbif": {
+          "id": "2688369"
+        },
+        "powo": {
+          "id": "304983-2"
+        }
+      },
+      {
+        "score": 0.01726,
+        "species": {
+          "scientificNameWithoutAuthor": "Armoracia rusticana",
+          "scientificNameAuthorship": "G.Gaertn., B.Mey. & Scherb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Armoracia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Armoracia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Horse-Radish",
+            "Common Horseradish"
+          ],
+          "scientificName": "Armoracia rusticana G.Gaertn., B.Mey. & Scherb."
+        },
+        "gbif": {
+          "id": "3041022"
+        },
+        "powo": {
+          "id": "278747-1"
+        },
+        "iucn": {
+          "id": "176596",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01654,
+        "species": {
+          "scientificNameWithoutAuthor": "Linum usitatissimum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Linum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Linum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Linaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Linaceae"
+          },
+          "commonNames": [
+            "Linseed",
+            "Flax",
+            "Common flax"
+          ],
+          "scientificName": "Linum usitatissimum L."
+        },
+        "gbif": {
+          "id": "2873861"
+        },
+        "powo": {
+          "id": "544772-1"
+        }
+      },
+      {
+        "score": 0.01,
+        "species": {
+          "scientificNameWithoutAuthor": "Onoclea struthiopteris",
+          "scientificNameAuthorship": "(L.) Roth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Onoclea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Onoclea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Aspleniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aspleniaceae"
+          },
+          "commonNames": [
+            "Ostrich Fern",
+            "Fiddlehead fern"
+          ],
+          "scientificName": "Onoclea struthiopteris (L.) Roth"
+        },
+        "gbif": {
+          "id": "8239382"
+        },
+        "powo": {
+          "id": "17275510-1"
+        },
+        "iucn": {
+          "id": "203369",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00923,
+        "species": {
+          "scientificNameWithoutAuthor": "Taxus canadensis",
+          "scientificNameAuthorship": "Marshall",
+          "genus": {
+            "scientificNameWithoutAuthor": "Taxus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Taxus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Taxaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Taxaceae"
+          },
+          "commonNames": [
+            "Canadian Yew",
+            "Ground Hemlock",
+            "American yew"
+          ],
+          "scientificName": "Taxus canadensis Marshall"
+        },
+        "gbif": {
+          "id": "5284570"
+        },
+        "powo": {
+          "id": "828354-1"
+        },
+        "iucn": {
+          "id": "42547",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00885,
+        "species": {
+          "scientificNameWithoutAuthor": "Campanula persicifolia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Campanula",
+            "scientificNameAuthorship": "",
+            "scientificName": "Campanula"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Campanulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Campanulaceae"
+          },
+          "commonNames": [
+            "Paper Bellflower",
+            "Peach-leaved Bellflower",
+            "Peach-bells"
+          ],
+          "scientificName": "Campanula persicifolia L."
+        },
+        "gbif": {
+          "id": "5411475"
+        },
+        "powo": {
+          "id": "140828-1"
+        }
+      },
+      {
+        "score": 0.00601,
+        "species": {
+          "scientificNameWithoutAuthor": "Satureja montana",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Satureja",
+            "scientificNameAuthorship": "",
+            "scientificName": "Satureja"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "White Thyme",
+            "Savory",
+            "Winter savory"
+          ],
+          "scientificName": "Satureja montana L."
+        },
+        "gbif": {
+          "id": "2926884"
+        },
+        "powo": {
+          "id": "457736-1"
+        }
+      },
+      {
+        "score": 0.00565,
+        "species": {
+          "scientificNameWithoutAuthor": "Cephalotaxus harringtonia",
+          "scientificNameAuthorship": "(Knight ex J.Forbes) K.Koch",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cephalotaxus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cephalotaxus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cephalotaxaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cephalotaxaceae"
+          },
+          "commonNames": [
+            "Harrington plum-yew",
+            "Harrington's Cephalotaxus",
+            "Harrington's plum-yew"
+          ],
+          "scientificName": "Cephalotaxus harringtonia (Knight ex J.Forbes) K.Koch"
+        },
+        "gbif": {
+          "id": "6360715"
+        },
+        "powo": {
+          "id": "261818-1"
+        }
+      },
+      {
+        "score": 0.00553,
+        "species": {
+          "scientificNameWithoutAuthor": "Linaria vulgaris",
+          "scientificNameAuthorship": "Mill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Linaria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Linaria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Plantaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plantaginaceae"
+          },
+          "commonNames": [
+            "Butter-and-eggs",
+            "Common Toadflax",
+            "Wild snapdragon"
+          ],
+          "scientificName": "Linaria vulgaris Mill."
+        },
+        "gbif": {
+          "id": "5415020"
+        },
+        "powo": {
+          "id": "325777-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 393
+  }
 }
