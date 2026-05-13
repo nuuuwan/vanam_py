@@ -1,0 +1,154 @@
+{
+  "imageHash": "1fcbea0815bdf680",
+  "imageLocation": {
+    "latitude": 6.918830609316016,
+    "longitude": 79.85917134723468,
+    "accuracy": 19.629254359979033,
+    "source": "browser"
+  },
+  "utImageTaken": "1778656698",
+  "userId": "1bi07e4",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.07863,
+      "species": "Amaranthus blitum L.",
+      "genus": "Amaranthus",
+      "family": "Amaranthaceae",
+      "commonNames": [
+        "Purple amaranth",
+        "Pigweed",
+        "Wild Amaranth"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.04782,
+      "species": "Citrus × limon (L.) Osbeck",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Lemon",
+        "Lemon-tree",
+        "Mandarin lime"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.04555,
+      "species": "Laburnum anagyroides Medik.",
+      "genus": "Laburnum",
+      "family": "Fabaceae",
+      "commonNames": [
+        "Golden rain tree",
+        "Laburnum",
+        "Golden-chain Laburnum"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.04219,
+      "species": "Rosa chinensis Jacq.",
+      "genus": "Rosa",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Bengal rose",
+        "China Rose",
+        "Chinese rose"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.02642,
+      "species": "Citrus hystrix DC.",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Kaffir lime",
+        "Makrut-lime",
+        "Mauritius papeda"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0221,
+      "species": "Citrus medica L.",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Lemon",
+        "Citron",
+        "Buddha's hand"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01904,
+      "species": "Kalanchoe pinnata (Lam.) Pers.",
+      "genus": "Kalanchoe",
+      "family": "Crassulaceae",
+      "commonNames": [
+        "Cathedral bells",
+        "Miracle Leaf",
+        "Tree-of-life"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01858,
+      "species": "Amaranthus viridis L.",
+      "genus": "Amaranthus",
+      "family": "Amaranthaceae",
+      "commonNames": [
+        "Green amaranth",
+        "Tropical green amaranth",
+        "Pigweed"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01826,
+      "species": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+      "genus": "Chaenomeles",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Japanese-quince",
+        "Flowering-quince",
+        "Japanese Flowering Quince"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01659,
+      "species": "Trifolium hybridum L.",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "commonNames": [
+        "Alsike clover",
+        "Swedish clover",
+        "Hybrid clover"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "imageHash": "5b57189ecb0e2025",
+  "imageLocation": {
+    "latitude": 6.918805555555556,
+    "longitude": 79.85913055555555,
+    "accuracy": 14.718423372371237,
+    "source": "exif"
+  },
+  "utImageTaken": 1778656726,
+  "userId": "1bi07e4",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.0931,
+      "species": "Capsicum annuum L.",
+      "genus": "Capsicum",
+      "family": "Solanaceae",
+      "commonNames": [
+        "Peppers",
+        "Chili",
+        "Bell Pepper"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.08161,
+      "species": "Amaranthus blitum L.",
+      "genus": "Amaranthus",
+      "family": "Amaranthaceae",
+      "commonNames": [
+        "Purple amaranth",
+        "Pigweed",
+        "Wild Amaranth"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.05774,
+      "species": "Citrus × limon (L.) Osbeck",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Lemon",
+        "Lemon-tree",
+        "Mandarin lime"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.04621,
+      "species": "Citrus hystrix DC.",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Kaffir lime",
+        "Makrut-lime",
+        "Mauritius papeda"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01913,
+      "species": "Amaranthus viridis L.",
+      "genus": "Amaranthus",
+      "family": "Amaranthaceae",
+      "commonNames": [
+        "Green amaranth",
+        "Tropical green amaranth",
+        "Pigweed"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01795,
+      "species": "Euphorbia milii Des Moul.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Crown-of-thorns",
+        "گل مرجان",
+        "مرجان مینیاتوری"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01445,
+      "species": "Amaranthus spinosus L.",
+      "genus": "Amaranthus",
+      "family": "Amaranthaceae",
+      "commonNames": [
+        "Pigweed",
+        "Thorny amaranth",
+        "Thorny pigweed"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01124,
+      "species": "Bidens pilosa L.",
+      "genus": "Bidens",
+      "family": "Asteraceae",
+      "commonNames": [
+        "Spanish-needles",
+        "Blackjack",
+        "Beggar-ticks"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0112,
+      "species": "Rosa chinensis Jacq.",
+      "genus": "Rosa",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Bengal rose",
+        "China Rose",
+        "Chinese rose"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00962,
+      "species": "Solanum melongena L.",
+      "genus": "Solanum",
+      "family": "Solanaceae",
+      "commonNames": [
+        "Eggplant",
+        "Aubergine",
+        "Brinjal"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

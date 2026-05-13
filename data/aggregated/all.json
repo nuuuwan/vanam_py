@@ -70,6 +70,30 @@
     }
   },
   {
+    "imageHash": "3877d6522ec7264c",
+    "latLng": {
+      "lat": 8.11713888888889,
+      "lng": 80.66550555555555
+    },
+    "source": "exif",
+    "utImageTaken": 1775275179,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.01754,
+      "species": "Mimusops elengi L.",
+      "genus": "Mimusops",
+      "family": "Sapotaceae",
+      "commonNames": [
+        "Bakul tree",
+        "పొగడ చెట్టు",
+        "Medlar"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
     "imageHash": "59d2626621ce9351",
     "latLng": {
       "lat": 6.918936111111112,
@@ -111,6 +135,30 @@
         "Coco plum",
         "Icaco Coco-Plum",
         "Coco Plant"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "4827878cc3b6cd03",
+    "latLng": {
+      "lat": 6.918872222222222,
+      "lng": 79.85911666666667
+    },
+    "source": "exif",
+    "utImageTaken": 1778656728,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.30146,
+      "species": "Plectranthus amboinicus (Lour.) Spreng.",
+      "genus": "Plectranthus",
+      "family": "Lamiaceae",
+      "commonNames": [
+        "Cuban-oregano",
+        "Indian-mint",
+        "Orégano brujo"
       ],
       "gbifId": "",
       "iucnId": "",
@@ -181,6 +229,30 @@
       "family": "Acanthaceae",
       "commonNames": [
         "Blue-sage"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "5b57189ecb0e2025",
+    "latLng": {
+      "lat": 6.918805555555556,
+      "lng": 79.85913055555555
+    },
+    "source": "exif",
+    "utImageTaken": 1778656726,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.0931,
+      "species": "Capsicum annuum L.",
+      "genus": "Capsicum",
+      "family": "Solanaceae",
+      "commonNames": [
+        "Peppers",
+        "Chili",
+        "Bell Pepper"
       ],
       "gbifId": "",
       "iucnId": "",
@@ -332,6 +404,54 @@
     }
   },
   {
+    "imageHash": "9e23a8d3781f75cc",
+    "latLng": {
+      "lat": 8.11865,
+      "lng": 80.66156111111111
+    },
+    "source": "exif",
+    "utImageTaken": 1775279428,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.15368,
+      "species": "Delonix regia (Bojer ex Hook.) Raf.",
+      "genus": "Delonix",
+      "family": "Fabaceae",
+      "commonNames": [
+        "Flamboyant",
+        "Royal poinciana",
+        "Flametree"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "46106a8bdea07c86",
+    "latLng": {
+      "lat": 6.918830555555556,
+      "lng": 79.85912222222221
+    },
+    "source": "exif",
+    "utImageTaken": 1778656727,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.11875,
+      "species": "Chlorophytum comosum (Thunb.) Jacques",
+      "genus": "Chlorophytum",
+      "family": "Asparagaceae",
+      "commonNames": [
+        "Spider plant",
+        "کاپنس گندمی\n\nخانواده: لیلیاسه ها (سوسنی ها)",
+        "Hen-and-chickens"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
     "imageHash": "bf555cf89e04a9c8",
     "latLng": {
       "lat": 6.8910557,
@@ -372,6 +492,54 @@
         "Jackfruit",
         "Nangka",
         "Jack"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "1fcbea0815bdf680",
+    "latLng": {
+      "lat": 6.918830609316016,
+      "lng": 79.85917134723468
+    },
+    "source": "browser",
+    "utImageTaken": "1778656698",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.07863,
+      "species": "Amaranthus blitum L.",
+      "genus": "Amaranthus",
+      "family": "Amaranthaceae",
+      "commonNames": [
+        "Purple amaranth",
+        "Pigweed",
+        "Wild Amaranth"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "d3656042fded8498",
+    "latLng": {
+      "lat": 8.11668888888889,
+      "lng": 80.66548055555556
+    },
+    "source": "exif",
+    "utImageTaken": 1775276643,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.1673,
+      "species": "Ocotea foetens (Aiton) Baill.",
+      "genus": "Ocotea",
+      "family": "Lauraceae",
+      "commonNames": [
+        "Tilo",
+        "Rain tree",
+        "Stinkwood"
       ],
       "gbifId": "",
       "iucnId": "",
@@ -420,6 +588,50 @@
         "Rhododendron",
         "Alpine-rose",
         "Alpenrose"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "6fb5b958cdf33b6e",
+    "latLng": {
+      "lat": 6.918762825598124,
+      "lng": 79.85912956346775
+    },
+    "source": "browser",
+    "utImageTaken": 1775276975,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.01842,
+      "species": "Monodora grandidieri Baill.",
+      "genus": "Monodora",
+      "family": "Annonaceae",
+      "commonNames": [],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  },
+  {
+    "imageHash": "b7a0682c09276b91",
+    "latLng": {
+      "lat": 8.148288888888889,
+      "lng": 80.68016944444445
+    },
+    "source": "exif",
+    "utImageTaken": 1775275828,
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.02963,
+      "species": "Quercus suber L.",
+      "genus": "Quercus",
+      "family": "Fagaceae",
+      "commonNames": [
+        "Cork oak",
+        "Sûr",
+        "Cork bark oak"
       ],
       "gbifId": "",
       "iucnId": "",

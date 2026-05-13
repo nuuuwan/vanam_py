@@ -1,0 +1,98 @@
+{
+  "imageHash": "4827878cc3b6cd03",
+  "imageLocation": {
+    "latitude": 6.918872222222222,
+    "longitude": 79.85911666666667,
+    "accuracy": 14.189871591400951,
+    "source": "exif"
+  },
+  "utImageTaken": 1778656728,
+  "userId": "1bi07e4",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.30146,
+      "species": "Plectranthus amboinicus (Lour.) Spreng.",
+      "genus": "Plectranthus",
+      "family": "Lamiaceae",
+      "commonNames": [
+        "Cuban-oregano",
+        "Indian-mint",
+        "Orégano brujo"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.20673,
+      "species": "Plectranthus barbatus Andrews",
+      "genus": "Plectranthus",
+      "family": "Lamiaceae",
+      "commonNames": [
+        "Forskohlii",
+        "Coleus",
+        "Indian borage"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00872,
+      "species": "Mentha suaveolens Ehrh.",
+      "genus": "Mentha",
+      "family": "Lamiaceae",
+      "commonNames": [
+        "Apple mint",
+        "Pineapple Mint",
+        "Round-leaved Mint"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00185,
+      "species": "Stachytarpheta mutabilis (Jacq.) Vahl",
+      "genus": "Stachytarpheta",
+      "family": "Verbenaceae",
+      "commonNames": [
+        "Coral porterweed",
+        "Red snakeweed",
+        "Pink snakeweed"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00129,
+      "species": "Plectranthus parviflorus Willd.",
+      "genus": "Plectranthus",
+      "family": "Lamiaceae",
+      "commonNames": [
+        "Little spurflower",
+        "Cockspur-flower",
+        "Swedish ivy"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00121,
+      "species": "Salvia officinalis L.",
+      "genus": "Salvia",
+      "family": "Lamiaceae",
+      "commonNames": [
+        "Sage",
+        "Common Sage",
+        "Garden Sage"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}
