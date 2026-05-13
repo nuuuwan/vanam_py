@@ -4,6 +4,8 @@ import re
 import requests
 from utils import Log
 
+from vanam.PhotoIngest import PhotoIngest
+
 log = Log(__name__)
 
 
@@ -20,6 +22,9 @@ class CleanupTempStorage:
     METADATA_BLOB_PREFIX = "plant-image-metadata"
     DATA_PHOTOS_DIR = os.path.join("data", "images")
     DATA_IMAGE_METADATA_DIR = os.path.join("data", "image-metadata")
+
+    PHOTO_SIZE_MIN_KB = PhotoIngest.PHOTO_SIZE_MIN_KB
+    PHOTO_SIZE_MAX_KB = PhotoIngest.PHOTO_SIZE_MAX_KB
 
     # Vercel Blob delete accepts up to 1 000 URLs per request.
     DELETE_BATCH_SIZE = 1000
@@ -64,6 +69,14 @@ class CleanupTempStorage:
         log.info(f"Found {len(blobs)} blob(s) under '{prefix}'.")
         return blobs
 
+    def _is_wrong_size(self, blob: dict) -> bool:
+        """Return True if the blob's size falls outside the accepted range."""
+        size_kb = blob.get("size", 0) / 1024
+        return (
+            size_kb < self.PHOTO_SIZE_MIN_KB
+            or size_kb > self.PHOTO_SIZE_MAX_KB
+        )
+
     def _is_photo_ingested(self, blob: dict) -> bool:
         filename = os.path.basename(blob["pathname"])
         if not re.fullmatch(r"[0-9a-f]{16}\.png", filename):
@@ -89,7 +102,7 @@ class CleanupTempStorage:
 
         delete_url = f"{self.VERCEL_BLOB_API_URL}/delete"
         for i in range(0, len(urls), self.DELETE_BATCH_SIZE):
-            batch = urls[i: i + self.DELETE_BATCH_SIZE]
+            batch = urls[i : i + self.DELETE_BATCH_SIZE]
             response = requests.post(
                 delete_url,
                 headers={
@@ -114,9 +127,13 @@ class CleanupTempStorage:
         photo_blobs = self._list_blobs(self.PHOTO_BLOB_PREFIX)
         metadata_blobs = self._list_blobs(self.METADATA_BLOB_PREFIX)
 
-        photo_urls = [
-            b["url"] for b in photo_blobs if self._is_photo_ingested(b)
-        ]
+        photo_urls = list(
+            {
+                b["url"]
+                for b in photo_blobs
+                if self._is_photo_ingested(b) or self._is_wrong_size(b)
+            }
+        )
         metadata_urls = [
             b["url"] for b in metadata_blobs if self._is_metadata_ingested(b)
         ]
