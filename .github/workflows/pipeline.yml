@@ -37,13 +37,13 @@ jobs:
           PLANTNET_API_KEY: ${{ secrets.PLANTNET_API_KEY }}
         run: python -m workflows.identify
 
-      - name: "Step 3: Aggregate identifications"
-        run: python -m workflows.aggregate
-
-      - name: "Step 4: Clean up Vercel temporary storage"
+      - name: "Step 3: Clean up Vercel temporary storage"
         env:
           BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
         run: python -m workflows.cleanup_temp_storage
+
+      - name: "Step 4: Aggregate identifications"
+        run: python -m workflows.aggregate
 
       - name: "Step 5: Clean up low-confidence old identifications"
         run: python -m workflows.cleanup_low_conf
