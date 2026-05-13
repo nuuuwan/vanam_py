@@ -1,31 +1,5 @@
 [
   {
-    "imageHash": "ee5180b5a108b2ce",
-    "latLng": {
-      "lat": 6.918762814868359,
-      "lng": 79.85912964071474
-    },
-    "source": "browser",
-    "utImageTaken": 1772863980,
-    "timeImageTaken": "2026-03-07 06:13:00",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.78142,
-      "species": "Oxalis pes-caprae L.",
-      "genus": "Oxalis",
-      "family": "Oxalidaceae",
-      "commonNames": [
-        "Bermuda-buttercup",
-        "Sourgrass",
-        "Yellow-flower oxalis"
-      ],
-      "gbifId": "2891661",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "375259-1"
-    }
-  },
-  {
     "imageHash": "f3ecf71f799b6ea0",
     "latLng": {
       "lat": 6.9187627970892756,
@@ -52,80 +26,53 @@
     }
   },
   {
-    "imageHash": "bf555cf89e04a9c8",
+    "imageHash": "e3e766b4de3e1dbc",
     "latLng": {
-      "lat": 6.8910557,
-      "lng": 79.8632725
+      "lat": 8.118408333333333,
+      "lng": 80.66439166666667
     },
-    "source": "browser",
-    "utImageTaken": "1778656068",
-    "timeImageTaken": "2026-05-13 07:07:48",
-    "userId": "06qahco",
+    "source": "exif",
+    "utImageTaken": 1775277302,
+    "timeImageTaken": "2026-04-04 04:35:02",
+    "userId": "e1776bd6",
     "topPrediction": {
-      "confidence": 0.0147,
-      "species": "Tripolium pannonicum (Jacq.) Dobrocz.",
-      "genus": "Tripolium",
-      "family": "Asteraceae",
+      "confidence": 0.30489,
+      "species": "Eranthemum pulchellum Andrews",
+      "genus": "Eranthemum",
+      "family": "Acanthaceae",
       "commonNames": [
-        "Sea aster",
-        "Sea starwort"
+        "Blue-sage"
       ],
-      "gbifId": "3098616",
+      "gbifId": "3172936",
       "iucnId": "",
       "iucnCategory": "",
-      "powoId": "256563-1"
+      "powoId": "48879-1"
     }
   },
   {
-    "imageHash": "d67c2096ab66b15c",
+    "imageHash": "4827878cc3b6cd03",
     "latLng": {
-      "lat": 6.897664,
-      "lng": 79.8654464
+      "lat": 6.918872222222222,
+      "lng": 79.85911666666667
     },
-    "source": "browser",
-    "utImageTaken": "1778645972",
-    "timeImageTaken": "2026-05-13 04:19:32",
-    "userId": "9f6fcdc6",
-    "topPrediction": {
-      "confidence": 0.91645,
-      "species": "Artocarpus heterophyllus Lam.",
-      "genus": "Artocarpus",
-      "family": "Moraceae",
-      "commonNames": [
-        "Jackfruit",
-        "Nangka",
-        "Jack"
-      ],
-      "gbifId": "2984565",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "850389-1"
-    }
-  },
-  {
-    "imageHash": "01b73bbefdca4e74",
-    "latLng": {
-      "lat": 6.918762814868358,
-      "lng": 79.85912964071473
-    },
-    "source": "browser",
-    "utImageTaken": 1772862899,
-    "timeImageTaken": "2026-03-07 05:54:59",
+    "source": "exif",
+    "utImageTaken": 1778656728,
+    "timeImageTaken": "2026-05-13 07:18:48",
     "userId": "1bi07e4",
     "topPrediction": {
-      "confidence": 0.26526,
-      "species": "Rhododendron ferrugineum L.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
+      "confidence": 0.30146,
+      "species": "Plectranthus amboinicus (Lour.) Spreng.",
+      "genus": "Plectranthus",
+      "family": "Lamiaceae",
       "commonNames": [
-        "Rhododendron",
-        "Alpine-rose",
-        "Alpenrose"
+        "Cuban-oregano",
+        "Indian-mint",
+        "Ajwayan leaf indian"
       ],
-      "gbifId": "2883073",
-      "iucnId": "203007",
-      "iucnCategory": "LC",
-      "powoId": "332420-1"
+      "gbifId": "2926636",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": ""
     }
   },
   {
@@ -155,105 +102,29 @@
     }
   },
   {
-    "imageHash": "859e87d6074390d2",
+    "imageHash": "60448bd4f2a7a71f",
     "latLng": {
-      "lat": 6.897664,
-      "lng": 79.8654464
-    },
-    "source": "browser",
-    "utImageTaken": "1778648524",
-    "timeImageTaken": "2026-05-13 05:02:04",
-    "userId": "9f6fcdc6",
-    "topPrediction": {
-      "confidence": 0.89692,
-      "species": "Psidium guajava L.",
-      "genus": "Psidium",
-      "family": "Myrtaceae",
-      "commonNames": [
-        "Guava",
-        "Guave",
-        "Common guava"
-      ],
-      "gbifId": "5420380",
-      "iucnId": "49485755",
-      "iucnCategory": "LC",
-      "powoId": "600841-1"
-    }
-  },
-  {
-    "imageHash": "1fcbea0815bdf680",
-    "latLng": {
-      "lat": 6.918830609316016,
-      "lng": 79.85917134723468
-    },
-    "source": "browser",
-    "utImageTaken": "1778656698",
-    "timeImageTaken": "2026-05-13 07:18:18",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.07863,
-      "species": "Amaranthus blitum L.",
-      "genus": "Amaranthus",
-      "family": "Amaranthaceae",
-      "commonNames": [
-        "Purple amaranth",
-        "Pigweed",
-        "Wild Amaranth"
-      ],
-      "gbifId": "8911082",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "10619-2"
-    }
-  },
-  {
-    "imageHash": "aa88bdf31955c239",
-    "latLng": {
-      "lat": 6.912502777777778,
-      "lng": 79.86273055555554
+      "lat": 8.117208333333334,
+      "lng": 80.66475000000001
     },
     "source": "exif",
-    "utImageTaken": 1778463910,
-    "timeImageTaken": "2026-05-11 01:45:10",
-    "userId": "4c5bc7a0",
-    "topPrediction": {
-      "confidence": 0.93118,
-      "species": "Artocarpus heterophyllus Lam.",
-      "genus": "Artocarpus",
-      "family": "Moraceae",
-      "commonNames": [
-        "Jackfruit",
-        "Nangka",
-        "Jack"
-      ],
-      "gbifId": "2984565",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "850389-1"
-    }
-  },
-  {
-    "imageHash": "e3e766b4de3e1dbc",
-    "latLng": {
-      "lat": 8.118408333333333,
-      "lng": 80.66439166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1775277302,
-    "timeImageTaken": "2026-04-04 04:35:02",
+    "utImageTaken": 1775282853,
+    "timeImageTaken": "2026-04-04 06:07:33",
     "userId": "e1776bd6",
     "topPrediction": {
-      "confidence": 0.30489,
-      "species": "Eranthemum pulchellum Andrews",
-      "genus": "Eranthemum",
-      "family": "Acanthaceae",
+      "confidence": 0.62638,
+      "species": "Castanea sativa Mill.",
+      "genus": "Castanea",
+      "family": "Fagaceae",
       "commonNames": [
-        "Blue-sage"
+        "Sweet Chestnut",
+        "European chestnut",
+        "Spanish chestnut"
       ],
-      "gbifId": "3172936",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "48879-1"
+      "gbifId": "5333294",
+      "iucnId": "202948",
+      "iucnCategory": "LC",
+      "powoId": "295349-1"
     }
   },
   {
@@ -281,32 +152,6 @@
     }
   },
   {
-    "imageHash": "60448bd4f2a7a71f",
-    "latLng": {
-      "lat": 8.117208333333334,
-      "lng": 80.66475000000001
-    },
-    "source": "exif",
-    "utImageTaken": 1775282853,
-    "timeImageTaken": "2026-04-04 06:07:33",
-    "userId": "e1776bd6",
-    "topPrediction": {
-      "confidence": 0.62638,
-      "species": "Castanea sativa Mill.",
-      "genus": "Castanea",
-      "family": "Fagaceae",
-      "commonNames": [
-        "Sweet Chestnut",
-        "European chestnut",
-        "Spanish chestnut"
-      ],
-      "gbifId": "5333294",
-      "iucnId": "202948",
-      "iucnCategory": "LC",
-      "powoId": "295349-1"
-    }
-  },
-  {
     "imageHash": "5b57189ecb0e2025",
     "latLng": {
       "lat": 6.918805555555556,
@@ -330,6 +175,58 @@
       "iucnId": "100895534",
       "iucnCategory": "LC",
       "powoId": "316944-2"
+    }
+  },
+  {
+    "imageHash": "e94b60e80f7811b0",
+    "latLng": {
+      "lat": 8.118133333333335,
+      "lng": 80.66473333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1775277316,
+    "timeImageTaken": "2026-04-04 04:35:16",
+    "userId": "e1776bd6",
+    "topPrediction": {
+      "confidence": 0.54083,
+      "species": "Ecbolium viride (Forssk.) Alston",
+      "genus": "Ecbolium",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Green shrimp plant",
+        "Turquoise crossandra",
+        "డిసెంబర్ పూల చెట్టు"
+      ],
+      "gbifId": "7264277",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "48609-1"
+    }
+  },
+  {
+    "imageHash": "859e87d6074390d2",
+    "latLng": {
+      "lat": 6.897664,
+      "lng": 79.8654464
+    },
+    "source": "browser",
+    "utImageTaken": "1778648524",
+    "timeImageTaken": "2026-05-13 05:02:04",
+    "userId": "9f6fcdc6",
+    "topPrediction": {
+      "confidence": 0.89692,
+      "species": "Psidium guajava L.",
+      "genus": "Psidium",
+      "family": "Myrtaceae",
+      "commonNames": [
+        "Guava",
+        "Guave",
+        "Common guava"
+      ],
+      "gbifId": "5420380",
+      "iucnId": "49485755",
+      "iucnCategory": "LC",
+      "powoId": "600841-1"
     }
   },
   {
@@ -385,55 +282,158 @@
     }
   },
   {
-    "imageHash": "e94b60e80f7811b0",
+    "imageHash": "bf555cf89e04a9c8",
     "latLng": {
-      "lat": 8.118133333333335,
-      "lng": 80.66473333333334
+      "lat": 6.8910557,
+      "lng": 79.8632725
     },
-    "source": "exif",
-    "utImageTaken": 1775277316,
-    "timeImageTaken": "2026-04-04 04:35:16",
-    "userId": "e1776bd6",
+    "source": "browser",
+    "utImageTaken": "1778656068",
+    "timeImageTaken": "2026-05-13 07:07:48",
+    "userId": "06qahco",
     "topPrediction": {
-      "confidence": 0.54083,
-      "species": "Ecbolium viride (Forssk.) Alston",
-      "genus": "Ecbolium",
-      "family": "Acanthaceae",
+      "confidence": 0.0147,
+      "species": "Tripolium pannonicum (Jacq.) Dobrocz.",
+      "genus": "Tripolium",
+      "family": "Asteraceae",
       "commonNames": [
-        "Green shrimp plant",
-        "Turquoise crossandra",
-        "డిసెంబర్ పూల చెట్టు"
+        "Sea aster",
+        "Sea starwort"
       ],
-      "gbifId": "7264277",
+      "gbifId": "3098616",
       "iucnId": "",
       "iucnCategory": "",
-      "powoId": "48609-1"
+      "powoId": "256563-1"
     }
   },
   {
-    "imageHash": "4827878cc3b6cd03",
+    "imageHash": "aa88bdf31955c239",
     "latLng": {
-      "lat": 6.918872222222222,
-      "lng": 79.85911666666667
+      "lat": 6.912502777777778,
+      "lng": 79.86273055555554
     },
     "source": "exif",
-    "utImageTaken": 1778656728,
-    "timeImageTaken": "2026-05-13 07:18:48",
-    "userId": "1bi07e4",
+    "utImageTaken": 1778463910,
+    "timeImageTaken": "2026-05-11 01:45:10",
+    "userId": "4c5bc7a0",
     "topPrediction": {
-      "confidence": 0.30146,
-      "species": "Plectranthus amboinicus (Lour.) Spreng.",
-      "genus": "Plectranthus",
-      "family": "Lamiaceae",
+      "confidence": 0.93118,
+      "species": "Artocarpus heterophyllus Lam.",
+      "genus": "Artocarpus",
+      "family": "Moraceae",
       "commonNames": [
-        "Cuban-oregano",
-        "Indian-mint",
-        "Ajwayan leaf indian"
+        "Jackfruit",
+        "Nangka",
+        "Jack"
       ],
-      "gbifId": "2926636",
+      "gbifId": "2984565",
       "iucnId": "",
       "iucnCategory": "",
-      "powoId": ""
+      "powoId": "850389-1"
+    }
+  },
+  {
+    "imageHash": "1fcbea0815bdf680",
+    "latLng": {
+      "lat": 6.918830609316016,
+      "lng": 79.85917134723468
+    },
+    "source": "browser",
+    "utImageTaken": "1778656698",
+    "timeImageTaken": "2026-05-13 07:18:18",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.07863,
+      "species": "Amaranthus blitum L.",
+      "genus": "Amaranthus",
+      "family": "Amaranthaceae",
+      "commonNames": [
+        "Purple amaranth",
+        "Pigweed",
+        "Wild Amaranth"
+      ],
+      "gbifId": "8911082",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "10619-2"
+    }
+  },
+  {
+    "imageHash": "ee5180b5a108b2ce",
+    "latLng": {
+      "lat": 6.918762814868359,
+      "lng": 79.85912964071474
+    },
+    "source": "browser",
+    "utImageTaken": 1772863980,
+    "timeImageTaken": "2026-03-07 06:13:00",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.78142,
+      "species": "Oxalis pes-caprae L.",
+      "genus": "Oxalis",
+      "family": "Oxalidaceae",
+      "commonNames": [
+        "Bermuda-buttercup",
+        "Sourgrass",
+        "Yellow-flower oxalis"
+      ],
+      "gbifId": "2891661",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "375259-1"
+    }
+  },
+  {
+    "imageHash": "01b73bbefdca4e74",
+    "latLng": {
+      "lat": 6.918762814868358,
+      "lng": 79.85912964071473
+    },
+    "source": "browser",
+    "utImageTaken": 1772862899,
+    "timeImageTaken": "2026-03-07 05:54:59",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.26526,
+      "species": "Rhododendron ferrugineum L.",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "commonNames": [
+        "Rhododendron",
+        "Alpine-rose",
+        "Alpenrose"
+      ],
+      "gbifId": "2883073",
+      "iucnId": "203007",
+      "iucnCategory": "LC",
+      "powoId": "332420-1"
+    }
+  },
+  {
+    "imageHash": "d67c2096ab66b15c",
+    "latLng": {
+      "lat": 6.897664,
+      "lng": 79.8654464
+    },
+    "source": "browser",
+    "utImageTaken": "1778645972",
+    "timeImageTaken": "2026-05-13 04:19:32",
+    "userId": "9f6fcdc6",
+    "topPrediction": {
+      "confidence": 0.91645,
+      "species": "Artocarpus heterophyllus Lam.",
+      "genus": "Artocarpus",
+      "family": "Moraceae",
+      "commonNames": [
+        "Jackfruit",
+        "Nangka",
+        "Jack"
+      ],
+      "gbifId": "2984565",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "850389-1"
     }
   }
 ]
