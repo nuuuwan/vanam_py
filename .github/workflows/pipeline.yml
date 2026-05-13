@@ -44,9 +44,12 @@ jobs:
       - name: "Step 4: Clean up Vercel temporary storage"
         env:
           BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
-run: python -m workflows.cleanup_temp_storage
+        run: python -m workflows.cleanup_temp_storage
 
-      - name: "Step 5: Build data README"
+      - name: "Step 5: Clean up low-confidence old identifications"
+        run: python -m workflows.cleanup_low_conf
+
+      - name: "Step 6: Build data README"
         run: python -m workflows.data_readme_build
 
       - name: "Commit and push updated data"
