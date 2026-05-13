@@ -100,6 +100,7 @@ class Identify:
             species = result.get("species", {})
             gbif = result.get("gbif") or {}
             iucn = result.get("iucn") or {}
+            powo = result.get("powo") or {}
             predictions.append(
                 {
                     "confidence": round(result.get("score", 0), 5),
@@ -114,6 +115,7 @@ class Identify:
                     "gbifId": str(gbif.get("id", "")),
                     "iucnId": str(iucn.get("id", "")),
                     "iucnCategory": iucn.get("category", ""),
+                    "powoId": str(powo.get("id", "")),
                 }
             )
         return predictions

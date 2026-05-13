@@ -41,6 +41,7 @@ class TestPlantNet(unittest.TestCase):
                 "gbifId": "2984565",
                 "iucnId": "",
                 "iucnCategory": "",
+                "powoId": "850389-1",
             },
             {
                 "confidence": 0.04122,
@@ -51,6 +52,7 @@ class TestPlantNet(unittest.TestCase):
                 "gbifId": "2984566",
                 "iucnId": "61220334",
                 "iucnCategory": "LC",
+                "powoId": "582622-1",
             },
             {
                 "confidence": 0.00127,
@@ -65,6 +67,7 @@ class TestPlantNet(unittest.TestCase):
                 "gbifId": "7895921",
                 "iucnId": "87717226",
                 "iucnCategory": "LC",
+                "powoId": "856719-1",
             },
         ]
 
