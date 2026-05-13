@@ -138,29 +138,35 @@ class PhotoIngest:
     # Public interface
     # ------------------------------------------------------------------
 
+    def _ingest_photos(self, blobs: list[dict]) -> list[str]:
+        saved = []
+        for blob in blobs:
+            if self._is_valid_size(blob):
+                dest = self._download_photo(blob)
+                if dest:
+                    saved.append(dest)
+        return saved
+
+    def _ingest_metadata(self, blobs: list[dict]) -> list[str]:
+        saved = []
+        for blob in blobs:
+            dest = self._download_metadata(blob)
+            if dest:
+                saved.append(dest)
+        return saved
+
     def run(self) -> dict[str, list[str]]:
         """Fetch photos and image metadata from Vercel.
 
         Returns a dict with keys 'photos' and 'metadata', each containing
         a list of newly saved file paths.
         """
-        photo_blobs = self._list_blobs(self.PHOTO_BLOB_PREFIX)
-        metadata_blobs = self._list_blobs(self.METADATA_BLOB_PREFIX)
-
-        saved_photos = []
-        for blob in photo_blobs:
-            if not self._is_valid_size(blob):
-                continue
-            dest = self._download_photo(blob)
-            if dest:
-                saved_photos.append(dest)
-
-        saved_metadata = []
-        for blob in metadata_blobs:
-            dest = self._download_metadata(blob)
-            if dest:
-                saved_metadata.append(dest)
-
+        saved_photos = self._ingest_photos(
+            self._list_blobs(self.PHOTO_BLOB_PREFIX)
+        )
+        saved_metadata = self._ingest_metadata(
+            self._list_blobs(self.METADATA_BLOB_PREFIX)
+        )
         log.info(
             f"Ingestion complete. "
             f"{len(saved_photos)} photo(s), "

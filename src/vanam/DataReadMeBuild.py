@@ -23,18 +23,24 @@ class DataReadMeBuild:
     # Internal helpers
     # ------------------------------------------------------------------
 
+    @staticmethod
+    def _load_json(path: str) -> dict | None:
+        try:
+            with open(path, encoding="utf-8") as f:
+                return json.load(f)
+        except (json.JSONDecodeError, OSError) as exc:
+            log.warning(f"Skipping {path}: {exc}")
+            return None
+
     def _iter_identifications(self):
         """Yield parsed identification dicts."""
         for root, _, files in os.walk(DATA_IDENTIFICATIONS_DIR):
             for fname in sorted(files):
                 if not fname.endswith(".json"):
                     continue
-                path = os.path.join(root, fname)
-                try:
-                    with open(path, encoding="utf-8") as f:
-                        yield json.load(f)
-                except (json.JSONDecodeError, OSError) as exc:
-                    log.warning(f"Skipping {path}: {exc}")
+                data = self._load_json(os.path.join(root, fname))
+                if data is not None:
+                    yield data
 
     @staticmethod
     def _data_dir_size() -> str:
@@ -122,11 +128,20 @@ class DataReadMeBuild:
     # Public interface
     # ------------------------------------------------------------------
 
+    def _build_table_lines(self, identifications: list) -> list[str]:
+        lines = [
+            "| Image Hash | Species | Common Name | Family "
+            "| Confidence | Location (lat, lng) "
+            "| Time Taken | User |",
+            "|---|---|---|---|---|---|---|---|",
+        ]
+        for ident in identifications:
+            lines.append(self._render_row(ident))
+        return lines
+
     def run(self) -> str:
         """Build and write data/README.md. Returns the output path."""
         identifications = list(self._iter_identifications())
-
-        # Sort descending by utImageTaken (string → int comparison)
         identifications.sort(
             key=lambda x: int(x.get("utImageTaken", 0) or 0),
             reverse=True,
@@ -135,30 +150,13 @@ class DataReadMeBuild:
         data_size = self._data_dir_size()
         n = len(identifications)
 
-        lines = []
-
-        # Title
-        lines.append("# Vanam - Data\n")
-
-        # Badges below title
-        lines.append(self._top_badges(data_size))
-
-        lines.append(
+        lines = [
+            "# Vanam - Data\n",
+            self._top_badges(data_size),
             f"**{n}** plant identification(s), "
-            f"sorted by most recently photographed.\n"
-        )
-
-        # Table
-        lines.append(
-            "| Image Hash | Species | Common Name | Family "
-            "| Confidence | Location (lat, lng) "
-            "| Time Taken | User |"
-        )
-        lines.append("|---|---|---|---|---|---|---|---|")
-        for ident in identifications:
-            lines.append(self._render_row(ident))
-
-        # Bottom badges
+            f"sorted by most recently photographed.\n",
+        ]
+        lines += self._build_table_lines(identifications)
         lines.append(self._bottom_badges())
 
         content = "\n".join(lines)

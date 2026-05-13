@@ -20,18 +20,24 @@ class Aggregate:
     # Internal helpers
     # ------------------------------------------------------------------
 
+    @staticmethod
+    def _load_json(path: str) -> dict | None:
+        try:
+            with open(path, encoding="utf-8") as f:
+                return json.load(f)
+        except (json.JSONDecodeError, OSError) as exc:
+            log.warning(f"Skipping {path}: {exc}")
+            return None
+
     def _iter_identifications(self):
         """Yield parsed identification dicts from data/identifications."""
         for root, _, files in os.walk(DATA_IDENTIFICATIONS_DIR):
             for fname in sorted(files):
                 if not fname.endswith(".json"):
                     continue
-                path = os.path.join(root, fname)
-                try:
-                    with open(path, encoding="utf-8") as f:
-                        yield json.load(f)
-                except (json.JSONDecodeError, OSError) as exc:
-                    log.warning(f"Skipping {path}: {exc}")
+                data = self._load_json(os.path.join(root, fname))
+                if data is not None:
+                    yield data
 
     @staticmethod
     def _top_prediction(identification: dict) -> dict | None:
