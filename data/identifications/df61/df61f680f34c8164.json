@@ -1,0 +1,154 @@
+{
+  "imageHash": "df61f680f34c8164",
+  "imageLocation": {
+    "latitude": 6.918902777777778,
+    "longitude": 79.85912222222221,
+    "accuracy": 6.314557577441311,
+    "source": "exif"
+  },
+  "utImageTaken": 1777285707,
+  "userId": "1bi07e4",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.01593,
+      "species": "Brugmansia suaveolens (Humb. & Bonpl. ex Willd.) Bercht. & J.Presl",
+      "genus": "Brugmansia",
+      "family": "Solanaceae",
+      "commonNames": [
+        "Angel's-trumpet",
+        "Daitura",
+        "Angel's tears"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01441,
+      "species": "Brugmansia versicolor Lagerh.",
+      "genus": "Brugmansia",
+      "family": "Solanaceae",
+      "commonNames": [
+        "Peach angel's-trumpet",
+        "Arborescent angel's-tears",
+        "Apricot angel's trumpet"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00465,
+      "species": "Amaryllis belladonna L.",
+      "genus": "Amaryllis",
+      "family": "Amaryllidaceae",
+      "commonNames": [
+        "Easter-lily",
+        "Belladonna lily",
+        "Naked ladies"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00348,
+      "species": "Tecoma stans (L.) Juss. ex Kunth",
+      "genus": "Tecoma",
+      "family": "Bignoniaceae",
+      "commonNames": [
+        "Yellow-bells",
+        "Yellow trumpet flower",
+        "Esperanza"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00324,
+      "species": "Pachira aquatica Aubl.",
+      "genus": "Pachira",
+      "family": "Malvaceae",
+      "commonNames": [
+        "Money Plant",
+        "Provision-tree",
+        "Water-chestnut"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00245,
+      "species": "Medinilla magnifica Lindl.",
+      "genus": "Medinilla",
+      "family": "Melastomataceae",
+      "commonNames": [
+        "Pink medinilla",
+        "Rose-grape",
+        "Showy medinilla"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00241,
+      "species": "Crinum asiaticum L.",
+      "genus": "Crinum",
+      "family": "Amaryllidaceae",
+      "commonNames": [
+        "Mangrove lily",
+        "Grand Crinum",
+        "Poisonbulb"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00234,
+      "species": "Psidium guajava L.",
+      "genus": "Psidium",
+      "family": "Myrtaceae",
+      "commonNames": [
+        "Guava",
+        "Guave",
+        "Common guava"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00232,
+      "species": "Pandanus utilis Bory",
+      "genus": "Pandanus",
+      "family": "Pandanaceae",
+      "commonNames": [
+        "Common screwpine",
+        "Hala",
+        "Screw pine"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00205,
+      "species": "Dracaena draco (L.) L.",
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "commonNames": [
+        "Dragontree",
+        "Canary Island Dragon Tree",
+        "Canary Islands dragon tree"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

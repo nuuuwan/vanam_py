@@ -1,0 +1,126 @@
+{
+  "imageHash": "e692c6b5443eab0a",
+  "imageLocation": {
+    "latitude": 6.879338888888889,
+    "longitude": 79.89654444444444,
+    "accuracy": 21.994534161490684,
+    "source": "exif"
+  },
+  "utImageTaken": 1776496918,
+  "userId": "1bi07e4",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.00212,
+      "species": "Crassula muscosa L.",
+      "genus": "Crassula",
+      "family": "Crassulaceae",
+      "commonNames": [
+        "Watch-chain",
+        "Toy-cypress",
+        "Lizard's Tai"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00195,
+      "species": "Hippeastrum reginae (L.) Herb.",
+      "genus": "Hippeastrum",
+      "family": "Amaryllidaceae",
+      "commonNames": [
+        "Amaryllis",
+        "Mexican lily",
+        "Cheryl's Treasure"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00187,
+      "species": "Trifolium pratense L.",
+      "genus": "Trifolium",
+      "family": "Fabaceae",
+      "commonNames": [
+        "Red clover",
+        "Purple clover",
+        "Meadow Honeysuckle"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00184,
+      "species": "Argemone mexicana L.",
+      "genus": "Argemone",
+      "family": "Papaveraceae",
+      "commonNames": [
+        "Bermuda thistle",
+        "Mexican-poppy",
+        "Mexican prickly-poppy"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00147,
+      "species": "Echinocereus pectinatus (Scheidw.) Engelm.",
+      "genus": "Echinocereus",
+      "family": "Cactaceae",
+      "commonNames": [
+        "Rainbow cactus",
+        "Comb hedgehog cactus",
+        "Lace cactus"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00115,
+      "species": "Eleusine indica (L.) Gaertn.",
+      "genus": "Eleusine",
+      "family": "Poaceae",
+      "commonNames": [
+        "Crowfoot grass",
+        "Goosegrass",
+        "Crabgrass"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00111,
+      "species": "Allium cepa L.",
+      "genus": "Allium",
+      "family": "Amaryllidaceae",
+      "commonNames": [
+        "Onion",
+        "Spring Onion",
+        "Green Onion"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0011,
+      "species": "Physalis peruviana L.",
+      "genus": "Physalis",
+      "family": "Solanaceae",
+      "commonNames": [
+        "Cape gooseberry",
+        "Peruvian ground-cherry",
+        "Gooseberry-tomato"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "imageHash": "59d2626621ce9351",
+  "imageLocation": {
+    "latitude": 6.918936111111112,
+    "longitude": 79.85911666666667,
+    "accuracy": 8.05367064664854,
+    "source": "exif"
+  },
+  "utImageTaken": 1777285715,
+  "userId": "1bi07e4",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.00751,
+      "species": "Brugmansia suaveolens (Humb. & Bonpl. ex Willd.) Bercht. & J.Presl",
+      "genus": "Brugmansia",
+      "family": "Solanaceae",
+      "commonNames": [
+        "Angel's-trumpet",
+        "Daitura",
+        "Angel's tears"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00613,
+      "species": "Psidium guajava L.",
+      "genus": "Psidium",
+      "family": "Myrtaceae",
+      "commonNames": [
+        "Guava",
+        "Guave",
+        "Common guava"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00501,
+      "species": "Brugmansia versicolor Lagerh.",
+      "genus": "Brugmansia",
+      "family": "Solanaceae",
+      "commonNames": [
+        "Peach angel's-trumpet",
+        "Arborescent angel's-tears",
+        "Apricot angel's trumpet"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00477,
+      "species": "Jacaranda mimosifolia D.Don",
+      "genus": "Jacaranda",
+      "family": "Bignoniaceae",
+      "commonNames": [
+        "Jacaranda",
+        "Fern-tree",
+        "Green Ebony"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00442,
+      "species": "Brachychiton populneus (Schott & Endl.) R.Br.",
+      "genus": "Brachychiton",
+      "family": "Malvaceae",
+      "commonNames": [
+        "Kurrajong",
+        "Bottletree",
+        "Whiteflower kurrajong"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00356,
+      "species": "Ipomoea carnea Jacq.",
+      "genus": "Ipomoea",
+      "family": "Convolvulaceae",
+      "commonNames": [
+        "Morning-glory",
+        "Bush Morning Glory",
+        "Gloria de la manana"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00342,
+      "species": "Amaryllis belladonna L.",
+      "genus": "Amaryllis",
+      "family": "Amaryllidaceae",
+      "commonNames": [
+        "Easter-lily",
+        "Belladonna lily",
+        "Naked ladies"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00285,
+      "species": "Amorphophallus konjac K.Koch",
+      "genus": "Amorphophallus",
+      "family": "Araceae",
+      "commonNames": [
+        "Devil's tongue",
+        "Elephant-yam",
+        "Konjac"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0019,
+      "species": "Gleditsia triacanthos L.",
+      "genus": "Gleditsia",
+      "family": "Fabaceae",
+      "commonNames": [
+        "Honey-locust",
+        "Thorny Common Honeylocust",
+        "Three-thorned Acacia"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00171,
+      "species": "Medinilla magnifica Lindl.",
+      "genus": "Medinilla",
+      "family": "Melastomataceae",
+      "commonNames": [
+        "Pink medinilla",
+        "Rose-grape",
+        "Showy medinilla"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}

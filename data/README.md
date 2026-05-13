@@ -1,8 +1,8 @@
 # Vanam - Data
 
-![updated](https://img.shields.io/badge/updated-2026--05--13%2006:44:48-blue)  ![data size](https://img.shields.io/badge/data%20size-668K-lightgrey)
+![updated](https://img.shields.io/badge/updated-2026--05--13%2006:49:06-blue)  ![data size](https://img.shields.io/badge/data%20size-940K-lightgrey)
 
-**11** plant identification(s), sorted by most recently photographed.
+**15** plant identification(s), sorted by most recently photographed.
 
 | Image Hash | Species | Common Name | Family | Confidence | Location (lat, lng) | Time Taken | User |
 |---|---|---|---|---|---|---|---|
@@ -10,6 +10,10 @@
 | `d67c2096ab66b15c` | *Artocarpus heterophyllus Lam.* | Jackfruit | Moraceae | 91.6% | 6.8977, 79.8654 | 2026-05-13 04:19 UTC | `9f6fcdc6` |
 | `aa88bdf31955c239` | *Artocarpus heterophyllus Lam.* | Jackfruit | Moraceae | 93.1% | 6.9125, 79.8627 | 2026-05-11 01:45 UTC | `4c5bc7a0` |
 | `592e30fc7278ab3b` | *Physostegia virginiana (L.) Benth.* | Obedience | Lamiaceae | 35.9% | 6.9130, 79.8599 | 2026-04-30 01:57 UTC | `e1776bd6` |
+| `59d2626621ce9351` | *Brugmansia suaveolens (Humb. & Bonpl. ex Willd.) Bercht. & J.Presl* | Angel's-trumpet | Solanaceae | 0.8% | 6.9189, 79.8591 | 2026-04-27 10:28 UTC | `1bi07e4` |
+| `df61f680f34c8164` | *Brugmansia suaveolens (Humb. & Bonpl. ex Willd.) Bercht. & J.Presl* | Angel's-trumpet | Solanaceae | 1.6% | 6.9189, 79.8591 | 2026-04-27 10:28 UTC | `1bi07e4` |
+| `8708e0ad87b55aba` | *Brugmansia versicolor Lagerh.* | Peach angel's-trumpet | Solanaceae | 0.6% | 6.9189, 79.8591 | 2026-04-27 10:28 UTC | `1bi07e4` |
+| `e692c6b5443eab0a` | *Crassula muscosa L.* | Watch-chain | Crassulaceae | 0.2% | 6.8793, 79.8965 | 2026-04-18 07:21 UTC | `1bi07e4` |
 | `673f744e0679031e` | *Arachnothryx leucophylla (Kunth) Planch.* | Panama rose | Rubiaceae | 12.1% | 8.0318, 80.7483 | 2026-04-05 04:34 UTC | `e1776bd6` |
 | `60448bd4f2a7a71f` | *Castanea sativa Mill.* | Sweet Chestnut | Fagaceae | 62.6% | 8.1172, 80.6648 | 2026-04-04 06:07 UTC | `e1776bd6` |
 | `e79e2b9486b56a5f` | *Juglans regia L.* | Black Walnut | Juglandaceae | 17.0% | 8.1188, 80.6619 | 2026-04-04 05:36 UTC | `e1776bd6` |
