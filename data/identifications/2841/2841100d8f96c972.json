@@ -1,0 +1,53 @@
+{
+  "imageHash": "2841100d8f96c972",
+  "imageLocation": {
+    "latitude": 6.918794444444445,
+    "longitude": 79.85914722222222,
+    "accuracy": 16.252690842854776,
+    "source": "exif"
+  },
+  "utImageTaken": 1767785615,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.08572,
+      "species": "Aloe vera (L.) Burm.f.",
+      "genus": "Aloe",
+      "family": "Asphodelaceae",
+      "commonNames": [
+        "Aloe vera",
+        "Aloe",
+        "آلوورا"
+      ],
+      "gbifId": "2777724",
+      "powoId": "530017-1"
+    },
+    {
+      "confidence": 0.08524,
+      "species": "Aloe officinalis Forssk.",
+      "genus": "Aloe",
+      "family": "Asphodelaceae",
+      "commonNames": [
+        "Aloe Vera",
+        "Red-flower Aloe",
+        "Aloe"
+      ],
+      "gbifId": "2777592",
+      "powoId": "529722-1"
+    },
+    {
+      "confidence": 0.05287,
+      "species": "Aloe albiflora Guillaumin",
+      "genus": "Aloe",
+      "family": "Asphodelaceae",
+      "commonNames": [
+        "White-flowered Aloe"
+      ],
+      "gbifId": "2777669",
+      "powoId": "529183-1",
+      "iucnId": "85998416",
+      "iucnCategory": "CR"
+    }
+  ],
+  "deviceIPAddress": "104.28.37.42",
+  "userId": "e4e49016"
+}

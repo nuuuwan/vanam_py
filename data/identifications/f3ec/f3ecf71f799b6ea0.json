@@ -1,0 +1,42 @@
+{
+  "imageHash": "f3ecf71f799b6ea0",
+  "imageLocation": {
+    "latitude": 37.44761544592423,
+    "longitude": -122.15930099047736,
+    "accuracy": 21.42486134289315,
+    "source": "browser"
+  },
+  "utImageTaken": 1772912614,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.18972,
+      "species": "Leucospermum cordifolium Fourc.",
+      "genus": "Leucospermum",
+      "family": "Proteaceae",
+      "commonNames": [
+        "Red pincushion-protea",
+        "Pincushion",
+        "Nodding pincushion"
+      ],
+      "gbifId": "3997490",
+      "iucnId": "113172076",
+      "iucnCategory": "NT"
+    },
+    {
+      "confidence": 0.08032,
+      "species": "Protea cynaroides (L.) L.",
+      "genus": "Protea",
+      "family": "Proteaceae",
+      "commonNames": [
+        "King protea",
+        "King sugarbush",
+        "Giant Protea"
+      ],
+      "gbifId": "5637947",
+      "iucnId": "113204772",
+      "iucnCategory": "LC"
+    }
+  ],
+  "deviceIPAddress": "146.75.136.184",
+  "userId": "4c5bc7a0"
+}

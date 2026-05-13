@@ -98,9 +98,7 @@ def run() -> list[str]:
         response.raise_for_status()
         identification = response.json()
 
-        saved_paths.append(
-            _save_identification(filename_stem, identification)
-        )
+        saved_paths.append(_save_identification(filename_stem, identification))
 
     log.info(f"Done. {len(saved_paths)} identification(s) saved.")
     return saved_paths

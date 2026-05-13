@@ -1,0 +1,27 @@
+{
+  "imageHash": "ee5180b5a108b2ce",
+  "imageLocation": {
+    "latitude": 37.44783920587144,
+    "longitude": -122.15907634635683,
+    "accuracy": 16.6964559516029,
+    "source": "browser"
+  },
+  "utImageTaken": 1772912580,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.85448,
+      "species": "Oxalis pes-caprae L.",
+      "genus": "Oxalis",
+      "family": "Oxalidaceae",
+      "commonNames": [
+        "Bermuda-buttercup",
+        "Sourgrass",
+        "Yellow-flower oxalis"
+      ],
+      "gbifId": "2891661",
+      "powoId": "375259-1"
+    }
+  ],
+  "deviceIPAddress": "146.75.136.184",
+  "userId": "4c5bc7a0"
+}

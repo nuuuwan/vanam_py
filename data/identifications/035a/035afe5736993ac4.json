@@ -1,0 +1,81 @@
+{
+  "imageHash": "035afe5736993ac4",
+  "imageLocation": {
+    "latitude": 37.44781975706964,
+    "longitude": -122.15905911627432,
+    "accuracy": 15.31029523168965,
+    "source": "browser"
+  },
+  "utImageTaken": 1772911111,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.35236,
+      "species": "Prunus dulcis (Mill.) D.A.Webb",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Almond",
+        "Bitter Almond-tree",
+        "Sweet almond"
+      ],
+      "gbifId": "3022502"
+    },
+    {
+      "confidence": 0.06825,
+      "species": "Prunus cerasifera Ehrh.",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Cherry plum, myrobalan",
+        "Cherry Plum",
+        "Purple-leaf Plum"
+      ],
+      "gbifId": "3021730",
+      "powoId": "729568-1",
+      "iucnId": "172162",
+      "iucnCategory": "DD"
+    },
+    {
+      "confidence": 0.058,
+      "species": "Malus domestica Borkh.",
+      "genus": "Malus",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Table apple",
+        "Apple",
+        "Common Crabapple"
+      ],
+      "gbifId": "3001244"
+    },
+    {
+      "confidence": 0.05684,
+      "species": "Prunus persica (L.) Batsch",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Peach",
+        "هلو",
+        "Peach tree"
+      ],
+      "gbifId": "3022511",
+      "powoId": "1212858-2"
+    },
+    {
+      "confidence": 0.05583,
+      "species": "Prunus serrulata Lindl.",
+      "genus": "Prunus",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Japanese flowering cherry",
+        "Tibetan Cherry",
+        "Japanese flowering cherry Kwanzan"
+      ],
+      "gbifId": "3022609",
+      "powoId": "730268-1",
+      "iucnId": "217170511",
+      "iucnCategory": "LC"
+    }
+  ],
+  "deviceIPAddress": "146.75.136.184",
+  "userId": "4c5bc7a0"
+}

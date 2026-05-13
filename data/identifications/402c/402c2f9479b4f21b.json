@@ -1,0 +1,42 @@
+{
+  "imageHash": "402c2f9479b4f21b",
+  "imageLocation": {
+    "latitude": 37.44778214391499,
+    "longitude": -122.15906443320699,
+    "accuracy": 19.478455853467803,
+    "source": "browser"
+  },
+  "utImageTaken": 1772911063,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.41465,
+      "species": "Malus × floribunda Siebold ex Van Houtte",
+      "genus": "Malus",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Japanese Crab Apple",
+        "Japanese Crab",
+        "Japanese Flowering Crab Apple"
+      ],
+      "gbifId": "3001365",
+      "powoId": "726291-1"
+    },
+    {
+      "confidence": 0.10513,
+      "species": "Malus sylvestris (L.) Mill.",
+      "genus": "Malus",
+      "family": "Rosaceae",
+      "commonNames": [
+        "Crab apple",
+        "European crab apple",
+        "Lopâr"
+      ],
+      "gbifId": "3001509",
+      "powoId": "726415-1",
+      "iucnId": "172170",
+      "iucnCategory": "DD"
+    }
+  ],
+  "deviceIPAddress": "146.75.136.184",
+  "userId": "4c5bc7a0"
+}

@@ -1,0 +1,40 @@
+{
+  "imageHash": "da5fd930d89ba472",
+  "imageLocation": {
+    "latitude": 6.918291666666667,
+    "longitude": 79.85890833333333,
+    "accuracy": 39.15280561122245,
+    "source": "exif"
+  },
+  "utImageTaken": 1767975079,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.06623,
+      "species": "Neoregelia carolinae (Beer) L.B.Sm.",
+      "genus": "Neoregelia",
+      "family": "Bromeliaceae",
+      "commonNames": [
+        "Blushing bromeliad",
+        "Neoregelia",
+        "Bromeliad"
+      ],
+      "gbifId": "2694159",
+      "powoId": "169003-2"
+    },
+    {
+      "confidence": 0.05654,
+      "species": "Ananas comosus (L.) Merr.",
+      "genus": "Ananas",
+      "family": "Bromeliaceae",
+      "commonNames": [
+        "Pineapple",
+        "Ananas",
+        "BROMELIADS!!!!"
+      ],
+      "gbifId": "5288819",
+      "powoId": "12322-2"
+    }
+  ],
+  "deviceIPAddress": "104.28.37.42",
+  "userId": "e4e49016"
+}

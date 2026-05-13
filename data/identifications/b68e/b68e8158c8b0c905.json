@@ -1,0 +1,27 @@
+{
+  "imageHash": "b68e8158c8b0c905",
+  "imageLocation": {
+    "latitude": 6.912983333333334,
+    "longitude": 79.85988611111111,
+    "accuracy": 2.9423352230430053,
+    "source": "exif"
+  },
+  "utImageTaken": 1768012177,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.13655,
+      "species": "Barleria prionitis L.",
+      "genus": "Barleria",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Barleria",
+        "Porcupine-flower",
+        "Dog bush"
+      ],
+      "gbifId": "3173129",
+      "powoId": "46147-1"
+    }
+  ],
+  "deviceIPAddress": "104.28.37.42",
+  "userId": "e4e49016"
+}

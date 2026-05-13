@@ -1,0 +1,41 @@
+{
+  "imageHash": "179d821b4e1583ec",
+  "imageLocation": {
+    "latitude": 6.918869444444445,
+    "longitude": 79.85912222222221,
+    "accuracy": 13.052185792349727,
+    "source": "exif"
+  },
+  "utImageTaken": 1767785619,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.15161,
+      "species": "Musa acuminata Colla",
+      "genus": "Musa",
+      "family": "Musaceae",
+      "commonNames": [
+        "Dwarf banana",
+        "Cavendish banana",
+        "Chinese banana"
+      ],
+      "gbifId": "2762680",
+      "powoId": "797527-1",
+      "iucnId": "22486320",
+      "iucnCategory": "LC"
+    },
+    {
+      "confidence": 0.06856,
+      "species": "Musa basjoo Siebold ex Miq.",
+      "genus": "Musa",
+      "family": "Musaceae",
+      "commonNames": [
+        "Japanese banana",
+        "Japanese fibre banana",
+        "Hardy Banana"
+      ],
+      "gbifId": "2762737"
+    }
+  ],
+  "deviceIPAddress": "104.28.37.42",
+  "userId": "e4e49016"
+}

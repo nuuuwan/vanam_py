@@ -1,0 +1,27 @@
+{
+  "imageHash": "f5adab4877a81c4a",
+  "imageLocation": {
+    "latitude": 37.447924838032726,
+    "longitude": -122.15900147341738,
+    "accuracy": 18.786361357095146,
+    "source": "browser"
+  },
+  "utImageTaken": 1772910873,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.68466,
+      "species": "Magnolia × soulangeana Soul.-Bod.",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "commonNames": [
+        "Chinese magnolia",
+        "Saucer magnolia",
+        "Hybrid Magnolia"
+      ],
+      "gbifId": "7925303",
+      "powoId": "60468302-2"
+    }
+  ],
+  "deviceIPAddress": "146.75.136.184",
+  "userId": "4c5bc7a0"
+}

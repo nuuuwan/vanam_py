@@ -1,0 +1,29 @@
+{
+  "imageHash": "1f5981c711080306",
+  "imageLocation": {
+    "latitude": 6.918627728529558,
+    "longitude": 79.85929435271866,
+    "accuracy": 48,
+    "source": "browser"
+  },
+  "utImageTaken": "1768567102",
+  "plantNetPredictions": [
+    {
+      "confidence": 0.18331,
+      "species": "Mesua ferrea L.",
+      "genus": "Mesua",
+      "family": "Calophyllaceae",
+      "commonNames": [
+        "Mesua",
+        "Indian Rose Chestnut",
+        "Ceylon ironwood"
+      ],
+      "gbifId": "7330039",
+      "powoId": "428832-1",
+      "iucnId": "61987931",
+      "iucnCategory": "VU"
+    }
+  ],
+  "deviceIPAddress": "123.231.96.1",
+  "userId": "3042d1a5"
+}

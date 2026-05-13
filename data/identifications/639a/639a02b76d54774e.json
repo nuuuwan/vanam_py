@@ -1,0 +1,27 @@
+{
+  "imageHash": "639a02b76d54774e",
+  "imageLocation": {
+    "latitude": 6.91862767353477,
+    "longitude": 79.85929454501758,
+    "accuracy": 48,
+    "source": "browser"
+  },
+  "utImageTaken": "1768567226",
+  "plantNetPredictions": [
+    {
+      "confidence": 0.92751,
+      "species": "Aglaonema commutatum Schott",
+      "genus": "Aglaonema",
+      "family": "Araceae",
+      "commonNames": [
+        "Chinese evergreen",
+        "گل آگلونما نخشید",
+        "Silver queen aglaonema"
+      ],
+      "gbifId": "2866467",
+      "powoId": "84050-1"
+    }
+  ],
+  "deviceIPAddress": "123.231.96.1",
+  "userId": "3042d1a5"
+}

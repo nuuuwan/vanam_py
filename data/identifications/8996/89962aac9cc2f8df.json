@@ -1,0 +1,49 @@
+{
+  "imageHash": "89962aac9cc2f8df",
+  "imageLocation": {
+    "latitude": 37.4478795097516,
+    "longitude": -122.15903247871009,
+    "accuracy": 19.43182686330223,
+    "source": "browser"
+  },
+  "utImageTaken": 1772910903,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.33511,
+      "species": "Cistus × aguilari O.E.Warb.",
+      "genus": "Cistus",
+      "family": "Cistaceae",
+      "commonNames": [],
+      "gbifId": "3596365",
+      "powoId": "168160-1"
+    },
+    {
+      "confidence": 0.26495,
+      "species": "Cistus ladanifer L.",
+      "genus": "Cistus",
+      "family": "Cistaceae",
+      "commonNames": [
+        "Common gum cistus",
+        "Labdanum",
+        "Laudanum"
+      ],
+      "gbifId": "6437976",
+      "powoId": "168325-1"
+    },
+    {
+      "confidence": 0.12494,
+      "species": "Cistus laurifolius L.",
+      "genus": "Cistus",
+      "family": "Cistaceae",
+      "commonNames": [
+        "Laurel-leaf cistus",
+        "Laurel-leaved Rock-rose",
+        "Laurel-Leaved Cistus"
+      ],
+      "gbifId": "3596501",
+      "powoId": "168336-1"
+    }
+  ],
+  "deviceIPAddress": "146.75.136.184",
+  "userId": "4c5bc7a0"
+}

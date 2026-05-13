@@ -1,0 +1,55 @@
+{
+  "imageHash": "bbce6e14c50c56ad",
+  "imageLocation": {
+    "latitude": 37.447858596513214,
+    "longitude": -122.15906750028192,
+    "accuracy": 12.841509356794102,
+    "source": "browser"
+  },
+  "utImageTaken": 1772912473,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.49801,
+      "species": "Rhododendron periclymenoides (Michx.) Shinners",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "commonNames": [
+        "Election-pink",
+        "Pinxter-flower",
+        "Pinxterbloom azalea"
+      ],
+      "gbifId": "2883027",
+      "powoId": "219516-2"
+    },
+    {
+      "confidence": 0.15892,
+      "species": "Rhododendron occidentale (Torr. & A.Gray) A.Gray",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "commonNames": [
+        "California azalea",
+        "Sonoma azalea",
+        "Western Azalea"
+      ],
+      "gbifId": "2883077",
+      "powoId": "332991-1"
+    },
+    {
+      "confidence": 0.14955,
+      "species": "Rhododendron canescens (Michx.) Sweet",
+      "genus": "Rhododendron",
+      "family": "Ericaceae",
+      "commonNames": [
+        "Hoary azalea",
+        "Piedmont azalea",
+        "Southern pinxterbloom azalea"
+      ],
+      "gbifId": "2883039",
+      "powoId": "30117552-2",
+      "iucnId": "200390841",
+      "iucnCategory": "LC"
+    }
+  ],
+  "deviceIPAddress": "146.75.136.184",
+  "userId": "4c5bc7a0"
+}

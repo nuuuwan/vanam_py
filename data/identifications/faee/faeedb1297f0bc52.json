@@ -1,0 +1,29 @@
+{
+  "imageHash": "faeedb1297f0bc52",
+  "imageLocation": {
+    "latitude": 6.9186276551917265,
+    "longitude": 79.85929461131924,
+    "accuracy": 48,
+    "source": "browser"
+  },
+  "utImageTaken": "1768565185",
+  "plantNetPredictions": [
+    {
+      "confidence": 0.06445,
+      "species": "Melaleuca linariifolia Sm.",
+      "genus": "Melaleuca",
+      "family": "Myrtaceae",
+      "commonNames": [
+        "Narrow-leaf paperbark",
+        "Snow-in-summer",
+        "Flax-leaf paperbark"
+      ],
+      "gbifId": "5415842",
+      "powoId": "598003-1",
+      "iucnId": "177372057",
+      "iucnCategory": "LC"
+    }
+  ],
+  "deviceIPAddress": "123.231.96.1",
+  "userId": "3042d1a5"
+}
