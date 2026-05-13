@@ -1,0 +1,272 @@
+{
+  "hash": "4783a44e351751e5",
+  "image_metadata": {
+    "imageHash": "4783a44e351751e5",
+    "imageLocation": {
+      "latitude": -8.703688888888887,
+      "longitude": 115.16629166666667,
+      "accuracy": 2.2059426229508197,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025435,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/4783a44e351751e5.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "ff3e5e2699e36da0b8af532fe20fbdc2"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "ff3e5e2699e36da0b8af532fe20fbdc2",
+        "filename": "4783a44e351751e5.png",
+        "organ": "flower",
+        "score": 0.83162
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Zinnia peruviana (L.) L.",
+    "results": [
+      {
+        "score": 0.55966,
+        "species": {
+          "scientificNameWithoutAuthor": "Zinnia peruviana",
+          "scientificNameAuthorship": "(L.) L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Zinnia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zinnia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Peruvian zinnia",
+            "Field zinnia",
+            "Wild zinnia"
+          ],
+          "scientificName": "Zinnia peruviana (L.) L."
+        },
+        "gbif": {
+          "id": "9193953"
+        },
+        "powo": {
+          "id": "261363-1"
+        }
+      },
+      {
+        "score": 0.12114,
+        "species": {
+          "scientificNameWithoutAuthor": "Zinnia elegans",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Zinnia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zinnia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Garden zinnia",
+            "Zinnia",
+            "Youth-and-age"
+          ],
+          "scientificName": "Zinnia elegans Jacq."
+        },
+        "gbif": {
+          "id": "3111754"
+        },
+        "powo": {
+          "id": "261331-1"
+        }
+      },
+      {
+        "score": 0.04867,
+        "species": {
+          "scientificNameWithoutAuthor": "Zinnia angustifolia",
+          "scientificNameAuthorship": "Kunth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Zinnia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zinnia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Narrowleaf zinnia",
+            "Dwarf zinnia",
+            "Mexican Zinna"
+          ],
+          "scientificName": "Zinnia angustifolia Kunth"
+        },
+        "gbif": {
+          "id": "3111797"
+        },
+        "powo": {
+          "id": "261319-1"
+        }
+      },
+      {
+        "score": 0.01721,
+        "species": {
+          "scientificNameWithoutAuthor": "Zinnia haageana",
+          "scientificNameAuthorship": "Regel",
+          "genus": {
+            "scientificNameWithoutAuthor": "Zinnia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zinnia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Mexican zinnia",
+            "Zinnia",
+            "Narrow-leaved Zinnia"
+          ],
+          "scientificName": "Zinnia haageana Regel"
+        },
+        "gbif": {
+          "id": "3111813"
+        },
+        "powo": {
+          "id": "261341-1"
+        }
+      },
+      {
+        "score": 0.00325,
+        "species": {
+          "scientificNameWithoutAuthor": "Zenkeria elegans",
+          "scientificNameAuthorship": "Trin.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Zenkeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zenkeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Poaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Poaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Zenkeria elegans Trin."
+        },
+        "gbif": {
+          "id": "5678281"
+        },
+        "powo": {
+          "id": "426841-1"
+        }
+      },
+      {
+        "score": 0.00249,
+        "species": {
+          "scientificNameWithoutAuthor": "Helenium autumnale",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Helenium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Helenium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Sneezeweed",
+            "Common sneezeweed",
+            "Fall Sneezeweed"
+          ],
+          "scientificName": "Helenium autumnale L."
+        },
+        "gbif": {
+          "id": "5401877"
+        },
+        "powo": {
+          "id": "211760-1"
+        }
+      },
+      {
+        "score": 0.00217,
+        "species": {
+          "scientificNameWithoutAuthor": "Dimorphotheca ecklonis",
+          "scientificNameAuthorship": "DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dimorphotheca",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dimorphotheca"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Vanstaden's river daisy",
+            "Blue-and-white daisy-bush",
+            "Bedding marigold"
+          ],
+          "scientificName": "Dimorphotheca ecklonis DC."
+        },
+        "gbif": {
+          "id": "5387293"
+        },
+        "powo": {
+          "id": "201468-1"
+        }
+      },
+      {
+        "score": 0.001,
+        "species": {
+          "scientificNameWithoutAuthor": "Gomphrena globosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gomphrena",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gomphrena"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Bachelor's-button",
+            "Globe amaranth",
+            "Common globe-amaranth"
+          ],
+          "scientificName": "Gomphrena globosa L."
+        },
+        "gbif": {
+          "id": "3084908"
+        },
+        "powo": {
+          "id": "327333-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 338
+  }
+}

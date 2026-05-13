@@ -1,0 +1,335 @@
+{
+  "hash": "ac9f718463cec3ba",
+  "image_metadata": {
+    "imageHash": "ac9f718463cec3ba",
+    "imageLocation": {
+      "latitude": 6.027952777777778,
+      "longitude": 80.21449166666667,
+      "accuracy": 51.632764505119454,
+      "source": "exif"
+    },
+    "utImageTaken": 1748658594,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/ac9f718463cec3ba.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "b110ece7b482aab4137cb78dad525dab"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "b110ece7b482aab4137cb78dad525dab",
+        "filename": "ac9f718463cec3ba.png",
+        "organ": "habit",
+        "score": 0.4651
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Gomphrena serrata L.",
+    "results": [
+      {
+        "score": 0.43951,
+        "species": {
+          "scientificNameWithoutAuthor": "Gomphrena serrata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gomphrena",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gomphrena"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Arrasa Con Todo",
+            "Batchelor's button"
+          ],
+          "scientificName": "Gomphrena serrata L."
+        },
+        "gbif": {
+          "id": "3084909"
+        },
+        "powo": {
+          "id": "112097-2"
+        }
+      },
+      {
+        "score": 0.04717,
+        "species": {
+          "scientificNameWithoutAuthor": "Alternanthera paronychioides",
+          "scientificNameAuthorship": "A.St.-Hil.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alternanthera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alternanthera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Smooth Joyweed",
+            "Smooth chaff flower"
+          ],
+          "scientificName": "Alternanthera paronychioides A.St.-Hil."
+        },
+        "gbif": {
+          "id": "3084922"
+        },
+        "powo": {
+          "id": "327343-2"
+        }
+      },
+      {
+        "score": 0.03829,
+        "species": {
+          "scientificNameWithoutAuthor": "Alternanthera philoxeroides",
+          "scientificNameAuthorship": "(Mart.) Griseb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alternanthera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alternanthera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Alligator-weed",
+            "Helencha",
+            "Pig weed"
+          ],
+          "scientificName": "Alternanthera philoxeroides (Mart.) Griseb."
+        },
+        "gbif": {
+          "id": "3084923"
+        },
+        "powo": {
+          "id": "1024156-2"
+        }
+      },
+      {
+        "score": 0.02009,
+        "species": {
+          "scientificNameWithoutAuthor": "Alternanthera caracasana",
+          "scientificNameAuthorship": "Kunth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alternanthera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alternanthera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Mat chaff-flower",
+            "Paperthorn",
+            "Washerwoman"
+          ],
+          "scientificName": "Alternanthera caracasana Kunth"
+        },
+        "gbif": {
+          "id": "3084958"
+        },
+        "powo": {
+          "id": "327344-2"
+        }
+      },
+      {
+        "score": 0.01562,
+        "species": {
+          "scientificNameWithoutAuthor": "Alternanthera flavescens",
+          "scientificNameAuthorship": "Kunth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alternanthera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alternanthera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Yellow Joyweed"
+          ],
+          "scientificName": "Alternanthera flavescens Kunth"
+        },
+        "gbif": {
+          "id": "3084964"
+        },
+        "powo": {
+          "id": "327338-2"
+        }
+      },
+      {
+        "score": 0.01435,
+        "species": {
+          "scientificNameWithoutAuthor": "Stellaria media",
+          "scientificNameAuthorship": "(L.) Vill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Stellaria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Stellaria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caryophyllaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caryophyllaceae"
+          },
+          "commonNames": [
+            "Chickweed",
+            "Common Chickweed",
+            "Nodding Chickweed"
+          ],
+          "scientificName": "Stellaria media (L.) Vill."
+        },
+        "gbif": {
+          "id": "5384604"
+        },
+        "powo": {
+          "id": "159330-1"
+        }
+      },
+      {
+        "score": 0.01403,
+        "species": {
+          "scientificNameWithoutAuthor": "Eclipta prostrata",
+          "scientificNameAuthorship": "(L.) L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Eclipta",
+            "scientificNameAuthorship": "",
+            "scientificName": "Eclipta"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Bhringaraj",
+            "False daisy",
+            "White twinheads"
+          ],
+          "scientificName": "Eclipta prostrata (L.) L."
+        },
+        "gbif": {
+          "id": "5384950"
+        },
+        "powo": {
+          "id": "1186403-2"
+        },
+        "iucn": {
+          "id": "164051",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01053,
+        "species": {
+          "scientificNameWithoutAuthor": "Gomphrena celosioides",
+          "scientificNameAuthorship": "Mart.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gomphrena",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gomphrena"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Gomphrena-weed",
+            "Soft khakiweed",
+            "Bachelor's button"
+          ],
+          "scientificName": "Gomphrena celosioides Mart."
+        },
+        "gbif": {
+          "id": "3084911"
+        },
+        "powo": {
+          "id": "60397-1"
+        }
+      },
+      {
+        "score": 0.00941,
+        "species": {
+          "scientificNameWithoutAuthor": "Alternanthera ficoidea",
+          "scientificNameAuthorship": "(L.) P.Beauv.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alternanthera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alternanthera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Sanguinaria",
+            "Parrotleaf",
+            "Sanguinarea"
+          ],
+          "scientificName": "Alternanthera ficoidea (L.) P.Beauv."
+        },
+        "gbif": {
+          "id": "3084969"
+        },
+        "powo": {
+          "id": "1078972-2"
+        }
+      },
+      {
+        "score": 0.00787,
+        "species": {
+          "scientificNameWithoutAuthor": "Alternanthera sessilis",
+          "scientificNameAuthorship": "(L.) DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alternanthera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alternanthera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaranthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaranthaceae"
+          },
+          "commonNames": [
+            "Sessile joyweed",
+            "Rabbit-meat",
+            "Amaranthus weed"
+          ],
+          "scientificName": "Alternanthera sessilis (L.) DC."
+        },
+        "gbif": {
+          "id": "3084939"
+        },
+        "iucn": {
+          "id": "164480",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 326
+  }
+}

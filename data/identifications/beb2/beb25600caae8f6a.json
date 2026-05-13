@@ -1,0 +1,162 @@
+{
+  "hash": "beb25600caae8f6a",
+  "image_metadata": {
+    "imageHash": "beb25600caae8f6a",
+    "imageLocation": {
+      "latitude": -8.703475,
+      "longitude": 115.16722777777778,
+      "accuracy": 2.2875541125541123,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025820,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/beb25600caae8f6a.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "231f9cef587a85327a128e47af59ebd2"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "231f9cef587a85327a128e47af59ebd2",
+        "filename": "beb25600caae8f6a.png",
+        "organ": "flower",
+        "score": 0.76494
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Cleome viscosa L.",
+    "results": [
+      {
+        "score": 0.85483,
+        "species": {
+          "scientificNameWithoutAuthor": "Cleome viscosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cleome",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleome"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cleomaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleomaceae"
+          },
+          "commonNames": [
+            "Asian Spider-flower",
+            "కుక్కవావింట",
+            "کنجد شیطان، کنجد وحشی"
+          ],
+          "scientificName": "Cleome viscosa L."
+        },
+        "gbif": {
+          "id": "3054214"
+        },
+        "powo": {
+          "id": "320133-2"
+        }
+      },
+      {
+        "score": 0.0021,
+        "species": {
+          "scientificNameWithoutAuthor": "Cleome allamanii",
+          "scientificNameAuthorship": "Chiov.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cleome",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleome"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cleomaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleomaceae"
+          },
+          "commonNames": [
+            "Pretty lady"
+          ],
+          "scientificName": "Cleome allamanii Chiov."
+        },
+        "gbif": {
+          "id": "8386484"
+        },
+        "powo": {
+          "id": "146912-1"
+        }
+      },
+      {
+        "score": 0.002,
+        "species": {
+          "scientificNameWithoutAuthor": "Cleome rutidosperma",
+          "scientificNameAuthorship": "DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cleome",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleome"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cleomaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleomaceae"
+          },
+          "commonNames": [
+            "Fringed spiderflower",
+            "Bhubbhuwân",
+            "Fringed Spider Flower"
+          ],
+          "scientificName": "Cleome rutidosperma DC."
+        },
+        "gbif": {
+          "id": "3054196"
+        },
+        "powo": {
+          "id": "147293-1"
+        }
+      },
+      {
+        "score": 0.00173,
+        "species": {
+          "scientificNameWithoutAuthor": "Rorippa sylvestris",
+          "scientificNameAuthorship": "(L.) Besser",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rorippa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rorippa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Creeping yellow cress",
+            "Creeping yellow field cress",
+            "Yellow field cress"
+          ],
+          "scientificName": "Rorippa sylvestris (L.) Besser"
+        },
+        "gbif": {
+          "id": "3053376"
+        },
+        "powo": {
+          "id": "288692-1"
+        },
+        "iucn": {
+          "id": "176486",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 324
+  }
+}

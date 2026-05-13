@@ -1,0 +1,160 @@
+{
+  "hash": "3254f6dbb52c52a5",
+  "image_metadata": {
+    "imageHash": "3254f6dbb52c52a5",
+    "imageLocation": {
+      "latitude": -8.703644444444445,
+      "longitude": 115.16638055555556,
+      "accuracy": 2.2351810515873014,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025621,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/3254f6dbb52c52a5.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "a892ceaee69f854f359f4f53ade65c6d"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "a892ceaee69f854f359f4f53ade65c6d",
+        "filename": "3254f6dbb52c52a5.png",
+        "organ": "flower",
+        "score": 0.51552
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Tagetes erecta L.",
+    "results": [
+      {
+        "score": 0.86418,
+        "species": {
+          "scientificNameWithoutAuthor": "Tagetes erecta",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tagetes",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tagetes"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Marigold",
+            "African marigold",
+            "गेंदा फूल (Genda phool)"
+          ],
+          "scientificName": "Tagetes erecta L."
+        },
+        "gbif": {
+          "id": "3088488"
+        },
+        "powo": {
+          "id": "252092-1"
+        }
+      },
+      {
+        "score": 0.01124,
+        "species": {
+          "scientificNameWithoutAuthor": "Tagetes tenuifolia",
+          "scientificNameAuthorship": "Cav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tagetes",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tagetes"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Slender-leaf marigold",
+            "Signet marigold",
+            "Striped Mexican marigold"
+          ],
+          "scientificName": "Tagetes tenuifolia Cav."
+        },
+        "gbif": {
+          "id": "7497356"
+        },
+        "powo": {
+          "id": "252177-1"
+        }
+      },
+      {
+        "score": 0.00142,
+        "species": {
+          "scientificNameWithoutAuthor": "Coreopsis grandiflora",
+          "scientificNameAuthorship": "Hogg ex Sweet",
+          "genus": {
+            "scientificNameWithoutAuthor": "Coreopsis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Coreopsis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Large-flowered Tickseed",
+            "Large-flower tickseed",
+            "American tickseed"
+          ],
+          "scientificName": "Coreopsis grandiflora Hogg ex Sweet"
+        },
+        "gbif": {
+          "id": "3133927"
+        },
+        "powo": {
+          "id": "20005010-1"
+        }
+      },
+      {
+        "score": 0.00101,
+        "species": {
+          "scientificNameWithoutAuthor": "Cosmos sulphureus",
+          "scientificNameAuthorship": "Cav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cosmos",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cosmos"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Orange cosmos",
+            "Sulphur cosmos",
+            "Yellow cosmos"
+          ],
+          "scientificName": "Cosmos sulphureus Cav."
+        },
+        "gbif": {
+          "id": "3098951"
+        },
+        "powo": {
+          "id": "198368-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 343
+  }
+}

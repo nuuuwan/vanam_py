@@ -1,0 +1,345 @@
+{
+  "hash": "35bf6db29dc600f9",
+  "image_metadata": {
+    "imageHash": "35bf6db29dc600f9",
+    "imageLocation": {
+      "latitude": -8.703505555555555,
+      "longitude": 115.16697777777779,
+      "accuracy": 16.880295763389288,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025762,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/35bf6db29dc600f9.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "17bd0c8d7faebf8bc10c12188fe7cd62"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "17bd0c8d7faebf8bc10c12188fe7cd62",
+        "filename": "35bf6db29dc600f9.png",
+        "organ": "flower",
+        "score": 0.76163
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Rorippa sylvestris (L.) Besser",
+    "results": [
+      {
+        "score": 0.23918,
+        "species": {
+          "scientificNameWithoutAuthor": "Rorippa sylvestris",
+          "scientificNameAuthorship": "(L.) Besser",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rorippa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rorippa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Creeping yellow cress",
+            "Creeping yellow field cress",
+            "Yellow field cress"
+          ],
+          "scientificName": "Rorippa sylvestris (L.) Besser"
+        },
+        "gbif": {
+          "id": "3053376"
+        },
+        "powo": {
+          "id": "288692-1"
+        },
+        "iucn": {
+          "id": "176486",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.1375,
+        "species": {
+          "scientificNameWithoutAuthor": "Bunias erucago",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bunias",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bunias"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Southern warty-cabbage",
+            "Crested wartycabbage",
+            "Crested Bunias"
+          ],
+          "scientificName": "Bunias erucago L."
+        },
+        "gbif": {
+          "id": "3050357"
+        },
+        "powo": {
+          "id": "279698-1"
+        }
+      },
+      {
+        "score": 0.03666,
+        "species": {
+          "scientificNameWithoutAuthor": "Cleome viscosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cleome",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleome"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cleomaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleomaceae"
+          },
+          "commonNames": [
+            "Asian Spider-flower",
+            "కుక్కవావింట",
+            "کنجد شیطان، کنجد وحشی"
+          ],
+          "scientificName": "Cleome viscosa L."
+        },
+        "gbif": {
+          "id": "3054214"
+        },
+        "powo": {
+          "id": "320133-2"
+        }
+      },
+      {
+        "score": 0.02549,
+        "species": {
+          "scientificNameWithoutAuthor": "Barbarea verna",
+          "scientificNameAuthorship": "(Mill.) Asch.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Barbarea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Barbarea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "American cress",
+            "Belle Island cress",
+            "Early wintercress"
+          ],
+          "scientificName": "Barbarea verna (Mill.) Asch."
+        },
+        "gbif": {
+          "id": "5374672"
+        },
+        "powo": {
+          "id": "1109261-2"
+        },
+        "iucn": {
+          "id": "176430",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.01632,
+        "species": {
+          "scientificNameWithoutAuthor": "Oenothera parviflora",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Oenothera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oenothera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Onagraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Onagraceae"
+          },
+          "commonNames": [
+            "Northern evening primrose",
+            "Least Evening-Primrose",
+            "Evening primrose"
+          ],
+          "scientificName": "Oenothera parviflora L."
+        },
+        "gbif": {
+          "id": "8994150"
+        },
+        "powo": {
+          "id": "294779-2"
+        }
+      },
+      {
+        "score": 0.01512,
+        "species": {
+          "scientificNameWithoutAuthor": "Diplotaxis tenuifolia",
+          "scientificNameAuthorship": "(L.) DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Diplotaxis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Diplotaxis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Perennial Wild Arugula",
+            "Perennial wall rocket",
+            "Lincoln's-weed"
+          ],
+          "scientificName": "Diplotaxis tenuifolia (L.) DC."
+        },
+        "gbif": {
+          "id": "5376426"
+        },
+        "powo": {
+          "id": "1028648-2"
+        }
+      },
+      {
+        "score": 0.0136,
+        "species": {
+          "scientificNameWithoutAuthor": "Rorippa pyrenaica",
+          "scientificNameAuthorship": "(All.) Rchb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rorippa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rorippa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Yellow Appiror",
+            "Pyrenean Yellowcress",
+            "Pyrenees Yellowcress"
+          ],
+          "scientificName": "Rorippa pyrenaica (All.) Rchb."
+        },
+        "gbif": {
+          "id": "3053399"
+        },
+        "powo": {
+          "id": "288679-1"
+        }
+      },
+      {
+        "score": 0.0103,
+        "species": {
+          "scientificNameWithoutAuthor": "Erysimum odoratum",
+          "scientificNameAuthorship": "Ehrh.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Erysimum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Erysimum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Smelly wallflower",
+            "Wallflower"
+          ],
+          "scientificName": "Erysimum odoratum Ehrh."
+        },
+        "gbif": {
+          "id": "3048357"
+        },
+        "powo": {
+          "id": "284035-1"
+        }
+      },
+      {
+        "score": 0.00953,
+        "species": {
+          "scientificNameWithoutAuthor": "Ranunculus sardous",
+          "scientificNameAuthorship": "Crantz",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ranunculus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ranunculus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ranunculaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ranunculaceae"
+          },
+          "commonNames": [
+            "Hairy buttercup",
+            "Pale hairy buttercup",
+            "Canton buttercup"
+          ],
+          "scientificName": "Ranunculus sardous Crantz"
+        },
+        "gbif": {
+          "id": "3033483"
+        },
+        "powo": {
+          "id": "713757-1"
+        }
+      },
+      {
+        "score": 0.00943,
+        "species": {
+          "scientificNameWithoutAuthor": "Rorippa amphibia",
+          "scientificNameAuthorship": "(L.) Besser",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rorippa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rorippa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Great yellow cress",
+            "Great Yellowcress",
+            "Amphibious Yellow-Cress"
+          ],
+          "scientificName": "Rorippa amphibia (L.) Besser"
+        },
+        "gbif": {
+          "id": "3053201"
+        },
+        "powo": {
+          "id": "288622-1"
+        },
+        "iucn": {
+          "id": "164093",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 342
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "hash": "42f6b514b94fc56b",
+  "image_metadata": {
+    "imageHash": "42f6b514b94fc56b",
+    "imageLocation": {
+      "latitude": -8.703586111111111,
+      "longitude": 115.16653333333333,
+      "accuracy": 2.2996231747527083,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025658,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/42f6b514b94fc56b.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "9c8b8c4635ded5cbfaa316aec222f4f5"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "9c8b8c4635ded5cbfaa316aec222f4f5",
+        "filename": "42f6b514b94fc56b.png",
+        "organ": "habit",
+        "score": 0.48647
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Plumeria obtusa L.",
+    "results": [
+      {
+        "score": 0.34273,
+        "species": {
+          "scientificNameWithoutAuthor": "Plumeria obtusa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plumeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Frangipani",
+            "Singapore graveyard flower",
+            "Pagoda tree"
+          ],
+          "scientificName": "Plumeria obtusa L."
+        },
+        "gbif": {
+          "id": "3169677"
+        },
+        "powo": {
+          "id": "81256-1"
+        },
+        "iucn": {
+          "id": "156770956",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.2437,
+        "species": {
+          "scientificNameWithoutAuthor": "Plumeria pudica",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plumeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Fiddle leaf plumeria",
+            "Bridal boquet",
+            "White frangipani"
+          ],
+          "scientificName": "Plumeria pudica Jacq."
+        },
+        "gbif": {
+          "id": "3614691"
+        },
+        "powo": {
+          "id": "81268-1"
+        },
+        "iucn": {
+          "id": "151953739",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.13985,
+        "species": {
+          "scientificNameWithoutAuthor": "Plumeria alba",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plumeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "White Frangipani",
+            "Champa",
+            "Pagoda-tree"
+          ],
+          "scientificName": "Plumeria alba L."
+        },
+        "gbif": {
+          "id": "3169673"
+        },
+        "powo": {
+          "id": "81171-1"
+        },
+        "iucn": {
+          "id": "208165050",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02973,
+        "species": {
+          "scientificNameWithoutAuthor": "Cerbera manghas",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cerbera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cerbera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Sea-mango",
+            "Rubbertree",
+            "Beach milkwood"
+          ],
+          "scientificName": "Cerbera manghas L."
+        },
+        "gbif": {
+          "id": "7155766"
+        },
+        "powo": {
+          "id": "77906-1"
+        },
+        "iucn": {
+          "id": "147649572",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02716,
+        "species": {
+          "scientificNameWithoutAuthor": "Cerbera odollam",
+          "scientificNameAuthorship": "Gaertn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cerbera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cerbera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Pong Pong",
+            "Suicide tree",
+            "Sea Mango"
+          ],
+          "scientificName": "Cerbera odollam Gaertn."
+        },
+        "gbif": {
+          "id": "7155753"
+        },
+        "powo": {
+          "id": "77913-1"
+        },
+        "iucn": {
+          "id": "61984781",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02117,
+        "species": {
+          "scientificNameWithoutAuthor": "Plumeria rubra",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plumeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Frangipani",
+            "Plumeria",
+            "Kamboja"
+          ],
+          "scientificName": "Plumeria rubra L."
+        },
+        "gbif": {
+          "id": "3169674"
+        },
+        "powo": {
+          "id": "81275-1"
+        },
+        "iucn": {
+          "id": "144270910",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00357,
+        "species": {
+          "scientificNameWithoutAuthor": "Pachypodium lamerei",
+          "scientificNameAuthorship": "Drake",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pachypodium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pachypodium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Madagascar Palm",
+            "نخل ماداگاسکار",
+            "Milk Palm"
+          ],
+          "scientificName": "Pachypodium lamerei Drake"
+        },
+        "gbif": {
+          "id": "5535474"
+        },
+        "powo": {
+          "id": "80705-1"
+        },
+        "iucn": {
+          "id": "69222038",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00224,
+        "species": {
+          "scientificNameWithoutAuthor": "Plumeria magna",
+          "scientificNameAuthorship": "Zanoni & M.M.Mejía",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plumeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Plumeria magna Zanoni & M.M.Mejía"
+        },
+        "gbif": {
+          "id": "3615209"
+        },
+        "powo": {
+          "id": "283373-2"
+        }
+      },
+      {
+        "score": 0.00153,
+        "species": {
+          "scientificNameWithoutAuthor": "Cascabela ovata",
+          "scientificNameAuthorship": "(Cav.) Lippold",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cascabela",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cascabela"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Cascabela ovata (Cav.) Lippold"
+        },
+        "gbif": {
+          "id": "3618709"
+        },
+        "powo": {
+          "id": "47925-2"
+        },
+        "iucn": {
+          "id": "150114717",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00138,
+        "species": {
+          "scientificNameWithoutAuthor": "Cerberiopsis obtusifolia",
+          "scientificNameAuthorship": "(Van Heurck & Müll.Arg.) Boiteau",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cerberiopsis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cerberiopsis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Cerberiopsis obtusifolia (Van Heurck & Müll.Arg.) Boiteau"
+        },
+        "gbif": {
+          "id": "3617814"
+        },
+        "powo": {
+          "id": "908501-1"
+        },
+        "iucn": {
+          "id": "31125",
+          "category": "VU"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 340
+  }
+}

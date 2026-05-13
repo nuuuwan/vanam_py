@@ -1,0 +1,129 @@
+{
+  "hash": "4633aed3d77e0c87",
+  "image_metadata": {
+    "imageHash": "4633aed3d77e0c87",
+    "imageLocation": {
+      "latitude": -8.703475,
+      "longitude": 115.16722777777778,
+      "accuracy": 2.329482005638786,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025822,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/4633aed3d77e0c87.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "95548ac26cc162a4874e27b5de11978d"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "95548ac26cc162a4874e27b5de11978d",
+        "filename": "4633aed3d77e0c87.png",
+        "organ": "flower",
+        "score": 0.69121
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Cleome viscosa L.",
+    "results": [
+      {
+        "score": 0.89087,
+        "species": {
+          "scientificNameWithoutAuthor": "Cleome viscosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cleome",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleome"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cleomaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleomaceae"
+          },
+          "commonNames": [
+            "Asian Spider-flower",
+            "کنجد شیطان، کنجد وحشی",
+            "కుక్కవావింట"
+          ],
+          "scientificName": "Cleome viscosa L."
+        },
+        "gbif": {
+          "id": "3054214"
+        },
+        "powo": {
+          "id": "320133-2"
+        }
+      },
+      {
+        "score": 0.00435,
+        "species": {
+          "scientificNameWithoutAuthor": "Cleome rutidosperma",
+          "scientificNameAuthorship": "DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cleome",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleome"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cleomaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleomaceae"
+          },
+          "commonNames": [
+            "Fringed spiderflower",
+            "Bhubbhuwân",
+            "Fringed Spider Flower"
+          ],
+          "scientificName": "Cleome rutidosperma DC."
+        },
+        "gbif": {
+          "id": "3054196"
+        },
+        "powo": {
+          "id": "147293-1"
+        }
+      },
+      {
+        "score": 0.00104,
+        "species": {
+          "scientificNameWithoutAuthor": "Cleome allamanii",
+          "scientificNameAuthorship": "Chiov.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cleome",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleome"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cleomaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleomaceae"
+          },
+          "commonNames": [
+            "Pretty lady"
+          ],
+          "scientificName": "Cleome allamanii Chiov."
+        },
+        "gbif": {
+          "id": "8386484"
+        },
+        "powo": {
+          "id": "146912-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 339
+  }
+}

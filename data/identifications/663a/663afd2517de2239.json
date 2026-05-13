@@ -1,0 +1,324 @@
+{
+  "hash": "663afd2517de2239",
+  "image_metadata": {
+    "imageHash": "663afd2517de2239",
+    "imageLocation": {
+      "latitude": -8.704022222222221,
+      "longitude": 115.16684722222223,
+      "accuracy": 13.064952048823017,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025996,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/663afd2517de2239.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "a72b686029bdf4308b89e3add0471877"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "a72b686029bdf4308b89e3add0471877",
+        "filename": "663afd2517de2239.png",
+        "organ": "flower",
+        "score": 0.79844
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Hymenocallis littoralis (Jacq.) Salisb.",
+    "results": [
+      {
+        "score": 0.3992,
+        "species": {
+          "scientificNameWithoutAuthor": "Hymenocallis littoralis",
+          "scientificNameAuthorship": "(Jacq.) Salisb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hymenocallis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hymenocallis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Beach spiderlily",
+            "Tropical Spider-Lily",
+            "Spider lily"
+          ],
+          "scientificName": "Hymenocallis littoralis (Jacq.) Salisb."
+        },
+        "gbif": {
+          "id": "2860119"
+        },
+        "powo": {
+          "id": "30048918-2"
+        }
+      },
+      {
+        "score": 0.17677,
+        "species": {
+          "scientificNameWithoutAuthor": "Crinum americanum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Crinum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Crinum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Florida swamp-lily",
+            "Southern swamp crinum",
+            "String-lily"
+          ],
+          "scientificName": "Crinum americanum L."
+        },
+        "gbif": {
+          "id": "2853938"
+        },
+        "powo": {
+          "id": "319172-2"
+        }
+      },
+      {
+        "score": 0.0941,
+        "species": {
+          "scientificNameWithoutAuthor": "Crinum asiaticum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Crinum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Crinum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Mangrove lily",
+            "Grand Crinum",
+            "Poisonbulb"
+          ],
+          "scientificName": "Crinum asiaticum L."
+        },
+        "gbif": {
+          "id": "2853796"
+        },
+        "powo": {
+          "id": "63796-1"
+        }
+      },
+      {
+        "score": 0.03551,
+        "species": {
+          "scientificNameWithoutAuthor": "Hymenocallis fragrans",
+          "scientificNameAuthorship": "(Salisb.) Salisb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hymenocallis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hymenocallis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Spider Lily"
+          ],
+          "scientificName": "Hymenocallis fragrans (Salisb.) Salisb."
+        },
+        "gbif": {
+          "id": "2860208"
+        },
+        "powo": {
+          "id": "65241-1"
+        }
+      },
+      {
+        "score": 0.0209,
+        "species": {
+          "scientificNameWithoutAuthor": "Hymenocallis speciosa",
+          "scientificNameAuthorship": "(L.f. ex Salisb.) Salisb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hymenocallis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hymenocallis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Green-tinge spiderlily"
+          ],
+          "scientificName": "Hymenocallis speciosa (L.f. ex Salisb.) Salisb."
+        },
+        "gbif": {
+          "id": "2860247"
+        },
+        "powo": {
+          "id": "30010600-2"
+        }
+      },
+      {
+        "score": 0.01786,
+        "species": {
+          "scientificNameWithoutAuthor": "Hymenocallis tubiflora",
+          "scientificNameAuthorship": "Salisb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hymenocallis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hymenocallis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Spider lily"
+          ],
+          "scientificName": "Hymenocallis tubiflora Salisb."
+        },
+        "gbif": {
+          "id": "2860179"
+        },
+        "powo": {
+          "id": "65327-1"
+        }
+      },
+      {
+        "score": 0.01277,
+        "species": {
+          "scientificNameWithoutAuthor": "Hymenocallis caribaea",
+          "scientificNameAuthorship": "(L.) Herb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hymenocallis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hymenocallis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "White-lily",
+            "Belladonna-lily",
+            "Spider-lily"
+          ],
+          "scientificName": "Hymenocallis caribaea (L.) Herb."
+        },
+        "gbif": {
+          "id": "2860300"
+        },
+        "powo": {
+          "id": "65212-1"
+        }
+      },
+      {
+        "score": 0.00856,
+        "species": {
+          "scientificNameWithoutAuthor": "Hymenocallis liriosme",
+          "scientificNameAuthorship": "(Raf.) Shinners",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hymenocallis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hymenocallis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Spring Spider-Lily",
+            "Spring spiderlily",
+            "Spider lily"
+          ],
+          "scientificName": "Hymenocallis liriosme (Raf.) Shinners"
+        },
+        "gbif": {
+          "id": "2860211"
+        },
+        "powo": {
+          "id": "125530-2"
+        }
+      },
+      {
+        "score": 0.00338,
+        "species": {
+          "scientificNameWithoutAuthor": "Ismene × deflexa",
+          "scientificNameAuthorship": "Herb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ismene",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ismene"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Ismene × deflexa Herb."
+        },
+        "gbif": {
+          "id": "5326968"
+        },
+        "powo": {
+          "id": "65668-1"
+        }
+      },
+      {
+        "score": 0.00274,
+        "species": {
+          "scientificNameWithoutAuthor": "Nerine undulata",
+          "scientificNameAuthorship": "(L.) Herb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nerine",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nerine"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Cape flower",
+            "Nerine",
+            "Crinkled Bloom"
+          ],
+          "scientificName": "Nerine undulata (L.) Herb."
+        },
+        "gbif": {
+          "id": "5326908"
+        },
+        "powo": {
+          "id": "66348-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 334
+  }
+}

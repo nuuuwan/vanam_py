@@ -1,0 +1,345 @@
+{
+  "hash": "019f57b122aa24dc",
+  "image_metadata": {
+    "imageHash": "019f57b122aa24dc",
+    "imageLocation": {
+      "latitude": 6.026213888888889,
+      "longitude": 80.215125,
+      "accuracy": 5.273228592238061,
+      "source": "exif"
+    },
+    "utImageTaken": 1748659075,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/019f57b122aa24dc.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "63b02ae27d0bae057c2032d55416d760"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "63b02ae27d0bae057c2032d55416d760",
+        "filename": "019f57b122aa24dc.png",
+        "organ": "habit",
+        "score": 0.33479
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Barringtonia asiatica (L.) Kurz",
+    "results": [
+      {
+        "score": 0.9036,
+        "species": {
+          "scientificNameWithoutAuthor": "Barringtonia asiatica",
+          "scientificNameAuthorship": "(L.) Kurz",
+          "genus": {
+            "scientificNameWithoutAuthor": "Barringtonia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Barringtonia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lecythidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lecythidaceae"
+          },
+          "commonNames": [
+            "Fish-poison-tree",
+            "Mango-pine",
+            "Mangobark"
+          ],
+          "scientificName": "Barringtonia asiatica (L.) Kurz"
+        },
+        "gbif": {
+          "id": "3082920"
+        },
+        "powo": {
+          "id": "469061-1"
+        },
+        "iucn": {
+          "id": "31339",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01297,
+        "species": {
+          "scientificNameWithoutAuthor": "Barringtonia racemosa",
+          "scientificNameAuthorship": "(L.) Spreng.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Barringtonia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Barringtonia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lecythidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lecythidaceae"
+          },
+          "commonNames": [
+            "Brackwater mangrove",
+            "Cassowary-pine",
+            "Freshwater mangrove"
+          ],
+          "scientificName": "Barringtonia racemosa (L.) Spreng."
+        },
+        "gbif": {
+          "id": "3082727"
+        },
+        "powo": {
+          "id": "155081-3"
+        },
+        "iucn": {
+          "id": "160298203",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00784,
+        "species": {
+          "scientificNameWithoutAuthor": "Terminalia catappa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Terminalia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Terminalia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Combretaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Combretaceae"
+          },
+          "commonNames": [
+            "Tropical almond",
+            "Indian-almond",
+            "Beach Almond"
+          ],
+          "scientificName": "Terminalia catappa L."
+        },
+        "gbif": {
+          "id": "3189394"
+        },
+        "powo": {
+          "id": "171034-1"
+        },
+        "iucn": {
+          "id": "61989853",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00525,
+        "species": {
+          "scientificNameWithoutAuthor": "Anthocleista grandiflora",
+          "scientificNameAuthorship": "Gilg",
+          "genus": {
+            "scientificNameWithoutAuthor": "Anthocleista",
+            "scientificNameAuthorship": "",
+            "scientificName": "Anthocleista"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Gentianaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gentianaceae"
+          },
+          "commonNames": [
+            "Forest big-leaf",
+            "Forest fever-tree",
+            "Big-leaf"
+          ],
+          "scientificName": "Anthocleista grandiflora Gilg"
+        },
+        "gbif": {
+          "id": "4019317"
+        },
+        "powo": {
+          "id": "545611-1"
+        }
+      },
+      {
+        "score": 0.00474,
+        "species": {
+          "scientificNameWithoutAuthor": "Meryta denhamii",
+          "scientificNameAuthorship": "Seem.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Meryta",
+            "scientificNameAuthorship": "",
+            "scientificName": "Meryta"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araliaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Meryta denhamii Seem."
+        },
+        "gbif": {
+          "id": "3036407"
+        },
+        "powo": {
+          "id": "91016-1"
+        }
+      },
+      {
+        "score": 0.00381,
+        "species": {
+          "scientificNameWithoutAuthor": "Barringtonia edulis",
+          "scientificNameAuthorship": "Seem.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Barringtonia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Barringtonia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lecythidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lecythidaceae"
+          },
+          "commonNames": [
+            "Cutnut",
+            "Vutu kana"
+          ],
+          "scientificName": "Barringtonia edulis Seem."
+        },
+        "gbif": {
+          "id": "3082861"
+        },
+        "powo": {
+          "id": "591196-1"
+        },
+        "iucn": {
+          "id": "136055088",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.00342,
+        "species": {
+          "scientificNameWithoutAuthor": "Artocarpus altilis",
+          "scientificNameAuthorship": "(Parkinson) Fosberg",
+          "genus": {
+            "scientificNameWithoutAuthor": "Artocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Artocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Breadfruit",
+            "Dugdug",
+            "Breadfruit Tree"
+          ],
+          "scientificName": "Artocarpus altilis (Parkinson) Fosberg"
+        },
+        "gbif": {
+          "id": "2984573"
+        },
+        "powo": {
+          "id": "582598-1"
+        }
+      },
+      {
+        "score": 0.00178,
+        "species": {
+          "scientificNameWithoutAuthor": "Artocarpus heterophyllus",
+          "scientificNameAuthorship": "Lam.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Artocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Artocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Jackfruit",
+            "Nangka",
+            "Jack"
+          ],
+          "scientificName": "Artocarpus heterophyllus Lam."
+        },
+        "gbif": {
+          "id": "2984565"
+        },
+        "powo": {
+          "id": "850389-1"
+        }
+      },
+      {
+        "score": 0.00131,
+        "species": {
+          "scientificNameWithoutAuthor": "Barringtonia acutangula",
+          "scientificNameAuthorship": "(L.) Gaertn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Barringtonia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Barringtonia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lecythidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lecythidaceae"
+          },
+          "commonNames": [
+            "Freshwater mangrove",
+            "Mango-pine",
+            "Itchytree"
+          ],
+          "scientificName": "Barringtonia acutangula (L.) Gaertn."
+        },
+        "gbif": {
+          "id": "3082835"
+        },
+        "powo": {
+          "id": "591177-1"
+        },
+        "iucn": {
+          "id": "61533369",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00123,
+        "species": {
+          "scientificNameWithoutAuthor": "Ceodes brunoniana",
+          "scientificNameAuthorship": "(Endl.) Skottsb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ceodes",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ceodes"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nyctaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyctaginaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Ceodes brunoniana (Endl.) Skottsb."
+        },
+        "gbif": {
+          "id": "3700102"
+        },
+        "powo": {
+          "id": "604430-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 349
+  }
+}

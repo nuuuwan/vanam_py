@@ -1,0 +1,311 @@
+{
+  "hash": "500770bee6e6f06e",
+  "image_metadata": {
+    "imageHash": "500770bee6e6f06e",
+    "imageLocation": {
+      "latitude": -8.703483333333333,
+      "longitude": 115.16723611111112,
+      "accuracy": 3.7993065874195144,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025808,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/500770bee6e6f06e.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "96217c1a28ef49f13eaf15ec10db21bd"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "96217c1a28ef49f13eaf15ec10db21bd",
+        "filename": "500770bee6e6f06e.png",
+        "organ": "flower",
+        "score": 0.47494
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Cleome viscosa L.",
+    "results": [
+      {
+        "score": 0.79896,
+        "species": {
+          "scientificNameWithoutAuthor": "Cleome viscosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cleome",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleome"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cleomaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleomaceae"
+          },
+          "commonNames": [
+            "Asian Spider-flower",
+            "కుక్కవావింట",
+            "کنجد شیطان، کنجد وحشی"
+          ],
+          "scientificName": "Cleome viscosa L."
+        },
+        "gbif": {
+          "id": "3054214"
+        },
+        "powo": {
+          "id": "320133-2"
+        }
+      },
+      {
+        "score": 0.00283,
+        "species": {
+          "scientificNameWithoutAuthor": "Ipomoea cairica",
+          "scientificNameAuthorship": "(L.) Sweet",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ipomoea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ipomoea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Convolvulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulaceae"
+          },
+          "commonNames": [
+            "Railroad-creeper",
+            "نیلوفر پیچ",
+            "Five-leaf morning-glory"
+          ],
+          "scientificName": "Ipomoea cairica (L.) Sweet"
+        },
+        "gbif": {
+          "id": "2928531"
+        },
+        "powo": {
+          "id": "268564-1"
+        },
+        "iucn": {
+          "id": "19237651",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00253,
+        "species": {
+          "scientificNameWithoutAuthor": "Lotus corniculatus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lotus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lotus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Bird's-foot-trefoil",
+            "Common Bird's-foot-trefoil",
+            "Eggs and bacon."
+          ],
+          "scientificName": "Lotus corniculatus L."
+        },
+        "gbif": {
+          "id": "5357013"
+        },
+        "powo": {
+          "id": "30179739-2"
+        }
+      },
+      {
+        "score": 0.00214,
+        "species": {
+          "scientificNameWithoutAuthor": "Lotus tenuis",
+          "scientificNameAuthorship": "Waldst. & Kit. ex Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lotus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lotus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Narrowleaf bird's-foot trefoil",
+            "Narrow-leaf bird's-foot trefoil",
+            "Slender trefoil"
+          ],
+          "scientificName": "Lotus tenuis Waldst. & Kit. ex Willd."
+        },
+        "gbif": {
+          "id": "7515045"
+        },
+        "powo": {
+          "id": "503917-1"
+        }
+      },
+      {
+        "score": 0.00202,
+        "species": {
+          "scientificNameWithoutAuthor": "Potentilla aurea",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Potentilla",
+            "scientificNameAuthorship": "",
+            "scientificName": "Potentilla"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Golden cinquefoil"
+          ],
+          "scientificName": "Potentilla aurea L."
+        },
+        "gbif": {
+          "id": "5365496"
+        },
+        "powo": {
+          "id": "324729-2"
+        }
+      },
+      {
+        "score": 0.00195,
+        "species": {
+          "scientificNameWithoutAuthor": "Lotus pedunculatus",
+          "scientificNameAuthorship": "Cav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lotus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lotus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Greater Bird's-foot-trefoil",
+            "Greater bird's-foot trefoil",
+            "Big trefoil"
+          ],
+          "scientificName": "Lotus pedunculatus Cav."
+        },
+        "gbif": {
+          "id": "5356854"
+        },
+        "powo": {
+          "id": "503822-1"
+        }
+      },
+      {
+        "score": 0.00185,
+        "species": {
+          "scientificNameWithoutAuthor": "Rorippa sylvestris",
+          "scientificNameAuthorship": "(L.) Besser",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rorippa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rorippa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Creeping yellow cress",
+            "Creeping yellow field cress",
+            "Yellow field cress"
+          ],
+          "scientificName": "Rorippa sylvestris (L.) Besser"
+        },
+        "gbif": {
+          "id": "3053376"
+        },
+        "powo": {
+          "id": "288692-1"
+        },
+        "iucn": {
+          "id": "176486",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00169,
+        "species": {
+          "scientificNameWithoutAuthor": "Cleome gynandra",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cleome",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleome"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cleomaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cleomaceae"
+          },
+          "commonNames": [
+            "Spider whisp",
+            "Spiderflower",
+            "Spiderwisp"
+          ],
+          "scientificName": "Cleome gynandra L."
+        },
+        "gbif": {
+          "id": "3054225"
+        },
+        "powo": {
+          "id": "60518-2"
+        }
+      },
+      {
+        "score": 0.0015,
+        "species": {
+          "scientificNameWithoutAuthor": "Bidens bipinnata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bidens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bidens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Spanish-needles",
+            "Hemlock beggar-ticks",
+            "Spanish blackjack"
+          ],
+          "scientificName": "Bidens bipinnata L."
+        },
+        "gbif": {
+          "id": "5389402"
+        },
+        "powo": {
+          "id": "184769-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 337
+  }
+}

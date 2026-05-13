@@ -1,0 +1,162 @@
+{
+  "hash": "13b4b20ab482edd5",
+  "image_metadata": {
+    "imageHash": "13b4b20ab482edd5",
+    "imageLocation": {
+      "latitude": -8.703638888888888,
+      "longitude": 115.16631944444445,
+      "accuracy": 2.3379052550434163,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025447,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/13b4b20ab482edd5.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "e0df275087b5b459de4cf1b4fc6c4168"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "e0df275087b5b459de4cf1b4fc6c4168",
+        "filename": "13b4b20ab482edd5.png",
+        "organ": "habit",
+        "score": 0.33345
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Bougainvillea spectabilis Willd.",
+    "results": [
+      {
+        "score": 0.56801,
+        "species": {
+          "scientificNameWithoutAuthor": "Bougainvillea spectabilis",
+          "scientificNameAuthorship": "Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bougainvillea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bougainvillea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nyctaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyctaginaceae"
+          },
+          "commonNames": [
+            "Great bougainvillea",
+            "Bougainvillea",
+            "Paper flower"
+          ],
+          "scientificName": "Bougainvillea spectabilis Willd."
+        },
+        "gbif": {
+          "id": "7167078"
+        },
+        "powo": {
+          "id": "604358-1"
+        }
+      },
+      {
+        "score": 0.36786,
+        "species": {
+          "scientificNameWithoutAuthor": "Bougainvillea glabra",
+          "scientificNameAuthorship": "Choisy",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bougainvillea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bougainvillea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nyctaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyctaginaceae"
+          },
+          "commonNames": [
+            "Bougainvillea",
+            "Paper-flower",
+            "گل کاغذی"
+          ],
+          "scientificName": "Bougainvillea glabra Choisy"
+        },
+        "gbif": {
+          "id": "5384862"
+        },
+        "powo": {
+          "id": "35444-2"
+        },
+        "iucn": {
+          "id": "149207944",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00144,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa gallica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "French rose",
+            "Hungarian rose",
+            "Red Rose of Lancaster"
+          ],
+          "scientificName": "Rosa gallica L."
+        },
+        "gbif": {
+          "id": "3002530"
+        },
+        "powo": {
+          "id": "732569-1"
+        }
+      },
+      {
+        "score": 0.00125,
+        "species": {
+          "scientificNameWithoutAuthor": "Bougainvillea × buttiana",
+          "scientificNameAuthorship": "Holttum & Standl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bougainvillea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bougainvillea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nyctaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyctaginaceae"
+          },
+          "commonNames": [
+            "Bougainvillea"
+          ],
+          "scientificName": "Bougainvillea × buttiana Holttum & Standl."
+        },
+        "gbif": {
+          "id": "5553651"
+        },
+        "powo": {
+          "id": "35442-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 347
+  }
+}

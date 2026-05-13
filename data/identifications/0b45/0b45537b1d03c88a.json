@@ -1,0 +1,357 @@
+{
+  "hash": "0b45537b1d03c88a",
+  "image_metadata": {
+    "imageHash": "0b45537b1d03c88a",
+    "imageLocation": {
+      "latitude": -8.703358333333332,
+      "longitude": 115.16625277777779,
+      "accuracy": 15.401216421692853,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025569,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/0b45537b1d03c88a.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "b5dbfb7fc0339c79a99ee7b1332968a5"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "b5dbfb7fc0339c79a99ee7b1332968a5",
+        "filename": "0b45537b1d03c88a.png",
+        "organ": "leaf",
+        "score": 0.47116
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Ficus lyrata Warb.",
+    "results": [
+      {
+        "score": 0.67296,
+        "species": {
+          "scientificNameWithoutAuthor": "Ficus lyrata",
+          "scientificNameAuthorship": "Warb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ficus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ficus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Fiddle-leaf fig",
+            "فیکوس لیراتا",
+            "Lyre-leaf figtree"
+          ],
+          "scientificName": "Ficus lyrata Warb."
+        },
+        "gbif": {
+          "id": "5361899"
+        },
+        "powo": {
+          "id": "853158-1"
+        },
+        "iucn": {
+          "id": "208115167",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.13893,
+        "species": {
+          "scientificNameWithoutAuthor": "Ficus platypoda",
+          "scientificNameAuthorship": "(Miq.) A.Cunn. ex Miq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ficus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ficus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Fig",
+            "Rock fig",
+            "Small-leaf Moreton Bay fig"
+          ],
+          "scientificName": "Ficus platypoda (Miq.) A.Cunn. ex Miq."
+        },
+        "gbif": {
+          "id": "6359010"
+        },
+        "powo": {
+          "id": "853434-1"
+        },
+        "iucn": {
+          "id": "146605000",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01851,
+        "species": {
+          "scientificNameWithoutAuthor": "Artocarpus heterophyllus",
+          "scientificNameAuthorship": "Lam.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Artocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Artocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Jackfruit",
+            "Nangka",
+            "Jack"
+          ],
+          "scientificName": "Artocarpus heterophyllus Lam."
+        },
+        "gbif": {
+          "id": "2984565"
+        },
+        "powo": {
+          "id": "850389-1"
+        }
+      },
+      {
+        "score": 0.01383,
+        "species": {
+          "scientificNameWithoutAuthor": "Ficus fistulosa",
+          "scientificNameAuthorship": "Reinw. ex Blume",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ficus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ficus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Figs",
+            "Common yellow stem fig"
+          ],
+          "scientificName": "Ficus fistulosa Reinw. ex Blume"
+        },
+        "gbif": {
+          "id": "7262725"
+        },
+        "powo": {
+          "id": "852846-1"
+        },
+        "iucn": {
+          "id": "147493386",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01108,
+        "species": {
+          "scientificNameWithoutAuthor": "Ficus nota",
+          "scientificNameAuthorship": "(Blanco) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ficus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ficus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Tibig",
+            "Sacking tree"
+          ],
+          "scientificName": "Ficus nota (Blanco) Merr."
+        },
+        "gbif": {
+          "id": "5361915"
+        },
+        "powo": {
+          "id": "853295-1"
+        },
+        "iucn": {
+          "id": "156206170",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00666,
+        "species": {
+          "scientificNameWithoutAuthor": "Ficus hispida",
+          "scientificNameAuthorship": "L.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ficus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ficus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Hairy fig",
+            "খস/খসখসে/কাক ডুমুর (Bangla), Kakodumbarika/Malayoo (Sanskrit), Gobla/Kagsha/Kala Umbar (Hindi)",
+            "River fig"
+          ],
+          "scientificName": "Ficus hispida L.f."
+        },
+        "gbif": {
+          "id": "7879404"
+        },
+        "powo": {
+          "id": "852981-1"
+        },
+        "iucn": {
+          "id": "147494318",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00391,
+        "species": {
+          "scientificNameWithoutAuthor": "Afrocanthium lactescens",
+          "scientificNameAuthorship": "(Hiern) Lantz",
+          "genus": {
+            "scientificNameWithoutAuthor": "Afrocanthium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Afrocanthium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rubiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rubiaceae"
+          },
+          "commonNames": [
+            "Gummy canthium"
+          ],
+          "scientificName": "Afrocanthium lactescens (Hiern) Lantz"
+        },
+        "gbif": {
+          "id": "2900911"
+        },
+        "powo": {
+          "id": "77062252-1"
+        },
+        "iucn": {
+          "id": "141556439",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0025,
+        "species": {
+          "scientificNameWithoutAuthor": "Ficus nymphaeifolia",
+          "scientificNameAuthorship": "Mill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ficus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ficus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Fig",
+            "Lily-pad-leaf Fig"
+          ],
+          "scientificName": "Ficus nymphaeifolia Mill."
+        },
+        "gbif": {
+          "id": "5570630"
+        },
+        "powo": {
+          "id": "853301-1"
+        },
+        "iucn": {
+          "id": "61886071",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00163,
+        "species": {
+          "scientificNameWithoutAuthor": "Atractocarpus bracteatus",
+          "scientificNameAuthorship": "Schltr. & K.Krause",
+          "genus": {
+            "scientificNameWithoutAuthor": "Atractocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Atractocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rubiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rubiaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Atractocarpus bracteatus Schltr. & K.Krause"
+        },
+        "gbif": {
+          "id": "2898536"
+        },
+        "powo": {
+          "id": "744243-1"
+        }
+      },
+      {
+        "score": 0.00154,
+        "species": {
+          "scientificNameWithoutAuthor": "Terminalia catappa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Terminalia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Terminalia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Combretaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Combretaceae"
+          },
+          "commonNames": [
+            "Tropical almond",
+            "Indian-almond",
+            "Beach Almond"
+          ],
+          "scientificName": "Terminalia catappa L."
+        },
+        "gbif": {
+          "id": "3189394"
+        },
+        "powo": {
+          "id": "171034-1"
+        },
+        "iucn": {
+          "id": "61989853",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 348
+  }
+}

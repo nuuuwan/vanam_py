@@ -1,0 +1,324 @@
+{
+  "hash": "f662782edadfe9bf",
+  "image_metadata": {
+    "imageHash": "f662782edadfe9bf",
+    "imageLocation": {
+      "latitude": -8.703630555555554,
+      "longitude": 115.16630555555557,
+      "accuracy": 2.278141225337487,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025605,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/f662782edadfe9bf.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "1911a24ee9b8b130530ae2c61828f5cf"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "1911a24ee9b8b130530ae2c61828f5cf",
+        "filename": "f662782edadfe9bf.png",
+        "organ": "flower",
+        "score": 0.38372
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Heliconia bihai (L.) L.",
+    "results": [
+      {
+        "score": 0.39635,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliconia bihai",
+          "scientificNameAuthorship": "(L.) L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Heliconiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconiaceae"
+          },
+          "commonNames": [
+            "Macaw-flower",
+            "Firebird",
+            "Wild plantain"
+          ],
+          "scientificName": "Heliconia bihai (L.) L."
+        },
+        "gbif": {
+          "id": "2760874"
+        },
+        "powo": {
+          "id": "796925-1"
+        }
+      },
+      {
+        "score": 0.32142,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliconia rostrata",
+          "scientificNameAuthorship": "Ruiz & Pav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Heliconiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconiaceae"
+          },
+          "commonNames": [
+            "False bird of paradise",
+            "Hanging Heliconia",
+            "Lobster Claw"
+          ],
+          "scientificName": "Heliconia rostrata Ruiz & Pav."
+        },
+        "gbif": {
+          "id": "2760967"
+        },
+        "powo": {
+          "id": "796978-1"
+        }
+      },
+      {
+        "score": 0.0426,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliconia × rauliniana",
+          "scientificNameAuthorship": "Barreiros",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Heliconiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconiaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Heliconia × rauliniana Barreiros"
+        },
+        "gbif": {
+          "id": "2760830"
+        },
+        "powo": {
+          "id": "77138442-1"
+        }
+      },
+      {
+        "score": 0.01853,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliconia latispatha",
+          "scientificNameAuthorship": "Benth.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Heliconiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconiaceae"
+          },
+          "commonNames": [
+            "Expanded Lobsterclaw",
+            "False bird-of-paradise",
+            "Expanded Lobster Claw"
+          ],
+          "scientificName": "Heliconia latispatha Benth."
+        },
+        "gbif": {
+          "id": "2760940"
+        },
+        "powo": {
+          "id": "796959-1"
+        }
+      },
+      {
+        "score": 0.01197,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliconia platystachys",
+          "scientificNameAuthorship": "Baker",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Heliconiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconiaceae"
+          },
+          "commonNames": [
+            "False Bird of Paradise",
+            "False bird-of-paradise"
+          ],
+          "scientificName": "Heliconia platystachys Baker"
+        },
+        "gbif": {
+          "id": "2760865"
+        },
+        "powo": {
+          "id": "119441-2"
+        }
+      },
+      {
+        "score": 0.01124,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliconia subulata",
+          "scientificNameAuthorship": "Ruiz & Pav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Heliconiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconiaceae"
+          },
+          "commonNames": [
+            "Guatemalan bird of paradise",
+            "Guatemalan bird-of-paradise"
+          ],
+          "scientificName": "Heliconia subulata Ruiz & Pav."
+        },
+        "gbif": {
+          "id": "2760977"
+        },
+        "powo": {
+          "id": "796989-1"
+        }
+      },
+      {
+        "score": 0.0105,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliconia stricta",
+          "scientificNameAuthorship": "Huber",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Heliconiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconiaceae"
+          },
+          "commonNames": [
+            "Small lobster claw",
+            "Erect heliconia",
+            "Erect lobster claw"
+          ],
+          "scientificName": "Heliconia stricta Huber"
+        },
+        "gbif": {
+          "id": "2760548"
+        },
+        "powo": {
+          "id": "119505-2"
+        }
+      },
+      {
+        "score": 0.00686,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliconia psittacorum",
+          "scientificNameAuthorship": "L.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Heliconiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconiaceae"
+          },
+          "commonNames": [
+            "Parakeetflower",
+            "Parrot's-flower",
+            "Parrot's-plantain"
+          ],
+          "scientificName": "Heliconia psittacorum L.f."
+        },
+        "gbif": {
+          "id": "2760669"
+        },
+        "powo": {
+          "id": "796972-1"
+        }
+      },
+      {
+        "score": 0.00574,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliconia marginata",
+          "scientificNameAuthorship": "(Griggs) Pittier",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Heliconiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconiaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Heliconia marginata (Griggs) Pittier"
+        },
+        "gbif": {
+          "id": "2760843"
+        },
+        "powo": {
+          "id": "119411-2"
+        }
+      },
+      {
+        "score": 0.00333,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliconia caribaea",
+          "scientificNameAuthorship": "Lam.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Heliconiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliconiaceae"
+          },
+          "commonNames": [
+            "Wild plantain",
+            "Lobsterclaw",
+            "Heliconia"
+          ],
+          "scientificName": "Heliconia caribaea Lam."
+        },
+        "gbif": {
+          "id": "2760924"
+        },
+        "powo": {
+          "id": "796933-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 318
+  }
+}

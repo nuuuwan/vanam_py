@@ -1,0 +1,348 @@
+{
+  "hash": "3a7b5f729e42e61e",
+  "image_metadata": {
+    "imageHash": "3a7b5f729e42e61e",
+    "imageLocation": {
+      "latitude": 7.990263888888889,
+      "longitude": 80.92124166666667,
+      "accuracy": 4.747910762299251,
+      "source": "exif"
+    },
+    "utImageTaken": 1696131450,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/3a7b5f729e42e61e.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "01c56946a83a2bf2db4722f53719162c"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "01c56946a83a2bf2db4722f53719162c",
+        "filename": "3a7b5f729e42e61e.png",
+        "organ": "habit",
+        "score": 0.81754
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Bougainvillea spectabilis Willd.",
+    "results": [
+      {
+        "score": 0.62905,
+        "species": {
+          "scientificNameWithoutAuthor": "Bougainvillea spectabilis",
+          "scientificNameAuthorship": "Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bougainvillea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bougainvillea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nyctaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyctaginaceae"
+          },
+          "commonNames": [
+            "Great bougainvillea",
+            "Bougainvillea",
+            "Paper flower"
+          ],
+          "scientificName": "Bougainvillea spectabilis Willd."
+        },
+        "gbif": {
+          "id": "7167078"
+        },
+        "powo": {
+          "id": "604358-1"
+        }
+      },
+      {
+        "score": 0.24569,
+        "species": {
+          "scientificNameWithoutAuthor": "Bougainvillea glabra",
+          "scientificNameAuthorship": "Choisy",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bougainvillea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bougainvillea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nyctaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyctaginaceae"
+          },
+          "commonNames": [
+            "Bougainvillea",
+            "Paper-flower",
+            "گل کاغذی"
+          ],
+          "scientificName": "Bougainvillea glabra Choisy"
+        },
+        "gbif": {
+          "id": "5384862"
+        },
+        "powo": {
+          "id": "35444-2"
+        },
+        "iucn": {
+          "id": "149207944",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00802,
+        "species": {
+          "scientificNameWithoutAuthor": "Bougainvillea × buttiana",
+          "scientificNameAuthorship": "Holttum & Standl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bougainvillea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bougainvillea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nyctaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyctaginaceae"
+          },
+          "commonNames": [
+            "Bougainvillea"
+          ],
+          "scientificName": "Bougainvillea × buttiana Holttum & Standl."
+        },
+        "gbif": {
+          "id": "5553651"
+        },
+        "powo": {
+          "id": "35442-2"
+        }
+      },
+      {
+        "score": 0.0031,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa pendulina",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Mountain rose",
+            "Alpine Rose",
+            "Drooping rose"
+          ],
+          "scientificName": "Rosa pendulina L."
+        },
+        "gbif": {
+          "id": "3006974"
+        },
+        "powo": {
+          "id": "733641-1"
+        },
+        "iucn": {
+          "id": "203449",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00251,
+        "species": {
+          "scientificNameWithoutAuthor": "Mirabilis jalapa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Mirabilis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Mirabilis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nyctaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyctaginaceae"
+          },
+          "commonNames": [
+            "Four-o'clock",
+            "Beauty of the Night",
+            "Marvel-of-Peru"
+          ],
+          "scientificName": "Mirabilis jalapa L."
+        },
+        "gbif": {
+          "id": "3086240"
+        },
+        "powo": {
+          "id": "162591-2"
+        }
+      },
+      {
+        "score": 0.00181,
+        "species": {
+          "scientificNameWithoutAuthor": "Dianthus carthusianorum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dianthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dianthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caryophyllaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caryophyllaceae"
+          },
+          "commonNames": [
+            "Carthusian pink",
+            "Charterhouse pink",
+            "Cluster-head pink"
+          ],
+          "scientificName": "Dianthus carthusianorum L."
+        },
+        "gbif": {
+          "id": "8400876"
+        },
+        "powo": {
+          "id": "302053-2"
+        }
+      },
+      {
+        "score": 0.00145,
+        "species": {
+          "scientificNameWithoutAuthor": "Hydrangea macrophylla",
+          "scientificNameAuthorship": "(Thunb.) Ser.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hydrangea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Hydrangea",
+            "Hortensia",
+            "Bigleaf Hydrangea"
+          ],
+          "scientificName": "Hydrangea macrophylla (Thunb.) Ser."
+        },
+        "gbif": {
+          "id": "2985994"
+        },
+        "powo": {
+          "id": "791637-1"
+        }
+      },
+      {
+        "score": 0.00135,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron ferrugineum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Rhododendron",
+            "Alpine-rose",
+            "Alpenrose"
+          ],
+          "scientificName": "Rhododendron ferrugineum L."
+        },
+        "gbif": {
+          "id": "2883073"
+        },
+        "powo": {
+          "id": "332420-1"
+        },
+        "iucn": {
+          "id": "203007",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00127,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa gallica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "French rose",
+            "Hungarian rose",
+            "Red-rose-of-Lancaster"
+          ],
+          "scientificName": "Rosa gallica L."
+        },
+        "gbif": {
+          "id": "3002530"
+        },
+        "powo": {
+          "id": "732569-1"
+        }
+      },
+      {
+        "score": 0.00114,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia pulcherrima",
+          "scientificNameAuthorship": "Willd. ex Klotzsch",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Poinsettia",
+            "Christmas flower",
+            "Christmas-star"
+          ],
+          "scientificName": "Euphorbia pulcherrima Willd. ex Klotzsch"
+        },
+        "gbif": {
+          "id": "3066465"
+        },
+        "powo": {
+          "id": "30176564-2"
+        },
+        "iucn": {
+          "id": "150008228",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 341
+  }
+}

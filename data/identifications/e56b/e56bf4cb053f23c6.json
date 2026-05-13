@@ -1,0 +1,215 @@
+{
+  "hash": "e56bf4cb053f23c6",
+  "image_metadata": {
+    "imageHash": "e56bf4cb053f23c6",
+    "imageLocation": {
+      "latitude": 7.990152777777777,
+      "longitude": 80.92133333333334,
+      "accuracy": 3.4935310631026484,
+      "source": "exif"
+    },
+    "utImageTaken": 1696131412,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/e56bf4cb053f23c6.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "ca7848d916d661135f8a002788b2b7d7"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "ca7848d916d661135f8a002788b2b7d7",
+        "filename": "e56bf4cb053f23c6.png",
+        "organ": "habit",
+        "score": 0.51234
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Alysicarpus vaginalis (L.) DC.",
+    "results": [
+      {
+        "score": 0.92883,
+        "species": {
+          "scientificNameWithoutAuthor": "Alysicarpus vaginalis",
+          "scientificNameAuthorship": "(L.) DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alysicarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alysicarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Alyce Clover",
+            "One-leaf-clover",
+            "Buffalo-bur"
+          ],
+          "scientificName": "Alysicarpus vaginalis (L.) DC."
+        },
+        "gbif": {
+          "id": "2948605"
+        },
+        "powo": {
+          "id": "473569-1"
+        }
+      },
+      {
+        "score": 0.00573,
+        "species": {
+          "scientificNameWithoutAuthor": "Alysicarpus ovalifolius",
+          "scientificNameAuthorship": "(Schumach.) J.Léonard",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alysicarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alysicarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Alyce Clover"
+          ],
+          "scientificName": "Alysicarpus ovalifolius (Schumach.) J.Léonard"
+        },
+        "gbif": {
+          "id": "8230720"
+        },
+        "powo": {
+          "id": "473541-1"
+        }
+      },
+      {
+        "score": 0.00274,
+        "species": {
+          "scientificNameWithoutAuthor": "Indigofera spicata",
+          "scientificNameAuthorship": "Forssk.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Indigofera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Indigofera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Creeping indigo",
+            "Red nerinjy"
+          ],
+          "scientificName": "Indigofera spicata Forssk."
+        },
+        "gbif": {
+          "id": "2971635"
+        },
+        "powo": {
+          "id": "500027-1"
+        }
+      },
+      {
+        "score": 0.00247,
+        "species": {
+          "scientificNameWithoutAuthor": "Grona triflora",
+          "scientificNameAuthorship": "(L.) H.Ohashi & K.Ohashi",
+          "genus": {
+            "scientificNameWithoutAuthor": "Grona",
+            "scientificNameAuthorship": "",
+            "scientificName": "Grona"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Creeping tick trefoil",
+            "Three-flowered beggarweed",
+            "Threeflower Ticktrefoil"
+          ],
+          "scientificName": "Grona triflora (L.) H.Ohashi & K.Ohashi"
+        },
+        "gbif": {
+          "id": "10833216"
+        },
+        "powo": {
+          "id": "77187443-1"
+        }
+      },
+      {
+        "score": 0.00141,
+        "species": {
+          "scientificNameWithoutAuthor": "Cotoneaster horizontalis",
+          "scientificNameAuthorship": "Decne.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cotoneaster",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cotoneaster"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Rock cotoneaster",
+            "Rock-spray",
+            "Wall cotoneaster"
+          ],
+          "scientificName": "Cotoneaster horizontalis Decne."
+        },
+        "gbif": {
+          "id": "3025617"
+        },
+        "powo": {
+          "id": "722522-1"
+        }
+      },
+      {
+        "score": 0.00113,
+        "species": {
+          "scientificNameWithoutAuthor": "Indigofera hendecaphylla",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Indigofera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Indigofera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Trailing indigo",
+            "Creeping indigo",
+            "Spicate indigo"
+          ],
+          "scientificName": "Indigofera hendecaphylla Jacq."
+        },
+        "gbif": {
+          "id": "2971634"
+        },
+        "powo": {
+          "id": "499440-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 320
+  }
+}

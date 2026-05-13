@@ -1,0 +1,343 @@
+{
+  "hash": "26e7abcaddf2778d",
+  "image_metadata": {
+    "imageHash": "26e7abcaddf2778d",
+    "imageLocation": {
+      "latitude": -8.70383611111111,
+      "longitude": 115.16716111111111,
+      "accuracy": 28.06260378611757,
+      "source": "exif"
+    },
+    "utImageTaken": 1733025925,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/26e7abcaddf2778d.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "a2e7f60a4dab1c72bed840ed8a7d574e"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "a2e7f60a4dab1c72bed840ed8a7d574e",
+        "filename": "26e7abcaddf2778d.png",
+        "organ": "flower",
+        "score": 0.60568
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Costus spiralis (Jacq.) Roscoe",
+    "results": [
+      {
+        "score": 0.61447,
+        "species": {
+          "scientificNameWithoutAuthor": "Costus spiralis",
+          "scientificNameAuthorship": "(Jacq.) Roscoe",
+          "genus": {
+            "scientificNameWithoutAuthor": "Costus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Costaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costaceae"
+          },
+          "commonNames": [
+            "Insulin plant",
+            "Sunbird's Delight",
+            "Spiralis ginger"
+          ],
+          "scientificName": "Costus spiralis (Jacq.) Roscoe"
+        },
+        "gbif": {
+          "id": "2756867"
+        },
+        "powo": {
+          "id": "796387-1"
+        }
+      },
+      {
+        "score": 0.08196,
+        "species": {
+          "scientificNameWithoutAuthor": "Costus woodsonii",
+          "scientificNameAuthorship": "Maas",
+          "genus": {
+            "scientificNameWithoutAuthor": "Costus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Costaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costaceae"
+          },
+          "commonNames": [
+            "Red cane",
+            "Scarlet Spiral-Ginger",
+            "Red Button Ginger"
+          ],
+          "scientificName": "Costus woodsonii Maas"
+        },
+        "gbif": {
+          "id": "2756950"
+        },
+        "powo": {
+          "id": "66932-2"
+        },
+        "iucn": {
+          "id": "56349436",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02289,
+        "species": {
+          "scientificNameWithoutAuthor": "Zingiber zerumbet",
+          "scientificNameAuthorship": "(L.) Roscoe ex Sm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Zingiber",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zingiber"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Zingiberaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zingiberaceae"
+          },
+          "commonNames": [
+            "Shampoo Ginger",
+            "Bitter ginger",
+            "Gamongan"
+          ],
+          "scientificName": "Zingiber zerumbet (L.) Roscoe ex Sm."
+        },
+        "gbif": {
+          "id": "2757108"
+        },
+        "powo": {
+          "id": "798401-1"
+        },
+        "iucn": {
+          "id": "96816015",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.01899,
+        "species": {
+          "scientificNameWithoutAuthor": "Costus spicatus",
+          "scientificNameAuthorship": "(Jacq.) Sw.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Costus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Costaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costaceae"
+          },
+          "commonNames": [
+            "Spiked spiral-flag",
+            "Spiked Spiralflag",
+            "Indian Head Ginger"
+          ],
+          "scientificName": "Costus spicatus (Jacq.) Sw."
+        },
+        "gbif": {
+          "id": "2756925"
+        },
+        "powo": {
+          "id": "329964-2"
+        }
+      },
+      {
+        "score": 0.00735,
+        "species": {
+          "scientificNameWithoutAuthor": "Costus barbatus",
+          "scientificNameAuthorship": "Suess.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Costus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Costaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costaceae"
+          },
+          "commonNames": [
+            "Red tower spiral ginger",
+            "Red Tower Ginger"
+          ],
+          "scientificName": "Costus barbatus Suess."
+        },
+        "gbif": {
+          "id": "2756909"
+        },
+        "powo": {
+          "id": "66823-2"
+        },
+        "iucn": {
+          "id": "56234708",
+          "category": "CR"
+        }
+      },
+      {
+        "score": 0.003,
+        "species": {
+          "scientificNameWithoutAuthor": "Alpinia purpurata",
+          "scientificNameAuthorship": "(Vieill.) K.Schum.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alpinia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alpinia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Zingiberaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zingiberaceae"
+          },
+          "commonNames": [
+            "Red ginger",
+            "Ornamental Ginger",
+            "Graveyard Flower"
+          ],
+          "scientificName": "Alpinia purpurata (Vieill.) K.Schum."
+        },
+        "gbif": {
+          "id": "5301960"
+        },
+        "powo": {
+          "id": "795383-1"
+        }
+      },
+      {
+        "score": 0.00256,
+        "species": {
+          "scientificNameWithoutAuthor": "Trifolium incarnatum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Trifolium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Trifolium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Crimson clover",
+            "Scarlet clover",
+            "Carnation clover"
+          ],
+          "scientificName": "Trifolium incarnatum L."
+        },
+        "gbif": {
+          "id": "5359378"
+        },
+        "powo": {
+          "id": "523237-1"
+        },
+        "iucn": {
+          "id": "176390",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00197,
+        "species": {
+          "scientificNameWithoutAuthor": "Costus sprucei",
+          "scientificNameAuthorship": "Maas",
+          "genus": {
+            "scientificNameWithoutAuthor": "Costus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Costaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Costus sprucei Maas"
+        },
+        "gbif": {
+          "id": "2756957"
+        },
+        "powo": {
+          "id": "66917-2"
+        }
+      },
+      {
+        "score": 0.00191,
+        "species": {
+          "scientificNameWithoutAuthor": "Hellenia speciosa",
+          "scientificNameAuthorship": "(J.Koenig) S.R.Dutta",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hellenia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hellenia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Costaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costaceae"
+          },
+          "commonNames": [
+            "White costus",
+            "Crape ginger",
+            "Malay ginger"
+          ],
+          "scientificName": "Hellenia speciosa (J.Koenig) S.R.Dutta"
+        },
+        "gbif": {
+          "id": "7584507"
+        },
+        "powo": {
+          "id": "60469691-2"
+        }
+      },
+      {
+        "score": 0.00122,
+        "species": {
+          "scientificNameWithoutAuthor": "Costus pulverulentus",
+          "scientificNameAuthorship": "C.Presl",
+          "genus": {
+            "scientificNameWithoutAuthor": "Costus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Costaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Costaceae"
+          },
+          "commonNames": [
+            "Spiral ginger"
+          ],
+          "scientificName": "Costus pulverulentus C.Presl"
+        },
+        "gbif": {
+          "id": "2756847"
+        },
+        "powo": {
+          "id": "796364-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 344
+  }
+}

@@ -1,5 +1,82 @@
 [
   {
+    "imageHash": "35bf6db29dc600f9",
+    "latLng": {
+      "lat": -8.703505555555555,
+      "lng": 115.16697777777779
+    },
+    "source": "exif",
+    "utImageTaken": 1733025762,
+    "timeImageTaken": "2024-12-01 04:02:42",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.23918,
+      "species": "Rorippa sylvestris (L.) Besser",
+      "genus": "Rorippa",
+      "family": "Brassicaceae",
+      "commonNames": [
+        "Creeping yellow cress",
+        "Creeping yellow field cress",
+        "Yellow field cress"
+      ],
+      "gbifId": "3053376",
+      "iucnId": "176486",
+      "iucnCategory": "LC",
+      "powoId": "288692-1"
+    }
+  },
+  {
+    "imageHash": "500770bee6e6f06e",
+    "latLng": {
+      "lat": -8.703483333333333,
+      "lng": 115.16723611111112
+    },
+    "source": "exif",
+    "utImageTaken": 1733025808,
+    "timeImageTaken": "2024-12-01 04:03:28",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.79896,
+      "species": "Cleome viscosa L.",
+      "genus": "Cleome",
+      "family": "Cleomaceae",
+      "commonNames": [
+        "Asian Spider-flower",
+        "కుక్కవావింట",
+        "کنجد شیطان، کنجد وحشی"
+      ],
+      "gbifId": "3054214",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "320133-2"
+    }
+  },
+  {
+    "imageHash": "ac9f718463cec3ba",
+    "latLng": {
+      "lat": 6.027952777777778,
+      "lng": 80.21449166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1748658594,
+    "timeImageTaken": "2025-05-31 02:29:54",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.43951,
+      "species": "Gomphrena serrata L.",
+      "genus": "Gomphrena",
+      "family": "Amaranthaceae",
+      "commonNames": [
+        "Arrasa Con Todo",
+        "Batchelor's button"
+      ],
+      "gbifId": "3084909",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "112097-2"
+    }
+  },
+  {
     "imageHash": "f3ecf71f799b6ea0",
     "latLng": {
       "lat": 6.9187627970892756,
@@ -50,6 +127,84 @@
     }
   },
   {
+    "imageHash": "4783a44e351751e5",
+    "latLng": {
+      "lat": -8.703688888888887,
+      "lng": 115.16629166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1733025435,
+    "timeImageTaken": "2024-12-01 03:57:15",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.55966,
+      "species": "Zinnia peruviana (L.) L.",
+      "genus": "Zinnia",
+      "family": "Asteraceae",
+      "commonNames": [
+        "Peruvian zinnia",
+        "Field zinnia",
+        "Wild zinnia"
+      ],
+      "gbifId": "9193953",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "261363-1"
+    }
+  },
+  {
+    "imageHash": "3a7b5f729e42e61e",
+    "latLng": {
+      "lat": 7.990263888888889,
+      "lng": 80.92124166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1696131450,
+    "timeImageTaken": "2023-10-01 03:37:30",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.62905,
+      "species": "Bougainvillea spectabilis Willd.",
+      "genus": "Bougainvillea",
+      "family": "Nyctaginaceae",
+      "commonNames": [
+        "Great bougainvillea",
+        "Bougainvillea",
+        "Paper flower"
+      ],
+      "gbifId": "7167078",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "604358-1"
+    }
+  },
+  {
+    "imageHash": "0b45537b1d03c88a",
+    "latLng": {
+      "lat": -8.703358333333332,
+      "lng": 115.16625277777779
+    },
+    "source": "exif",
+    "utImageTaken": 1733025569,
+    "timeImageTaken": "2024-12-01 03:59:29",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.67296,
+      "species": "Ficus lyrata Warb.",
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "commonNames": [
+        "Fiddle-leaf fig",
+        "فیکوس لیراتا",
+        "Lyre-leaf figtree"
+      ],
+      "gbifId": "5361899",
+      "iucnId": "208115167",
+      "iucnCategory": "LC",
+      "powoId": "853158-1"
+    }
+  },
+  {
     "imageHash": "b8ad9be301563966",
     "latLng": {
       "lat": 37.76723611111111,
@@ -97,6 +252,58 @@
       "iucnId": "62054114",
       "iucnCategory": "LC",
       "powoId": "828524-1"
+    }
+  },
+  {
+    "imageHash": "663afd2517de2239",
+    "latLng": {
+      "lat": -8.704022222222221,
+      "lng": 115.16684722222223
+    },
+    "source": "exif",
+    "utImageTaken": 1733025996,
+    "timeImageTaken": "2024-12-01 04:06:36",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.3992,
+      "species": "Hymenocallis littoralis (Jacq.) Salisb.",
+      "genus": "Hymenocallis",
+      "family": "Amaryllidaceae",
+      "commonNames": [
+        "Beach spiderlily",
+        "Tropical Spider-Lily",
+        "Spider lily"
+      ],
+      "gbifId": "2860119",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "30048918-2"
+    }
+  },
+  {
+    "imageHash": "42f6b514b94fc56b",
+    "latLng": {
+      "lat": -8.703586111111111,
+      "lng": 115.16653333333333
+    },
+    "source": "exif",
+    "utImageTaken": 1733025658,
+    "timeImageTaken": "2024-12-01 04:00:58",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.34273,
+      "species": "Plumeria obtusa L.",
+      "genus": "Plumeria",
+      "family": "Apocynaceae",
+      "commonNames": [
+        "Frangipani",
+        "Singapore graveyard flower",
+        "Pagoda tree"
+      ],
+      "gbifId": "3169677",
+      "iucnId": "156770956",
+      "iucnCategory": "LC",
+      "powoId": "81256-1"
     }
   },
   {
@@ -178,6 +385,58 @@
     }
   },
   {
+    "imageHash": "019f57b122aa24dc",
+    "latLng": {
+      "lat": 6.026213888888889,
+      "lng": 80.215125
+    },
+    "source": "exif",
+    "utImageTaken": 1748659075,
+    "timeImageTaken": "2025-05-31 02:37:55",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.9036,
+      "species": "Barringtonia asiatica (L.) Kurz",
+      "genus": "Barringtonia",
+      "family": "Lecythidaceae",
+      "commonNames": [
+        "Fish-poison-tree",
+        "Mango-pine",
+        "Mangobark"
+      ],
+      "gbifId": "3082920",
+      "iucnId": "31339",
+      "iucnCategory": "LC",
+      "powoId": "469061-1"
+    }
+  },
+  {
+    "imageHash": "13b4b20ab482edd5",
+    "latLng": {
+      "lat": -8.703638888888888,
+      "lng": 115.16631944444445
+    },
+    "source": "exif",
+    "utImageTaken": 1733025447,
+    "timeImageTaken": "2024-12-01 03:57:27",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.56801,
+      "species": "Bougainvillea spectabilis Willd.",
+      "genus": "Bougainvillea",
+      "family": "Nyctaginaceae",
+      "commonNames": [
+        "Great bougainvillea",
+        "Bougainvillea",
+        "Paper flower"
+      ],
+      "gbifId": "7167078",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "604358-1"
+    }
+  },
+  {
     "imageHash": "4827878cc3b6cd03",
     "latLng": {
       "lat": 6.918872222222222,
@@ -227,6 +486,32 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "219516-2"
+    }
+  },
+  {
+    "imageHash": "4633aed3d77e0c87",
+    "latLng": {
+      "lat": -8.703475,
+      "lng": 115.16722777777778
+    },
+    "source": "exif",
+    "utImageTaken": 1733025822,
+    "timeImageTaken": "2024-12-01 04:03:42",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.89087,
+      "species": "Cleome viscosa L.",
+      "genus": "Cleome",
+      "family": "Cleomaceae",
+      "commonNames": [
+        "Asian Spider-flower",
+        "کنجد شیطان، کنجد وحشی",
+        "కుక్కవావింట"
+      ],
+      "gbifId": "3054214",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "320133-2"
     }
   },
   {
@@ -410,6 +695,32 @@
     }
   },
   {
+    "imageHash": "3254f6dbb52c52a5",
+    "latLng": {
+      "lat": -8.703644444444445,
+      "lng": 115.16638055555556
+    },
+    "source": "exif",
+    "utImageTaken": 1733025621,
+    "timeImageTaken": "2024-12-01 04:00:21",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.86418,
+      "species": "Tagetes erecta L.",
+      "genus": "Tagetes",
+      "family": "Asteraceae",
+      "commonNames": [
+        "Marigold",
+        "African marigold",
+        "गेंदा फूल (Genda phool)"
+      ],
+      "gbifId": "3088488",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "252092-1"
+    }
+  },
+  {
     "imageHash": "b112a5bfdd527998",
     "latLng": {
       "lat": 37.76825,
@@ -462,6 +773,32 @@
     }
   },
   {
+    "imageHash": "d49465fcb9afe2e0",
+    "latLng": {
+      "lat": -8.703697222222221,
+      "lng": 115.16623611111112
+    },
+    "source": "exif",
+    "utImageTaken": 1733025422,
+    "timeImageTaken": "2024-12-01 03:57:02",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.90267,
+      "species": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult.",
+      "genus": "Tabernaemontana",
+      "family": "Apocynaceae",
+      "commonNames": [
+        "Crape-jasmine",
+        "কাঠ মালতি",
+        "Butterfly-gardenia"
+      ],
+      "gbifId": "3169625",
+      "iucnId": "149853146",
+      "iucnCategory": "LC",
+      "powoId": "82097-1"
+    }
+  },
+  {
     "imageHash": "bf555cf89e04a9c8",
     "latLng": {
       "lat": 6.8910557,
@@ -510,6 +847,58 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "850389-1"
+    }
+  },
+  {
+    "imageHash": "26e7abcaddf2778d",
+    "latLng": {
+      "lat": -8.70383611111111,
+      "lng": 115.16716111111111
+    },
+    "source": "exif",
+    "utImageTaken": 1733025925,
+    "timeImageTaken": "2024-12-01 04:05:25",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.61447,
+      "species": "Costus spiralis (Jacq.) Roscoe",
+      "genus": "Costus",
+      "family": "Costaceae",
+      "commonNames": [
+        "Insulin plant",
+        "Sunbird's Delight",
+        "Spiralis ginger"
+      ],
+      "gbifId": "2756867",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "796387-1"
+    }
+  },
+  {
+    "imageHash": "beb25600caae8f6a",
+    "latLng": {
+      "lat": -8.703475,
+      "lng": 115.16722777777778
+    },
+    "source": "exif",
+    "utImageTaken": 1733025820,
+    "timeImageTaken": "2024-12-01 04:03:40",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.85483,
+      "species": "Cleome viscosa L.",
+      "genus": "Cleome",
+      "family": "Cleomaceae",
+      "commonNames": [
+        "Asian Spider-flower",
+        "కుక్కవావింట",
+        "کنجد شیطان، کنجد وحشی"
+      ],
+      "gbifId": "3054214",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "320133-2"
     }
   },
   {
@@ -588,6 +977,58 @@
       "iucnId": "203007",
       "iucnCategory": "LC",
       "powoId": "332420-1"
+    }
+  },
+  {
+    "imageHash": "e56bf4cb053f23c6",
+    "latLng": {
+      "lat": 7.990152777777777,
+      "lng": 80.92133333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1696131412,
+    "timeImageTaken": "2023-10-01 03:36:52",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.92883,
+      "species": "Alysicarpus vaginalis (L.) DC.",
+      "genus": "Alysicarpus",
+      "family": "Fabaceae",
+      "commonNames": [
+        "Alyce Clover",
+        "One-leaf-clover",
+        "Buffalo-bur"
+      ],
+      "gbifId": "2948605",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "473569-1"
+    }
+  },
+  {
+    "imageHash": "f662782edadfe9bf",
+    "latLng": {
+      "lat": -8.703630555555554,
+      "lng": 115.16630555555557
+    },
+    "source": "exif",
+    "utImageTaken": 1733025605,
+    "timeImageTaken": "2024-12-01 04:00:05",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.39635,
+      "species": "Heliconia bihai (L.) L.",
+      "genus": "Heliconia",
+      "family": "Heliconiaceae",
+      "commonNames": [
+        "Macaw-flower",
+        "Firebird",
+        "Wild plantain"
+      ],
+      "gbifId": "2760874",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "796925-1"
     }
   },
   {
