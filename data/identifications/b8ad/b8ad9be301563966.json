@@ -1,0 +1,329 @@
+{
+  "hash": "b8ad9be301563966",
+  "image_metadata": {
+    "imageHash": "b8ad9be301563966",
+    "imageLocation": {
+      "latitude": 37.76723611111111,
+      "longitude": -122.46977222222222,
+      "accuracy": 4.583358360568854,
+      "source": "exif"
+    },
+    "utImageTaken": 1697614778,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/b8ad9be301563966.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "73c417e5f257c2eb8c8a728a0ea54c6f"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "73c417e5f257c2eb8c8a728a0ea54c6f",
+        "filename": "b8ad9be301563966.png",
+        "organ": "habit",
+        "score": 0.70605
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Crinum moorei Hook.f.",
+    "results": [
+      {
+        "score": 0.61038,
+        "species": {
+          "scientificNameWithoutAuthor": "Crinum moorei",
+          "scientificNameAuthorship": "Hook.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Crinum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Crinum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Natal lily"
+          ],
+          "scientificName": "Crinum moorei Hook.f."
+        },
+        "gbif": {
+          "id": "4928395"
+        },
+        "powo": {
+          "id": "63990-1"
+        }
+      },
+      {
+        "score": 0.04451,
+        "species": {
+          "scientificNameWithoutAuthor": "Amaryllis belladonna",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Amaryllis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Easter-lily",
+            "Belladonna lily",
+            "Naked ladies"
+          ],
+          "scientificName": "Amaryllis belladonna L."
+        },
+        "gbif": {
+          "id": "5325855"
+        },
+        "powo": {
+          "id": "62705-1"
+        }
+      },
+      {
+        "score": 0.04171,
+        "species": {
+          "scientificNameWithoutAuthor": "Hippeastrum reticulatum",
+          "scientificNameAuthorship": "(L'Hér.) Herb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hippeastrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hippeastrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Netted Veined Amaryllis"
+          ],
+          "scientificName": "Hippeastrum reticulatum (L'Hér.) Herb."
+        },
+        "gbif": {
+          "id": "2854320"
+        },
+        "powo": {
+          "id": "65145-1"
+        }
+      },
+      {
+        "score": 0.01075,
+        "species": {
+          "scientificNameWithoutAuthor": "Zephyranthes robusta",
+          "scientificNameAuthorship": "(Herb.) Baker",
+          "genus": {
+            "scientificNameWithoutAuthor": "Zephyranthes",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zephyranthes"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Brazilian copperlily",
+            "Pink Rain Lily"
+          ],
+          "scientificName": "Zephyranthes robusta (Herb.) Baker"
+        },
+        "gbif": {
+          "id": "2853500"
+        },
+        "powo": {
+          "id": "270986-2"
+        }
+      },
+      {
+        "score": 0.00505,
+        "species": {
+          "scientificNameWithoutAuthor": "Lilium candidum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lilium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lilium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Liliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Liliaceae"
+          },
+          "commonNames": [
+            "Madonna lily",
+            "White lily",
+            "Shirley poppies and Lilium candidum"
+          ],
+          "scientificName": "Lilium candidum L."
+        },
+        "gbif": {
+          "id": "2753090"
+        },
+        "powo": {
+          "id": "537512-1"
+        }
+      },
+      {
+        "score": 0.00436,
+        "species": {
+          "scientificNameWithoutAuthor": "Erythronium revolutum",
+          "scientificNameAuthorship": "Sm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Erythronium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Erythronium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Liliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Liliaceae"
+          },
+          "commonNames": [
+            "Pink fawn-lily",
+            "Mahogany Fawn-Lily",
+            "Mahogany fawnlily"
+          ],
+          "scientificName": "Erythronium revolutum Sm."
+        },
+        "gbif": {
+          "id": "2752833"
+        },
+        "powo": {
+          "id": "96854-2"
+        }
+      },
+      {
+        "score": 0.00409,
+        "species": {
+          "scientificNameWithoutAuthor": "Ornithogalum nutans",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ornithogalum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ornithogalum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asparagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagaceae"
+          },
+          "commonNames": [
+            "Drooping star-of-Bethlehem",
+            "Nodding star-of-Bethlehem",
+            "Drooping star of Bethlehem"
+          ],
+          "scientificName": "Ornithogalum nutans L."
+        },
+        "gbif": {
+          "id": "2773281"
+        },
+        "powo": {
+          "id": "539382-1"
+        }
+      },
+      {
+        "score": 0.00348,
+        "species": {
+          "scientificNameWithoutAuthor": "Astrantia major",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Astrantia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Astrantia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apiaceae"
+          },
+          "commonNames": [
+            "Astrantia",
+            "Great Masterwort",
+            "Greater masterwort"
+          ],
+          "scientificName": "Astrantia major L."
+        },
+        "gbif": {
+          "id": "3034915"
+        },
+        "powo": {
+          "id": "838340-1"
+        }
+      },
+      {
+        "score": 0.00332,
+        "species": {
+          "scientificNameWithoutAuthor": "Cardamine heptaphylla",
+          "scientificNameAuthorship": "(Vill.) O.E.Schulz",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cardamine",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cardamine"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Bitter-Cress",
+            "Pinnate Coralroot",
+            "Lady's smock"
+          ],
+          "scientificName": "Cardamine heptaphylla (Vill.) O.E.Schulz"
+        },
+        "gbif": {
+          "id": "3045634"
+        },
+        "powo": {
+          "id": "280365-1"
+        }
+      },
+      {
+        "score": 0.00319,
+        "species": {
+          "scientificNameWithoutAuthor": "Zephyranthes rosea",
+          "scientificNameAuthorship": "Lindl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Zephyranthes",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zephyranthes"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Pink Rain Lilly",
+            "Fairy-lily",
+            "Cuban zephyrlily"
+          ],
+          "scientificName": "Zephyranthes rosea Lindl."
+        },
+        "gbif": {
+          "id": "2859817"
+        },
+        "powo": {
+          "id": "67293-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 358
+  }
+}

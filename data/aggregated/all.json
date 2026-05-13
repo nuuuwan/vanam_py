@@ -50,6 +50,134 @@
     }
   },
   {
+    "imageHash": "b8ad9be301563966",
+    "latLng": {
+      "lat": 37.76723611111111,
+      "lng": -122.46977222222222
+    },
+    "source": "exif",
+    "utImageTaken": 1697614778,
+    "timeImageTaken": "2023-10-18 07:39:38",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.61038,
+      "species": "Crinum moorei Hook.f.",
+      "genus": "Crinum",
+      "family": "Amaryllidaceae",
+      "commonNames": [
+        "Natal lily"
+      ],
+      "gbifId": "4928395",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "63990-1"
+    }
+  },
+  {
+    "imageHash": "7e4f1232dcf19251",
+    "latLng": {
+      "lat": 37.42685833333333,
+      "lng": -122.17102777777778
+    },
+    "source": "exif",
+    "utImageTaken": 1737874935,
+    "timeImageTaken": "2025-01-26 07:02:15",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.40419,
+      "species": "Camellia japonica L.",
+      "genus": "Camellia",
+      "family": "Theaceae",
+      "commonNames": [
+        "Camellia",
+        "Japanese Camellia",
+        "Rose of Winter"
+      ],
+      "gbifId": "3189636",
+      "iucnId": "62054114",
+      "iucnCategory": "LC",
+      "powoId": "828524-1"
+    }
+  },
+  {
+    "imageHash": "2ac715e9b5b6f5a7",
+    "latLng": {
+      "lat": 37.44266944444444,
+      "lng": -122.15888333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1737889412,
+    "timeImageTaken": "2025-01-26 11:03:32",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.34672,
+      "species": "Laurus nobilis L.",
+      "genus": "Laurus",
+      "family": "Lauraceae",
+      "commonNames": [
+        "(Sweet) Bay leaf",
+        "برگ بو",
+        "Laurel"
+      ],
+      "gbifId": "3034015",
+      "iucnId": "203351",
+      "iucnCategory": "LC",
+      "powoId": "465049-1"
+    }
+  },
+  {
+    "imageHash": "b4ea0e78a2f0f3db",
+    "latLng": {
+      "lat": 37.426649999999995,
+      "lng": -122.17023333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1737875402,
+    "timeImageTaken": "2025-01-26 07:10:02",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.6128,
+      "species": "Camellia japonica L.",
+      "genus": "Camellia",
+      "family": "Theaceae",
+      "commonNames": [
+        "Camellia",
+        "Japanese Camellia",
+        "Rose of Winter"
+      ],
+      "gbifId": "3189636",
+      "iucnId": "62054114",
+      "iucnCategory": "LC",
+      "powoId": "828524-1"
+    }
+  },
+  {
+    "imageHash": "5881fec13ce62150",
+    "latLng": {
+      "lat": 37.45101666666667,
+      "lng": -122.16041666666668
+    },
+    "source": "exif",
+    "utImageTaken": 1738831571,
+    "timeImageTaken": "2025-02-06 08:46:11",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.51872,
+      "species": "Magnolia liliiflora Desr.",
+      "genus": "Magnolia",
+      "family": "Magnoliaceae",
+      "commonNames": [
+        "Lily Magnolia",
+        "Purple magnolia",
+        "Red magnolia"
+      ],
+      "gbifId": "3153228",
+      "iucnId": "191488",
+      "iucnCategory": "DD",
+      "powoId": "554759-1"
+    }
+  },
+  {
     "imageHash": "4827878cc3b6cd03",
     "latLng": {
       "lat": 6.918872222222222,
@@ -125,6 +253,32 @@
       "iucnId": "202948",
       "iucnCategory": "LC",
       "powoId": "295349-1"
+    }
+  },
+  {
+    "imageHash": "e11382d83c315de1",
+    "latLng": {
+      "lat": 37.42669166666666,
+      "lng": -122.17031111111112
+    },
+    "source": "exif",
+    "utImageTaken": 1737875412,
+    "timeImageTaken": "2025-01-26 07:10:12",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.41021,
+      "species": "Camellia japonica L.",
+      "genus": "Camellia",
+      "family": "Theaceae",
+      "commonNames": [
+        "Camellia",
+        "Japanese Camellia",
+        "Rose of Winter"
+      ],
+      "gbifId": "3189636",
+      "iucnId": "62054114",
+      "iucnCategory": "LC",
+      "powoId": "828524-1"
     }
   },
   {
@@ -253,6 +407,32 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "30043311-2"
+    }
+  },
+  {
+    "imageHash": "b112a5bfdd527998",
+    "latLng": {
+      "lat": 37.76825,
+      "lng": -122.46939166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1697616302,
+    "timeImageTaken": "2023-10-18 08:05:02",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.62293,
+      "species": "Echinops exaltatus Schrad.",
+      "genus": "Echinops",
+      "family": "Asteraceae",
+      "commonNames": [
+        "Tall globe thistle",
+        "Globe thistle",
+        "Tall globethistle"
+      ],
+      "gbifId": "5392683",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "202484-1"
     }
   },
   {

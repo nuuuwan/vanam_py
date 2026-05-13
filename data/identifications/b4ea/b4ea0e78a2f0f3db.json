@@ -1,0 +1,343 @@
+{
+  "hash": "b4ea0e78a2f0f3db",
+  "image_metadata": {
+    "imageHash": "b4ea0e78a2f0f3db",
+    "imageLocation": {
+      "latitude": 37.426649999999995,
+      "longitude": -122.17023333333334,
+      "accuracy": 5.793131660652849,
+      "source": "exif"
+    },
+    "utImageTaken": 1737875402,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/b4ea0e78a2f0f3db.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "52f84c1b3a704694795a797d34dc8fd9"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "52f84c1b3a704694795a797d34dc8fd9",
+        "filename": "b4ea0e78a2f0f3db.png",
+        "organ": "flower",
+        "score": 0.39372
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Camellia japonica L.",
+    "results": [
+      {
+        "score": 0.6128,
+        "species": {
+          "scientificNameWithoutAuthor": "Camellia japonica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Camellia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Camellia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Theaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Theaceae"
+          },
+          "commonNames": [
+            "Camellia",
+            "Japanese Camellia",
+            "Rose of Winter"
+          ],
+          "scientificName": "Camellia japonica L."
+        },
+        "gbif": {
+          "id": "3189636"
+        },
+        "powo": {
+          "id": "828524-1"
+        },
+        "iucn": {
+          "id": "62054114",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.08564,
+        "species": {
+          "scientificNameWithoutAuthor": "Camellia sasanqua",
+          "scientificNameAuthorship": "Thunb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Camellia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Camellia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Theaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Theaceae"
+          },
+          "commonNames": [
+            "Camellia",
+            "Sasanqua camellia",
+            "Christmas camellia"
+          ],
+          "scientificName": "Camellia sasanqua Thunb."
+        },
+        "gbif": {
+          "id": "3189637"
+        },
+        "powo": {
+          "id": "927409-1"
+        },
+        "iucn": {
+          "id": "62057947",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00966,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa chinensis",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Bengal rose",
+            "China Rose",
+            "Chinese rose"
+          ],
+          "scientificName": "Rosa chinensis Jacq."
+        },
+        "gbif": {
+          "id": "3005039"
+        },
+        "powo": {
+          "id": "732029-1"
+        }
+      },
+      {
+        "score": 0.00538,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa sempervirens",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Evergreen rose",
+            "رز همیشه‌بهار (FA)"
+          ],
+          "scientificName": "Rosa sempervirens L."
+        },
+        "gbif": {
+          "id": "3002660"
+        },
+        "powo": {
+          "id": "734215-1"
+        }
+      },
+      {
+        "score": 0.00433,
+        "species": {
+          "scientificNameWithoutAuthor": "Camellia yunnanensis",
+          "scientificNameAuthorship": "(Pit. ex Diels) Cohen-Stuart",
+          "genus": {
+            "scientificNameWithoutAuthor": "Camellia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Camellia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Theaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Theaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Camellia yunnanensis (Pit. ex Diels) Cohen-Stuart"
+        },
+        "gbif": {
+          "id": "7313823"
+        },
+        "powo": {
+          "id": "830010-1"
+        },
+        "iucn": {
+          "id": "62059596",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00199,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa xanthina",
+          "scientificNameAuthorship": "Lindl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Yellow rose",
+            "Father Hugo Rose",
+            "Manchu rose"
+          ],
+          "scientificName": "Rosa xanthina Lindl."
+        },
+        "gbif": {
+          "id": "3002481"
+        },
+        "powo": {
+          "id": "734748-1"
+        }
+      },
+      {
+        "score": 0.00161,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa moschata",
+          "scientificNameAuthorship": "Herrm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Musk rose"
+          ],
+          "scientificName": "Rosa moschata Herrm."
+        },
+        "gbif": {
+          "id": "3005529"
+        },
+        "powo": {
+          "id": "733393-1"
+        }
+      },
+      {
+        "score": 0.0016,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa arvensis",
+          "scientificNameAuthorship": "Huds.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Field Rose",
+            "Musk rose",
+            "Trailing rose"
+          ],
+          "scientificName": "Rosa arvensis Huds."
+        },
+        "gbif": {
+          "id": "3007054"
+        },
+        "powo": {
+          "id": "731660-1"
+        }
+      },
+      {
+        "score": 0.00142,
+        "species": {
+          "scientificNameWithoutAuthor": "Chaenomeles japonica",
+          "scientificNameAuthorship": "(Thunb.) Lindl. ex Spach",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chaenomeles",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chaenomeles"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Japanese-quince",
+            "Flowering-quince",
+            "Japanese Flowering Quince"
+          ],
+          "scientificName": "Chaenomeles japonica (Thunb.) Lindl. ex Spach"
+        },
+        "gbif": {
+          "id": "3000610"
+        },
+        "powo": {
+          "id": "77105966-1"
+        },
+        "iucn": {
+          "id": "170120919",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00123,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa canina",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Dog Rose",
+            "Common Briar",
+            "Dogbrier"
+          ],
+          "scientificName": "Rosa canina L."
+        },
+        "gbif": {
+          "id": "3002461"
+        },
+        "powo": {
+          "id": "731955-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 359
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "hash": "5881fec13ce62150",
+  "image_metadata": {
+    "imageHash": "5881fec13ce62150",
+    "imageLocation": {
+      "latitude": 37.45101666666667,
+      "longitude": -122.16041666666668,
+      "accuracy": 30.693359442096945,
+      "source": "exif"
+    },
+    "utImageTaken": 1738831571,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/5881fec13ce62150.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "4d0b76a215822f43e19974d55a9400d5"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "4d0b76a215822f43e19974d55a9400d5",
+        "filename": "5881fec13ce62150.png",
+        "organ": "flower",
+        "score": 0.76937
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Magnolia liliiflora Desr.",
+    "results": [
+      {
+        "score": 0.51872,
+        "species": {
+          "scientificNameWithoutAuthor": "Magnolia liliiflora",
+          "scientificNameAuthorship": "Desr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Magnolia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnolia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Magnoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnoliaceae"
+          },
+          "commonNames": [
+            "Lily Magnolia",
+            "Purple magnolia",
+            "Red magnolia"
+          ],
+          "scientificName": "Magnolia liliiflora Desr."
+        },
+        "gbif": {
+          "id": "3153228"
+        },
+        "powo": {
+          "id": "554759-1"
+        },
+        "iucn": {
+          "id": "191488",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.04436,
+        "species": {
+          "scientificNameWithoutAuthor": "Magnolia × soulangeana",
+          "scientificNameAuthorship": "Soul.-Bod.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Magnolia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnolia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Magnoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnoliaceae"
+          },
+          "commonNames": [
+            "Chinese magnolia",
+            "Saucer magnolia",
+            "Hybrid Magnolia"
+          ],
+          "scientificName": "Magnolia × soulangeana Soul.-Bod."
+        },
+        "gbif": {
+          "id": "7925303"
+        },
+        "powo": {
+          "id": "60468302-2"
+        }
+      },
+      {
+        "score": 0.02955,
+        "species": {
+          "scientificNameWithoutAuthor": "Cyclamen repandum",
+          "scientificNameAuthorship": "Sm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cyclamen",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cyclamen"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Primulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Primulaceae"
+          },
+          "commonNames": [
+            "Spring Cyclamen",
+            "Common Cyclamen",
+            "Spring sowbread"
+          ],
+          "scientificName": "Cyclamen repandum Sm."
+        },
+        "gbif": {
+          "id": "7127713"
+        },
+        "powo": {
+          "id": "700775-1"
+        }
+      },
+      {
+        "score": 0.02047,
+        "species": {
+          "scientificNameWithoutAuthor": "Paeonia officinalis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Paeonia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Paeonia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Paeoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Paeoniaceae"
+          },
+          "commonNames": [
+            "Cottage peony",
+            "Common peony",
+            "Wild Peony"
+          ],
+          "scientificName": "Paeonia officinalis L."
+        },
+        "gbif": {
+          "id": "3083488"
+        },
+        "powo": {
+          "id": "711836-1"
+        },
+        "iucn": {
+          "id": "162001",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0075,
+        "species": {
+          "scientificNameWithoutAuthor": "Magnolia denudata",
+          "scientificNameAuthorship": "Desr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Magnolia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnolia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Magnoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnoliaceae"
+          },
+          "commonNames": [
+            "Yulan Magnolia",
+            "Lilytree",
+            "Yulan"
+          ],
+          "scientificName": "Magnolia denudata Desr."
+        },
+        "gbif": {
+          "id": "3153582"
+        },
+        "powo": {
+          "id": "554678-1"
+        },
+        "iucn": {
+          "id": "193934",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00522,
+        "species": {
+          "scientificNameWithoutAuthor": "Ceiba speciosa",
+          "scientificNameAuthorship": "(A.St.-Hil., A.Juss. & Cambess.) Ravenna",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ceiba",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ceiba"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Silk Floss Tree",
+            "Floss-silktree",
+            "Floss-silk tree"
+          ],
+          "scientificName": "Ceiba speciosa (A.St.-Hil., A.Juss. & Cambess.) Ravenna"
+        },
+        "gbif": {
+          "id": "8688929"
+        },
+        "powo": {
+          "id": "1005661-1"
+        },
+        "iucn": {
+          "id": "61782892",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00355,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa rugosa",
+          "scientificNameAuthorship": "Thunb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Rugosa rose",
+            "Hedgerow Rose",
+            "Saltspray Rose"
+          ],
+          "scientificName": "Rosa rugosa Thunb."
+        },
+        "gbif": {
+          "id": "3003979"
+        },
+        "powo": {
+          "id": "927373-1"
+        }
+      },
+      {
+        "score": 0.00344,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhododendron catawbiense",
+          "scientificNameAuthorship": "Michx.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhododendron",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhododendron"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Catawba rhododendron",
+            "Mountain rose bay",
+            "Purple-laurel"
+          ],
+          "scientificName": "Rhododendron catawbiense Michx."
+        },
+        "gbif": {
+          "id": "2883047"
+        },
+        "powo": {
+          "id": "332124-1"
+        },
+        "iucn": {
+          "id": "156821604",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00249,
+        "species": {
+          "scientificNameWithoutAuthor": "Prunus serrulata",
+          "scientificNameAuthorship": "Lindl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Prunus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Prunus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Japanese flowering cherry",
+            "Tibetan Cherry",
+            "Japanese Cherry"
+          ],
+          "scientificName": "Prunus serrulata Lindl."
+        },
+        "gbif": {
+          "id": "3022609"
+        },
+        "powo": {
+          "id": "730268-1"
+        },
+        "iucn": {
+          "id": "217170511",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0023,
+        "species": {
+          "scientificNameWithoutAuthor": "Magnolia sprengeri",
+          "scientificNameAuthorship": "Pamp.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Magnolia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnolia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Magnoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnoliaceae"
+          },
+          "commonNames": [
+            "Sprenger's magnolia"
+          ],
+          "scientificName": "Magnolia sprengeri Pamp."
+        },
+        "gbif": {
+          "id": "3152927"
+        },
+        "powo": {
+          "id": "554854-1"
+        },
+        "iucn": {
+          "id": "194009",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 368
+  }
+}

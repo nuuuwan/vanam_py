@@ -1,0 +1,188 @@
+{
+  "hash": "b112a5bfdd527998",
+  "image_metadata": {
+    "imageHash": "b112a5bfdd527998",
+    "imageLocation": {
+      "latitude": 37.76825,
+      "longitude": -122.46939166666667,
+      "accuracy": 4.701641660499226,
+      "source": "exif"
+    },
+    "utImageTaken": 1697616302,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/b112a5bfdd527998.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "16db0177d52c56d60972776108aaf8bb"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "16db0177d52c56d60972776108aaf8bb",
+        "filename": "b112a5bfdd527998.png",
+        "organ": "habit",
+        "score": 0.61932
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Echinops exaltatus Schrad.",
+    "results": [
+      {
+        "score": 0.62293,
+        "species": {
+          "scientificNameWithoutAuthor": "Echinops exaltatus",
+          "scientificNameAuthorship": "Schrad.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Echinops",
+            "scientificNameAuthorship": "",
+            "scientificName": "Echinops"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Tall globe thistle",
+            "Globe thistle",
+            "Tall globethistle"
+          ],
+          "scientificName": "Echinops exaltatus Schrad."
+        },
+        "gbif": {
+          "id": "5392683"
+        },
+        "powo": {
+          "id": "202484-1"
+        }
+      },
+      {
+        "score": 0.32848,
+        "species": {
+          "scientificNameWithoutAuthor": "Echinops sphaerocephalus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Echinops",
+            "scientificNameAuthorship": "",
+            "scientificName": "Echinops"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Great globethistle",
+            "Great globe thistle",
+            "Globe thistle"
+          ],
+          "scientificName": "Echinops sphaerocephalus L."
+        },
+        "gbif": {
+          "id": "5392883"
+        },
+        "powo": {
+          "id": "202677-1"
+        }
+      },
+      {
+        "score": 0.00805,
+        "species": {
+          "scientificNameWithoutAuthor": "Echinops ritro",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Echinops",
+            "scientificNameAuthorship": "",
+            "scientificName": "Echinops"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Globe thistle",
+            "Small globe thistle",
+            "Southern globethistle"
+          ],
+          "scientificName": "Echinops ritro L."
+        },
+        "gbif": {
+          "id": "5392950"
+        },
+        "powo": {
+          "id": "202652-1"
+        }
+      },
+      {
+        "score": 0.00792,
+        "species": {
+          "scientificNameWithoutAuthor": "Echinops bannaticus",
+          "scientificNameAuthorship": "Rochel ex Schrad.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Echinops",
+            "scientificNameAuthorship": "",
+            "scientificName": "Echinops"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Blue Globe-thistle",
+            "Blue Echinops",
+            "Banat Echinops"
+          ],
+          "scientificName": "Echinops bannaticus Rochel ex Schrad."
+        },
+        "gbif": {
+          "id": "5392859"
+        },
+        "powo": {
+          "id": "202414-1"
+        }
+      },
+      {
+        "score": 0.00209,
+        "species": {
+          "scientificNameWithoutAuthor": "Echinops spinosissimus",
+          "scientificNameAuthorship": "Turra",
+          "genus": {
+            "scientificNameWithoutAuthor": "Echinops",
+            "scientificNameAuthorship": "",
+            "scientificName": "Echinops"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Spiny Globe-thistle",
+            "Delos Thistle"
+          ],
+          "scientificName": "Echinops spinosissimus Turra"
+        },
+        "gbif": {
+          "id": "5392840"
+        },
+        "powo": {
+          "id": "202681-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 360
+  }
+}

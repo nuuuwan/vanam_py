@@ -1,0 +1,362 @@
+{
+  "hash": "2ac715e9b5b6f5a7",
+  "image_metadata": {
+    "imageHash": "2ac715e9b5b6f5a7",
+    "imageLocation": {
+      "latitude": 37.44266944444444,
+      "longitude": -122.15888333333334,
+      "accuracy": 10.287321136185662,
+      "source": "exif"
+    },
+    "utImageTaken": 1737889412,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/2ac715e9b5b6f5a7.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "885808e2fd0921213fb760745329182d"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "885808e2fd0921213fb760745329182d",
+        "filename": "2ac715e9b5b6f5a7.png",
+        "organ": "fruit",
+        "score": 0.50128
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Laurus nobilis L.",
+    "results": [
+      {
+        "score": 0.34672,
+        "species": {
+          "scientificNameWithoutAuthor": "Laurus nobilis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Laurus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Laurus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lauraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lauraceae"
+          },
+          "commonNames": [
+            "(Sweet) Bay leaf",
+            "برگ بو",
+            "Laurel"
+          ],
+          "scientificName": "Laurus nobilis L."
+        },
+        "gbif": {
+          "id": "3034015"
+        },
+        "powo": {
+          "id": "465049-1"
+        },
+        "iucn": {
+          "id": "203351",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.13924,
+        "species": {
+          "scientificNameWithoutAuthor": "Prunus caroliniana",
+          "scientificNameAuthorship": "(Mill.) Aiton",
+          "genus": {
+            "scientificNameWithoutAuthor": "Prunus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Prunus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Carolina laurel cherry",
+            "Cherry-laurel",
+            "Laurel cherry"
+          ],
+          "scientificName": "Prunus caroliniana (Mill.) Aiton"
+        },
+        "gbif": {
+          "id": "3023558"
+        },
+        "powo": {
+          "id": "729552-1"
+        },
+        "iucn": {
+          "id": "64120952",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.04011,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhamnus alaternus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhamnus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhamnus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rhamnaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhamnaceae"
+          },
+          "commonNames": [
+            "Mediterranean buckthorn",
+            "Alaternus",
+            "Italian buckthorn"
+          ],
+          "scientificName": "Rhamnus alaternus L."
+        },
+        "gbif": {
+          "id": "6371424"
+        },
+        "powo": {
+          "id": "718169-1"
+        },
+        "iucn": {
+          "id": "19180829",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.04002,
+        "species": {
+          "scientificNameWithoutAuthor": "Prunus laurocerasus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Prunus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Prunus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Cherry laurel",
+            "English Laurel",
+            "Common Laurel"
+          ],
+          "scientificName": "Prunus laurocerasus L."
+        },
+        "gbif": {
+          "id": "3021496"
+        },
+        "powo": {
+          "id": "324745-2"
+        },
+        "iucn": {
+          "id": "172277",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0119,
+        "species": {
+          "scientificNameWithoutAuthor": "Aronia melanocarpa",
+          "scientificNameAuthorship": "(Michx.) Elliott",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aronia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aronia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Black chokeberry",
+            "Salal",
+            "Aronia (Swedish)"
+          ],
+          "scientificName": "Aronia melanocarpa (Michx.) Elliott"
+        },
+        "gbif": {
+          "id": "5363627"
+        },
+        "powo": {
+          "id": "1109609-2"
+        }
+      },
+      {
+        "score": 0.00965,
+        "species": {
+          "scientificNameWithoutAuthor": "Ilex cassine",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ilex",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ilex"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Aquifoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aquifoliaceae"
+          },
+          "commonNames": [
+            "Dahoon holly",
+            "Dahoon",
+            "Cassena"
+          ],
+          "scientificName": "Ilex cassine L."
+        },
+        "gbif": {
+          "id": "5414255"
+        },
+        "powo": {
+          "id": "83134-1"
+        },
+        "iucn": {
+          "id": "20678718",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00707,
+        "species": {
+          "scientificNameWithoutAuthor": "Myoporum laetum",
+          "scientificNameAuthorship": "G.Forst.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Myoporum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Myoporum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Scrophulariaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Scrophulariaceae"
+          },
+          "commonNames": [
+            "Ngaio Tree",
+            "New Zealand manatoka",
+            "Myoporum"
+          ],
+          "scientificName": "Myoporum laetum G.Forst."
+        },
+        "gbif": {
+          "id": "3172657"
+        },
+        "powo": {
+          "id": "585291-1"
+        }
+      },
+      {
+        "score": 0.00595,
+        "species": {
+          "scientificNameWithoutAuthor": "Frangula californica",
+          "scientificNameAuthorship": "(Eschsch.) A.Gray",
+          "genus": {
+            "scientificNameWithoutAuthor": "Frangula",
+            "scientificNameAuthorship": "",
+            "scientificName": "Frangula"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rhamnaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhamnaceae"
+          },
+          "commonNames": [
+            "California coffeeberry",
+            "California buckthorn",
+            "Coffee berry"
+          ],
+          "scientificName": "Frangula californica (Eschsch.) A.Gray"
+        },
+        "gbif": {
+          "id": "3039459"
+        },
+        "powo": {
+          "id": "717357-1"
+        },
+        "iucn": {
+          "id": "126609466",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0049,
+        "species": {
+          "scientificNameWithoutAuthor": "Ligustrum vulgare",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ligustrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ligustrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [
+            "European privet",
+            "Common Privet",
+            "Privet"
+          ],
+          "scientificName": "Ligustrum vulgare L."
+        },
+        "gbif": {
+          "id": "3172300"
+        },
+        "powo": {
+          "id": "610130-1"
+        }
+      },
+      {
+        "score": 0.00432,
+        "species": {
+          "scientificNameWithoutAuthor": "Elaeocarpus reticulatus",
+          "scientificNameAuthorship": "Sm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Elaeocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Elaeocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Elaeocarpaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Elaeocarpaceae"
+          },
+          "commonNames": [
+            "Blueberry-ash",
+            "Blue oliveberry",
+            "Fringetree"
+          ],
+          "scientificName": "Elaeocarpus reticulatus Sm."
+        },
+        "gbif": {
+          "id": "7290944"
+        },
+        "powo": {
+          "id": "833934-1"
+        },
+        "iucn": {
+          "id": "200141911",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 370
+  }
+}

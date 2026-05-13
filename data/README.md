@@ -1,8 +1,8 @@
 # Vanam - Data
 
-![updated](https://img.shields.io/badge/updated-2026--05--13%2009:17:09-blue)  ![data size](https://img.shields.io/badge/data%20size-1.3M-lightgrey)
+![updated](https://img.shields.io/badge/updated-2026--05--13%2010:58:42-blue)  ![data size](https://img.shields.io/badge/data%20size-1.9M-lightgrey)
 
-**17** plant identification(s), sorted by most recently photographed.
+**24** plant identification(s), sorted by most recently photographed.
 
 | # | Image | Species | Confidence | Time Taken | User | Image Hash |
 |---|---|---|---|---|---|---|
@@ -23,6 +23,13 @@
 | 15 | <a href="images/ee51/ee5180b5a108b2ce.png"><img src="images/ee51/ee5180b5a108b2ce.png" width="64"/></a> | [*Oxalis pes-caprae L.*](identifications/ee51/ee5180b5a108b2ce.json) | 78.1% | 2026-03-07 06:13 UTC | `1bi07e4` | [`ee5180b5a108b2ce`](images/ee51/ee5180b5a108b2ce.png) |
 | 16 | <a href="images/bbce/bbce6e14c50c56ad.png"><img src="images/bbce/bbce6e14c50c56ad.png" width="64"/></a> | [*Rhododendron periclymenoides (Michx.) Shinners*](identifications/bbce/bbce6e14c50c56ad.json) | 58.2% | 2026-03-07 06:11 UTC | `1bi07e4` | [`bbce6e14c50c56ad`](images/bbce/bbce6e14c50c56ad.png) |
 | 17 | <a href="images/01b7/01b73bbefdca4e74.png"><img src="images/01b7/01b73bbefdca4e74.png" width="64"/></a> | [*Rhododendron ferrugineum L.*](identifications/01b7/01b73bbefdca4e74.json) | 26.5% | 2026-03-07 05:54 UTC | `1bi07e4` | [`01b73bbefdca4e74`](images/01b7/01b73bbefdca4e74.png) |
+| 18 | <a href="images/5881/5881fec13ce62150.png"><img src="images/5881/5881fec13ce62150.png" width="64"/></a> | [*Magnolia liliiflora Desr.*](identifications/5881/5881fec13ce62150.json) | 51.9% | 2025-02-06 08:46 UTC | `1bi07e4` | [`5881fec13ce62150`](images/5881/5881fec13ce62150.png) |
+| 19 | <a href="images/2ac7/2ac715e9b5b6f5a7.png"><img src="images/2ac7/2ac715e9b5b6f5a7.png" width="64"/></a> | [*Laurus nobilis L.*](identifications/2ac7/2ac715e9b5b6f5a7.json) | 34.7% | 2025-01-26 11:03 UTC | `1bi07e4` | [`2ac715e9b5b6f5a7`](images/2ac7/2ac715e9b5b6f5a7.png) |
+| 20 | <a href="images/e113/e11382d83c315de1.png"><img src="images/e113/e11382d83c315de1.png" width="64"/></a> | [*Camellia japonica L.*](identifications/e113/e11382d83c315de1.json) | 41.0% | 2025-01-26 07:10 UTC | `1bi07e4` | [`e11382d83c315de1`](images/e113/e11382d83c315de1.png) |
+| 21 | <a href="images/b4ea/b4ea0e78a2f0f3db.png"><img src="images/b4ea/b4ea0e78a2f0f3db.png" width="64"/></a> | [*Camellia japonica L.*](identifications/b4ea/b4ea0e78a2f0f3db.json) | 61.3% | 2025-01-26 07:10 UTC | `1bi07e4` | [`b4ea0e78a2f0f3db`](images/b4ea/b4ea0e78a2f0f3db.png) |
+| 22 | <a href="images/7e4f/7e4f1232dcf19251.png"><img src="images/7e4f/7e4f1232dcf19251.png" width="64"/></a> | [*Camellia japonica L.*](identifications/7e4f/7e4f1232dcf19251.json) | 40.4% | 2025-01-26 07:02 UTC | `1bi07e4` | [`7e4f1232dcf19251`](images/7e4f/7e4f1232dcf19251.png) |
+| 23 | <a href="images/b112/b112a5bfdd527998.png"><img src="images/b112/b112a5bfdd527998.png" width="64"/></a> | [*Echinops exaltatus Schrad.*](identifications/b112/b112a5bfdd527998.json) | 62.3% | 2023-10-18 08:05 UTC | `1bi07e4` | [`b112a5bfdd527998`](images/b112/b112a5bfdd527998.png) |
+| 24 | <a href="images/b8ad/b8ad9be301563966.png"><img src="images/b8ad/b8ad9be301563966.png" width="64"/></a> | [*Crinum moorei Hook.f.*](identifications/b8ad/b8ad9be301563966.json) | 61.0% | 2023-10-18 07:39 UTC | `1bi07e4` | [`b8ad9be301563966`](images/b8ad/b8ad9be301563966.png) |
 
 ---
 
