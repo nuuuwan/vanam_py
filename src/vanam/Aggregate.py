@@ -96,9 +96,13 @@ class Aggregate:
             # all.json summary
             ut = image_meta.get("utImageTaken")
             try:
-                time_taken = datetime.datetime.utcfromtimestamp(int(ut)).strftime(
-                    "%Y-%m-%d %H:%M:%S"
-                ) if ut is not None else None
+                time_taken = (
+                    datetime.datetime.utcfromtimestamp(int(ut)).strftime(
+                        "%Y-%m-%d %H:%M:%S"
+                    )
+                    if ut is not None
+                    else None
+                )
             except (ValueError, OSError, OverflowError):
                 time_taken = None
             all_summaries.append(
