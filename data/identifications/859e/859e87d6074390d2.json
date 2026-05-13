@@ -1,0 +1,152 @@
+{
+  "imageHash": "859e87d6074390d2",
+  "imageLocation": {
+    "latitude": 6.897664,
+    "longitude": 79.8654464,
+    "accuracy": 163722.89385756708,
+    "source": "browser"
+  },
+  "utImageTaken": "1778648524",
+  "userId": "9f6fcdc6",
+  "deviceIPAddress": null,
+  "plantNetPredictions": [
+    {
+      "confidence": 0.89692,
+      "species": "Psidium guajava L.",
+      "genus": "Psidium",
+      "family": "Myrtaceae",
+      "commonNames": [
+        "Guava",
+        "Guave",
+        "Common guava"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.01103,
+      "species": "Citrus × limon (L.) Osbeck",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Lemon",
+        "Lemon-tree",
+        "Mandarin lime"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.0079,
+      "species": "Psidium cattleyanum Sabine",
+      "genus": "Psidium",
+      "family": "Myrtaceae",
+      "commonNames": [
+        "Strawberry guava",
+        "Cherry guava",
+        "Cattley Psidium"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00423,
+      "species": "Eugenia pyriformis Cambess.",
+      "genus": "Eugenia",
+      "family": "Myrtaceae",
+      "commonNames": [
+        "Uvaia"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00221,
+      "species": "Malpighia glabra L.",
+      "genus": "Malpighia",
+      "family": "Malpighiaceae",
+      "commonNames": [
+        "Barbados cherry",
+        "Wild crapemyrtle",
+        "Acerola"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00197,
+      "species": "Annona glabra L.",
+      "genus": "Annona",
+      "family": "Annonaceae",
+      "commonNames": [
+        "Pond-apple",
+        "Corkwood",
+        "Cow-apple"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00194,
+      "species": "Citrus medica L.",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Lemon",
+        "Citron",
+        "Buddha's hand"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00187,
+      "species": "Citrus × aurantiifolia (Christm.) Swingle",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Lime",
+        "Key lime",
+        "Egyptian lime"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00176,
+      "species": "Citrus maxima (Burm.) Merr.",
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "commonNames": [
+        "Pomelo",
+        "Shaddock",
+        "Pummelo"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    },
+    {
+      "confidence": 0.00151,
+      "species": "Punica granatum L.",
+      "genus": "Punica",
+      "family": "Lythraceae",
+      "commonNames": [
+        "Pomegranate",
+        "انار",
+        "अनार"
+      ],
+      "gbifId": "",
+      "iucnId": "",
+      "iucnCategory": ""
+    }
+  ]
+}
