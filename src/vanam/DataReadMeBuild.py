@@ -94,34 +94,31 @@ class DataReadMeBuild:
             return ut
 
     def _render_row(self, ident: dict) -> str:
-        image_hash = ident.get("imageHash", "")
-        predictions = ident.get("plantNetPredictions", [])
-        top = predictions[0] if predictions else {}
+        image_hash = ident.get("hash", "")
+        results = ident.get("plantnet_data", {}).get("results", [])
+        top = results[0] if results else {}
+        species_data = top.get("species", {})
 
-        species = top.get("species", "—")
-        common = (top.get("commonNames") or ["—"])[0]
-        confidence = self._format_confidence(top.get("confidence", 0))
-        family = top.get("family", "—")
-        loc = ident.get("imageLocation", {})
-        lat = loc.get("latitude")
-        lng = loc.get("longitude")
-        latlng = (
-            f"{lat:.4f}, {lng:.4f}"
-            if lat is not None and lng is not None
-            else "—"
+        species = species_data.get("scientificName", "—")
+        confidence = self._format_confidence(top.get("score", 0))
+        ut = self._format_timestamp(
+            ident.get("image_metadata", {}).get("utImageTaken", "")
         )
-        ut = self._format_timestamp(ident.get("utImageTaken", ""))
-        user = ident.get("userId", "—")
+        user = ident.get("image_metadata", {}).get("userId", "—")
+
+        image_path = f"images/{image_hash[:4]}/{image_hash}.png"
+        ident_path = f"identifications/{image_hash[:4]}/{image_hash}.json"
+        thumbnail = f'<a href="{image_path}"><img src="{image_path}" width="64"/></a>'
+        species_link = f"[*{species}*]({ident_path})"
+        hash_link = f"[`{image_hash}`]({image_path})"
 
         return (
-            f"| `{image_hash}` "
-            f"| *{species}* "
-            f"| {common} "
-            f"| {family} "
+            f"| {thumbnail} "
+            f"| {species_link} "
             f"| {confidence} "
-            f"| {latlng} "
             f"| {ut} "
-            f"| `{user}` |"
+            f"| `{user}` "
+            f"| {hash_link} |"
         )
 
     # ------------------------------------------------------------------
@@ -130,10 +127,8 @@ class DataReadMeBuild:
 
     def _build_table_lines(self, identifications: list) -> list[str]:
         lines = [
-            "| Image Hash | Species | Common Name | Family "
-            "| Confidence | Location (lat, lng) "
-            "| Time Taken | User |",
-            "|---|---|---|---|---|---|---|---|",
+            "| Image | Species | Confidence | Time Taken | User | Image Hash |",
+            "|---|---|---|---|---|---|",
         ]
         for ident in identifications:
             lines.append(self._render_row(ident))
@@ -143,7 +138,9 @@ class DataReadMeBuild:
         """Build and write data/README.md. Returns the output path."""
         identifications = list(self._iter_identifications())
         identifications.sort(
-            key=lambda x: int(x.get("utImageTaken", 0) or 0),
+            key=lambda x: int(
+                x.get("image_metadata", {}).get("utImageTaken", 0) or 0
+            ),
             reverse=True,
         )
 
