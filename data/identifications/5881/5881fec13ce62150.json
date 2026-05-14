@@ -356,5 +356,38 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 368
+  },
+  "nominatim_data": {
+    "place_id": 319477491,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 120317298,
+    "lat": "37.4508675",
+    "lon": "-122.1604620",
+    "class": "building",
+    "type": "yes",
+    "place_rank": 30,
+    "importance": 6.655451285568044e-05,
+    "addresstype": "building",
+    "name": "",
+    "display_name": "576, Webster Street, Downtown North, Palo Alto, Santa Clara County, California, 94301, United States",
+    "address": {
+      "house_number": "576",
+      "road": "Webster Street",
+      "neighbourhood": "Downtown North",
+      "city": "Palo Alto",
+      "county": "Santa Clara County",
+      "state": "California",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "94301",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "37.4507719",
+      "37.4509437",
+      "-122.1605844",
+      "-122.1603395"
+    ]
   }
 }

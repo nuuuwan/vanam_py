@@ -354,5 +354,36 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 391
+  },
+  "nominatim_data": {
+    "place_id": 251625534,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5247245410,
+    "lat": "8.1179206",
+    "lon": "80.6646709",
+    "class": "historic",
+    "type": "archaeological_site",
+    "place_rank": 30,
+    "importance": 9.99999999995449e-06,
+    "addresstype": "historic",
+    "name": "Stone bridge 01",
+    "display_name": "Stone bridge 01, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
+    "address": {
+      "historic": "Stone bridge 01",
+      "road": "Ritigala Archaeological Site Road",
+      "state_district": "Anuradhapura District",
+      "ISO3166-2-lvl5": "LK-71",
+      "state": "North Central Province",
+      "ISO3166-2-lvl4": "LK-7",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "8.1178706",
+      "8.1179706",
+      "80.6646209",
+      "80.6647209"
+    ]
   }
 }
