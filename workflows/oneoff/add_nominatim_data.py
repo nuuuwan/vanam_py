@@ -2,6 +2,7 @@
 
 import json
 import os
+import time
 
 import requests
 
@@ -44,10 +45,20 @@ def run():
             continue
 
         log.info(f"Adding nominatim data to {path} …")
-        try:
-            nominatim_data = Identify._call_nominatim_raw(lat, lng)
-        except requests.HTTPError as exc:
-            log.warning(f"Nominatim error for {path}: {exc}")
+        nominatim_data = None
+        for i_retry in range(5):
+            try:
+                nominatim_data = Identify._call_nominatim_raw(lat, lng)
+                break
+            except requests.HTTPError as exc:
+                wait = 2 ** i_retry
+                log.warning(
+                    f"Nominatim error for {path} (attempt {i_retry + 1}/5): {exc} "
+                    f"— retrying in {wait}s …"
+                )
+                time.sleep(wait)
+        if nominatim_data is None:
+            log.warning(f"All retries exhausted for {path} — skipping.")
             continue
 
         identification["nominatim_data"] = nominatim_data
