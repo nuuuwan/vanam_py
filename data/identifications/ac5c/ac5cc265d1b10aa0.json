@@ -1,0 +1,338 @@
+{
+  "hash": "ac5cc265d1b10aa0",
+  "image_metadata": {
+    "imageHash": "ac5cc265d1b10aa0",
+    "imageLocation": {
+      "latitude": 6.913013888888889,
+      "longitude": 79.86,
+      "accuracy": 3.2420063178981433,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722504,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/ac5cc265d1b10aa0.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "9ad782da6e18dabcd0e0bd5840a38e14"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "9ad782da6e18dabcd0e0bd5840a38e14",
+        "filename": "ac5cc265d1b10aa0.png",
+        "organ": "leaf",
+        "score": 0.76576
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Phyllanthus pulcher Wall. ex Müll.Arg.",
+    "results": [
+      {
+        "score": 0.19823,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus pulcher",
+          "scientificNameAuthorship": "Wall. ex Müll.Arg.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Tropical leaf-flower",
+            "Dragon-of-the-world"
+          ],
+          "scientificName": "Phyllanthus pulcher Wall. ex Müll.Arg."
+        },
+        "gbif": {
+          "id": "5381514"
+        },
+        "powo": {
+          "id": "60456391-2"
+        }
+      },
+      {
+        "score": 0.13691,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus tenellus",
+          "scientificNameAuthorship": "Roxb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Long-stalk leaf-flower",
+            "Long-stalk phyllanthus",
+            "Mascarene Island leaf-flower"
+          ],
+          "scientificName": "Phyllanthus tenellus Roxb."
+        },
+        "gbif": {
+          "id": "5381097"
+        },
+        "powo": {
+          "id": "354756-1"
+        }
+      },
+      {
+        "score": 0.02626,
+        "species": {
+          "scientificNameWithoutAuthor": "Symphoricarpos orbiculatus",
+          "scientificNameAuthorship": "Moench",
+          "genus": {
+            "scientificNameWithoutAuthor": "Symphoricarpos",
+            "scientificNameAuthorship": "",
+            "scientificName": "Symphoricarpos"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caprifoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caprifoliaceae"
+          },
+          "commonNames": [
+            "Coralberry",
+            "Round snowberry",
+            "Indian-currant"
+          ],
+          "scientificName": "Symphoricarpos orbiculatus Moench"
+        },
+        "gbif": {
+          "id": "2888636"
+        },
+        "powo": {
+          "id": "149465-1"
+        }
+      },
+      {
+        "score": 0.02427,
+        "species": {
+          "scientificNameWithoutAuthor": "Bergera koenigii",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bergera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bergera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Curry Leaf",
+            "Currybush",
+            "Indian bay"
+          ],
+          "scientificName": "Bergera koenigii L."
+        },
+        "gbif": {
+          "id": "3832804"
+        },
+        "powo": {
+          "id": "771522-1"
+        },
+        "iucn": {
+          "id": "156236806",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0106,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus niruri",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Niruri",
+            "Gale of the wind",
+            "Seed-under-leaf"
+          ],
+          "scientificName": "Phyllanthus niruri L."
+        },
+        "gbif": {
+          "id": "5381945"
+        },
+        "powo": {
+          "id": "194900-2"
+        }
+      },
+      {
+        "score": 0.00673,
+        "species": {
+          "scientificNameWithoutAuthor": "Spiraea × vanhouttei",
+          "scientificNameAuthorship": "(Briot) Carrière",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spiraea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spiraea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Spirea",
+            "Van Houtte's Spiraea",
+            "Van Houtte's Meadowsweet"
+          ],
+          "scientificName": "Spiraea × vanhouttei (Briot) Carrière"
+        },
+        "gbif": {
+          "id": "8236373"
+        },
+        "powo": {
+          "id": "1011556-1"
+        }
+      },
+      {
+        "score": 0.00546,
+        "species": {
+          "scientificNameWithoutAuthor": "Ulmus parvifolia",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ulmus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ulmus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ulmaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ulmaceae"
+          },
+          "commonNames": [
+            "Chinese elm",
+            "Lacebark",
+            "Lacebark elm"
+          ],
+          "scientificName": "Ulmus parvifolia Jacq."
+        },
+        "gbif": {
+          "id": "5361869"
+        },
+        "powo": {
+          "id": "302296-2"
+        },
+        "iucn": {
+          "id": "147481874",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00535,
+        "species": {
+          "scientificNameWithoutAuthor": "Melaleuca cheelii",
+          "scientificNameAuthorship": "C.T.White",
+          "genus": {
+            "scientificNameWithoutAuthor": "Melaleuca",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melaleuca"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Myrtaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Myrtaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Melaleuca cheelii C.T.White"
+        },
+        "gbif": {
+          "id": "5415935"
+        },
+        "powo": {
+          "id": "597873-1"
+        }
+      },
+      {
+        "score": 0.00502,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus niruroides",
+          "scientificNameAuthorship": "Müll.Arg.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Seed on the leaf"
+          ],
+          "scientificName": "Phyllanthus niruroides Müll.Arg."
+        },
+        "gbif": {
+          "id": "5381773"
+        },
+        "powo": {
+          "id": "354351-1"
+        }
+      },
+      {
+        "score": 0.00382,
+        "species": {
+          "scientificNameWithoutAuthor": "Breynia vitis-idaea",
+          "scientificNameAuthorship": "(Burm.f.) C.E.C.Fisch.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Breynia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Breynia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Officinal Breynia",
+            "เพี้ยะฟาน"
+          ],
+          "scientificName": "Breynia vitis-idaea (Burm.f.) C.E.C.Fisch."
+        },
+        "gbif": {
+          "id": "5382985"
+        },
+        "powo": {
+          "id": "340112-1"
+        },
+        "iucn": {
+          "id": "147650197",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 466
+  }
+}

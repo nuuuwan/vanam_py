@@ -1,0 +1,164 @@
+{
+  "hash": "ea7962919bd12c3d",
+  "image_metadata": {
+    "imageHash": "ea7962919bd12c3d",
+    "imageLocation": {
+      "latitude": 6.912883333333333,
+      "longitude": 79.8599611111111,
+      "accuracy": 3.341403314236432,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722329,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/ea7962919bd12c3d.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "6fffb0b770e2da118d374342d6baa111"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "6fffb0b770e2da118d374342d6baa111",
+        "filename": "ea7962919bd12c3d.png",
+        "organ": "leaf",
+        "score": 0.80244
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Euphorbia tithymaloides L.",
+    "results": [
+      {
+        "score": 0.95789,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia tithymaloides",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Slipper-flower",
+            "Devil's backbone",
+            "Zig zag plant"
+          ],
+          "scientificName": "Euphorbia tithymaloides L."
+        },
+        "gbif": {
+          "id": "3069168"
+        },
+        "powo": {
+          "id": "102036-2"
+        },
+        "iucn": {
+          "id": "135836706",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00307,
+        "species": {
+          "scientificNameWithoutAuthor": "Vaccinium myrtillus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vaccinium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vaccinium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Bilberry",
+            "Blaeberry",
+            "Blue Berry"
+          ],
+          "scientificName": "Vaccinium myrtillus L."
+        },
+        "gbif": {
+          "id": "2882833"
+        },
+        "powo": {
+          "id": "30006039-2"
+        }
+      },
+      {
+        "score": 0.00126,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × limon",
+          "scientificNameAuthorship": "(L.) Osbeck",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Lemon-tree",
+            "Mandarin lime"
+          ],
+          "scientificName": "Citrus × limon (L.) Osbeck"
+        },
+        "gbif": {
+          "id": "7647136"
+        },
+        "powo": {
+          "id": "60454758-2"
+        }
+      },
+      {
+        "score": 0.00109,
+        "species": {
+          "scientificNameWithoutAuthor": "Gynura procumbens",
+          "scientificNameAuthorship": "(Lour.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gynura",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gynura"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Longevity spinach",
+            "Okinawa spinach",
+            "Scrambling gynura"
+          ],
+          "scientificName": "Gynura procumbens (Lour.) Merr."
+        },
+        "gbif": {
+          "id": "3139818"
+        },
+        "powo": {
+          "id": "211304-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 452
+  }
+}

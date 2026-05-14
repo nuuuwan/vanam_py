@@ -1,0 +1,342 @@
+{
+  "hash": "aa89e163e720411d",
+  "image_metadata": {
+    "imageHash": "aa89e163e720411d",
+    "imageLocation": {
+      "latitude": 6.91295,
+      "longitude": 79.86000833333333,
+      "accuracy": 3.4190435473034873,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722429,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/aa89e163e720411d.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "aed81175a2e50afbd5f79321cfc59893"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "aed81175a2e50afbd5f79321cfc59893",
+        "filename": "aa89e163e720411d.png",
+        "organ": "leaf",
+        "score": 0.77026
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Indigofera tinctoria L.",
+    "results": [
+      {
+        "score": 0.16815,
+        "species": {
+          "scientificNameWithoutAuthor": "Indigofera tinctoria",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Indigofera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Indigofera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Dye indigo",
+            "Indigo",
+            "Indian indigo"
+          ],
+          "scientificName": "Indigofera tinctoria L."
+        },
+        "gbif": {
+          "id": "2972043"
+        },
+        "powo": {
+          "id": "500111-1"
+        }
+      },
+      {
+        "score": 0.08952,
+        "species": {
+          "scientificNameWithoutAuthor": "Amorpha fruticosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Amorpha",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amorpha"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "False indigo",
+            "Bastard indigo-bush",
+            "Bastard-indigo"
+          ],
+          "scientificName": "Amorpha fruticosa L."
+        },
+        "gbif": {
+          "id": "5357407"
+        },
+        "powo": {
+          "id": "11421-2"
+        }
+      },
+      {
+        "score": 0.08205,
+        "species": {
+          "scientificNameWithoutAuthor": "Indigofera suffruticosa",
+          "scientificNameAuthorship": "Mill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Indigofera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Indigofera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Anil indigo",
+            "Anil-de-Pasto",
+            "Anil de pasto"
+          ],
+          "scientificName": "Indigofera suffruticosa Mill."
+        },
+        "gbif": {
+          "id": "2971774"
+        },
+        "powo": {
+          "id": "500063-1"
+        }
+      },
+      {
+        "score": 0.05392,
+        "species": {
+          "scientificNameWithoutAuthor": "Caragana arborescens",
+          "scientificNameAuthorship": "Lam.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Caragana",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caragana"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Siberian peashrub",
+            "Siberian peatree",
+            "Siberian Pea-tree"
+          ],
+          "scientificName": "Caragana arborescens Lam."
+        },
+        "gbif": {
+          "id": "2943190"
+        },
+        "powo": {
+          "id": "483792-1"
+        },
+        "iucn": {
+          "id": "147642122",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01282,
+        "species": {
+          "scientificNameWithoutAuthor": "Hippocrepis emerus",
+          "scientificNameAuthorship": "(L.) Lassen",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hippocrepis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hippocrepis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Scorpion-senna",
+            "Coronilla",
+            "False senna"
+          ],
+          "scientificName": "Hippocrepis emerus (L.) Lassen"
+        },
+        "gbif": {
+          "id": "5353705"
+        },
+        "powo": {
+          "id": "946593-1"
+        }
+      },
+      {
+        "score": 0.0115,
+        "species": {
+          "scientificNameWithoutAuthor": "Tephrosia purpurea",
+          "scientificNameAuthorship": "(L.) Pers.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tephrosia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tephrosia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Purple tephrosia",
+            "Wild indigo",
+            "Fishpoison"
+          ],
+          "scientificName": "Tephrosia purpurea (L.) Pers."
+        },
+        "gbif": {
+          "id": "5342239"
+        },
+        "powo": {
+          "id": "520851-1"
+        }
+      },
+      {
+        "score": 0.00802,
+        "species": {
+          "scientificNameWithoutAuthor": "Tagetes erecta",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tagetes",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tagetes"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Marigold",
+            "African marigold",
+            "गेंदा फूल (Genda phool)"
+          ],
+          "scientificName": "Tagetes erecta L."
+        },
+        "gbif": {
+          "id": "3088488"
+        },
+        "powo": {
+          "id": "252092-1"
+        }
+      },
+      {
+        "score": 0.00785,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus tenellus",
+          "scientificNameAuthorship": "Roxb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Long-stalk leaf-flower",
+            "Long-stalk phyllanthus",
+            "Mascarene Island leaf-flower"
+          ],
+          "scientificName": "Phyllanthus tenellus Roxb."
+        },
+        "gbif": {
+          "id": "5381097"
+        },
+        "powo": {
+          "id": "354756-1"
+        }
+      },
+      {
+        "score": 0.00661,
+        "species": {
+          "scientificNameWithoutAuthor": "Vicia lens",
+          "scientificNameAuthorship": "(L.) Coss. & Germ.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Lentil",
+            "Cultivated lentil",
+            "عدس،"
+          ],
+          "scientificName": "Vicia lens (L.) Coss. & Germ."
+        },
+        "gbif": {
+          "id": "3973001"
+        },
+        "powo": {
+          "id": "524872-1"
+        }
+      },
+      {
+        "score": 0.00639,
+        "species": {
+          "scientificNameWithoutAuthor": "Sorbus aucuparia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Sorbus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sorbus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Rowan",
+            "Mountain Ash",
+            "Rowan tree"
+          ],
+          "scientificName": "Sorbus aucuparia L."
+        },
+        "gbif": {
+          "id": "3012167"
+        },
+        "powo": {
+          "id": "741641-1"
+        },
+        "iucn": {
+          "id": "61957558",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 468
+  }
+}

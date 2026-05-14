@@ -1,0 +1,341 @@
+{
+  "hash": "cb61f5450abe37c6",
+  "image_metadata": {
+    "imageHash": "cb61f5450abe37c6",
+    "imageLocation": {
+      "latitude": 6.912991666666667,
+      "longitude": 79.86,
+      "accuracy": 3.3239717727564333,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722465,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/cb61f5450abe37c6.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "a4d08b4002990b7b3e55d0c756638ecd"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "a4d08b4002990b7b3e55d0c756638ecd",
+        "filename": "cb61f5450abe37c6.png",
+        "organ": "leaf",
+        "score": 0.87457
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Euphorbia tithymaloides L.",
+    "results": [
+      {
+        "score": 0.13706,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia tithymaloides",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Slipper-flower",
+            "Devil's backbone",
+            "Zig zag plant"
+          ],
+          "scientificName": "Euphorbia tithymaloides L."
+        },
+        "gbif": {
+          "id": "3069168"
+        },
+        "powo": {
+          "id": "102036-2"
+        },
+        "iucn": {
+          "id": "135836706",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.10684,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × aurantiifolia",
+          "scientificNameAuthorship": "(Christm.) Swingle",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lime",
+            "Key lime",
+            "Egyptian lime"
+          ],
+          "scientificName": "Citrus × aurantiifolia (Christm.) Swingle"
+        },
+        "gbif": {
+          "id": "3190164"
+        },
+        "powo": {
+          "id": "59599-2"
+        }
+      },
+      {
+        "score": 0.06653,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × aurantium",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Sour orange",
+            "Bitter orange",
+            "Seville orange"
+          ],
+          "scientificName": "Citrus × aurantium L."
+        },
+        "gbif": {
+          "id": "8077391"
+        },
+        "powo": {
+          "id": "59600-2"
+        }
+      },
+      {
+        "score": 0.03495,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus hystrix",
+          "scientificNameAuthorship": "DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Kaffir lime",
+            "Makrut-lime",
+            "Mauritius papeda"
+          ],
+          "scientificName": "Citrus hystrix DC."
+        },
+        "gbif": {
+          "id": "6433679"
+        },
+        "powo": {
+          "id": "771927-1"
+        },
+        "iucn": {
+          "id": "62038171",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02675,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × limon",
+          "scientificNameAuthorship": "(L.) Osbeck",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Lemon-tree",
+            "Mandarin lime"
+          ],
+          "scientificName": "Citrus × limon (L.) Osbeck"
+        },
+        "gbif": {
+          "id": "7647136"
+        },
+        "powo": {
+          "id": "60454758-2"
+        }
+      },
+      {
+        "score": 0.02102,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus reticulata",
+          "scientificNameAuthorship": "Blanco",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Tangerine",
+            "Orange",
+            "Mandarin"
+          ],
+          "scientificName": "Citrus reticulata Blanco"
+        },
+        "gbif": {
+          "id": "3190172"
+        }
+      },
+      {
+        "score": 0.01992,
+        "species": {
+          "scientificNameWithoutAuthor": "Gynura procumbens",
+          "scientificNameAuthorship": "(Lour.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gynura",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gynura"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Longevity spinach",
+            "Okinawa spinach",
+            "Scrambling gynura"
+          ],
+          "scientificName": "Gynura procumbens (Lour.) Merr."
+        },
+        "gbif": {
+          "id": "3139818"
+        },
+        "powo": {
+          "id": "211304-1"
+        }
+      },
+      {
+        "score": 0.0196,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × microcarpa",
+          "scientificNameAuthorship": "Bunge",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Calamondin",
+            "Calamansi",
+            "Jherruk kalamondhin"
+          ],
+          "scientificName": "Citrus × microcarpa Bunge"
+        },
+        "gbif": {
+          "id": "3831218"
+        },
+        "powo": {
+          "id": "927792-1"
+        }
+      },
+      {
+        "score": 0.0194,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus japonica",
+          "scientificNameAuthorship": "Thunb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Kumquat",
+            "Meiwa kumquat",
+            "Cherry Orange"
+          ],
+          "scientificName": "Citrus japonica Thunb."
+        },
+        "gbif": {
+          "id": "3831801"
+        },
+        "powo": {
+          "id": "771939-1"
+        }
+      },
+      {
+        "score": 0.01347,
+        "species": {
+          "scientificNameWithoutAuthor": "Visnea mocanera",
+          "scientificNameAuthorship": "L.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Visnea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Visnea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Pentaphylacaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pentaphylacaceae"
+          },
+          "commonNames": [
+            "Mocan"
+          ],
+          "scientificName": "Visnea mocanera L.f."
+        },
+        "gbif": {
+          "id": "7793182"
+        },
+        "powo": {
+          "id": "829744-1"
+        },
+        "iucn": {
+          "id": "30338",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 455
+  }
+}

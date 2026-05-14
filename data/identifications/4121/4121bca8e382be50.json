@@ -1,0 +1,135 @@
+{
+  "hash": "4121bca8e382be50",
+  "image_metadata": {
+    "imageHash": "4121bca8e382be50",
+    "imageLocation": {
+      "latitude": 6.912891666666667,
+      "longitude": 79.85998611111111,
+      "accuracy": 3.240271604938272,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722357,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/4121bca8e382be50.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "520363a639d94615e53371f7287e3a93"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "520363a639d94615e53371f7287e3a93",
+        "filename": "4121bca8e382be50.png",
+        "organ": "leaf",
+        "score": 0.75057
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Euphorbia tithymaloides L.",
+    "results": [
+      {
+        "score": 0.94192,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia tithymaloides",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Slipper-flower",
+            "Devil's backbone",
+            "Zig zag plant"
+          ],
+          "scientificName": "Euphorbia tithymaloides L."
+        },
+        "gbif": {
+          "id": "3069168"
+        },
+        "powo": {
+          "id": "102036-2"
+        },
+        "iucn": {
+          "id": "135836706",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00461,
+        "species": {
+          "scientificNameWithoutAuthor": "Vaccinium myrtillus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vaccinium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vaccinium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Bilberry",
+            "Blaeberry",
+            "Blue Berry"
+          ],
+          "scientificName": "Vaccinium myrtillus L."
+        },
+        "gbif": {
+          "id": "2882833"
+        },
+        "powo": {
+          "id": "30006039-2"
+        }
+      },
+      {
+        "score": 0.0012,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × limon",
+          "scientificNameAuthorship": "(L.) Osbeck",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Lemon-tree",
+            "Mandarin lime"
+          ],
+          "scientificName": "Citrus × limon (L.) Osbeck"
+        },
+        "gbif": {
+          "id": "7647136"
+        },
+        "powo": {
+          "id": "60454758-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 488
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "hash": "81fd49ac5f8bbe5c",
+  "image_metadata": {
+    "imageHash": "81fd49ac5f8bbe5c",
+    "imageLocation": {
+      "latitude": 6.912936111111112,
+      "longitude": 79.86000833333333,
+      "accuracy": 3.4324308241594763,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722423,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/81fd49ac5f8bbe5c.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "5055e6c636f4dbd55d0e37d5f51fa9be"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "5055e6c636f4dbd55d0e37d5f51fa9be",
+        "filename": "81fd49ac5f8bbe5c.png",
+        "organ": "leaf",
+        "score": 0.83248
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Euphorbia tithymaloides L.",
+    "results": [
+      {
+        "score": 0.31485,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia tithymaloides",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Slipper-flower",
+            "Devil's backbone",
+            "Zig zag plant"
+          ],
+          "scientificName": "Euphorbia tithymaloides L."
+        },
+        "gbif": {
+          "id": "3069168"
+        },
+        "powo": {
+          "id": "102036-2"
+        },
+        "iucn": {
+          "id": "135836706",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01768,
+        "species": {
+          "scientificNameWithoutAuthor": "Vaccinium myrtillus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vaccinium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vaccinium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Bilberry",
+            "Blaeberry",
+            "Blue Berry"
+          ],
+          "scientificName": "Vaccinium myrtillus L."
+        },
+        "gbif": {
+          "id": "2882833"
+        },
+        "powo": {
+          "id": "30006039-2"
+        }
+      },
+      {
+        "score": 0.01024,
+        "species": {
+          "scientificNameWithoutAuthor": "Mesembryanthemum cordifolium",
+          "scientificNameAuthorship": "L.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Mesembryanthemum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Mesembryanthemum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Aizoaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aizoaceae"
+          },
+          "commonNames": [
+            "Heartleaf iceplant",
+            "Baby sun rose",
+            "گل ناز یخی"
+          ],
+          "scientificName": "Mesembryanthemum cordifolium L.f."
+        },
+        "gbif": {
+          "id": "8185812"
+        },
+        "powo": {
+          "id": "322566-2"
+        }
+      },
+      {
+        "score": 0.00538,
+        "species": {
+          "scientificNameWithoutAuthor": "Gynura procumbens",
+          "scientificNameAuthorship": "(Lour.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gynura",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gynura"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Longevity spinach",
+            "Okinawa spinach",
+            "Scrambling gynura"
+          ],
+          "scientificName": "Gynura procumbens (Lour.) Merr."
+        },
+        "gbif": {
+          "id": "3139818"
+        },
+        "powo": {
+          "id": "211304-1"
+        }
+      },
+      {
+        "score": 0.00479,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × aurantium",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Sour orange",
+            "Bitter orange",
+            "Seville orange"
+          ],
+          "scientificName": "Citrus × aurantium L."
+        },
+        "gbif": {
+          "id": "8077391"
+        },
+        "powo": {
+          "id": "59600-2"
+        }
+      },
+      {
+        "score": 0.00445,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus hystrix",
+          "scientificNameAuthorship": "DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Kaffir lime",
+            "Makrut-lime",
+            "Mauritius papeda"
+          ],
+          "scientificName": "Citrus hystrix DC."
+        },
+        "gbif": {
+          "id": "6433679"
+        },
+        "powo": {
+          "id": "771927-1"
+        },
+        "iucn": {
+          "id": "62038171",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00427,
+        "species": {
+          "scientificNameWithoutAuthor": "Asparagus asparagoides",
+          "scientificNameAuthorship": "(L.) Druce",
+          "genus": {
+            "scientificNameWithoutAuthor": "Asparagus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asparagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagaceae"
+          },
+          "commonNames": [
+            "Bridal-creeper",
+            "Bridal-veil-creeper",
+            "Gnarboola"
+          ],
+          "scientificName": "Asparagus asparagoides (L.) Druce"
+        },
+        "gbif": {
+          "id": "2768367"
+        },
+        "powo": {
+          "id": "531013-1"
+        }
+      },
+      {
+        "score": 0.00408,
+        "species": {
+          "scientificNameWithoutAuthor": "Vaccinium corymbosum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vaccinium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vaccinium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Blueberry",
+            "Highbush blueberry",
+            "American blueberry"
+          ],
+          "scientificName": "Vaccinium corymbosum L."
+        },
+        "gbif": {
+          "id": "2882849"
+        },
+        "powo": {
+          "id": "261823-2"
+        }
+      },
+      {
+        "score": 0.00404,
+        "species": {
+          "scientificNameWithoutAuthor": "Phlox paniculata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phlox",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phlox"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Polemoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polemoniaceae"
+          },
+          "commonNames": [
+            "Garden phlox",
+            "Perennial phlox",
+            "Phlox"
+          ],
+          "scientificName": "Phlox paniculata L."
+        },
+        "gbif": {
+          "id": "2927744"
+        },
+        "powo": {
+          "id": "193615-2"
+        }
+      },
+      {
+        "score": 0.00351,
+        "species": {
+          "scientificNameWithoutAuthor": "Gaultheria shallon",
+          "scientificNameAuthorship": "Pursh",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gaultheria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gaultheria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Salal",
+            "Shallon",
+            "Shallal"
+          ],
+          "scientificName": "Gaultheria shallon Pursh"
+        },
+        "gbif": {
+          "id": "2882758"
+        },
+        "powo": {
+          "id": "317388-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 477
+  }
+}

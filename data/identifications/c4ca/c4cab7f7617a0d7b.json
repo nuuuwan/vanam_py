@@ -1,0 +1,346 @@
+{
+  "hash": "c4cab7f7617a0d7b",
+  "image_metadata": {
+    "imageHash": "c4cab7f7617a0d7b",
+    "imageLocation": {
+      "latitude": 6.913011111111111,
+      "longitude": 79.86,
+      "accuracy": 3.293736017897092,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722497,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/c4cab7f7617a0d7b.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "bdc28aa21d2f3b7e030a73833f9bbdef"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "bdc28aa21d2f3b7e030a73833f9bbdef",
+        "filename": "c4cab7f7617a0d7b.png",
+        "organ": "leaf",
+        "score": 0.76031
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Euphorbia tithymaloides L.",
+    "results": [
+      {
+        "score": 0.45725,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia tithymaloides",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Slipper-flower",
+            "Devil's backbone",
+            "Zig zag plant"
+          ],
+          "scientificName": "Euphorbia tithymaloides L."
+        },
+        "gbif": {
+          "id": "3069168"
+        },
+        "powo": {
+          "id": "102036-2"
+        },
+        "iucn": {
+          "id": "135836706",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.09944,
+        "species": {
+          "scientificNameWithoutAuthor": "Vaccinium myrtillus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vaccinium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vaccinium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Bilberry",
+            "Blaeberry",
+            "Blue Berry"
+          ],
+          "scientificName": "Vaccinium myrtillus L."
+        },
+        "gbif": {
+          "id": "2882833"
+        },
+        "powo": {
+          "id": "30006039-2"
+        }
+      },
+      {
+        "score": 0.03017,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × limon",
+          "scientificNameAuthorship": "(L.) Osbeck",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Lemon-tree",
+            "Mandarin lime"
+          ],
+          "scientificName": "Citrus × limon (L.) Osbeck"
+        },
+        "gbif": {
+          "id": "7647136"
+        },
+        "powo": {
+          "id": "60454758-2"
+        }
+      },
+      {
+        "score": 0.02021,
+        "species": {
+          "scientificNameWithoutAuthor": "Gynura procumbens",
+          "scientificNameAuthorship": "(Lour.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gynura",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gynura"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Longevity spinach",
+            "Okinawa spinach",
+            "Scrambling gynura"
+          ],
+          "scientificName": "Gynura procumbens (Lour.) Merr."
+        },
+        "gbif": {
+          "id": "3139818"
+        },
+        "powo": {
+          "id": "211304-1"
+        }
+      },
+      {
+        "score": 0.01452,
+        "species": {
+          "scientificNameWithoutAuthor": "Salix hastata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Salix",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salix"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Halberd willow",
+            "Large-stipuled willow",
+            "Halberd-leaved willow"
+          ],
+          "scientificName": "Salix hastata L."
+        },
+        "gbif": {
+          "id": "5372554"
+        },
+        "powo": {
+          "id": "302930-2"
+        }
+      },
+      {
+        "score": 0.00782,
+        "species": {
+          "scientificNameWithoutAuthor": "Salix myrsinifolia",
+          "scientificNameAuthorship": "Salisb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Salix",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salix"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Dark-leaf willow",
+            "Whortle willow",
+            "Myrsine-leaved willow"
+          ],
+          "scientificName": "Salix myrsinifolia Salisb."
+        },
+        "gbif": {
+          "id": "5372875"
+        },
+        "powo": {
+          "id": "778243-1"
+        },
+        "iucn": {
+          "id": "79733174",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00596,
+        "species": {
+          "scientificNameWithoutAuthor": "Celastrus orbiculatus",
+          "scientificNameAuthorship": "Thunb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Celastrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Celastrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Celastraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Celastraceae"
+          },
+          "commonNames": [
+            "Oriental bittersweet",
+            "Asiatic Bittersweet",
+            "Oriental Staff-vine"
+          ],
+          "scientificName": "Celastrus orbiculatus Thunb."
+        },
+        "gbif": {
+          "id": "3169169"
+        },
+        "powo": {
+          "id": "927512-1"
+        }
+      },
+      {
+        "score": 0.00518,
+        "species": {
+          "scientificNameWithoutAuthor": "Justicia brandegeeana",
+          "scientificNameAuthorship": "Wassh. & L.B.Sm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Justicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Justicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Shrimp Plant",
+            "False hop",
+            "Honolulu-salvia"
+          ],
+          "scientificName": "Justicia brandegeeana Wassh. & L.B.Sm."
+        },
+        "gbif": {
+          "id": "3173122"
+        },
+        "powo": {
+          "id": "289220-2"
+        }
+      },
+      {
+        "score": 0.00461,
+        "species": {
+          "scientificNameWithoutAuthor": "Vaccinium corymbosum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vaccinium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vaccinium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Blueberry",
+            "Highbush blueberry",
+            "American blueberry"
+          ],
+          "scientificName": "Vaccinium corymbosum L."
+        },
+        "gbif": {
+          "id": "2882849"
+        },
+        "powo": {
+          "id": "261823-2"
+        }
+      },
+      {
+        "score": 0.00438,
+        "species": {
+          "scientificNameWithoutAuthor": "Salix caprea",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Salix",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salix"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Pussy Willow",
+            "Goat willow",
+            "Common Sallow"
+          ],
+          "scientificName": "Salix caprea L."
+        },
+        "gbif": {
+          "id": "5372952"
+        },
+        "powo": {
+          "id": "303599-2"
+        },
+        "iucn": {
+          "id": "19620273",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 458
+  }
+}

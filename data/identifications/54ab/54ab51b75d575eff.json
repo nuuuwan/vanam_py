@@ -1,0 +1,354 @@
+{
+  "hash": "54ab51b75d575eff",
+  "image_metadata": {
+    "imageHash": "54ab51b75d575eff",
+    "imageLocation": {
+      "latitude": 6.913002777777778,
+      "longitude": 79.86,
+      "accuracy": 3.2608858624351846,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722489,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/54ab51b75d575eff.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "2c64dd2fbdb82caa1631cdcb0f3c2dc4"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "2c64dd2fbdb82caa1631cdcb0f3c2dc4",
+        "filename": "54ab51b75d575eff.png",
+        "organ": "habit",
+        "score": 0.47669
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Phyllanthus emblica L.",
+    "results": [
+      {
+        "score": 0.14809,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus emblica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Amla",
+            "Indian Gooseberry",
+            "Emblic"
+          ],
+          "scientificName": "Phyllanthus emblica L."
+        },
+        "gbif": {
+          "id": "5381660"
+        },
+        "powo": {
+          "id": "353838-1"
+        },
+        "iucn": {
+          "id": "149444430",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.03041,
+        "species": {
+          "scientificNameWithoutAuthor": "Gleditsia triacanthos",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gleditsia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gleditsia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Honey-locust",
+            "Thorny Common Honeylocust",
+            "Three-thorned Acacia"
+          ],
+          "scientificName": "Gleditsia triacanthos L."
+        },
+        "gbif": {
+          "id": "2959443"
+        },
+        "powo": {
+          "id": "110723-2"
+        },
+        "iucn": {
+          "id": "62026061",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0152,
+        "species": {
+          "scientificNameWithoutAuthor": "Jacaranda mimosifolia",
+          "scientificNameAuthorship": "D.Don",
+          "genus": {
+            "scientificNameWithoutAuthor": "Jacaranda",
+            "scientificNameAuthorship": "",
+            "scientificName": "Jacaranda"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Bignoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bignoniaceae"
+          },
+          "commonNames": [
+            "Jacaranda",
+            "Fern-tree",
+            "Black Poui"
+          ],
+          "scientificName": "Jacaranda mimosifolia D.Don"
+        },
+        "gbif": {
+          "id": "3172499"
+        },
+        "powo": {
+          "id": "130936-2"
+        },
+        "iucn": {
+          "id": "32027",
+          "category": "VU"
+        }
+      },
+      {
+        "score": 0.01393,
+        "species": {
+          "scientificNameWithoutAuthor": "Peltophorum africanum",
+          "scientificNameAuthorship": "Sond.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Peltophorum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Peltophorum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "African-wattle",
+            "Umkahla",
+            "Umsehla"
+          ],
+          "scientificName": "Peltophorum africanum Sond."
+        },
+        "gbif": {
+          "id": "2952780"
+        },
+        "powo": {
+          "id": "513010-1"
+        },
+        "iucn": {
+          "id": "47608213",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01057,
+        "species": {
+          "scientificNameWithoutAuthor": "Tamarindus indica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tamarindus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tamarindus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Tamarind",
+            "Tamarind Tree",
+            "Kilytree"
+          ],
+          "scientificName": "Tamarindus indica L."
+        },
+        "gbif": {
+          "id": "2975768"
+        },
+        "powo": {
+          "id": "520167-1"
+        },
+        "iucn": {
+          "id": "62020997",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01019,
+        "species": {
+          "scientificNameWithoutAuthor": "Peltophorum dubium",
+          "scientificNameAuthorship": "(Spreng.) Taub.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Peltophorum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Peltophorum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Caña-Fístula",
+            "Ibirá-Pitá",
+            "Horsebush"
+          ],
+          "scientificName": "Peltophorum dubium (Spreng.) Taub."
+        },
+        "gbif": {
+          "id": "2952798"
+        },
+        "powo": {
+          "id": "187026-2"
+        },
+        "iucn": {
+          "id": "62027184",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00432,
+        "species": {
+          "scientificNameWithoutAuthor": "Dryopteris filix-mas",
+          "scientificNameAuthorship": "(L.) Schott",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dryopteris",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dryopteris"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Polypodiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polypodiaceae"
+          },
+          "commonNames": [
+            "Common Male Fern",
+            "Male fern",
+            "Falguera muscle"
+          ],
+          "scientificName": "Dryopteris filix-mas (L.) Schott"
+        },
+        "gbif": {
+          "id": "5275132"
+        },
+        "powo": {
+          "id": "30345915-2"
+        }
+      },
+      {
+        "score": 0.00411,
+        "species": {
+          "scientificNameWithoutAuthor": "Albizia julibrissin",
+          "scientificNameAuthorship": "Durazz.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Albizia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Albizia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Mimosa",
+            "Persian Silk Tree",
+            "Silktree"
+          ],
+          "scientificName": "Albizia julibrissin Durazz."
+        },
+        "gbif": {
+          "id": "2972983"
+        },
+        "powo": {
+          "id": "473275-1"
+        }
+      },
+      {
+        "score": 0.00367,
+        "species": {
+          "scientificNameWithoutAuthor": "Dryopteris oreades",
+          "scientificNameAuthorship": "Fomin",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dryopteris",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dryopteris"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Polypodiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polypodiaceae"
+          },
+          "commonNames": [
+            "Dwarf male fern",
+            "Mountain male fern",
+            "Alpine Male Fern"
+          ],
+          "scientificName": "Dryopteris oreades Fomin"
+        },
+        "gbif": {
+          "id": "5653297"
+        },
+        "powo": {
+          "id": "17249360-1"
+        }
+      },
+      {
+        "score": 0.00365,
+        "species": {
+          "scientificNameWithoutAuthor": "Didymocheton roseus",
+          "scientificNameAuthorship": "(Baill.) Holzmeyer & Mabb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Didymocheton",
+            "scientificNameAuthorship": "",
+            "scientificName": "Didymocheton"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Meliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Meliaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Didymocheton roseus (Baill.) Holzmeyer & Mabb."
+        },
+        "gbif": {
+          "id": "11726237"
+        },
+        "powo": {
+          "id": "77222451-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 484
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "hash": "4cc51a60ed585c08",
+  "image_metadata": {
+    "imageHash": "4cc51a60ed585c08",
+    "imageLocation": {
+      "latitude": 6.912916666666667,
+      "longitude": 79.86000833333333,
+      "accuracy": 3.128961888874631,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722410,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/4cc51a60ed585c08.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "78922216ea18bc919110b404ab84336c"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "78922216ea18bc919110b404ab84336c",
+        "filename": "4cc51a60ed585c08.png",
+        "organ": "leaf",
+        "score": 0.63032
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Indigofera swaziensis Bolus",
+    "results": [
+      {
+        "score": 0.03271,
+        "species": {
+          "scientificNameWithoutAuthor": "Indigofera swaziensis",
+          "scientificNameAuthorship": "Bolus",
+          "genus": {
+            "scientificNameWithoutAuthor": "Indigofera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Indigofera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Indigofera swaziensis Bolus"
+        },
+        "gbif": {
+          "id": "2971930"
+        },
+        "powo": {
+          "id": "500068-1"
+        }
+      },
+      {
+        "score": 0.01803,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus mirabilis",
+          "scientificNameAuthorship": "Müll.Arg.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Phyllanthus mirabilis Müll.Arg."
+        },
+        "gbif": {
+          "id": "5381921"
+        },
+        "powo": {
+          "id": "354277-1"
+        },
+        "iucn": {
+          "id": "206769338",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01623,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus pulcher",
+          "scientificNameAuthorship": "Wall. ex Müll.Arg.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Tropical leaf-flower",
+            "Dragon-of-the-world"
+          ],
+          "scientificName": "Phyllanthus pulcher Wall. ex Müll.Arg."
+        },
+        "gbif": {
+          "id": "5381514"
+        },
+        "powo": {
+          "id": "60456391-2"
+        }
+      },
+      {
+        "score": 0.0128,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus niruroides",
+          "scientificNameAuthorship": "Müll.Arg.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Seed on the leaf"
+          ],
+          "scientificName": "Phyllanthus niruroides Müll.Arg."
+        },
+        "gbif": {
+          "id": "5381773"
+        },
+        "powo": {
+          "id": "354351-1"
+        }
+      },
+      {
+        "score": 0.01048,
+        "species": {
+          "scientificNameWithoutAuthor": "Amorpha fruticosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Amorpha",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amorpha"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "False indigo",
+            "Bastard indigo-bush",
+            "Bastard-indigo"
+          ],
+          "scientificName": "Amorpha fruticosa L."
+        },
+        "gbif": {
+          "id": "5357407"
+        },
+        "powo": {
+          "id": "11421-2"
+        }
+      },
+      {
+        "score": 0.00989,
+        "species": {
+          "scientificNameWithoutAuthor": "Bergera koenigii",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bergera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bergera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Curry Leaf",
+            "Currybush",
+            "Indian bay"
+          ],
+          "scientificName": "Bergera koenigii L."
+        },
+        "gbif": {
+          "id": "3832804"
+        },
+        "powo": {
+          "id": "771522-1"
+        },
+        "iucn": {
+          "id": "156236806",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00924,
+        "species": {
+          "scientificNameWithoutAuthor": "Gliricidia sepium",
+          "scientificNameAuthorship": "(Jacq.) Kunth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gliricidia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gliricidia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Quick-stick",
+            "Nicaraguan cocoashade",
+            "Nicaraguan cocoa shade tree"
+          ],
+          "scientificName": "Gliricidia sepium (Jacq.) Kunth"
+        },
+        "gbif": {
+          "id": "8082978"
+        },
+        "powo": {
+          "id": "496639-1"
+        },
+        "iucn": {
+          "id": "136055124",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00915,
+        "species": {
+          "scientificNameWithoutAuthor": "Astragalus asper",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Astragalus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Astragalus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Astragalus asper Jacq."
+        },
+        "gbif": {
+          "id": "5346540"
+        },
+        "powo": {
+          "id": "476278-1"
+        }
+      },
+      {
+        "score": 0.00869,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus phillyreifolius",
+          "scientificNameAuthorship": "Poir.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Phyllanthus phillyreifolius Poir."
+        },
+        "gbif": {
+          "id": "5382017"
+        },
+        "powo": {
+          "id": "354460-1"
+        }
+      },
+      {
+        "score": 0.00565,
+        "species": {
+          "scientificNameWithoutAuthor": "Eurycoma longifolia",
+          "scientificNameAuthorship": "Jack",
+          "genus": {
+            "scientificNameWithoutAuthor": "Eurycoma",
+            "scientificNameAuthorship": "",
+            "scientificName": "Eurycoma"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Simaroubaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Simaroubaceae"
+          },
+          "commonNames": [
+            "Ali's umbrella",
+            "Ali's walking stick"
+          ],
+          "scientificName": "Eurycoma longifolia Jack"
+        },
+        "gbif": {
+          "id": "3709190"
+        },
+        "powo": {
+          "id": "813715-1"
+        },
+        "iucn": {
+          "id": "158177646",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 486
+  }
+}

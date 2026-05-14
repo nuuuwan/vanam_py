@@ -1,0 +1,337 @@
+{
+  "hash": "2ef1ca46bb4adcc5",
+  "image_metadata": {
+    "imageHash": "2ef1ca46bb4adcc5",
+    "imageLocation": {
+      "latitude": 6.912911111111112,
+      "longitude": 79.86,
+      "accuracy": 3.3312652630189428,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722377,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/2ef1ca46bb4adcc5.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "09cea91f6ad20ae81e337e779ce18257"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "09cea91f6ad20ae81e337e779ce18257",
+        "filename": "2ef1ca46bb4adcc5.png",
+        "organ": "leaf",
+        "score": 0.69909
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Gynura procumbens (Lour.) Merr.",
+    "results": [
+      {
+        "score": 0.26807,
+        "species": {
+          "scientificNameWithoutAuthor": "Gynura procumbens",
+          "scientificNameAuthorship": "(Lour.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gynura",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gynura"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Longevity spinach",
+            "Okinawa spinach",
+            "Scrambling gynura"
+          ],
+          "scientificName": "Gynura procumbens (Lour.) Merr."
+        },
+        "gbif": {
+          "id": "3139818"
+        },
+        "powo": {
+          "id": "211304-1"
+        }
+      },
+      {
+        "score": 0.17028,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia tithymaloides",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Slipper-flower",
+            "Devil's backbone",
+            "Zig zag plant"
+          ],
+          "scientificName": "Euphorbia tithymaloides L."
+        },
+        "gbif": {
+          "id": "3069168"
+        },
+        "powo": {
+          "id": "102036-2"
+        },
+        "iucn": {
+          "id": "135836706",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00391,
+        "species": {
+          "scientificNameWithoutAuthor": "Camellia sinensis",
+          "scientificNameAuthorship": "(L.) Kuntze",
+          "genus": {
+            "scientificNameWithoutAuthor": "Camellia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Camellia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Theaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Theaceae"
+          },
+          "commonNames": [
+            "Black tea",
+            "Tea",
+            "Teabush"
+          ],
+          "scientificName": "Camellia sinensis (L.) Kuntze"
+        },
+        "gbif": {
+          "id": "3189635"
+        },
+        "powo": {
+          "id": "828548-1"
+        },
+        "iucn": {
+          "id": "62037625",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.00356,
+        "species": {
+          "scientificNameWithoutAuthor": "Acalypha integrifolia",
+          "scientificNameAuthorship": "Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Acalypha",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acalypha"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Queue de rat",
+            "పెద్ద మురిపిండ"
+          ],
+          "scientificName": "Acalypha integrifolia Willd."
+        },
+        "gbif": {
+          "id": "3056144"
+        },
+        "powo": {
+          "id": "337501-1"
+        }
+      },
+      {
+        "score": 0.00282,
+        "species": {
+          "scientificNameWithoutAuthor": "Nicotiana suaveolens",
+          "scientificNameAuthorship": "Lehm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nicotiana",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nicotiana"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Australian tobacco",
+            "Wild tobacco",
+            "Scented tobacco"
+          ],
+          "scientificName": "Nicotiana suaveolens Lehm."
+        },
+        "gbif": {
+          "id": "2928764"
+        },
+        "powo": {
+          "id": "817075-1"
+        }
+      },
+      {
+        "score": 0.00279,
+        "species": {
+          "scientificNameWithoutAuthor": "Claoxylon parviflorum",
+          "scientificNameAuthorship": "A.Juss.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Claoxylon",
+            "scientificNameAuthorship": "",
+            "scientificName": "Claoxylon"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Claoxylon parviflorum A.Juss."
+        },
+        "gbif": {
+          "id": "3060521"
+        },
+        "powo": {
+          "id": "341161-1"
+        }
+      },
+      {
+        "score": 0.00265,
+        "species": {
+          "scientificNameWithoutAuthor": "Plumbago zeylanica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plumbago",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumbago"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Plumbaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumbaginaceae"
+          },
+          "commonNames": [
+            "Doctorbush",
+            "Plumbago",
+            "Ceylon leadwort"
+          ],
+          "scientificName": "Plumbago zeylanica L."
+        },
+        "gbif": {
+          "id": "3082282"
+        },
+        "powo": {
+          "id": "687109-1"
+        }
+      },
+      {
+        "score": 0.00257,
+        "species": {
+          "scientificNameWithoutAuthor": "Odontonema cuspidatum",
+          "scientificNameAuthorship": "(Nees) Kuntze",
+          "genus": {
+            "scientificNameWithoutAuthor": "Odontonema",
+            "scientificNameAuthorship": "",
+            "scientificName": "Odontonema"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Scarlet firespike",
+            "Cardinal's-crest",
+            "Cardinal-flower"
+          ],
+          "scientificName": "Odontonema cuspidatum (Nees) Kuntze"
+        },
+        "gbif": {
+          "id": "5415341"
+        },
+        "powo": {
+          "id": "1210381-2"
+        }
+      },
+      {
+        "score": 0.00254,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × limon",
+          "scientificNameAuthorship": "(L.) Osbeck",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Lemon-tree",
+            "Mandarin lime"
+          ],
+          "scientificName": "Citrus × limon (L.) Osbeck"
+        },
+        "gbif": {
+          "id": "7647136"
+        },
+        "powo": {
+          "id": "60454758-2"
+        }
+      },
+      {
+        "score": 0.00245,
+        "species": {
+          "scientificNameWithoutAuthor": "Pulmonaria rubra",
+          "scientificNameAuthorship": "Schott",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pulmonaria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pulmonaria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Boraginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Boraginaceae"
+          },
+          "commonNames": [
+            "Bethlehem-sage",
+            "Christmas cowslip",
+            "Red lungwort"
+          ],
+          "scientificName": "Pulmonaria rubra Schott"
+        },
+        "gbif": {
+          "id": "5660450"
+        },
+        "powo": {
+          "id": "120416-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 492
+  }
+}

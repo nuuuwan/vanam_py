@@ -1,0 +1,350 @@
+{
+  "hash": "b568c9ce96b0ebff",
+  "image_metadata": {
+    "imageHash": "b568c9ce96b0ebff",
+    "imageLocation": {
+      "latitude": 6.912858333333333,
+      "longitude": 79.85994722222222,
+      "accuracy": 3.2397535371976267,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722301,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/b568c9ce96b0ebff.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "90d12be8cf263dd10762d19194986d7d"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "90d12be8cf263dd10762d19194986d7d",
+        "filename": "b568c9ce96b0ebff.png",
+        "organ": "leaf",
+        "score": 0.80209
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Justicia adhatoda L.",
+    "results": [
+      {
+        "score": 0.11052,
+        "species": {
+          "scientificNameWithoutAuthor": "Justicia adhatoda",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Justicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Justicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Vasaka",
+            "Malabar-nut",
+            "Pavettia"
+          ],
+          "scientificName": "Justicia adhatoda L."
+        },
+        "gbif": {
+          "id": "3173105"
+        },
+        "powo": {
+          "id": "50237-1"
+        },
+        "iucn": {
+          "id": "169274250",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.06484,
+        "species": {
+          "scientificNameWithoutAuthor": "Oenothera biennis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Oenothera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oenothera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Onagraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Onagraceae"
+          },
+          "commonNames": [
+            "Common evening primrose",
+            "Evening Primrose",
+            "Field Primrose"
+          ],
+          "scientificName": "Oenothera biennis L."
+        },
+        "gbif": {
+          "id": "3188924"
+        },
+        "powo": {
+          "id": "172755-2"
+        }
+      },
+      {
+        "score": 0.05278,
+        "species": {
+          "scientificNameWithoutAuthor": "Salix pentandra",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Salix",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salix"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Bay willow",
+            "Laurel willow",
+            "Bay-leaf Willow"
+          ],
+          "scientificName": "Salix pentandra L."
+        },
+        "gbif": {
+          "id": "5372647"
+        },
+        "powo": {
+          "id": "312506-2"
+        },
+        "iucn": {
+          "id": "79927560",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.03671,
+        "species": {
+          "scientificNameWithoutAuthor": "Cestrum nocturnum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cestrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cestrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Night jasmine",
+            "مسك الليل",
+            "Raat Rani"
+          ],
+          "scientificName": "Cestrum nocturnum L."
+        },
+        "gbif": {
+          "id": "2928791"
+        },
+        "powo": {
+          "id": "316386-2"
+        },
+        "iucn": {
+          "id": "72045868",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02346,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllis nobla",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rubiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rubiaceae"
+          },
+          "commonNames": [
+            "Capitana"
+          ],
+          "scientificName": "Phyllis nobla L."
+        },
+        "gbif": {
+          "id": "5337520"
+        },
+        "powo": {
+          "id": "760455-1"
+        }
+      },
+      {
+        "score": 0.02257,
+        "species": {
+          "scientificNameWithoutAuthor": "Phytolacca americana",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phytolacca",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phytolacca"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phytolaccaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phytolaccaceae"
+          },
+          "commonNames": [
+            "American pokeweed",
+            "Pokeweed",
+            "Pokeberry"
+          ],
+          "scientificName": "Phytolacca americana L."
+        },
+        "gbif": {
+          "id": "3084015"
+        },
+        "powo": {
+          "id": "323290-2"
+        }
+      },
+      {
+        "score": 0.01498,
+        "species": {
+          "scientificNameWithoutAuthor": "Lonicera alpigena",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lonicera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lonicera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caprifoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caprifoliaceae"
+          },
+          "commonNames": [
+            "Alpine honeysuckle",
+            "Cherry woodbine"
+          ],
+          "scientificName": "Lonicera alpigena L."
+        },
+        "gbif": {
+          "id": "6369729"
+        },
+        "powo": {
+          "id": "148602-1"
+        },
+        "iucn": {
+          "id": "83771018",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01412,
+        "species": {
+          "scientificNameWithoutAuthor": "Mercurialis perennis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Mercurialis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Mercurialis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Dog's Mercury",
+            "Dog mercury",
+            "Wild mercury"
+          ],
+          "scientificName": "Mercurialis perennis L."
+        },
+        "gbif": {
+          "id": "3063016"
+        },
+        "powo": {
+          "id": "352211-1"
+        }
+      },
+      {
+        "score": 0.01013,
+        "species": {
+          "scientificNameWithoutAuthor": "Koenigia alpina",
+          "scientificNameAuthorship": "(All.) T.M.Schust. & Reveal",
+          "genus": {
+            "scientificNameWithoutAuthor": "Koenigia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Koenigia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Polygonaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polygonaceae"
+          },
+          "commonNames": [
+            "Alpine Knotweed",
+            "Mountain Knotweed"
+          ],
+          "scientificName": "Koenigia alpina (All.) T.M.Schust. & Reveal"
+        },
+        "gbif": {
+          "id": "9020499"
+        },
+        "powo": {
+          "id": "77152588-1"
+        }
+      },
+      {
+        "score": 0.00986,
+        "species": {
+          "scientificNameWithoutAuthor": "Cestrum parqui",
+          "scientificNameAuthorship": "(Lam.) L'Hér.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cestrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cestrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Chilean jessamine",
+            "Chilean Cestrum",
+            "Green cestrum"
+          ],
+          "scientificName": "Cestrum parqui (Lam.) L'Hér."
+        },
+        "gbif": {
+          "id": "2928792"
+        },
+        "powo": {
+          "id": "30046363-2"
+        },
+        "iucn": {
+          "id": "82861249",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 465
+  }
+}

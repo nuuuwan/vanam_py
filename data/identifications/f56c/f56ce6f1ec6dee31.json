@@ -1,0 +1,340 @@
+{
+  "hash": "f56ce6f1ec6dee31",
+  "image_metadata": {
+    "imageHash": "f56ce6f1ec6dee31",
+    "imageLocation": {
+      "latitude": 6.912897222222223,
+      "longitude": 79.85998611111111,
+      "accuracy": 3.169909098632232,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722366,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/f56ce6f1ec6dee31.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "f76d7815de7953ff0b3dd140dc62ea7c"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "f76d7815de7953ff0b3dd140dc62ea7c",
+        "filename": "f56ce6f1ec6dee31.png",
+        "organ": "leaf",
+        "score": 0.74661
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Euphorbia tithymaloides L.",
+    "results": [
+      {
+        "score": 0.79682,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia tithymaloides",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Slipper-flower",
+            "Devil's backbone",
+            "Zig zag plant"
+          ],
+          "scientificName": "Euphorbia tithymaloides L."
+        },
+        "gbif": {
+          "id": "3069168"
+        },
+        "powo": {
+          "id": "102036-2"
+        },
+        "iucn": {
+          "id": "135836706",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00587,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × limon",
+          "scientificNameAuthorship": "(L.) Osbeck",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Lemon-tree",
+            "Mandarin lime"
+          ],
+          "scientificName": "Citrus × limon (L.) Osbeck"
+        },
+        "gbif": {
+          "id": "7647136"
+        },
+        "powo": {
+          "id": "60454758-2"
+        }
+      },
+      {
+        "score": 0.00443,
+        "species": {
+          "scientificNameWithoutAuthor": "Vaccinium myrtillus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vaccinium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vaccinium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Bilberry",
+            "Blaeberry",
+            "Blue Berry"
+          ],
+          "scientificName": "Vaccinium myrtillus L."
+        },
+        "gbif": {
+          "id": "2882833"
+        },
+        "powo": {
+          "id": "30006039-2"
+        }
+      },
+      {
+        "score": 0.00253,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia bracteata",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Slipper flower"
+          ],
+          "scientificName": "Euphorbia bracteata Jacq."
+        },
+        "gbif": {
+          "id": "3070597"
+        },
+        "powo": {
+          "id": "345838-1"
+        }
+      },
+      {
+        "score": 0.00223,
+        "species": {
+          "scientificNameWithoutAuthor": "Tanacetum balsamita",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tanacetum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tanacetum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Costmary",
+            "Costmary chrysanthemum",
+            "Mint-geranium"
+          ],
+          "scientificName": "Tanacetum balsamita L."
+        },
+        "gbif": {
+          "id": "3118254"
+        },
+        "powo": {
+          "id": "249302-2"
+        }
+      },
+      {
+        "score": 0.00202,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus medica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Citron",
+            "Buddha's hand"
+          ],
+          "scientificName": "Citrus medica L."
+        },
+        "gbif": {
+          "id": "3190157"
+        },
+        "powo": {
+          "id": "59603-2"
+        },
+        "iucn": {
+          "id": "62041221",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00194,
+        "species": {
+          "scientificNameWithoutAuthor": "Mesembryanthemum crystallinum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Mesembryanthemum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Mesembryanthemum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Aizoaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aizoaceae"
+          },
+          "commonNames": [
+            "Common iceplant",
+            "Crystalline iceplant",
+            "Iceplant"
+          ],
+          "scientificName": "Mesembryanthemum crystallinum L."
+        },
+        "gbif": {
+          "id": "3084839"
+        },
+        "powo": {
+          "id": "362764-1"
+        }
+      },
+      {
+        "score": 0.00158,
+        "species": {
+          "scientificNameWithoutAuthor": "Gynura procumbens",
+          "scientificNameAuthorship": "(Lour.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gynura",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gynura"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Longevity spinach",
+            "Okinawa spinach",
+            "Scrambling gynura"
+          ],
+          "scientificName": "Gynura procumbens (Lour.) Merr."
+        },
+        "gbif": {
+          "id": "3139818"
+        },
+        "powo": {
+          "id": "211304-1"
+        }
+      },
+      {
+        "score": 0.0014,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × aurantium",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Sour orange",
+            "Bitter orange",
+            "Seville orange"
+          ],
+          "scientificName": "Citrus × aurantium L."
+        },
+        "gbif": {
+          "id": "8077391"
+        },
+        "powo": {
+          "id": "59600-2"
+        }
+      },
+      {
+        "score": 0.00131,
+        "species": {
+          "scientificNameWithoutAuthor": "Lactuca sativa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lactuca",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lactuca"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Lettuce",
+            "Romaine Lettuce",
+            "Cultivated Lettuce"
+          ],
+          "scientificName": "Lactuca sativa L."
+        },
+        "gbif": {
+          "id": "7403263"
+        },
+        "powo": {
+          "id": "228239-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 448
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "hash": "4afa8d459800d84f",
+  "image_metadata": {
+    "imageHash": "4afa8d459800d84f",
+    "imageLocation": {
+      "latitude": 6.9129555555555555,
+      "longitude": 79.86000833333333,
+      "accuracy": 3.3611794111072726,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722439,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/4afa8d459800d84f.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "a1c9e4c8e7156962135254c27d6ca922"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "a1c9e4c8e7156962135254c27d6ca922",
+        "filename": "4afa8d459800d84f.png",
+        "organ": "leaf",
+        "score": 0.75343
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Euphorbia tithymaloides L.",
+    "results": [
+      {
+        "score": 0.71346,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia tithymaloides",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Slipper-flower",
+            "Devil's backbone",
+            "Zig zag plant"
+          ],
+          "scientificName": "Euphorbia tithymaloides L."
+        },
+        "gbif": {
+          "id": "3069168"
+        },
+        "powo": {
+          "id": "102036-2"
+        },
+        "iucn": {
+          "id": "135836706",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0322,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × limon",
+          "scientificNameAuthorship": "(L.) Osbeck",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Lemon-tree",
+            "Mandarin lime"
+          ],
+          "scientificName": "Citrus × limon (L.) Osbeck"
+        },
+        "gbif": {
+          "id": "7647136"
+        },
+        "powo": {
+          "id": "60454758-2"
+        }
+      },
+      {
+        "score": 0.01939,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × aurantiifolia",
+          "scientificNameAuthorship": "(Christm.) Swingle",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lime",
+            "Key lime",
+            "Egyptian lime"
+          ],
+          "scientificName": "Citrus × aurantiifolia (Christm.) Swingle"
+        },
+        "gbif": {
+          "id": "3190164"
+        },
+        "powo": {
+          "id": "59599-2"
+        }
+      },
+      {
+        "score": 0.01835,
+        "species": {
+          "scientificNameWithoutAuthor": "Vaccinium myrtillus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vaccinium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vaccinium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Bilberry",
+            "Blaeberry",
+            "Blue Berry"
+          ],
+          "scientificName": "Vaccinium myrtillus L."
+        },
+        "gbif": {
+          "id": "2882833"
+        },
+        "powo": {
+          "id": "30006039-2"
+        }
+      },
+      {
+        "score": 0.00908,
+        "species": {
+          "scientificNameWithoutAuthor": "Euonymus verrucosus",
+          "scientificNameAuthorship": "Scop.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euonymus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euonymus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Celastraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Celastraceae"
+          },
+          "commonNames": [
+            "Warty-barked Spindle",
+            "Warted spindle",
+            "Rough-stemmed spindle"
+          ],
+          "scientificName": "Euonymus verrucosus Scop."
+        },
+        "gbif": {
+          "id": "7723078"
+        },
+        "powo": {
+          "id": "161173-1"
+        },
+        "iucn": {
+          "id": "63526",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00651,
+        "species": {
+          "scientificNameWithoutAuthor": "Gynura procumbens",
+          "scientificNameAuthorship": "(Lour.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gynura",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gynura"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Longevity spinach",
+            "Okinawa spinach",
+            "Scrambling gynura"
+          ],
+          "scientificName": "Gynura procumbens (Lour.) Merr."
+        },
+        "gbif": {
+          "id": "3139818"
+        },
+        "powo": {
+          "id": "211304-1"
+        }
+      },
+      {
+        "score": 0.0046,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × aurantium",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Sour orange",
+            "Bitter orange",
+            "Seville orange"
+          ],
+          "scientificName": "Citrus × aurantium L."
+        },
+        "gbif": {
+          "id": "8077391"
+        },
+        "powo": {
+          "id": "59600-2"
+        }
+      },
+      {
+        "score": 0.00444,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus australasica",
+          "scientificNameAuthorship": "F.Muell.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Australian finger lime",
+            "Austrialian finger lime",
+            "Caviar Lime"
+          ],
+          "scientificName": "Citrus australasica F.Muell."
+        },
+        "gbif": {
+          "id": "8033094"
+        },
+        "powo": {
+          "id": "771856-1"
+        },
+        "iucn": {
+          "id": "64135401",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00419,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus mangshanensis",
+          "scientificNameAuthorship": "S.W.He & G.F.Liu",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Citrus mangshanensis S.W.He & G.F.Liu"
+        },
+        "gbif": {
+          "id": "3831360"
+        },
+        "powo": {
+          "id": "940172-1"
+        }
+      },
+      {
+        "score": 0.00356,
+        "species": {
+          "scientificNameWithoutAuthor": "Vaccinium corymbosum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vaccinium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vaccinium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Blueberry",
+            "Highbush blueberry",
+            "American blueberry"
+          ],
+          "scientificName": "Vaccinium corymbosum L."
+        },
+        "gbif": {
+          "id": "2882849"
+        },
+        "powo": {
+          "id": "261823-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 487
+  }
+}

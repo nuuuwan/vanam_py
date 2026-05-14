@@ -1,5 +1,31 @@
 [
   {
+    "imageHash": "5bfa3cfd9aa6d6c9",
+    "latLng": {
+      "lat": 6.912961111111112,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722444,
+    "timeImageTaken": "2026-05-14 01:34:04",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.69588,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
     "imageHash": "35bf6db29dc600f9",
     "latLng": {
       "lat": -8.703505555555555,
@@ -52,6 +78,32 @@
     }
   },
   {
+    "imageHash": "fa0b575a1524e54e",
+    "latLng": {
+      "lat": 6.912908333333334,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722384,
+    "timeImageTaken": "2026-05-14 01:33:04",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.98095,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
     "imageHash": "ac9f718463cec3ba",
     "latLng": {
       "lat": 6.027952777777778,
@@ -74,6 +126,32 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "112097-2"
+    }
+  },
+  {
+    "imageHash": "2ef1ca46bb4adcc5",
+    "latLng": {
+      "lat": 6.912911111111112,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722377,
+    "timeImageTaken": "2026-05-14 01:32:57",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.26807,
+      "species": "Gynura procumbens (Lour.) Merr.",
+      "genus": "Gynura",
+      "family": "Asteraceae",
+      "commonNames": [
+        "Longevity spinach",
+        "Okinawa spinach",
+        "Scrambling gynura"
+      ],
+      "gbifId": "3139818",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "211304-1"
     }
   },
   {
@@ -100,6 +178,32 @@
       "iucnId": "63531",
       "iucnCategory": "LC",
       "powoId": "554129-1"
+    }
+  },
+  {
+    "imageHash": "5bdc06925eb4692e",
+    "latLng": {
+      "lat": 6.912908333333334,
+      "lng": 79.85999166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1778722373,
+    "timeImageTaken": "2026-05-14 01:32:53",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.85705,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
     }
   },
   {
@@ -205,6 +309,32 @@
     }
   },
   {
+    "imageHash": "a5cd0676a5a3b86b",
+    "latLng": {
+      "lat": 6.912886111111112,
+      "lng": 79.85998611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722352,
+    "timeImageTaken": "2026-05-14 01:32:32",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.20688,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
     "imageHash": "0b45537b1d03c88a",
     "latLng": {
       "lat": -8.703358333333332,
@@ -231,6 +361,84 @@
     }
   },
   {
+    "imageHash": "aa89e163e720411d",
+    "latLng": {
+      "lat": 6.91295,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722429,
+    "timeImageTaken": "2026-05-14 01:33:49",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.16815,
+      "species": "Indigofera tinctoria L.",
+      "genus": "Indigofera",
+      "family": "Fabaceae",
+      "commonNames": [
+        "Dye indigo",
+        "Indigo",
+        "Indian indigo"
+      ],
+      "gbifId": "2972043",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "500111-1"
+    }
+  },
+  {
+    "imageHash": "4e7a52f7962d668f",
+    "latLng": {
+      "lat": 6.912983333333334,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722462,
+    "timeImageTaken": "2026-05-14 01:34:22",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.08699,
+      "species": "Phyllanthus tenellus Roxb.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Long-stalk leaf-flower",
+        "Long-stalk phyllanthus",
+        "Mascarene Island leaf-flower"
+      ],
+      "gbifId": "5381097",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "354756-1"
+    }
+  },
+  {
+    "imageHash": "ec9a0664d1dc3994",
+    "latLng": {
+      "lat": 6.912866666666667,
+      "lng": 79.85995555555554
+    },
+    "source": "exif",
+    "utImageTaken": 1778722308,
+    "timeImageTaken": "2026-05-14 01:31:48",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.23741,
+      "species": "Justicia adhatoda L.",
+      "genus": "Justicia",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Vasaka",
+        "Malabar-nut",
+        "Pavettia"
+      ],
+      "gbifId": "3173105",
+      "iucnId": "169274250",
+      "iucnCategory": "LC",
+      "powoId": "50237-1"
+    }
+  },
+  {
     "imageHash": "b8ad9be301563966",
     "latLng": {
       "lat": 37.76723611111111,
@@ -252,6 +460,32 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "63990-1"
+    }
+  },
+  {
+    "imageHash": "3ae050bbdb1eb9cf",
+    "latLng": {
+      "lat": 6.912855555555556,
+      "lng": 79.85993888888888
+    },
+    "source": "exif",
+    "utImageTaken": 1778722292,
+    "timeImageTaken": "2026-05-14 01:31:32",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.94251,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
     }
   },
   {
@@ -304,6 +538,30 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "30048918-2"
+    }
+  },
+  {
+    "imageHash": "ab92e8e8d0765fb3",
+    "latLng": {
+      "lat": 6.912936111111112,
+      "lng": 79.86001666666667
+    },
+    "source": "exif",
+    "utImageTaken": 1778722420,
+    "timeImageTaken": "2026-05-14 01:33:40",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.08981,
+      "species": "Phyllanthus niruroides Müll.Arg.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Seed on the leaf"
+      ],
+      "gbifId": "5381773",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "354351-1"
     }
   },
   {
@@ -385,6 +643,32 @@
     }
   },
   {
+    "imageHash": "02307dea103a929a",
+    "latLng": {
+      "lat": 6.912852777777778,
+      "lng": 79.85994722222222
+    },
+    "source": "exif",
+    "utImageTaken": 1778722279,
+    "timeImageTaken": "2026-05-14 01:31:19",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.68535,
+      "species": "Nyctanthes arbor-tristis L.",
+      "genus": "Nyctanthes",
+      "family": "Oleaceae",
+      "commonNames": [
+        "Parijat",
+        "Night jasmine",
+        "हरसिंगार"
+      ],
+      "gbifId": "3683008",
+      "iucnId": "150224828",
+      "iucnCategory": "LC",
+      "powoId": "610599-1"
+    }
+  },
+  {
     "imageHash": "b4ea0e78a2f0f3db",
     "latLng": {
       "lat": 37.426649999999995,
@@ -411,6 +695,58 @@
     }
   },
   {
+    "imageHash": "c83f753b7dfebd50",
+    "latLng": {
+      "lat": 6.913022222222223,
+      "lng": 79.85999166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1778722500,
+    "timeImageTaken": "2026-05-14 01:35:00",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.15911,
+      "species": "Phyllanthus tenellus Roxb.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Long-stalk leaf-flower",
+        "Long-stalk phyllanthus",
+        "Mascarene Island leaf-flower"
+      ],
+      "gbifId": "5381097",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "354756-1"
+    }
+  },
+  {
+    "imageHash": "f56ce6f1ec6dee31",
+    "latLng": {
+      "lat": 6.912897222222223,
+      "lng": 79.85998611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722366,
+    "timeImageTaken": "2026-05-14 01:32:46",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.79682,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
     "imageHash": "5881fec13ce62150",
     "latLng": {
       "lat": 37.45101666666667,
@@ -434,6 +770,32 @@
       "iucnId": "191488",
       "iucnCategory": "DD",
       "powoId": "554759-1"
+    }
+  },
+  {
+    "imageHash": "13d73d7c7d59a8c3",
+    "latLng": {
+      "lat": 6.912888888888889,
+      "lng": 79.85996944444445
+    },
+    "source": "exif",
+    "utImageTaken": 1778722338,
+    "timeImageTaken": "2026-05-14 01:32:18",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.8106,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
     }
   },
   {
@@ -489,6 +851,58 @@
     }
   },
   {
+    "imageHash": "3b3d1dfb2ec57564",
+    "latLng": {
+      "lat": 6.912922222222223,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722400,
+    "timeImageTaken": "2026-05-14 01:33:20",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.11927,
+      "species": "Barleria cristata L.",
+      "genus": "Barleria",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Philippine-violet",
+        "Bluebell",
+        "Bluebell barleria"
+      ],
+      "gbifId": "3173128",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "45927-1"
+    }
+  },
+  {
+    "imageHash": "b568c9ce96b0ebff",
+    "latLng": {
+      "lat": 6.912858333333333,
+      "lng": 79.85994722222222
+    },
+    "source": "exif",
+    "utImageTaken": 1778722301,
+    "timeImageTaken": "2026-05-14 01:31:41",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.11052,
+      "species": "Justicia adhatoda L.",
+      "genus": "Justicia",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Vasaka",
+        "Malabar-nut",
+        "Pavettia"
+      ],
+      "gbifId": "3173105",
+      "iucnId": "169274250",
+      "iucnCategory": "LC",
+      "powoId": "50237-1"
+    }
+  },
+  {
     "imageHash": "4827878cc3b6cd03",
     "latLng": {
       "lat": 6.918872222222222,
@@ -512,6 +926,58 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": ""
+    }
+  },
+  {
+    "imageHash": "1336d3f3812cf382",
+    "latLng": {
+      "lat": 6.912925,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722408,
+    "timeImageTaken": "2026-05-14 01:33:28",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.09538,
+      "species": "Biophytum sensitivum (L.) DC.",
+      "genus": "Biophytum",
+      "family": "Oxalidaceae",
+      "commonNames": [
+        "Lifeplant",
+        "Little tree plant",
+        "Sensitive wood sorrel"
+      ],
+      "gbifId": "3628231",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "371965-1"
+    }
+  },
+  {
+    "imageHash": "cb61f5450abe37c6",
+    "latLng": {
+      "lat": 6.912991666666667,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722465,
+    "timeImageTaken": "2026-05-14 01:34:25",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.13706,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
     }
   },
   {
@@ -564,6 +1030,32 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "320133-2"
+    }
+  },
+  {
+    "imageHash": "bd9d09ce3795e0e4",
+    "latLng": {
+      "lat": 6.9129000000000005,
+      "lng": 79.85998611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722363,
+    "timeImageTaken": "2026-05-14 01:32:43",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.90377,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
     }
   },
   {
@@ -669,6 +1161,159 @@
     }
   },
   {
+    "imageHash": "c4cab7f7617a0d7b",
+    "latLng": {
+      "lat": 6.913011111111111,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722497,
+    "timeImageTaken": "2026-05-14 01:34:57",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.45725,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
+    "imageHash": "24cbf2290afad730",
+    "latLng": {
+      "lat": 6.912922222222223,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722390,
+    "timeImageTaken": "2026-05-14 01:33:10",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.77516,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
+    "imageHash": "df623b97eab9399a",
+    "latLng": {
+      "lat": 6.9129861111111115,
+      "lng": 79.86001666666667
+    },
+    "source": "exif",
+    "utImageTaken": 1778722469,
+    "timeImageTaken": "2026-05-14 01:34:29",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.16225,
+      "species": "Phyllanthus niruroides Müll.Arg.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Seed on the leaf"
+      ],
+      "gbifId": "5381773",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "354351-1"
+    }
+  },
+  {
+    "imageHash": "213dededab615bb2",
+    "latLng": {
+      "lat": 6.913022222222223,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722508,
+    "timeImageTaken": "2026-05-14 01:35:08",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.19044,
+      "species": "Phyllanthus pulcher Wall. ex Müll.Arg.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Tropical leaf-flower",
+        "Dragon-of-the-world"
+      ],
+      "gbifId": "5381514",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "60456391-2"
+    }
+  },
+  {
+    "imageHash": "bd55451b2f0f430a",
+    "latLng": {
+      "lat": 6.912872222222223,
+      "lng": 79.85995555555554
+    },
+    "source": "exif",
+    "utImageTaken": 1778722321,
+    "timeImageTaken": "2026-05-14 01:32:01",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.95733,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
+    "imageHash": "f7d14a200bacc97c",
+    "latLng": {
+      "lat": 6.912980555555556,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722455,
+    "timeImageTaken": "2026-05-14 01:34:15",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.10962,
+      "species": "Phyllanthus tenellus Roxb.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Long-stalk leaf-flower",
+        "Long-stalk phyllanthus",
+        "Mascarene Island leaf-flower"
+      ],
+      "gbifId": "5381097",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "354756-1"
+    }
+  },
+  {
     "imageHash": "e94b60e80f7811b0",
     "latLng": {
       "lat": 8.118133333333335,
@@ -692,6 +1337,32 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "48609-1"
+    }
+  },
+  {
+    "imageHash": "b9fb344a38edbe4f",
+    "latLng": {
+      "lat": 6.912972222222223,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722451,
+    "timeImageTaken": "2026-05-14 01:34:11",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.8111,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
     }
   },
   {
@@ -721,6 +1392,54 @@
     }
   },
   {
+    "imageHash": "4cc51a60ed585c08",
+    "latLng": {
+      "lat": 6.912916666666667,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722410,
+    "timeImageTaken": "2026-05-14 01:33:30",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.03271,
+      "species": "Indigofera swaziensis Bolus",
+      "genus": "Indigofera",
+      "family": "Fabaceae",
+      "commonNames": [],
+      "gbifId": "2971930",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "500068-1"
+    }
+  },
+  {
+    "imageHash": "4afa8d459800d84f",
+    "latLng": {
+      "lat": 6.9129555555555555,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722439,
+    "timeImageTaken": "2026-05-14 01:33:59",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.71346,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
     "imageHash": "592e30fc7278ab3b",
     "latLng": {
       "lat": 6.912958333333334,
@@ -744,6 +1463,58 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "30043311-2"
+    }
+  },
+  {
+    "imageHash": "fafd93b6c99ed934",
+    "latLng": {
+      "lat": 6.912852777777778,
+      "lng": 79.85993888888888
+    },
+    "source": "exif",
+    "utImageTaken": 1778722285,
+    "timeImageTaken": "2026-05-14 01:31:25",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.86159,
+      "species": "Nyctanthes arbor-tristis L.",
+      "genus": "Nyctanthes",
+      "family": "Oleaceae",
+      "commonNames": [
+        "Parijat",
+        "Night jasmine",
+        "हरसिंगार"
+      ],
+      "gbifId": "3683008",
+      "iucnId": "150224828",
+      "iucnCategory": "LC",
+      "powoId": "610599-1"
+    }
+  },
+  {
+    "imageHash": "31b2c84d9f62b236",
+    "latLng": {
+      "lat": 6.912958333333334,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722446,
+    "timeImageTaken": "2026-05-14 01:34:06",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.82106,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
     }
   },
   {
@@ -796,6 +1567,32 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "202484-1"
+    }
+  },
+  {
+    "imageHash": "4121bca8e382be50",
+    "latLng": {
+      "lat": 6.912891666666667,
+      "lng": 79.85998611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722357,
+    "timeImageTaken": "2026-05-14 01:32:37",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.94192,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
     }
   },
   {
@@ -876,6 +1673,32 @@
     }
   },
   {
+    "imageHash": "8df7caa24100f793",
+    "latLng": {
+      "lat": 6.912952777777778,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722434,
+    "timeImageTaken": "2026-05-14 01:33:54",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.20136,
+      "species": "Indigofera tinctoria L.",
+      "genus": "Indigofera",
+      "family": "Fabaceae",
+      "commonNames": [
+        "Dye indigo",
+        "Indigo",
+        "Indian indigo"
+      ],
+      "gbifId": "2972043",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "500111-1"
+    }
+  },
+  {
     "imageHash": "aa88bdf31955c239",
     "latLng": {
       "lat": 6.912502777777778,
@@ -899,6 +1722,31 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "850389-1"
+    }
+  },
+  {
+    "imageHash": "ac5cc265d1b10aa0",
+    "latLng": {
+      "lat": 6.913013888888889,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722504,
+    "timeImageTaken": "2026-05-14 01:35:04",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.19823,
+      "species": "Phyllanthus pulcher Wall. ex Müll.Arg.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Tropical leaf-flower",
+        "Dragon-of-the-world"
+      ],
+      "gbifId": "5381514",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "60456391-2"
     }
   },
   {
@@ -980,6 +1828,110 @@
     }
   },
   {
+    "imageHash": "60af014c2b70070a",
+    "latLng": {
+      "lat": 6.9128694444444445,
+      "lng": 79.8599611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722317,
+    "timeImageTaken": "2026-05-14 01:31:57",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.18205,
+      "species": "Justicia adhatoda L.",
+      "genus": "Justicia",
+      "family": "Acanthaceae",
+      "commonNames": [
+        "Vasaka",
+        "Malabar-nut",
+        "Pavettia"
+      ],
+      "gbifId": "3173105",
+      "iucnId": "169274250",
+      "iucnCategory": "LC",
+      "powoId": "50237-1"
+    }
+  },
+  {
+    "imageHash": "55ea9b8c14aec6e8",
+    "latLng": {
+      "lat": 6.912994444444445,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722477,
+    "timeImageTaken": "2026-05-14 01:34:37",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.52153,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
+    "imageHash": "c8fe0a69dc219962",
+    "latLng": {
+      "lat": 6.913016666666667,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722495,
+    "timeImageTaken": "2026-05-14 01:34:55",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.2484,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
+    "imageHash": "aa0d1b1906c30ea2",
+    "latLng": {
+      "lat": 6.912886111111112,
+      "lng": 79.85997777777777
+    },
+    "source": "exif",
+    "utImageTaken": 1778722346,
+    "timeImageTaken": "2026-05-14 01:32:26",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.89816,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
     "imageHash": "ee5180b5a108b2ce",
     "latLng": {
       "lat": 6.918762814868359,
@@ -1003,6 +1955,32 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "375259-1"
+    }
+  },
+  {
+    "imageHash": "81fd49ac5f8bbe5c",
+    "latLng": {
+      "lat": 6.912936111111112,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722423,
+    "timeImageTaken": "2026-05-14 01:33:43",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.31485,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
     }
   },
   {
@@ -1032,6 +2010,84 @@
     }
   },
   {
+    "imageHash": "54ab51b75d575eff",
+    "latLng": {
+      "lat": 6.913002777777778,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722489,
+    "timeImageTaken": "2026-05-14 01:34:49",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.14809,
+      "species": "Phyllanthus emblica L.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Amla",
+        "Indian Gooseberry",
+        "Emblic"
+      ],
+      "gbifId": "5381660",
+      "iucnId": "149444430",
+      "iucnCategory": "LC",
+      "powoId": "353838-1"
+    }
+  },
+  {
+    "imageHash": "714c86a5d4e03f65",
+    "latLng": {
+      "lat": 6.912927777777778,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722415,
+    "timeImageTaken": "2026-05-14 01:33:35",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.09081,
+      "species": "Phyllanthus tenellus Roxb.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Long-stalk leaf-flower",
+        "Long-stalk phyllanthus",
+        "Mascarene Island leaf-flower"
+      ],
+      "gbifId": "5381097",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "354756-1"
+    }
+  },
+  {
+    "imageHash": "ea7962919bd12c3d",
+    "latLng": {
+      "lat": 6.912883333333333,
+      "lng": 79.8599611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722329,
+    "timeImageTaken": "2026-05-14 01:32:09",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.95789,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
     "imageHash": "e56bf4cb053f23c6",
     "latLng": {
       "lat": 7.990152777777777,
@@ -1055,6 +2111,56 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "473569-1"
+    }
+  },
+  {
+    "imageHash": "ebb48c9a17b0a1db",
+    "latLng": {
+      "lat": 6.912886111111112,
+      "lng": 79.8599611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722333,
+    "timeImageTaken": "2026-05-14 01:32:13",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.93871,
+      "species": "Euphorbia tithymaloides L.",
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "commonNames": [
+        "Slipper-flower",
+        "Devil's backbone",
+        "Zig zag plant"
+      ],
+      "gbifId": "3069168",
+      "iucnId": "135836706",
+      "iucnCategory": "LC",
+      "powoId": "102036-2"
+    }
+  },
+  {
+    "imageHash": "2e859382180e6553",
+    "latLng": {
+      "lat": 6.912994444444445,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722472,
+    "timeImageTaken": "2026-05-14 01:34:32",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.11581,
+      "species": "Phyllanthus niruroides Müll.Arg.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Seed on the leaf"
+      ],
+      "gbifId": "5381773",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "354351-1"
     }
   },
   {
@@ -1084,6 +2190,32 @@
     }
   },
   {
+    "imageHash": "096704389b620211",
+    "latLng": {
+      "lat": 6.913013888888889,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722506,
+    "timeImageTaken": "2026-05-14 01:35:06",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.07467,
+      "species": "Phyllanthus tenellus Roxb.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Long-stalk leaf-flower",
+        "Long-stalk phyllanthus",
+        "Mascarene Island leaf-flower"
+      ],
+      "gbifId": "5381097",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "354756-1"
+    }
+  },
+  {
     "imageHash": "d67c2096ab66b15c",
     "latLng": {
       "lat": 6.897664,
@@ -1107,6 +2239,32 @@
       "iucnId": "",
       "iucnCategory": "",
       "powoId": "850389-1"
+    }
+  },
+  {
+    "imageHash": "ba22a35ff1ab5751",
+    "latLng": {
+      "lat": 6.912927777777778,
+      "lng": 79.86001666666667
+    },
+    "source": "exif",
+    "utImageTaken": 1778722413,
+    "timeImageTaken": "2026-05-14 01:33:33",
+    "userId": "1bi07e4",
+    "topPrediction": {
+      "confidence": 0.02262,
+      "species": "Phyllanthus urinaria L.",
+      "genus": "Phyllanthus",
+      "family": "Phyllanthaceae",
+      "commonNames": [
+        "Chamber bitter",
+        "Common leafflower",
+        "Gale of wind"
+      ],
+      "gbifId": "5382780",
+      "iucnId": "",
+      "iucnCategory": "",
+      "powoId": "354815-1"
     }
   }
 ]

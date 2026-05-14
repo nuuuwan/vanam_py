@@ -1,0 +1,341 @@
+{
+  "hash": "3b3d1dfb2ec57564",
+  "image_metadata": {
+    "imageHash": "3b3d1dfb2ec57564",
+    "imageLocation": {
+      "latitude": 6.912922222222223,
+      "longitude": 79.86,
+      "accuracy": 3.1521264293974047,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722400,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/3b3d1dfb2ec57564.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "9c63ad7180e5f96c5cf801cd553289c6"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "9c63ad7180e5f96c5cf801cd553289c6",
+        "filename": "3b3d1dfb2ec57564.png",
+        "organ": "leaf",
+        "score": 0.76085
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Barleria cristata L.",
+    "results": [
+      {
+        "score": 0.11927,
+        "species": {
+          "scientificNameWithoutAuthor": "Barleria cristata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Barleria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Barleria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Philippine-violet",
+            "Bluebell",
+            "Bluebell barleria"
+          ],
+          "scientificName": "Barleria cristata L."
+        },
+        "gbif": {
+          "id": "3173128"
+        },
+        "powo": {
+          "id": "45927-1"
+        }
+      },
+      {
+        "score": 0.07627,
+        "species": {
+          "scientificNameWithoutAuthor": "Cephalanthus occidentalis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cephalanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cephalanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rubiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rubiaceae"
+          },
+          "commonNames": [
+            "Common buttonbush",
+            "Button-willow",
+            "Buttonbush"
+          ],
+          "scientificName": "Cephalanthus occidentalis L."
+        },
+        "gbif": {
+          "id": "2923947"
+        },
+        "powo": {
+          "id": "319140-2"
+        },
+        "iucn": {
+          "id": "64310261",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.04338,
+        "species": {
+          "scientificNameWithoutAuthor": "Capsicum annuum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Capsicum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Capsicum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Peppers",
+            "Chili",
+            "Bell Pepper"
+          ],
+          "scientificName": "Capsicum annuum L."
+        },
+        "gbif": {
+          "id": "2932944"
+        },
+        "powo": {
+          "id": "316944-2"
+        },
+        "iucn": {
+          "id": "100895534",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0371,
+        "species": {
+          "scientificNameWithoutAuthor": "Duranta erecta",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Duranta",
+            "scientificNameAuthorship": "",
+            "scientificName": "Duranta"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Verbenaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Verbenaceae"
+          },
+          "commonNames": [
+            "Golden dewdrops",
+            "Skyflower",
+            "Pigeonberry"
+          ],
+          "scientificName": "Duranta erecta L."
+        },
+        "gbif": {
+          "id": "2925655"
+        },
+        "powo": {
+          "id": "330606-2"
+        },
+        "iucn": {
+          "id": "145351548",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02416,
+        "species": {
+          "scientificNameWithoutAuthor": "Petiveria alliacea",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Petiveria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Petiveria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Petiveriaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Petiveriaceae"
+          },
+          "commonNames": [
+            "Strong Man Bush",
+            "Garlicweed",
+            "Strongman's-weed"
+          ],
+          "scientificName": "Petiveria alliacea L."
+        },
+        "gbif": {
+          "id": "3084012"
+        },
+        "powo": {
+          "id": "323288-2"
+        }
+      },
+      {
+        "score": 0.01562,
+        "species": {
+          "scientificNameWithoutAuthor": "Andrographis paniculata",
+          "scientificNameAuthorship": "(Burm.f.) Wall. ex Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Andrographis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Andrographis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Creat",
+            "Green chireta",
+            "King of bitter"
+          ],
+          "scientificName": "Andrographis paniculata (Burm.f.) Wall. ex Nees"
+        },
+        "gbif": {
+          "id": "3173178"
+        }
+      },
+      {
+        "score": 0.01461,
+        "species": {
+          "scientificNameWithoutAuthor": "Ruspolia hypocrateriformis",
+          "scientificNameAuthorship": "(Vahl) Milne-Redh.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ruspolia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ruspolia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Red ruspolia"
+          ],
+          "scientificName": "Ruspolia hypocrateriformis (Vahl) Milne-Redh."
+        },
+        "gbif": {
+          "id": "5575605"
+        },
+        "powo": {
+          "id": "54830-1"
+        }
+      },
+      {
+        "score": 0.01414,
+        "species": {
+          "scientificNameWithoutAuthor": "Barleria strigosa",
+          "scientificNameAuthorship": "Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Barleria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Barleria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Barleria strigosa Willd."
+        },
+        "gbif": {
+          "id": "3770457"
+        },
+        "powo": {
+          "id": "46236-1"
+        }
+      },
+      {
+        "score": 0.0135,
+        "species": {
+          "scientificNameWithoutAuthor": "Asystasia gangetica",
+          "scientificNameAuthorship": "(L.) T.Anderson",
+          "genus": {
+            "scientificNameWithoutAuthor": "Asystasia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asystasia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Chinese violet",
+            "Coromandel",
+            "Creeping foxglove"
+          ],
+          "scientificName": "Asystasia gangetica (L.) T.Anderson"
+        },
+        "gbif": {
+          "id": "3173254"
+        },
+        "powo": {
+          "id": "45742-1"
+        }
+      },
+      {
+        "score": 0.0131,
+        "species": {
+          "scientificNameWithoutAuthor": "Justicia spicigera",
+          "scientificNameAuthorship": "Schltdl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Justicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Justicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Mexican-indigo",
+            "Mohintli",
+            "Mexican Honeysuckle"
+          ],
+          "scientificName": "Justicia spicigera Schltdl."
+        },
+        "gbif": {
+          "id": "3173104"
+        },
+        "powo": {
+          "id": "133119-2"
+        },
+        "iucn": {
+          "id": "198888924",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 489
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "hash": "02307dea103a929a",
+  "image_metadata": {
+    "imageHash": "02307dea103a929a",
+    "imageLocation": {
+      "latitude": 6.912852777777778,
+      "longitude": 79.85994722222222,
+      "accuracy": 3.765652134174207,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722279,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/02307dea103a929a.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "4adb7097852b38c1b6e79f0a8df816c3"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "4adb7097852b38c1b6e79f0a8df816c3",
+        "filename": "02307dea103a929a.png",
+        "organ": "leaf",
+        "score": 0.59819
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Nyctanthes arbor-tristis L.",
+    "results": [
+      {
+        "score": 0.68535,
+        "species": {
+          "scientificNameWithoutAuthor": "Nyctanthes arbor-tristis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nyctanthes",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyctanthes"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [
+            "Parijat",
+            "Night jasmine",
+            "हरसिंगार"
+          ],
+          "scientificName": "Nyctanthes arbor-tristis L."
+        },
+        "gbif": {
+          "id": "3683008"
+        },
+        "powo": {
+          "id": "610599-1"
+        },
+        "iucn": {
+          "id": "150224828",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.07949,
+        "species": {
+          "scientificNameWithoutAuthor": "Deutzia scabra",
+          "scientificNameAuthorship": "Thunb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Deutzia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Deutzia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Deutzia",
+            "Bridal wreath",
+            "Fuzzy pride-of-Rochester"
+          ],
+          "scientificName": "Deutzia scabra Thunb."
+        },
+        "gbif": {
+          "id": "2985965"
+        },
+        "powo": {
+          "id": "790898-1"
+        }
+      },
+      {
+        "score": 0.06377,
+        "species": {
+          "scientificNameWithoutAuthor": "Deutzia gracilis",
+          "scientificNameAuthorship": "Siebold & Zucc.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Deutzia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Deutzia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Japanese snowflower",
+            "Slender deutsia",
+            "Slender pride of Rochester"
+          ],
+          "scientificName": "Deutzia gracilis Siebold & Zucc."
+        },
+        "gbif": {
+          "id": "2985964"
+        },
+        "powo": {
+          "id": "790847-1"
+        },
+        "iucn": {
+          "id": "143486491",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.04745,
+        "species": {
+          "scientificNameWithoutAuthor": "Philadelphus coronarius",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Philadelphus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Philadelphus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Sweet mock orange",
+            "Mock-orange",
+            "European mock-orange"
+          ],
+          "scientificName": "Philadelphus coronarius L."
+        },
+        "gbif": {
+          "id": "2986045"
+        },
+        "powo": {
+          "id": "792194-1"
+        }
+      },
+      {
+        "score": 0.02105,
+        "species": {
+          "scientificNameWithoutAuthor": "Calycanthus floridus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Calycanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Calycanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Calycanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Calycanthaceae"
+          },
+          "commonNames": [
+            "Carolina-allspice",
+            "Sweetshrub",
+            "Spicebush"
+          ],
+          "scientificName": "Calycanthus floridus L."
+        },
+        "gbif": {
+          "id": "3034113"
+        },
+        "powo": {
+          "id": "42922-2"
+        }
+      },
+      {
+        "score": 0.00442,
+        "species": {
+          "scientificNameWithoutAuthor": "Hydrangea paniculata",
+          "scientificNameAuthorship": "Siebold",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hydrangea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Panicled hydrangea",
+            "Paniculate Hydrangea",
+            "Panicle Hydrangea"
+          ],
+          "scientificName": "Hydrangea paniculata Siebold"
+        },
+        "gbif": {
+          "id": "2985995"
+        },
+        "powo": {
+          "id": "791653-1"
+        },
+        "iucn": {
+          "id": "147376037",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00335,
+        "species": {
+          "scientificNameWithoutAuthor": "Chimonanthus praecox",
+          "scientificNameAuthorship": "(L.) Link",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chimonanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chimonanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Calycanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Calycanthaceae"
+          },
+          "commonNames": [
+            "Wintersweet",
+            "Japanese-allspice",
+            "Fragrant Wintersweet"
+          ],
+          "scientificName": "Chimonanthus praecox (L.) Link"
+        },
+        "gbif": {
+          "id": "7275851"
+        },
+        "powo": {
+          "id": "139248-1"
+        },
+        "iucn": {
+          "id": "147377321",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00311,
+        "species": {
+          "scientificNameWithoutAuthor": "Ficus exasperata",
+          "scientificNameAuthorship": "Vahl",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ficus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ficus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Forest sandpaper fig",
+            "Sandpaper tree",
+            "Brahma's Banyan"
+          ],
+          "scientificName": "Ficus exasperata Vahl"
+        },
+        "gbif": {
+          "id": "7687857"
+        },
+        "powo": {
+          "id": "852817-1"
+        },
+        "iucn": {
+          "id": "143276941",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00205,
+        "species": {
+          "scientificNameWithoutAuthor": "Clerodendrum trichotomum",
+          "scientificNameAuthorship": "Thunb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Clerodendrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Clerodendrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Glorytree",
+            "Harlequin Glorybower",
+            "Glory bower"
+          ],
+          "scientificName": "Clerodendrum trichotomum Thunb."
+        },
+        "gbif": {
+          "id": "2925366"
+        },
+        "powo": {
+          "id": "927405-1"
+        },
+        "iucn": {
+          "id": "164941752",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00181,
+        "species": {
+          "scientificNameWithoutAuthor": "Abelia × grandiflora",
+          "scientificNameAuthorship": "(Rovelli ex André) Rehder",
+          "genus": {
+            "scientificNameWithoutAuthor": "Abelia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Abelia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caprifoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caprifoliaceae"
+          },
+          "commonNames": [
+            "Glossy abelia"
+          ],
+          "scientificName": "Abelia × grandiflora (Rovelli ex André) Rehder"
+        },
+        "gbif": {
+          "id": "5334278"
+        },
+        "powo": {
+          "id": "148201-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 499
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "hash": "ba22a35ff1ab5751",
+  "image_metadata": {
+    "imageHash": "ba22a35ff1ab5751",
+    "imageLocation": {
+      "latitude": 6.912927777777778,
+      "longitude": 79.86001666666667,
+      "accuracy": 3.284109376104006,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722413,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/ba22a35ff1ab5751.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "90b10022e7f2342bde88ced44afa53ad"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "90b10022e7f2342bde88ced44afa53ad",
+        "filename": "ba22a35ff1ab5751.png",
+        "organ": "leaf",
+        "score": 0.78501
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Phyllanthus urinaria L.",
+    "results": [
+      {
+        "score": 0.02262,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus urinaria",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Chamber bitter",
+            "Common leafflower",
+            "Gale of wind"
+          ],
+          "scientificName": "Phyllanthus urinaria L."
+        },
+        "gbif": {
+          "id": "5382780"
+        },
+        "powo": {
+          "id": "354815-1"
+        }
+      },
+      {
+        "score": 0.02067,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus tenellus",
+          "scientificNameAuthorship": "Roxb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Long-stalk leaf-flower",
+            "Long-stalk phyllanthus",
+            "Mascarene Island leaf-flower"
+          ],
+          "scientificName": "Phyllanthus tenellus Roxb."
+        },
+        "gbif": {
+          "id": "5381097"
+        },
+        "powo": {
+          "id": "354756-1"
+        }
+      },
+      {
+        "score": 0.0185,
+        "species": {
+          "scientificNameWithoutAuthor": "Indigofera heterantha",
+          "scientificNameAuthorship": "Wall. ex Brandis",
+          "genus": {
+            "scientificNameWithoutAuthor": "Indigofera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Indigofera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Himalayan indigo"
+          ],
+          "scientificName": "Indigofera heterantha Wall. ex Brandis"
+        },
+        "gbif": {
+          "id": "2972405"
+        },
+        "powo": {
+          "id": "60473623-2"
+        },
+        "iucn": {
+          "id": "169273977",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01771,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus niruroides",
+          "scientificNameAuthorship": "Müll.Arg.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Seed on the leaf"
+          ],
+          "scientificName": "Phyllanthus niruroides Müll.Arg."
+        },
+        "gbif": {
+          "id": "5381773"
+        },
+        "powo": {
+          "id": "354351-1"
+        }
+      },
+      {
+        "score": 0.01196,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus niruri",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Niruri",
+            "Gale of the wind",
+            "Seed-under-leaf"
+          ],
+          "scientificName": "Phyllanthus niruri L."
+        },
+        "gbif": {
+          "id": "5381945"
+        },
+        "powo": {
+          "id": "194900-2"
+        }
+      },
+      {
+        "score": 0.00919,
+        "species": {
+          "scientificNameWithoutAuthor": "Jacaranda mimosifolia",
+          "scientificNameAuthorship": "D.Don",
+          "genus": {
+            "scientificNameWithoutAuthor": "Jacaranda",
+            "scientificNameAuthorship": "",
+            "scientificName": "Jacaranda"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Bignoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bignoniaceae"
+          },
+          "commonNames": [
+            "Jacaranda",
+            "Fern-tree",
+            "Black Poui"
+          ],
+          "scientificName": "Jacaranda mimosifolia D.Don"
+        },
+        "gbif": {
+          "id": "3172499"
+        },
+        "powo": {
+          "id": "130936-2"
+        },
+        "iucn": {
+          "id": "32027",
+          "category": "VU"
+        }
+      },
+      {
+        "score": 0.0087,
+        "species": {
+          "scientificNameWithoutAuthor": "Indigofera suffruticosa",
+          "scientificNameAuthorship": "Mill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Indigofera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Indigofera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Anil indigo",
+            "Anil-de-Pasto",
+            "Anil de pasto"
+          ],
+          "scientificName": "Indigofera suffruticosa Mill."
+        },
+        "gbif": {
+          "id": "2971774"
+        },
+        "powo": {
+          "id": "500063-1"
+        }
+      },
+      {
+        "score": 0.0072,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa spinosissima",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Scotch rose",
+            "Burnet Rose",
+            "Scotchbriar"
+          ],
+          "scientificName": "Rosa spinosissima L."
+        },
+        "gbif": {
+          "id": "3002333"
+        },
+        "powo": {
+          "id": "324822-2"
+        }
+      },
+      {
+        "score": 0.00703,
+        "species": {
+          "scientificNameWithoutAuthor": "Biophytum sensitivum",
+          "scientificNameAuthorship": "(L.) DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Biophytum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Biophytum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oxalidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oxalidaceae"
+          },
+          "commonNames": [
+            "Lifeplant",
+            "Little tree plant",
+            "Sensitive wood sorrel"
+          ],
+          "scientificName": "Biophytum sensitivum (L.) DC."
+        },
+        "gbif": {
+          "id": "3628231"
+        },
+        "powo": {
+          "id": "371965-1"
+        }
+      },
+      {
+        "score": 0.00688,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa xanthina",
+          "scientificNameAuthorship": "Lindl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Yellow rose",
+            "Father Hugo Rose",
+            "Manchu rose"
+          ],
+          "scientificName": "Rosa xanthina Lindl."
+        },
+        "gbif": {
+          "id": "3002481"
+        },
+        "powo": {
+          "id": "734748-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 463
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "hash": "a5cd0676a5a3b86b",
+  "image_metadata": {
+    "imageHash": "a5cd0676a5a3b86b",
+    "imageLocation": {
+      "latitude": 6.912886111111112,
+      "longitude": 79.85998611111111,
+      "accuracy": 3.238930859711198,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722352,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/a5cd0676a5a3b86b.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "8b4b53e37c6dc4fc0cbffa7a4542adb2"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "8b4b53e37c6dc4fc0cbffa7a4542adb2",
+        "filename": "a5cd0676a5a3b86b.png",
+        "organ": "leaf",
+        "score": 0.86274
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Euphorbia tithymaloides L.",
+    "results": [
+      {
+        "score": 0.20688,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia tithymaloides",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Slipper-flower",
+            "Devil's backbone",
+            "Zig zag plant"
+          ],
+          "scientificName": "Euphorbia tithymaloides L."
+        },
+        "gbif": {
+          "id": "3069168"
+        },
+        "powo": {
+          "id": "102036-2"
+        },
+        "iucn": {
+          "id": "135836706",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01392,
+        "species": {
+          "scientificNameWithoutAuthor": "Silene chalcedonica",
+          "scientificNameAuthorship": "(L.) E.H.L.Krause",
+          "genus": {
+            "scientificNameWithoutAuthor": "Silene",
+            "scientificNameAuthorship": "",
+            "scientificName": "Silene"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caryophyllaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caryophyllaceae"
+          },
+          "commonNames": [
+            "Maltese Cross",
+            "London pride",
+            "Maltese-cross campion"
+          ],
+          "scientificName": "Silene chalcedonica (L.) E.H.L.Krause"
+        },
+        "gbif": {
+          "id": "5584611"
+        },
+        "powo": {
+          "id": "157059-1"
+        }
+      },
+      {
+        "score": 0.01165,
+        "species": {
+          "scientificNameWithoutAuthor": "Smilax bona-nox",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Smilax",
+            "scientificNameAuthorship": "",
+            "scientificName": "Smilax"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Smilacaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Smilacaceae"
+          },
+          "commonNames": [
+            "Catbrier",
+            "Greenbrier",
+            "Bullbrier"
+          ],
+          "scientificName": "Smilax bona-nox L."
+        },
+        "gbif": {
+          "id": "5295574"
+        },
+        "powo": {
+          "id": "541314-1"
+        }
+      },
+      {
+        "score": 0.01142,
+        "species": {
+          "scientificNameWithoutAuthor": "Linum grandiflorum",
+          "scientificNameAuthorship": "Desf.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Linum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Linum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Linaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Linaceae"
+          },
+          "commonNames": [
+            "Crimson flax",
+            "Red flax",
+            "Scarlet flax"
+          ],
+          "scientificName": "Linum grandiflorum Desf."
+        },
+        "gbif": {
+          "id": "2873926"
+        },
+        "powo": {
+          "id": "140834-2"
+        }
+      },
+      {
+        "score": 0.01096,
+        "species": {
+          "scientificNameWithoutAuthor": "Deutzia gracilis",
+          "scientificNameAuthorship": "Siebold & Zucc.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Deutzia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Deutzia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Japanese snowflower",
+            "Slender deutsia",
+            "Slender pride of Rochester"
+          ],
+          "scientificName": "Deutzia gracilis Siebold & Zucc."
+        },
+        "gbif": {
+          "id": "2985964"
+        },
+        "powo": {
+          "id": "790847-1"
+        },
+        "iucn": {
+          "id": "143486491",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01076,
+        "species": {
+          "scientificNameWithoutAuthor": "Vaccinium corymbosum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vaccinium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vaccinium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Blueberry",
+            "Highbush blueberry",
+            "American blueberry"
+          ],
+          "scientificName": "Vaccinium corymbosum L."
+        },
+        "gbif": {
+          "id": "2882849"
+        },
+        "powo": {
+          "id": "261823-2"
+        }
+      },
+      {
+        "score": 0.01052,
+        "species": {
+          "scientificNameWithoutAuthor": "Penstemon digitalis",
+          "scientificNameAuthorship": "Nutt. ex Sims",
+          "genus": {
+            "scientificNameWithoutAuthor": "Penstemon",
+            "scientificNameAuthorship": "",
+            "scientificName": "Penstemon"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Plantaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plantaginaceae"
+          },
+          "commonNames": [
+            "Foxglove Beardtongue",
+            "Beard-Tongue \"Husker Red\" Penstemon digitalis",
+            "Talus slope penstemon"
+          ],
+          "scientificName": "Penstemon digitalis Nutt. ex Sims"
+        },
+        "gbif": {
+          "id": "3171358"
+        },
+        "powo": {
+          "id": "808077-1"
+        }
+      },
+      {
+        "score": 0.01044,
+        "species": {
+          "scientificNameWithoutAuthor": "Tradescantia fluminensis",
+          "scientificNameAuthorship": "Vell.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tradescantia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tradescantia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [
+            "Wandering-Jew",
+            "Spiderwort",
+            "Inch plant"
+          ],
+          "scientificName": "Tradescantia fluminensis Vell."
+        },
+        "gbif": {
+          "id": "2765156"
+        },
+        "powo": {
+          "id": "30090792-2"
+        }
+      },
+      {
+        "score": 0.00855,
+        "species": {
+          "scientificNameWithoutAuthor": "Commelina communis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Commelina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [
+            "Dayflower",
+            "Asiatic dayflower",
+            "Wandering Jew"
+          ],
+          "scientificName": "Commelina communis L."
+        },
+        "gbif": {
+          "id": "2764179"
+        },
+        "powo": {
+          "id": "319150-2"
+        }
+      },
+      {
+        "score": 0.00854,
+        "species": {
+          "scientificNameWithoutAuthor": "Ruscus hypophyllum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ruscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ruscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asparagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asparagaceae"
+          },
+          "commonNames": [
+            "Spineless Butcher's-broom",
+            "Thick-leaved butcher's broom"
+          ],
+          "scientificName": "Ruscus hypophyllum L."
+        },
+        "gbif": {
+          "id": "2769757"
+        },
+        "powo": {
+          "id": "540453-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 471
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "hash": "c83f753b7dfebd50",
+  "image_metadata": {
+    "imageHash": "c83f753b7dfebd50",
+    "imageLocation": {
+      "latitude": 6.913022222222223,
+      "longitude": 79.85999166666666,
+      "accuracy": 3.285253821695443,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722500,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/c83f753b7dfebd50.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "391780529d87e9ca4e095a1d21bb9103"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "391780529d87e9ca4e095a1d21bb9103",
+        "filename": "c83f753b7dfebd50.png",
+        "organ": "leaf",
+        "score": 0.64855
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Phyllanthus tenellus Roxb.",
+    "results": [
+      {
+        "score": 0.15911,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus tenellus",
+          "scientificNameAuthorship": "Roxb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Long-stalk leaf-flower",
+            "Long-stalk phyllanthus",
+            "Mascarene Island leaf-flower"
+          ],
+          "scientificName": "Phyllanthus tenellus Roxb."
+        },
+        "gbif": {
+          "id": "5381097"
+        },
+        "powo": {
+          "id": "354756-1"
+        }
+      },
+      {
+        "score": 0.04516,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus niruri",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Niruri",
+            "Gale of the wind",
+            "Seed-under-leaf"
+          ],
+          "scientificName": "Phyllanthus niruri L."
+        },
+        "gbif": {
+          "id": "5381945"
+        },
+        "powo": {
+          "id": "194900-2"
+        }
+      },
+      {
+        "score": 0.04402,
+        "species": {
+          "scientificNameWithoutAuthor": "Bergera koenigii",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bergera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bergera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Curry Leaf",
+            "Currybush",
+            "Indian bay"
+          ],
+          "scientificName": "Bergera koenigii L."
+        },
+        "gbif": {
+          "id": "3832804"
+        },
+        "powo": {
+          "id": "771522-1"
+        },
+        "iucn": {
+          "id": "156236806",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01833,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus niruroides",
+          "scientificNameAuthorship": "Müll.Arg.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Seed on the leaf"
+          ],
+          "scientificName": "Phyllanthus niruroides Müll.Arg."
+        },
+        "gbif": {
+          "id": "5381773"
+        },
+        "powo": {
+          "id": "354351-1"
+        }
+      },
+      {
+        "score": 0.01418,
+        "species": {
+          "scientificNameWithoutAuthor": "Biophytum sensitivum",
+          "scientificNameAuthorship": "(L.) DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Biophytum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Biophytum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oxalidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oxalidaceae"
+          },
+          "commonNames": [
+            "Lifeplant",
+            "Little tree plant",
+            "Sensitive wood sorrel"
+          ],
+          "scientificName": "Biophytum sensitivum (L.) DC."
+        },
+        "gbif": {
+          "id": "3628231"
+        },
+        "powo": {
+          "id": "371965-1"
+        }
+      },
+      {
+        "score": 0.01373,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus amarus",
+          "scientificNameAuthorship": "Schumach. & Thonn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Carry me seed",
+            "Gale-of-Wind",
+            "Carry-me-seed"
+          ],
+          "scientificName": "Phyllanthus amarus Schumach. & Thonn."
+        },
+        "gbif": {
+          "id": "5382589"
+        },
+        "powo": {
+          "id": "326408-2"
+        }
+      },
+      {
+        "score": 0.01248,
+        "species": {
+          "scientificNameWithoutAuthor": "Sophora microphylla",
+          "scientificNameAuthorship": "Aiton",
+          "genus": {
+            "scientificNameWithoutAuthor": "Sophora",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sophora"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Kowhai",
+            "Small-leaved kōwhai",
+            "Weeping kōwhai"
+          ],
+          "scientificName": "Sophora microphylla Aiton"
+        },
+        "gbif": {
+          "id": "2959082"
+        },
+        "powo": {
+          "id": "518887-1"
+        }
+      },
+      {
+        "score": 0.00706,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllanthus urinaria",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Phyllanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllanthaceae"
+          },
+          "commonNames": [
+            "Chamber bitter",
+            "Common leafflower",
+            "Gale of wind"
+          ],
+          "scientificName": "Phyllanthus urinaria L."
+        },
+        "gbif": {
+          "id": "5382780"
+        },
+        "powo": {
+          "id": "354815-1"
+        }
+      },
+      {
+        "score": 0.00656,
+        "species": {
+          "scientificNameWithoutAuthor": "Gleditsia triacanthos",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gleditsia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gleditsia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Honey-locust",
+            "Thorny Common Honeylocust",
+            "Three-thorned Acacia"
+          ],
+          "scientificName": "Gleditsia triacanthos L."
+        },
+        "gbif": {
+          "id": "2959443"
+        },
+        "powo": {
+          "id": "110723-2"
+        },
+        "iucn": {
+          "id": "62026061",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00594,
+        "species": {
+          "scientificNameWithoutAuthor": "Symphoricarpos orbiculatus",
+          "scientificNameAuthorship": "Moench",
+          "genus": {
+            "scientificNameWithoutAuthor": "Symphoricarpos",
+            "scientificNameAuthorship": "",
+            "scientificName": "Symphoricarpos"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caprifoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caprifoliaceae"
+          },
+          "commonNames": [
+            "Coralberry",
+            "Round snowberry",
+            "Indian-currant"
+          ],
+          "scientificName": "Symphoricarpos orbiculatus Moench"
+        },
+        "gbif": {
+          "id": "2888636"
+        },
+        "powo": {
+          "id": "149465-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 457
+  }
+}

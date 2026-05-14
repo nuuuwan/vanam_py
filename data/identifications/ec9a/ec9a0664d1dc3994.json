@@ -1,0 +1,360 @@
+{
+  "hash": "ec9a0664d1dc3994",
+  "image_metadata": {
+    "imageHash": "ec9a0664d1dc3994",
+    "imageLocation": {
+      "latitude": 6.912866666666667,
+      "longitude": 79.85995555555554,
+      "accuracy": 3.1882900136798904,
+      "source": "exif"
+    },
+    "utImageTaken": 1778722308,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/ec9a0664d1dc3994.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "e2e43d961cfbe4464aa04c46a5b78a7f"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "e2e43d961cfbe4464aa04c46a5b78a7f",
+        "filename": "ec9a0664d1dc3994.png",
+        "organ": "leaf",
+        "score": 0.82657
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Justicia adhatoda L.",
+    "results": [
+      {
+        "score": 0.23741,
+        "species": {
+          "scientificNameWithoutAuthor": "Justicia adhatoda",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Justicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Justicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Vasaka",
+            "Malabar-nut",
+            "Pavettia"
+          ],
+          "scientificName": "Justicia adhatoda L."
+        },
+        "gbif": {
+          "id": "3173105"
+        },
+        "powo": {
+          "id": "50237-1"
+        },
+        "iucn": {
+          "id": "169274250",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01463,
+        "species": {
+          "scientificNameWithoutAuthor": "Cestrum parqui",
+          "scientificNameAuthorship": "(Lam.) L'Hér.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cestrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cestrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Chilean jessamine",
+            "Chilean Cestrum",
+            "Green cestrum"
+          ],
+          "scientificName": "Cestrum parqui (Lam.) L'Hér."
+        },
+        "gbif": {
+          "id": "2928792"
+        },
+        "powo": {
+          "id": "30046363-2"
+        },
+        "iucn": {
+          "id": "82861249",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01398,
+        "species": {
+          "scientificNameWithoutAuthor": "Oenothera biennis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Oenothera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oenothera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Onagraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Onagraceae"
+          },
+          "commonNames": [
+            "Common evening primrose",
+            "Evening Primrose",
+            "Field Primrose"
+          ],
+          "scientificName": "Oenothera biennis L."
+        },
+        "gbif": {
+          "id": "3188924"
+        },
+        "powo": {
+          "id": "172755-2"
+        }
+      },
+      {
+        "score": 0.01224,
+        "species": {
+          "scientificNameWithoutAuthor": "Salix pentandra",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Salix",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salix"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Bay willow",
+            "Laurel willow",
+            "Bay-leaf Willow"
+          ],
+          "scientificName": "Salix pentandra L."
+        },
+        "gbif": {
+          "id": "5372647"
+        },
+        "powo": {
+          "id": "312506-2"
+        },
+        "iucn": {
+          "id": "79927560",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01173,
+        "species": {
+          "scientificNameWithoutAuthor": "Cephalanthus occidentalis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cephalanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cephalanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rubiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rubiaceae"
+          },
+          "commonNames": [
+            "Common buttonbush",
+            "Button-willow",
+            "Buttonbush"
+          ],
+          "scientificName": "Cephalanthus occidentalis L."
+        },
+        "gbif": {
+          "id": "2923947"
+        },
+        "powo": {
+          "id": "319140-2"
+        },
+        "iucn": {
+          "id": "64310261",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01136,
+        "species": {
+          "scientificNameWithoutAuthor": "Phyllis nobla",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phyllis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phyllis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rubiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rubiaceae"
+          },
+          "commonNames": [
+            "Capitana"
+          ],
+          "scientificName": "Phyllis nobla L."
+        },
+        "gbif": {
+          "id": "5337520"
+        },
+        "powo": {
+          "id": "760455-1"
+        }
+      },
+      {
+        "score": 0.00806,
+        "species": {
+          "scientificNameWithoutAuthor": "Magnolia champaca",
+          "scientificNameAuthorship": "(L.) Baill. ex Pierre",
+          "genus": {
+            "scientificNameWithoutAuthor": "Magnolia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnolia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Magnoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnoliaceae"
+          },
+          "commonNames": [
+            "Champak tree",
+            "Michelia",
+            "Champac"
+          ],
+          "scientificName": "Magnolia champaca (L.) Baill. ex Pierre"
+        },
+        "gbif": {
+          "id": "3153099"
+        },
+        "powo": {
+          "id": "554657-1"
+        },
+        "iucn": {
+          "id": "191869",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.008,
+        "species": {
+          "scientificNameWithoutAuthor": "Cestrum nocturnum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cestrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cestrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Night jasmine",
+            "Raat Rani",
+            "مسك الليل"
+          ],
+          "scientificName": "Cestrum nocturnum L."
+        },
+        "gbif": {
+          "id": "2928791"
+        },
+        "powo": {
+          "id": "316386-2"
+        },
+        "iucn": {
+          "id": "72045868",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.008,
+        "species": {
+          "scientificNameWithoutAuthor": "Antirhea borbonica",
+          "scientificNameAuthorship": "J.F.Gmel.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Antirhea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Antirhea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rubiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rubiaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Antirhea borbonica J.F.Gmel."
+        },
+        "gbif": {
+          "id": "2924411"
+        },
+        "powo": {
+          "id": "743451-1"
+        },
+        "iucn": {
+          "id": "65877645",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0064,
+        "species": {
+          "scientificNameWithoutAuthor": "Cestrum aurantiacum",
+          "scientificNameAuthorship": "Lindl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cestrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cestrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Orange cestrum",
+            "Yellow cestrum",
+            "Orange Jessamine"
+          ],
+          "scientificName": "Cestrum aurantiacum Lindl."
+        },
+        "gbif": {
+          "id": "2928790"
+        },
+        "powo": {
+          "id": "814910-1"
+        },
+        "iucn": {
+          "id": "136788108",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 450
+  }
+}
