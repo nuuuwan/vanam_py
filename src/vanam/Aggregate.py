@@ -40,12 +40,10 @@ class Aggregate:
                 if data is not None:
                     yield data
 
+    PREDICTION_CONFIDENCE_THRESHOLD = 0.10
+
     @staticmethod
-    def _top_prediction(identification: dict) -> dict | None:
-        results = identification.get("plantnet_data", {}).get("results", [])
-        if not results:
-            return None
-        result = results[0]
+    def _parse_result(result: dict) -> dict:
         species = result.get("species", {})
         gbif = result.get("gbif") or {}
         iucn = result.get("iucn") or {}
@@ -65,6 +63,14 @@ class Aggregate:
             "iucnCategory": iucn.get("category", ""),
             "powoId": str(powo.get("id", "")),
         }
+
+    def _predictions(self, identification: dict) -> list[dict]:
+        results = identification.get("plantnet_data", {}).get("results", [])
+        return [
+            self._parse_result(r)
+            for r in results
+            if r.get("score", 0) > self.PREDICTION_CONFIDENCE_THRESHOLD
+        ]
 
     @staticmethod
     def _write_json(path: str, data) -> None:
@@ -87,7 +93,7 @@ class Aggregate:
             image_meta = ident.get("image_metadata", {})
             location = image_meta.get("imageLocation", {})
             user_id = image_meta.get("userId")
-            top = self._top_prediction(ident)
+            predictions = self._predictions(ident)
 
             # user_map
             if user_id:
@@ -116,7 +122,7 @@ class Aggregate:
                     "utImageTaken": ut,
                     "timeImageTaken": time_taken,
                     "userId": user_id,
-                    "topPrediction": top,
+                    "predictions": predictions,
                 }
             )
 
