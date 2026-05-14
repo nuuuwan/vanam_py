@@ -9,6 +9,8 @@ from utils import Log
 log = Log(__name__)
 
 PLANTNET_API_URL = "https://my-api.plantnet.org/v2/identify/all"
+NOMINATIM_API_URL = "https://nominatim.openstreetmap.org/reverse"
+NOMINATIM_USER_AGENT = "vanam_py/1.0"
 DATA_IMAGES_DIR = os.path.join("data", "images")
 DATA_IMAGE_METADATA_DIR = os.path.join("data", "image-metadata")
 DATA_IDENTIFICATIONS_DIR = os.path.join("data", "identifications")
@@ -91,6 +93,24 @@ class Identify:
         return raw
 
     # ------------------------------------------------------------------
+    # Nominatim API
+    # ------------------------------------------------------------------
+
+    @staticmethod
+    def _call_nominatim_raw(lat: float, lng: float) -> dict:
+        """Reverse-geocode a coordinate with Nominatim and return the raw response dict."""
+        response = requests.get(
+            NOMINATIM_API_URL,
+            params={"lat": lat, "lon": lng, "format": "json"},
+            headers={"User-Agent": NOMINATIM_USER_AGENT},
+            timeout=30,
+        )
+        response.raise_for_status()
+        raw = response.json()
+        log.debug(json.dumps(raw, indent=2, ensure_ascii=False))
+        return raw
+
+    # ------------------------------------------------------------------
     # Save
     # ------------------------------------------------------------------
 
@@ -117,9 +137,7 @@ class Identify:
         saved_paths = []
 
         for stem in pending:
-            photo_path = os.path.join(
-                DATA_IMAGES_DIR, stem[:4], f"{stem}.png"
-            )
+            photo_path = os.path.join(DATA_IMAGES_DIR, stem[:4], f"{stem}.png")
             if not os.path.exists(photo_path):
                 log.debug(f"Photo not found on disk: {photo_path}")
                 continue
@@ -128,6 +146,14 @@ class Identify:
             try:
                 image_metadata = self._load_image_metadata(stem)
                 plantnet_data = self._call_plantnet_raw(photo_path)
+                location = image_metadata.get("imageLocation", {})
+                lat = location.get("latitude")
+                lng = location.get("longitude")
+                nominatim_data = (
+                    self._call_nominatim_raw(lat, lng)
+                    if lat is not None and lng is not None
+                    else {}
+                )
             except requests.HTTPError as exc:
                 log.warning(f"PlantNet error for {stem}: {exc}")
                 continue
@@ -136,6 +162,7 @@ class Identify:
                 "hash": stem,
                 "image_metadata": image_metadata,
                 "plantnet_data": plantnet_data,
+                "nominatim_data": nominatim_data,
             }
 
             saved_paths.append(self._save(stem, identification))

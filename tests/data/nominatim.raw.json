@@ -1,0 +1,28 @@
+{
+  "place_id": 254261925,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 173112625,
+  "lat": "6.9095247",
+  "lon": "79.8583980",
+  "class": "highway",
+  "type": "residential",
+  "place_rank": 26,
+  "importance": 0.0534050164034485,
+  "addresstype": "road",
+  "name": "",
+  "display_name": "Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00300, Sri Lanka",
+  "address": {
+    "suburb": "Town Hall",
+    "village": "Slave Island",
+    "city": "Colombo",
+    "state_district": "Colombo District",
+    "ISO3166-2-lvl5": "LK-11",
+    "state": "Western Province",
+    "ISO3166-2-lvl4": "LK-1",
+    "postcode": "00300",
+    "country": "Sri Lanka",
+    "country_code": "lk"
+  },
+  "boundingbox": ["6.9095247", "6.9102238", "79.8583980", "79.8590015"]
+}
