@@ -19,7 +19,7 @@ class CleanupLowConf:
       - Photo was taken more than MAX_AGE_DAYS days ago
     """
 
-    CONFIDENCE_THRESHOLD = 0.20
+    CONFIDENCE_THRESHOLD = 0.10
     MAX_AGE_DAYS = 1
 
     # ------------------------------------------------------------------
