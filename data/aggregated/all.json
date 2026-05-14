@@ -9,6 +9,7 @@
     "utImageTaken": 1733025605,
     "timeImageTaken": "2024-12-01 04:00:05",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.39635,
@@ -52,6 +53,7 @@
     "utImageTaken": 1778722308,
     "timeImageTaken": "2026-05-14 01:31:48",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.23741,
@@ -80,6 +82,7 @@
     "utImageTaken": 1778722413,
     "timeImageTaken": "2026-05-14 01:33:33",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": []
   },
   {
@@ -92,6 +95,7 @@
     "utImageTaken": 1772863980,
     "timeImageTaken": "2026-03-07 06:13:00",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.78142,
@@ -120,6 +124,7 @@
     "utImageTaken": 1772864014,
     "timeImageTaken": "2026-03-07 06:13:34",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.29798,
@@ -148,6 +153,7 @@
     "utImageTaken": 1778722346,
     "timeImageTaken": "2026-05-14 01:32:26",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.89816,
@@ -176,6 +182,7 @@
     "utImageTaken": 1778722373,
     "timeImageTaken": "2026-05-14 01:32:53",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.85705,
@@ -204,6 +211,7 @@
     "utImageTaken": 1748658594,
     "timeImageTaken": "2025-05-31 02:29:54",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.43951,
@@ -231,6 +239,7 @@
     "utImageTaken": 1778722477,
     "timeImageTaken": "2026-05-14 01:34:37",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.52153,
@@ -259,6 +268,7 @@
     "utImageTaken": 1778722451,
     "timeImageTaken": "2026-05-14 01:34:11",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.8111,
@@ -287,6 +297,7 @@
     "utImageTaken": 1778722504,
     "timeImageTaken": "2026-05-14 01:35:04",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.19823,
@@ -329,6 +340,7 @@
     "utImageTaken": 1778722439,
     "timeImageTaken": "2026-05-14 01:33:59",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.71346,
@@ -357,6 +369,7 @@
     "utImageTaken": 1778722446,
     "timeImageTaken": "2026-05-14 01:34:06",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.82106,
@@ -385,6 +398,7 @@
     "utImageTaken": 1778722489,
     "timeImageTaken": "2026-05-14 01:34:49",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.14809,
@@ -413,6 +427,7 @@
     "utImageTaken": 1697616302,
     "timeImageTaken": "2023-10-18 08:05:02",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.62293,
@@ -456,6 +471,7 @@
     "utImageTaken": 1778722508,
     "timeImageTaken": "2026-05-14 01:35:08",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.19044,
@@ -483,6 +499,7 @@
     "utImageTaken": 1778722462,
     "timeImageTaken": "2026-05-14 01:34:22",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": []
   },
   {
@@ -495,6 +512,7 @@
     "utImageTaken": 1778722390,
     "timeImageTaken": "2026-05-14 01:33:10",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.77516,
@@ -523,6 +541,7 @@
     "utImageTaken": 1778722363,
     "timeImageTaken": "2026-05-14 01:32:43",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.90377,
@@ -551,6 +570,7 @@
     "utImageTaken": "1778656068",
     "timeImageTaken": "2026-05-13 07:07:48",
     "userId": "06qahco",
+    "nominatim_display_name": null,
     "predictions": []
   },
   {
@@ -563,6 +583,7 @@
     "utImageTaken": "1778645972",
     "timeImageTaken": "2026-05-13 04:19:32",
     "userId": "9f6fcdc6",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.91645,
@@ -591,6 +612,7 @@
     "utImageTaken": 1778722423,
     "timeImageTaken": "2026-05-14 01:33:43",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.31485,
@@ -619,6 +641,7 @@
     "utImageTaken": 1778722279,
     "timeImageTaken": "2026-05-14 01:31:19",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.68535,
@@ -647,6 +670,7 @@
     "utImageTaken": 1778722500,
     "timeImageTaken": "2026-05-14 01:35:00",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.15911,
@@ -675,6 +699,7 @@
     "utImageTaken": 1737889412,
     "timeImageTaken": "2025-01-26 11:03:32",
     "userId": "1bi07e4",
+    "nominatim_display_name": "209, Homer Avenue, University South, Palo Alto, Santa Clara County, California, 94301, United States",
     "predictions": [
       {
         "confidence": 0.34672,
@@ -718,6 +743,7 @@
     "utImageTaken": 1696131450,
     "timeImageTaken": "2023-10-01 03:37:30",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Elahera-Giritale Road, Diyabeduma, Polonnaruwa District, North Central Province, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.62905,
@@ -761,6 +787,7 @@
     "utImageTaken": 1778722317,
     "timeImageTaken": "2026-05-14 01:31:57",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.18205,
@@ -789,6 +816,7 @@
     "utImageTaken": 1778722366,
     "timeImageTaken": "2026-05-14 01:32:46",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.79682,
@@ -817,6 +845,7 @@
     "utImageTaken": 1778722420,
     "timeImageTaken": "2026-05-14 01:33:40",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": []
   },
   {
@@ -829,6 +858,7 @@
     "utImageTaken": 1778722434,
     "timeImageTaken": "2026-05-14 01:33:54",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.20136,
@@ -857,6 +887,7 @@
     "utImageTaken": 1772862899,
     "timeImageTaken": "2026-03-07 05:54:59",
     "userId": "1bi07e4",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.26526,
@@ -900,6 +931,7 @@
     "utImageTaken": 1778722415,
     "timeImageTaken": "2026-05-14 01:33:35",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": []
   },
   {
@@ -912,6 +944,7 @@
     "utImageTaken": 1772863873,
     "timeImageTaken": "2026-03-07 06:11:13",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.58154,
@@ -955,6 +988,7 @@
     "utImageTaken": 1733025658,
     "timeImageTaken": "2024-12-01 04:00:58",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
         "confidence": 0.34273,
@@ -1013,6 +1047,7 @@
     "utImageTaken": "1778648524",
     "timeImageTaken": "2026-05-13 05:02:04",
     "userId": "9f6fcdc6",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.89692,
@@ -1041,6 +1076,7 @@
     "utImageTaken": "1778656698",
     "timeImageTaken": "2026-05-13 07:18:18",
     "userId": "1bi07e4",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
     "predictions": []
   },
   {
@@ -1053,6 +1089,7 @@
     "utImageTaken": 1778722400,
     "timeImageTaken": "2026-05-14 01:33:20",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.11927,
@@ -1081,6 +1118,7 @@
     "utImageTaken": 1748659075,
     "timeImageTaken": "2025-05-31 02:37:55",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Pedlar Street, Talbot Town, Galle, Galle District, Southern Province, 80000, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.9036,
@@ -1109,6 +1147,7 @@
     "utImageTaken": 1778722444,
     "timeImageTaken": "2026-05-14 01:34:04",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.69588,
@@ -1137,6 +1176,7 @@
     "utImageTaken": 1778463910,
     "timeImageTaken": "2026-05-11 01:45:10",
     "userId": "4c5bc7a0",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.93118,
@@ -1165,6 +1205,7 @@
     "utImageTaken": 1733025447,
     "timeImageTaken": "2024-12-01 03:57:27",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
         "confidence": 0.56801,
@@ -1208,6 +1249,7 @@
     "utImageTaken": 1775277302,
     "timeImageTaken": "2026-04-04 04:35:02",
     "userId": "e1776bd6",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.30489,
@@ -1234,6 +1276,7 @@
     "utImageTaken": 1778722497,
     "timeImageTaken": "2026-05-14 01:34:57",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.45725,
@@ -1262,6 +1305,7 @@
     "utImageTaken": 1663752919,
     "timeImageTaken": "2022-09-21 09:35:19",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.79748,
@@ -1290,6 +1334,7 @@
     "utImageTaken": 1778722455,
     "timeImageTaken": "2026-05-14 01:34:15",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.10962,
@@ -1318,6 +1363,7 @@
     "utImageTaken": 1778722338,
     "timeImageTaken": "2026-05-14 01:32:18",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.8106,
@@ -1346,6 +1392,7 @@
     "utImageTaken": 1778722506,
     "timeImageTaken": "2026-05-14 01:35:06",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": []
   },
   {
@@ -1358,6 +1405,7 @@
     "utImageTaken": 1775277324,
     "timeImageTaken": "2026-04-04 04:35:24",
     "userId": "e1776bd6",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.38905,
@@ -1384,6 +1432,7 @@
     "utImageTaken": 1778722333,
     "timeImageTaken": "2026-05-14 01:32:13",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.93871,
@@ -1412,6 +1461,7 @@
     "utImageTaken": 1778722429,
     "timeImageTaken": "2026-05-14 01:33:49",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.16815,
@@ -1440,6 +1490,7 @@
     "utImageTaken": 1778722357,
     "timeImageTaken": "2026-05-14 01:32:37",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.94192,
@@ -1468,6 +1519,7 @@
     "utImageTaken": 1733025808,
     "timeImageTaken": "2024-12-01 04:03:28",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
         "confidence": 0.79896,
@@ -1496,6 +1548,7 @@
     "utImageTaken": 1733025435,
     "timeImageTaken": "2024-12-01 03:57:15",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
         "confidence": 0.55966,
@@ -1539,6 +1592,7 @@
     "utImageTaken": 1663752718,
     "timeImageTaken": "2022-09-21 09:31:58",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.98413,
@@ -1567,6 +1621,7 @@
     "utImageTaken": 1778722465,
     "timeImageTaken": "2026-05-14 01:34:25",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.13706,
@@ -1610,6 +1665,7 @@
     "utImageTaken": 1778722410,
     "timeImageTaken": "2026-05-14 01:33:30",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": []
   },
   {
@@ -1622,6 +1678,7 @@
     "utImageTaken": 1775282853,
     "timeImageTaken": "2026-04-04 06:07:33",
     "userId": "e1776bd6",
+    "nominatim_display_name": "Stone bridge 01, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.62638,
@@ -1650,6 +1707,7 @@
     "utImageTaken": 1696131412,
     "timeImageTaken": "2023-10-01 03:36:52",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.92883,
@@ -1678,6 +1736,7 @@
     "utImageTaken": 1697614778,
     "timeImageTaken": "2023-10-18 07:39:38",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.61038,
@@ -1704,6 +1763,7 @@
     "utImageTaken": 1778722285,
     "timeImageTaken": "2026-05-14 01:31:25",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.86159,
@@ -1732,6 +1792,7 @@
     "utImageTaken": 1778656726,
     "timeImageTaken": "2026-05-13 07:18:46",
     "userId": "1bi07e4",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
     "predictions": []
   },
   {
@@ -1744,6 +1805,7 @@
     "utImageTaken": 1778722321,
     "timeImageTaken": "2026-05-14 01:32:01",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.95733,
@@ -1772,6 +1834,7 @@
     "utImageTaken": 1777514231,
     "timeImageTaken": "2026-04-30 01:57:11",
     "userId": "e1776bd6",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.35893,
@@ -1800,6 +1863,7 @@
     "utImageTaken": 1733025822,
     "timeImageTaken": "2024-12-01 04:03:42",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
         "confidence": 0.89087,
@@ -1828,6 +1892,7 @@
     "utImageTaken": 1733025762,
     "timeImageTaken": "2024-12-01 04:02:42",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
         "confidence": 0.23918,
@@ -1871,6 +1936,7 @@
     "utImageTaken": 1733025925,
     "timeImageTaken": "2024-12-01 04:05:25",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma Utara, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
         "confidence": 0.61447,
@@ -1899,6 +1965,7 @@
     "utImageTaken": 1733025422,
     "timeImageTaken": "2024-12-01 03:57:02",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.90267,
@@ -1927,6 +1994,7 @@
     "utImageTaken": 1733025621,
     "timeImageTaken": "2024-12-01 04:00:21",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
         "confidence": 0.86418,
@@ -1955,6 +2023,7 @@
     "utImageTaken": 1737875412,
     "timeImageTaken": "2025-01-26 07:10:12",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.41021,
@@ -1998,6 +2067,7 @@
     "utImageTaken": 1778722377,
     "timeImageTaken": "2026-05-14 01:32:57",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.26807,
@@ -2041,6 +2111,7 @@
     "utImageTaken": 1733025820,
     "timeImageTaken": "2024-12-01 04:03:40",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.85483,
@@ -2069,6 +2140,7 @@
     "utImageTaken": 1778656727,
     "timeImageTaken": "2026-05-13 07:18:47",
     "userId": "1bi07e4",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.11875,
@@ -2097,6 +2169,7 @@
     "utImageTaken": 1737875402,
     "timeImageTaken": "2025-01-26 07:10:02",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.6128,
@@ -2125,6 +2198,7 @@
     "utImageTaken": 1778722301,
     "timeImageTaken": "2026-05-14 01:31:41",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.11052,
@@ -2153,6 +2227,7 @@
     "utImageTaken": 1775277316,
     "timeImageTaken": "2026-04-04 04:35:16",
     "userId": "e1776bd6",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.54083,
@@ -2181,6 +2256,7 @@
     "utImageTaken": 1737874935,
     "timeImageTaken": "2025-01-26 07:02:15",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.40419,
@@ -2224,6 +2300,7 @@
     "utImageTaken": 1778656728,
     "timeImageTaken": "2026-05-13 07:18:48",
     "userId": "1bi07e4",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.30146,
@@ -2267,6 +2344,7 @@
     "utImageTaken": 1778722408,
     "timeImageTaken": "2026-05-14 01:33:28",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": []
   },
   {
@@ -2279,6 +2357,7 @@
     "utImageTaken": 1778722472,
     "timeImageTaken": "2026-05-14 01:34:32",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.11581,
@@ -2305,6 +2384,7 @@
     "utImageTaken": 1778722292,
     "timeImageTaken": "2026-05-14 01:31:32",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
         "confidence": 0.94251,
@@ -2333,6 +2413,7 @@
     "utImageTaken": 1778722329,
     "timeImageTaken": "2026-05-14 01:32:09",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.95789,
@@ -2361,6 +2442,7 @@
     "utImageTaken": 1778722495,
     "timeImageTaken": "2026-05-14 01:34:55",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.2484,
@@ -2404,6 +2486,7 @@
     "utImageTaken": 1778722469,
     "timeImageTaken": "2026-05-14 01:34:29",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.16225,
@@ -2445,6 +2528,7 @@
     "utImageTaken": 1778722384,
     "timeImageTaken": "2026-05-14 01:33:04",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.98095,
@@ -2473,6 +2557,7 @@
     "utImageTaken": 1738831571,
     "timeImageTaken": "2025-02-06 08:46:11",
     "userId": "1bi07e4",
+    "nominatim_display_name": "576, Webster Street, Downtown North, Palo Alto, Santa Clara County, California, 94301, United States",
     "predictions": [
       {
         "confidence": 0.51872,
@@ -2501,6 +2586,7 @@
     "utImageTaken": 1778722352,
     "timeImageTaken": "2026-05-14 01:32:32",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.20688,
@@ -2529,6 +2615,7 @@
     "utImageTaken": 1733025996,
     "timeImageTaken": "2024-12-01 04:06:36",
     "userId": "1bi07e4",
+    "nominatim_display_name": null,
     "predictions": [
       {
         "confidence": 0.3992,
@@ -2572,6 +2659,7 @@
     "utImageTaken": 1733025569,
     "timeImageTaken": "2024-12-01 03:59:29",
     "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
         "confidence": 0.67296,
