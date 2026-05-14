@@ -1,8 +1,8 @@
 # Vanam - Data
 
-![updated](https://img.shields.io/badge/updated-2026--05--14%2003:32:04-blue)  ![data size](https://img.shields.io/badge/data%20size-6.1M-lightgrey)
+![updated](https://img.shields.io/badge/updated-2026--05--14%2009:23:09-blue)  ![data size](https://img.shields.io/badge/data%20size-5.5M-lightgrey)
 
-**88** plant identification(s), sorted by most recently photographed.
+**95** plant identification(s), sorted by most recently photographed.
 
 | # | Image | Species | Confidence | Time Taken | User | Image Hash |
 |---|---|---|---|---|---|---|
@@ -92,8 +92,15 @@
 | 84 | <a href="images/b8ad/b8ad9be301563966.png"><img src="images/b8ad/b8ad9be301563966.png" width="64"/></a> | [*Crinum moorei Hook.f.*](identifications/b8ad/b8ad9be301563966.json) | 61.0% | 2023-10-18 07:39 UTC | `1bi07e4` | [`b8ad9be301563966`](images/b8ad/b8ad9be301563966.png) |
 | 85 | <a href="images/3a7b/3a7b5f729e42e61e.png"><img src="images/3a7b/3a7b5f729e42e61e.png" width="64"/></a> | [*Bougainvillea spectabilis Willd.*](identifications/3a7b/3a7b5f729e42e61e.json) | 62.9% | 2023-10-01 03:37 UTC | `1bi07e4` | [`3a7b5f729e42e61e`](images/3a7b/3a7b5f729e42e61e.png) |
 | 86 | <a href="images/e56b/e56bf4cb053f23c6.png"><img src="images/e56b/e56bf4cb053f23c6.png" width="64"/></a> | [*Alysicarpus vaginalis (L.) DC.*](identifications/e56b/e56bf4cb053f23c6.json) | 92.9% | 2023-10-01 03:36 UTC | `1bi07e4` | [`e56bf4cb053f23c6`](images/e56b/e56bf4cb053f23c6.png) |
-| 87 | <a href="images/df3c/df3ce15a4da1a2ad.png"><img src="images/df3c/df3ce15a4da1a2ad.png" width="64"/></a> | [*Alcea rosea L.*](identifications/df3c/df3ce15a4da1a2ad.json) | 79.7% | 2022-09-21 09:35 UTC | `1bi07e4` | [`df3ce15a4da1a2ad`](images/df3c/df3ce15a4da1a2ad.png) |
-| 88 | <a href="images/b20c/b20c18d33feb6010.png"><img src="images/b20c/b20c18d33feb6010.png" width="64"/></a> | [*Punica granatum L.*](identifications/b20c/b20c18d33feb6010.json) | 98.4% | 2022-09-21 09:31 UTC | `1bi07e4` | [`b20c18d33feb6010`](images/b20c/b20c18d33feb6010.png) |
+| 87 | <a href="images/59f7/59f7f20e8fd65500.png"><img src="images/59f7/59f7f20e8fd65500.png" width="64"/></a> | [*Malus hupehensis (Pamp.) Rehder*](identifications/59f7/59f7f20e8fd65500.json) | 20.6% | 2023-07-20 09:06 UTC | `1bi07e4` | [`59f7f20e8fd65500`](images/59f7/59f7f20e8fd65500.png) |
+| 88 | <a href="images/d67b/d67b8838336afd07.png"><img src="images/d67b/d67b8838336afd07.png" width="64"/></a> | [*Cirsium vulgare (Savi) Ten.*](identifications/d67b/d67b8838336afd07.json) | 87.0% | 2023-07-19 08:02 UTC | `1bi07e4` | [`d67b8838336afd07`](images/d67b/d67b8838336afd07.png) |
+| 89 | <a href="images/c6c4/c6c4b3a045893055.png"><img src="images/c6c4/c6c4b3a045893055.png" width="64"/></a> | [*Calystegia sepium (L.) R.Br.*](identifications/c6c4/c6c4b3a045893055.json) | 35.5% | 2023-07-19 08:00 UTC | `1bi07e4` | [`c6c4b3a045893055`](images/c6c4/c6c4b3a045893055.png) |
+| 90 | <a href="images/b0e3/b0e3a6cd50db0815.png"><img src="images/b0e3/b0e3a6cd50db0815.png" width="64"/></a> | [*Populus nigra L.*](identifications/b0e3/b0e3a6cd50db0815.json) | 62.6% | 2023-07-19 07:37 UTC | `1bi07e4` | [`b0e3a6cd50db0815`](images/b0e3/b0e3a6cd50db0815.png) |
+| 91 | <a href="images/2f54/2f54f1d12f691001.png"><img src="images/2f54/2f54f1d12f691001.png" width="64"/></a> | [*Artocarpus heterophyllus Lam.*](identifications/2f54/2f54f1d12f691001.json) | 43.4% | 2023-07-16 08:33 UTC | `1bi07e4` | [`2f54f1d12f691001`](images/2f54/2f54f1d12f691001.png) |
+| 92 | <a href="images/6df8/6df8558be0fac10b.png"><img src="images/6df8/6df8558be0fac10b.png" width="64"/></a> | [*Rosa chinensis Jacq.*](identifications/6df8/6df8558be0fac10b.json) | 24.7% | 2023-07-13 01:55 UTC | `1bi07e4` | [`6df8558be0fac10b`](images/6df8/6df8558be0fac10b.png) |
+| 93 | <a href="images/df3c/df3ce15a4da1a2ad.png"><img src="images/df3c/df3ce15a4da1a2ad.png" width="64"/></a> | [*Alcea rosea L.*](identifications/df3c/df3ce15a4da1a2ad.json) | 79.7% | 2022-09-21 09:35 UTC | `1bi07e4` | [`df3ce15a4da1a2ad`](images/df3c/df3ce15a4da1a2ad.png) |
+| 94 | <a href="images/b20c/b20c18d33feb6010.png"><img src="images/b20c/b20c18d33feb6010.png" width="64"/></a> | [*Punica granatum L.*](identifications/b20c/b20c18d33feb6010.json) | 98.4% | 2022-09-21 09:31 UTC | `1bi07e4` | [`b20c18d33feb6010`](images/b20c/b20c18d33feb6010.png) |
+| 95 | <a href="images/be20/be209a8472559587.png"><img src="images/be20/be209a8472559587.png" width="64"/></a> | [*Armeria maritima (Mill.) Willd.*](identifications/be20/be209a8472559587.json) | 23.9% | 2017-05-29 12:23 UTC | `1bi07e4` | [`be209a8472559587`](images/be20/be209a8472559587.png) |
 
 ---
 
