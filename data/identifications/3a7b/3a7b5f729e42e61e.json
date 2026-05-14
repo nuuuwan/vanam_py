@@ -344,5 +344,36 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 341
+  },
+  "nominatim_data": {
+    "place_id": 254692292,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 108178330,
+    "lat": "7.9902909",
+    "lon": "80.9211749",
+    "class": "highway",
+    "type": "secondary",
+    "place_rank": 26,
+    "importance": 0.053385237659266005,
+    "addresstype": "road",
+    "name": "Elahera-Giritale Road",
+    "display_name": "Elahera-Giritale Road, Diyabeduma, Polonnaruwa District, North Central Province, Sri Lanka",
+    "address": {
+      "road": "Elahera-Giritale Road",
+      "town": "Diyabeduma",
+      "state_district": "Polonnaruwa District",
+      "ISO3166-2-lvl5": "LK-72",
+      "state": "North Central Province",
+      "ISO3166-2-lvl4": "LK-7",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.9000412",
+      "7.9981769",
+      "80.8465058",
+      "80.9244804"
+    ]
   }
 }

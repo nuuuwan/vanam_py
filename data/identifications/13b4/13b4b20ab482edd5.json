@@ -158,5 +158,41 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 347
+  },
+  "nominatim_data": {
+    "place_id": 30346894,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 260599903,
+    "lat": "-8.7049441",
+    "lon": "115.1664924",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.952773327225174e-05,
+    "addresstype": "tourism",
+    "name": "Padma Resort Legian",
+    "display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
+    "address": {
+      "tourism": "Padma Resort Legian",
+      "house_number": "1",
+      "road": "Jalan Padma",
+      "suburb": "Legian",
+      "town": "Kuta",
+      "region": "Badung",
+      "state": "Bali",
+      "ISO3166-2-lvl4": "ID-BA",
+      "archipelago": "Nusa Tenggara",
+      "ISO3166-2-lvl3": "ID-NU",
+      "postcode": "80361",
+      "country": "Indonesia",
+      "country_code": "id"
+    },
+    "boundingbox": [
+      "-8.7064036",
+      "-8.7036258",
+      "115.1653218",
+      "115.1681862"
+    ]
   }
 }

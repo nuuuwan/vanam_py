@@ -341,5 +341,38 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 349
+  },
+  "nominatim_data": {
+    "place_id": 254193492,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 994096820,
+    "lat": "6.0255935",
+    "lon": "80.2157949",
+    "class": "amenity",
+    "type": "parking",
+    "place_rank": 30,
+    "importance": 4.0000762951049326e-05,
+    "addresstype": "amenity",
+    "name": "",
+    "display_name": "Pedlar Street, Talbot Town, Galle, Galle District, Southern Province, 80000, Sri Lanka",
+    "address": {
+      "road": "Pedlar Street",
+      "suburb": "Talbot Town",
+      "city": "Galle",
+      "state_district": "Galle District",
+      "ISO3166-2-lvl5": "LK-31",
+      "state": "Southern Province",
+      "ISO3166-2-lvl4": "LK-3",
+      "postcode": "80000",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "6.0251735",
+      "6.0261866",
+      "80.2152676",
+      "80.2162180"
+    ]
   }
 }

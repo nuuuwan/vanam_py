@@ -358,5 +358,38 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 370
+  },
+  "nominatim_data": {
+    "place_id": 325312674,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 132580669,
+    "lat": "37.4427135",
+    "lon": "-122.1590165",
+    "class": "building",
+    "type": "yes",
+    "place_rank": 30,
+    "importance": 6.655451285568044e-05,
+    "addresstype": "building",
+    "name": "",
+    "display_name": "209, Homer Avenue, University South, Palo Alto, Santa Clara County, California, 94301, United States",
+    "address": {
+      "house_number": "209",
+      "road": "Homer Avenue",
+      "neighbourhood": "University South",
+      "city": "Palo Alto",
+      "county": "Santa Clara County",
+      "state": "California",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "94301",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "37.4426438",
+      "37.4427806",
+      "-122.1591134",
+      "-122.1589154"
+    ]
   }
 }
