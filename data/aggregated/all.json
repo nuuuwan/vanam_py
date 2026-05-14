@@ -1,416 +1,46 @@
 [
   {
-    "imageHash": "5bfa3cfd9aa6d6c9",
+    "imageHash": "f662782edadfe9bf",
     "latLng": {
-      "lat": 6.912961111111112,
-      "lng": 79.86000833333333
+      "lat": -8.703630555555554,
+      "lng": 115.16630555555557
     },
     "source": "exif",
-    "utImageTaken": 1778722444,
-    "timeImageTaken": "2026-05-14 01:34:04",
+    "utImageTaken": 1733025605,
+    "timeImageTaken": "2024-12-01 04:00:05",
     "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.69588,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "35bf6db29dc600f9",
-    "latLng": {
-      "lat": -8.703505555555555,
-      "lng": 115.16697777777779
-    },
-    "source": "exif",
-    "utImageTaken": 1733025762,
-    "timeImageTaken": "2024-12-01 04:02:42",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.23918,
-      "species": "Rorippa sylvestris (L.) Besser",
-      "genus": "Rorippa",
-      "family": "Brassicaceae",
-      "commonNames": [
-        "Creeping yellow cress",
-        "Creeping yellow field cress",
-        "Yellow field cress"
-      ],
-      "gbifId": "3053376",
-      "iucnId": "176486",
-      "iucnCategory": "LC",
-      "powoId": "288692-1"
-    }
-  },
-  {
-    "imageHash": "500770bee6e6f06e",
-    "latLng": {
-      "lat": -8.703483333333333,
-      "lng": 115.16723611111112
-    },
-    "source": "exif",
-    "utImageTaken": 1733025808,
-    "timeImageTaken": "2024-12-01 04:03:28",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.79896,
-      "species": "Cleome viscosa L.",
-      "genus": "Cleome",
-      "family": "Cleomaceae",
-      "commonNames": [
-        "Asian Spider-flower",
-        "కుక్కవావింట",
-        "کنجد شیطان، کنجد وحشی"
-      ],
-      "gbifId": "3054214",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "320133-2"
-    }
-  },
-  {
-    "imageHash": "fa0b575a1524e54e",
-    "latLng": {
-      "lat": 6.912908333333334,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722384,
-    "timeImageTaken": "2026-05-14 01:33:04",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.98095,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "ac9f718463cec3ba",
-    "latLng": {
-      "lat": 6.027952777777778,
-      "lng": 80.21449166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1748658594,
-    "timeImageTaken": "2025-05-31 02:29:54",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.43951,
-      "species": "Gomphrena serrata L.",
-      "genus": "Gomphrena",
-      "family": "Amaranthaceae",
-      "commonNames": [
-        "Arrasa Con Todo",
-        "Batchelor's button"
-      ],
-      "gbifId": "3084909",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "112097-2"
-    }
-  },
-  {
-    "imageHash": "2ef1ca46bb4adcc5",
-    "latLng": {
-      "lat": 6.912911111111112,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722377,
-    "timeImageTaken": "2026-05-14 01:32:57",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.26807,
-      "species": "Gynura procumbens (Lour.) Merr.",
-      "genus": "Gynura",
-      "family": "Asteraceae",
-      "commonNames": [
-        "Longevity spinach",
-        "Okinawa spinach",
-        "Scrambling gynura"
-      ],
-      "gbifId": "3139818",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "211304-1"
-    }
-  },
-  {
-    "imageHash": "b20c18d33feb6010",
-    "latLng": {
-      "lat": 37.47040277777778,
-      "lng": -122.31145555555555
-    },
-    "source": "exif",
-    "utImageTaken": 1663752718,
-    "timeImageTaken": "2022-09-21 09:31:58",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.98413,
-      "species": "Punica granatum L.",
-      "genus": "Punica",
-      "family": "Lythraceae",
-      "commonNames": [
-        "Pomegranate",
-        "انار",
-        "अनार"
-      ],
-      "gbifId": "5420901",
-      "iucnId": "63531",
-      "iucnCategory": "LC",
-      "powoId": "554129-1"
-    }
-  },
-  {
-    "imageHash": "5bdc06925eb4692e",
-    "latLng": {
-      "lat": 6.912908333333334,
-      "lng": 79.85999166666666
-    },
-    "source": "exif",
-    "utImageTaken": 1778722373,
-    "timeImageTaken": "2026-05-14 01:32:53",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.85705,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "f3ecf71f799b6ea0",
-    "latLng": {
-      "lat": 6.9187627970892756,
-      "lng": 79.85912963991777
-    },
-    "source": "browser",
-    "utImageTaken": 1772864014,
-    "timeImageTaken": "2026-03-07 06:13:34",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.29798,
-      "species": "Leucospermum cordifolium Fourc.",
-      "genus": "Leucospermum",
-      "family": "Proteaceae",
-      "commonNames": [
-        "Red pincushion-protea",
-        "Pincushion",
-        "Nodding pincushion"
-      ],
-      "gbifId": "3997490",
-      "iucnId": "113172076",
-      "iucnCategory": "NT",
-      "powoId": ""
-    }
-  },
-  {
-    "imageHash": "e3e766b4de3e1dbc",
-    "latLng": {
-      "lat": 8.118408333333333,
-      "lng": 80.66439166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1775277302,
-    "timeImageTaken": "2026-04-04 04:35:02",
-    "userId": "e1776bd6",
-    "topPrediction": {
-      "confidence": 0.30489,
-      "species": "Eranthemum pulchellum Andrews",
-      "genus": "Eranthemum",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Blue-sage"
-      ],
-      "gbifId": "3172936",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "48879-1"
-    }
-  },
-  {
-    "imageHash": "4783a44e351751e5",
-    "latLng": {
-      "lat": -8.703688888888887,
-      "lng": 115.16629166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1733025435,
-    "timeImageTaken": "2024-12-01 03:57:15",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.55966,
-      "species": "Zinnia peruviana (L.) L.",
-      "genus": "Zinnia",
-      "family": "Asteraceae",
-      "commonNames": [
-        "Peruvian zinnia",
-        "Field zinnia",
-        "Wild zinnia"
-      ],
-      "gbifId": "9193953",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "261363-1"
-    }
-  },
-  {
-    "imageHash": "3a7b5f729e42e61e",
-    "latLng": {
-      "lat": 7.990263888888889,
-      "lng": 80.92124166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1696131450,
-    "timeImageTaken": "2023-10-01 03:37:30",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.62905,
-      "species": "Bougainvillea spectabilis Willd.",
-      "genus": "Bougainvillea",
-      "family": "Nyctaginaceae",
-      "commonNames": [
-        "Great bougainvillea",
-        "Bougainvillea",
-        "Paper flower"
-      ],
-      "gbifId": "7167078",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "604358-1"
-    }
-  },
-  {
-    "imageHash": "a5cd0676a5a3b86b",
-    "latLng": {
-      "lat": 6.912886111111112,
-      "lng": 79.85998611111111
-    },
-    "source": "exif",
-    "utImageTaken": 1778722352,
-    "timeImageTaken": "2026-05-14 01:32:32",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.20688,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "0b45537b1d03c88a",
-    "latLng": {
-      "lat": -8.703358333333332,
-      "lng": 115.16625277777779
-    },
-    "source": "exif",
-    "utImageTaken": 1733025569,
-    "timeImageTaken": "2024-12-01 03:59:29",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.67296,
-      "species": "Ficus lyrata Warb.",
-      "genus": "Ficus",
-      "family": "Moraceae",
-      "commonNames": [
-        "Fiddle-leaf fig",
-        "فیکوس لیراتا",
-        "Lyre-leaf figtree"
-      ],
-      "gbifId": "5361899",
-      "iucnId": "208115167",
-      "iucnCategory": "LC",
-      "powoId": "853158-1"
-    }
-  },
-  {
-    "imageHash": "aa89e163e720411d",
-    "latLng": {
-      "lat": 6.91295,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722429,
-    "timeImageTaken": "2026-05-14 01:33:49",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.16815,
-      "species": "Indigofera tinctoria L.",
-      "genus": "Indigofera",
-      "family": "Fabaceae",
-      "commonNames": [
-        "Dye indigo",
-        "Indigo",
-        "Indian indigo"
-      ],
-      "gbifId": "2972043",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "500111-1"
-    }
-  },
-  {
-    "imageHash": "4e7a52f7962d668f",
-    "latLng": {
-      "lat": 6.912983333333334,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722462,
-    "timeImageTaken": "2026-05-14 01:34:22",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.08699,
-      "species": "Phyllanthus tenellus Roxb.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Long-stalk leaf-flower",
-        "Long-stalk phyllanthus",
-        "Mascarene Island leaf-flower"
-      ],
-      "gbifId": "5381097",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "354756-1"
-    }
+    "predictions": [
+      {
+        "confidence": 0.39635,
+        "species": "Heliconia bihai (L.) L.",
+        "genus": "Heliconia",
+        "family": "Heliconiaceae",
+        "commonNames": [
+          "Macaw-flower",
+          "Firebird",
+          "Wild plantain"
+        ],
+        "gbifId": "2760874",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "796925-1"
+      },
+      {
+        "confidence": 0.32142,
+        "species": "Heliconia rostrata Ruiz & Pav.",
+        "genus": "Heliconia",
+        "family": "Heliconiaceae",
+        "commonNames": [
+          "False bird of paradise",
+          "Hanging Heliconia",
+          "Lobster Claw"
+        ],
+        "gbifId": "2760967",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "796978-1"
+      }
+    ]
   },
   {
     "imageHash": "ec9a0664d1dc3994",
@@ -422,1824 +52,23 @@
     "utImageTaken": 1778722308,
     "timeImageTaken": "2026-05-14 01:31:48",
     "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.23741,
-      "species": "Justicia adhatoda L.",
-      "genus": "Justicia",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Vasaka",
-        "Malabar-nut",
-        "Pavettia"
-      ],
-      "gbifId": "3173105",
-      "iucnId": "169274250",
-      "iucnCategory": "LC",
-      "powoId": "50237-1"
-    }
-  },
-  {
-    "imageHash": "b8ad9be301563966",
-    "latLng": {
-      "lat": 37.76723611111111,
-      "lng": -122.46977222222222
-    },
-    "source": "exif",
-    "utImageTaken": 1697614778,
-    "timeImageTaken": "2023-10-18 07:39:38",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.61038,
-      "species": "Crinum moorei Hook.f.",
-      "genus": "Crinum",
-      "family": "Amaryllidaceae",
-      "commonNames": [
-        "Natal lily"
-      ],
-      "gbifId": "4928395",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "63990-1"
-    }
-  },
-  {
-    "imageHash": "3ae050bbdb1eb9cf",
-    "latLng": {
-      "lat": 6.912855555555556,
-      "lng": 79.85993888888888
-    },
-    "source": "exif",
-    "utImageTaken": 1778722292,
-    "timeImageTaken": "2026-05-14 01:31:32",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.94251,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "7e4f1232dcf19251",
-    "latLng": {
-      "lat": 37.42685833333333,
-      "lng": -122.17102777777778
-    },
-    "source": "exif",
-    "utImageTaken": 1737874935,
-    "timeImageTaken": "2025-01-26 07:02:15",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.40419,
-      "species": "Camellia japonica L.",
-      "genus": "Camellia",
-      "family": "Theaceae",
-      "commonNames": [
-        "Camellia",
-        "Japanese Camellia",
-        "Rose of Winter"
-      ],
-      "gbifId": "3189636",
-      "iucnId": "62054114",
-      "iucnCategory": "LC",
-      "powoId": "828524-1"
-    }
-  },
-  {
-    "imageHash": "663afd2517de2239",
-    "latLng": {
-      "lat": -8.704022222222221,
-      "lng": 115.16684722222223
-    },
-    "source": "exif",
-    "utImageTaken": 1733025996,
-    "timeImageTaken": "2024-12-01 04:06:36",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.3992,
-      "species": "Hymenocallis littoralis (Jacq.) Salisb.",
-      "genus": "Hymenocallis",
-      "family": "Amaryllidaceae",
-      "commonNames": [
-        "Beach spiderlily",
-        "Tropical Spider-Lily",
-        "Spider lily"
-      ],
-      "gbifId": "2860119",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "30048918-2"
-    }
-  },
-  {
-    "imageHash": "ab92e8e8d0765fb3",
-    "latLng": {
-      "lat": 6.912936111111112,
-      "lng": 79.86001666666667
-    },
-    "source": "exif",
-    "utImageTaken": 1778722420,
-    "timeImageTaken": "2026-05-14 01:33:40",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.08981,
-      "species": "Phyllanthus niruroides Müll.Arg.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Seed on the leaf"
-      ],
-      "gbifId": "5381773",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "354351-1"
-    }
-  },
-  {
-    "imageHash": "df3ce15a4da1a2ad",
-    "latLng": {
-      "lat": 37.47770277777778,
-      "lng": -122.29952222222222
-    },
-    "source": "exif",
-    "utImageTaken": 1663752919,
-    "timeImageTaken": "2022-09-21 09:35:19",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.79748,
-      "species": "Alcea rosea L.",
-      "genus": "Alcea",
-      "family": "Malvaceae",
-      "commonNames": [
-        "Hollyhock",
-        "Common Hollyhock",
-        "Garden Hollyhock"
-      ],
-      "gbifId": "5406789",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "558713-1"
-    }
-  },
-  {
-    "imageHash": "42f6b514b94fc56b",
-    "latLng": {
-      "lat": -8.703586111111111,
-      "lng": 115.16653333333333
-    },
-    "source": "exif",
-    "utImageTaken": 1733025658,
-    "timeImageTaken": "2024-12-01 04:00:58",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.34273,
-      "species": "Plumeria obtusa L.",
-      "genus": "Plumeria",
-      "family": "Apocynaceae",
-      "commonNames": [
-        "Frangipani",
-        "Singapore graveyard flower",
-        "Pagoda tree"
-      ],
-      "gbifId": "3169677",
-      "iucnId": "156770956",
-      "iucnCategory": "LC",
-      "powoId": "81256-1"
-    }
-  },
-  {
-    "imageHash": "2ac715e9b5b6f5a7",
-    "latLng": {
-      "lat": 37.44266944444444,
-      "lng": -122.15888333333334
-    },
-    "source": "exif",
-    "utImageTaken": 1737889412,
-    "timeImageTaken": "2025-01-26 11:03:32",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.34672,
-      "species": "Laurus nobilis L.",
-      "genus": "Laurus",
-      "family": "Lauraceae",
-      "commonNames": [
-        "(Sweet) Bay leaf",
-        "برگ بو",
-        "Laurel"
-      ],
-      "gbifId": "3034015",
-      "iucnId": "203351",
-      "iucnCategory": "LC",
-      "powoId": "465049-1"
-    }
-  },
-  {
-    "imageHash": "02307dea103a929a",
-    "latLng": {
-      "lat": 6.912852777777778,
-      "lng": 79.85994722222222
-    },
-    "source": "exif",
-    "utImageTaken": 1778722279,
-    "timeImageTaken": "2026-05-14 01:31:19",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.68535,
-      "species": "Nyctanthes arbor-tristis L.",
-      "genus": "Nyctanthes",
-      "family": "Oleaceae",
-      "commonNames": [
-        "Parijat",
-        "Night jasmine",
-        "हरसिंगार"
-      ],
-      "gbifId": "3683008",
-      "iucnId": "150224828",
-      "iucnCategory": "LC",
-      "powoId": "610599-1"
-    }
-  },
-  {
-    "imageHash": "b4ea0e78a2f0f3db",
-    "latLng": {
-      "lat": 37.426649999999995,
-      "lng": -122.17023333333334
-    },
-    "source": "exif",
-    "utImageTaken": 1737875402,
-    "timeImageTaken": "2025-01-26 07:10:02",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.6128,
-      "species": "Camellia japonica L.",
-      "genus": "Camellia",
-      "family": "Theaceae",
-      "commonNames": [
-        "Camellia",
-        "Japanese Camellia",
-        "Rose of Winter"
-      ],
-      "gbifId": "3189636",
-      "iucnId": "62054114",
-      "iucnCategory": "LC",
-      "powoId": "828524-1"
-    }
-  },
-  {
-    "imageHash": "c83f753b7dfebd50",
-    "latLng": {
-      "lat": 6.913022222222223,
-      "lng": 79.85999166666666
-    },
-    "source": "exif",
-    "utImageTaken": 1778722500,
-    "timeImageTaken": "2026-05-14 01:35:00",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.15911,
-      "species": "Phyllanthus tenellus Roxb.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Long-stalk leaf-flower",
-        "Long-stalk phyllanthus",
-        "Mascarene Island leaf-flower"
-      ],
-      "gbifId": "5381097",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "354756-1"
-    }
-  },
-  {
-    "imageHash": "f56ce6f1ec6dee31",
-    "latLng": {
-      "lat": 6.912897222222223,
-      "lng": 79.85998611111111
-    },
-    "source": "exif",
-    "utImageTaken": 1778722366,
-    "timeImageTaken": "2026-05-14 01:32:46",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.79682,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "5881fec13ce62150",
-    "latLng": {
-      "lat": 37.45101666666667,
-      "lng": -122.16041666666668
-    },
-    "source": "exif",
-    "utImageTaken": 1738831571,
-    "timeImageTaken": "2025-02-06 08:46:11",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.51872,
-      "species": "Magnolia liliiflora Desr.",
-      "genus": "Magnolia",
-      "family": "Magnoliaceae",
-      "commonNames": [
-        "Lily Magnolia",
-        "Purple magnolia",
-        "Red magnolia"
-      ],
-      "gbifId": "3153228",
-      "iucnId": "191488",
-      "iucnCategory": "DD",
-      "powoId": "554759-1"
-    }
-  },
-  {
-    "imageHash": "13d73d7c7d59a8c3",
-    "latLng": {
-      "lat": 6.912888888888889,
-      "lng": 79.85996944444445
-    },
-    "source": "exif",
-    "utImageTaken": 1778722338,
-    "timeImageTaken": "2026-05-14 01:32:18",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.8106,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "019f57b122aa24dc",
-    "latLng": {
-      "lat": 6.026213888888889,
-      "lng": 80.215125
-    },
-    "source": "exif",
-    "utImageTaken": 1748659075,
-    "timeImageTaken": "2025-05-31 02:37:55",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.9036,
-      "species": "Barringtonia asiatica (L.) Kurz",
-      "genus": "Barringtonia",
-      "family": "Lecythidaceae",
-      "commonNames": [
-        "Fish-poison-tree",
-        "Mango-pine",
-        "Mangobark"
-      ],
-      "gbifId": "3082920",
-      "iucnId": "31339",
-      "iucnCategory": "LC",
-      "powoId": "469061-1"
-    }
-  },
-  {
-    "imageHash": "13b4b20ab482edd5",
-    "latLng": {
-      "lat": -8.703638888888888,
-      "lng": 115.16631944444445
-    },
-    "source": "exif",
-    "utImageTaken": 1733025447,
-    "timeImageTaken": "2024-12-01 03:57:27",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.56801,
-      "species": "Bougainvillea spectabilis Willd.",
-      "genus": "Bougainvillea",
-      "family": "Nyctaginaceae",
-      "commonNames": [
-        "Great bougainvillea",
-        "Bougainvillea",
-        "Paper flower"
-      ],
-      "gbifId": "7167078",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "604358-1"
-    }
-  },
-  {
-    "imageHash": "3b3d1dfb2ec57564",
-    "latLng": {
-      "lat": 6.912922222222223,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722400,
-    "timeImageTaken": "2026-05-14 01:33:20",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.11927,
-      "species": "Barleria cristata L.",
-      "genus": "Barleria",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Philippine-violet",
-        "Bluebell",
-        "Bluebell barleria"
-      ],
-      "gbifId": "3173128",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "45927-1"
-    }
-  },
-  {
-    "imageHash": "b568c9ce96b0ebff",
-    "latLng": {
-      "lat": 6.912858333333333,
-      "lng": 79.85994722222222
-    },
-    "source": "exif",
-    "utImageTaken": 1778722301,
-    "timeImageTaken": "2026-05-14 01:31:41",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.11052,
-      "species": "Justicia adhatoda L.",
-      "genus": "Justicia",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Vasaka",
-        "Malabar-nut",
-        "Pavettia"
-      ],
-      "gbifId": "3173105",
-      "iucnId": "169274250",
-      "iucnCategory": "LC",
-      "powoId": "50237-1"
-    }
-  },
-  {
-    "imageHash": "4827878cc3b6cd03",
-    "latLng": {
-      "lat": 6.918872222222222,
-      "lng": 79.85911666666667
-    },
-    "source": "exif",
-    "utImageTaken": 1778656728,
-    "timeImageTaken": "2026-05-13 07:18:48",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.30146,
-      "species": "Plectranthus amboinicus (Lour.) Spreng.",
-      "genus": "Plectranthus",
-      "family": "Lamiaceae",
-      "commonNames": [
-        "Cuban-oregano",
-        "Indian-mint",
-        "Ajwayan leaf indian"
-      ],
-      "gbifId": "2926636",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": ""
-    }
-  },
-  {
-    "imageHash": "1336d3f3812cf382",
-    "latLng": {
-      "lat": 6.912925,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722408,
-    "timeImageTaken": "2026-05-14 01:33:28",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.09538,
-      "species": "Biophytum sensitivum (L.) DC.",
-      "genus": "Biophytum",
-      "family": "Oxalidaceae",
-      "commonNames": [
-        "Lifeplant",
-        "Little tree plant",
-        "Sensitive wood sorrel"
-      ],
-      "gbifId": "3628231",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "371965-1"
-    }
-  },
-  {
-    "imageHash": "cb61f5450abe37c6",
-    "latLng": {
-      "lat": 6.912991666666667,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722465,
-    "timeImageTaken": "2026-05-14 01:34:25",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.13706,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "bbce6e14c50c56ad",
-    "latLng": {
-      "lat": 6.918762809474212,
-      "lng": 79.85912962116655
-    },
-    "source": "browser",
-    "utImageTaken": 1772863873,
-    "timeImageTaken": "2026-03-07 06:11:13",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.58154,
-      "species": "Rhododendron periclymenoides (Michx.) Shinners",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Election-pink",
-        "Pinxter-flower",
-        "Pinxterbloom azalea"
-      ],
-      "gbifId": "2883027",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "219516-2"
-    }
-  },
-  {
-    "imageHash": "4633aed3d77e0c87",
-    "latLng": {
-      "lat": -8.703475,
-      "lng": 115.16722777777778
-    },
-    "source": "exif",
-    "utImageTaken": 1733025822,
-    "timeImageTaken": "2024-12-01 04:03:42",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.89087,
-      "species": "Cleome viscosa L.",
-      "genus": "Cleome",
-      "family": "Cleomaceae",
-      "commonNames": [
-        "Asian Spider-flower",
-        "کنجد شیطان، کنجد وحشی",
-        "కుక్కవావింట"
-      ],
-      "gbifId": "3054214",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "320133-2"
-    }
-  },
-  {
-    "imageHash": "bd9d09ce3795e0e4",
-    "latLng": {
-      "lat": 6.9129000000000005,
-      "lng": 79.85998611111111
-    },
-    "source": "exif",
-    "utImageTaken": 1778722363,
-    "timeImageTaken": "2026-05-14 01:32:43",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.90377,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "60448bd4f2a7a71f",
-    "latLng": {
-      "lat": 8.117208333333334,
-      "lng": 80.66475000000001
-    },
-    "source": "exif",
-    "utImageTaken": 1775282853,
-    "timeImageTaken": "2026-04-04 06:07:33",
-    "userId": "e1776bd6",
-    "topPrediction": {
-      "confidence": 0.62638,
-      "species": "Castanea sativa Mill.",
-      "genus": "Castanea",
-      "family": "Fagaceae",
-      "commonNames": [
-        "Sweet Chestnut",
-        "European chestnut",
-        "Spanish chestnut"
-      ],
-      "gbifId": "5333294",
-      "iucnId": "202948",
-      "iucnCategory": "LC",
-      "powoId": "295349-1"
-    }
-  },
-  {
-    "imageHash": "e11382d83c315de1",
-    "latLng": {
-      "lat": 37.42669166666666,
-      "lng": -122.17031111111112
-    },
-    "source": "exif",
-    "utImageTaken": 1737875412,
-    "timeImageTaken": "2025-01-26 07:10:12",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.41021,
-      "species": "Camellia japonica L.",
-      "genus": "Camellia",
-      "family": "Theaceae",
-      "commonNames": [
-        "Camellia",
-        "Japanese Camellia",
-        "Rose of Winter"
-      ],
-      "gbifId": "3189636",
-      "iucnId": "62054114",
-      "iucnCategory": "LC",
-      "powoId": "828524-1"
-    }
-  },
-  {
-    "imageHash": "9477aa8de53c1b89",
-    "latLng": {
-      "lat": 8.118325,
-      "lng": 80.66455833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1775277324,
-    "timeImageTaken": "2026-04-04 04:35:24",
-    "userId": "e1776bd6",
-    "topPrediction": {
-      "confidence": 0.38905,
-      "species": "Eranthemum pulchellum Andrews",
-      "genus": "Eranthemum",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Blue-sage"
-      ],
-      "gbifId": "3172936",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "48879-1"
-    }
-  },
-  {
-    "imageHash": "5b57189ecb0e2025",
-    "latLng": {
-      "lat": 6.918805555555556,
-      "lng": 79.85913055555555
-    },
-    "source": "exif",
-    "utImageTaken": 1778656726,
-    "timeImageTaken": "2026-05-13 07:18:46",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.0931,
-      "species": "Capsicum annuum L.",
-      "genus": "Capsicum",
-      "family": "Solanaceae",
-      "commonNames": [
-        "Peppers",
-        "Chili",
-        "Bell Pepper"
-      ],
-      "gbifId": "2932944",
-      "iucnId": "100895534",
-      "iucnCategory": "LC",
-      "powoId": "316944-2"
-    }
-  },
-  {
-    "imageHash": "c4cab7f7617a0d7b",
-    "latLng": {
-      "lat": 6.913011111111111,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722497,
-    "timeImageTaken": "2026-05-14 01:34:57",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.45725,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "24cbf2290afad730",
-    "latLng": {
-      "lat": 6.912922222222223,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722390,
-    "timeImageTaken": "2026-05-14 01:33:10",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.77516,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "df623b97eab9399a",
-    "latLng": {
-      "lat": 6.9129861111111115,
-      "lng": 79.86001666666667
-    },
-    "source": "exif",
-    "utImageTaken": 1778722469,
-    "timeImageTaken": "2026-05-14 01:34:29",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.16225,
-      "species": "Phyllanthus niruroides Müll.Arg.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Seed on the leaf"
-      ],
-      "gbifId": "5381773",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "354351-1"
-    }
-  },
-  {
-    "imageHash": "213dededab615bb2",
-    "latLng": {
-      "lat": 6.913022222222223,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722508,
-    "timeImageTaken": "2026-05-14 01:35:08",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.19044,
-      "species": "Phyllanthus pulcher Wall. ex Müll.Arg.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Tropical leaf-flower",
-        "Dragon-of-the-world"
-      ],
-      "gbifId": "5381514",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "60456391-2"
-    }
-  },
-  {
-    "imageHash": "bd55451b2f0f430a",
-    "latLng": {
-      "lat": 6.912872222222223,
-      "lng": 79.85995555555554
-    },
-    "source": "exif",
-    "utImageTaken": 1778722321,
-    "timeImageTaken": "2026-05-14 01:32:01",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.95733,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "f7d14a200bacc97c",
-    "latLng": {
-      "lat": 6.912980555555556,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722455,
-    "timeImageTaken": "2026-05-14 01:34:15",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.10962,
-      "species": "Phyllanthus tenellus Roxb.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Long-stalk leaf-flower",
-        "Long-stalk phyllanthus",
-        "Mascarene Island leaf-flower"
-      ],
-      "gbifId": "5381097",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "354756-1"
-    }
-  },
-  {
-    "imageHash": "e94b60e80f7811b0",
-    "latLng": {
-      "lat": 8.118133333333335,
-      "lng": 80.66473333333334
-    },
-    "source": "exif",
-    "utImageTaken": 1775277316,
-    "timeImageTaken": "2026-04-04 04:35:16",
-    "userId": "e1776bd6",
-    "topPrediction": {
-      "confidence": 0.54083,
-      "species": "Ecbolium viride (Forssk.) Alston",
-      "genus": "Ecbolium",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Green shrimp plant",
-        "Turquoise crossandra",
-        "డిసెంబర్ పూల చెట్టు"
-      ],
-      "gbifId": "7264277",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "48609-1"
-    }
-  },
-  {
-    "imageHash": "b9fb344a38edbe4f",
-    "latLng": {
-      "lat": 6.912972222222223,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722451,
-    "timeImageTaken": "2026-05-14 01:34:11",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.8111,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "859e87d6074390d2",
-    "latLng": {
-      "lat": 6.897664,
-      "lng": 79.8654464
-    },
-    "source": "browser",
-    "utImageTaken": "1778648524",
-    "timeImageTaken": "2026-05-13 05:02:04",
-    "userId": "9f6fcdc6",
-    "topPrediction": {
-      "confidence": 0.89692,
-      "species": "Psidium guajava L.",
-      "genus": "Psidium",
-      "family": "Myrtaceae",
-      "commonNames": [
-        "Guava",
-        "Guave",
-        "Common guava"
-      ],
-      "gbifId": "5420380",
-      "iucnId": "49485755",
-      "iucnCategory": "LC",
-      "powoId": "600841-1"
-    }
-  },
-  {
-    "imageHash": "4cc51a60ed585c08",
-    "latLng": {
-      "lat": 6.912916666666667,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722410,
-    "timeImageTaken": "2026-05-14 01:33:30",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.03271,
-      "species": "Indigofera swaziensis Bolus",
-      "genus": "Indigofera",
-      "family": "Fabaceae",
-      "commonNames": [],
-      "gbifId": "2971930",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "500068-1"
-    }
-  },
-  {
-    "imageHash": "4afa8d459800d84f",
-    "latLng": {
-      "lat": 6.9129555555555555,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722439,
-    "timeImageTaken": "2026-05-14 01:33:59",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.71346,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "592e30fc7278ab3b",
-    "latLng": {
-      "lat": 6.912958333333334,
-      "lng": 79.85987777777777
-    },
-    "source": "exif",
-    "utImageTaken": 1777514231,
-    "timeImageTaken": "2026-04-30 01:57:11",
-    "userId": "e1776bd6",
-    "topPrediction": {
-      "confidence": 0.35893,
-      "species": "Physostegia virginiana (L.) Benth.",
-      "genus": "Physostegia",
-      "family": "Lamiaceae",
-      "commonNames": [
-        "Obedience",
-        "Obedient plant",
-        "False dragonhead"
-      ],
-      "gbifId": "2926572",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "30043311-2"
-    }
-  },
-  {
-    "imageHash": "fafd93b6c99ed934",
-    "latLng": {
-      "lat": 6.912852777777778,
-      "lng": 79.85993888888888
-    },
-    "source": "exif",
-    "utImageTaken": 1778722285,
-    "timeImageTaken": "2026-05-14 01:31:25",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.86159,
-      "species": "Nyctanthes arbor-tristis L.",
-      "genus": "Nyctanthes",
-      "family": "Oleaceae",
-      "commonNames": [
-        "Parijat",
-        "Night jasmine",
-        "हरसिंगार"
-      ],
-      "gbifId": "3683008",
-      "iucnId": "150224828",
-      "iucnCategory": "LC",
-      "powoId": "610599-1"
-    }
-  },
-  {
-    "imageHash": "31b2c84d9f62b236",
-    "latLng": {
-      "lat": 6.912958333333334,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722446,
-    "timeImageTaken": "2026-05-14 01:34:06",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.82106,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "3254f6dbb52c52a5",
-    "latLng": {
-      "lat": -8.703644444444445,
-      "lng": 115.16638055555556
-    },
-    "source": "exif",
-    "utImageTaken": 1733025621,
-    "timeImageTaken": "2024-12-01 04:00:21",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.86418,
-      "species": "Tagetes erecta L.",
-      "genus": "Tagetes",
-      "family": "Asteraceae",
-      "commonNames": [
-        "Marigold",
-        "African marigold",
-        "गेंदा फूल (Genda phool)"
-      ],
-      "gbifId": "3088488",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "252092-1"
-    }
-  },
-  {
-    "imageHash": "b112a5bfdd527998",
-    "latLng": {
-      "lat": 37.76825,
-      "lng": -122.46939166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1697616302,
-    "timeImageTaken": "2023-10-18 08:05:02",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.62293,
-      "species": "Echinops exaltatus Schrad.",
-      "genus": "Echinops",
-      "family": "Asteraceae",
-      "commonNames": [
-        "Tall globe thistle",
-        "Globe thistle",
-        "Tall globethistle"
-      ],
-      "gbifId": "5392683",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "202484-1"
-    }
-  },
-  {
-    "imageHash": "4121bca8e382be50",
-    "latLng": {
-      "lat": 6.912891666666667,
-      "lng": 79.85998611111111
-    },
-    "source": "exif",
-    "utImageTaken": 1778722357,
-    "timeImageTaken": "2026-05-14 01:32:37",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.94192,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "46106a8bdea07c86",
-    "latLng": {
-      "lat": 6.918830555555556,
-      "lng": 79.85912222222221
-    },
-    "source": "exif",
-    "utImageTaken": 1778656727,
-    "timeImageTaken": "2026-05-13 07:18:47",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.11875,
-      "species": "Chlorophytum comosum (Thunb.) Jacques",
-      "genus": "Chlorophytum",
-      "family": "Asparagaceae",
-      "commonNames": [
-        "Spider plant",
-        "کاپنس گندمی\n\nخانواده: لیلیاسه ها (سوسنی ها)",
-        "Hen-and-chickens"
-      ],
-      "gbifId": "2774846",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "532810-1"
-    }
-  },
-  {
-    "imageHash": "d49465fcb9afe2e0",
-    "latLng": {
-      "lat": -8.703697222222221,
-      "lng": 115.16623611111112
-    },
-    "source": "exif",
-    "utImageTaken": 1733025422,
-    "timeImageTaken": "2024-12-01 03:57:02",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.90267,
-      "species": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult.",
-      "genus": "Tabernaemontana",
-      "family": "Apocynaceae",
-      "commonNames": [
-        "Crape-jasmine",
-        "কাঠ মালতি",
-        "Butterfly-gardenia"
-      ],
-      "gbifId": "3169625",
-      "iucnId": "149853146",
-      "iucnCategory": "LC",
-      "powoId": "82097-1"
-    }
-  },
-  {
-    "imageHash": "bf555cf89e04a9c8",
-    "latLng": {
-      "lat": 6.8910557,
-      "lng": 79.8632725
-    },
-    "source": "browser",
-    "utImageTaken": "1778656068",
-    "timeImageTaken": "2026-05-13 07:07:48",
-    "userId": "06qahco",
-    "topPrediction": {
-      "confidence": 0.0147,
-      "species": "Tripolium pannonicum (Jacq.) Dobrocz.",
-      "genus": "Tripolium",
-      "family": "Asteraceae",
-      "commonNames": [
-        "Sea aster",
-        "Sea starwort"
-      ],
-      "gbifId": "3098616",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "256563-1"
-    }
-  },
-  {
-    "imageHash": "8df7caa24100f793",
-    "latLng": {
-      "lat": 6.912952777777778,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722434,
-    "timeImageTaken": "2026-05-14 01:33:54",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.20136,
-      "species": "Indigofera tinctoria L.",
-      "genus": "Indigofera",
-      "family": "Fabaceae",
-      "commonNames": [
-        "Dye indigo",
-        "Indigo",
-        "Indian indigo"
-      ],
-      "gbifId": "2972043",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "500111-1"
-    }
-  },
-  {
-    "imageHash": "aa88bdf31955c239",
-    "latLng": {
-      "lat": 6.912502777777778,
-      "lng": 79.86273055555554
-    },
-    "source": "exif",
-    "utImageTaken": 1778463910,
-    "timeImageTaken": "2026-05-11 01:45:10",
-    "userId": "4c5bc7a0",
-    "topPrediction": {
-      "confidence": 0.93118,
-      "species": "Artocarpus heterophyllus Lam.",
-      "genus": "Artocarpus",
-      "family": "Moraceae",
-      "commonNames": [
-        "Jackfruit",
-        "Nangka",
-        "Jack"
-      ],
-      "gbifId": "2984565",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "850389-1"
-    }
-  },
-  {
-    "imageHash": "ac5cc265d1b10aa0",
-    "latLng": {
-      "lat": 6.913013888888889,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722504,
-    "timeImageTaken": "2026-05-14 01:35:04",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.19823,
-      "species": "Phyllanthus pulcher Wall. ex Müll.Arg.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Tropical leaf-flower",
-        "Dragon-of-the-world"
-      ],
-      "gbifId": "5381514",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "60456391-2"
-    }
-  },
-  {
-    "imageHash": "26e7abcaddf2778d",
-    "latLng": {
-      "lat": -8.70383611111111,
-      "lng": 115.16716111111111
-    },
-    "source": "exif",
-    "utImageTaken": 1733025925,
-    "timeImageTaken": "2024-12-01 04:05:25",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.61447,
-      "species": "Costus spiralis (Jacq.) Roscoe",
-      "genus": "Costus",
-      "family": "Costaceae",
-      "commonNames": [
-        "Insulin plant",
-        "Sunbird's Delight",
-        "Spiralis ginger"
-      ],
-      "gbifId": "2756867",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "796387-1"
-    }
-  },
-  {
-    "imageHash": "beb25600caae8f6a",
-    "latLng": {
-      "lat": -8.703475,
-      "lng": 115.16722777777778
-    },
-    "source": "exif",
-    "utImageTaken": 1733025820,
-    "timeImageTaken": "2024-12-01 04:03:40",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.85483,
-      "species": "Cleome viscosa L.",
-      "genus": "Cleome",
-      "family": "Cleomaceae",
-      "commonNames": [
-        "Asian Spider-flower",
-        "కుక్కవావింట",
-        "کنجد شیطان، کنجد وحشی"
-      ],
-      "gbifId": "3054214",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "320133-2"
-    }
-  },
-  {
-    "imageHash": "1fcbea0815bdf680",
-    "latLng": {
-      "lat": 6.918830609316016,
-      "lng": 79.85917134723468
-    },
-    "source": "browser",
-    "utImageTaken": "1778656698",
-    "timeImageTaken": "2026-05-13 07:18:18",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.07863,
-      "species": "Amaranthus blitum L.",
-      "genus": "Amaranthus",
-      "family": "Amaranthaceae",
-      "commonNames": [
-        "Purple amaranth",
-        "Pigweed",
-        "Wild Amaranth"
-      ],
-      "gbifId": "8911082",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "10619-2"
-    }
-  },
-  {
-    "imageHash": "60af014c2b70070a",
-    "latLng": {
-      "lat": 6.9128694444444445,
-      "lng": 79.8599611111111
-    },
-    "source": "exif",
-    "utImageTaken": 1778722317,
-    "timeImageTaken": "2026-05-14 01:31:57",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.18205,
-      "species": "Justicia adhatoda L.",
-      "genus": "Justicia",
-      "family": "Acanthaceae",
-      "commonNames": [
-        "Vasaka",
-        "Malabar-nut",
-        "Pavettia"
-      ],
-      "gbifId": "3173105",
-      "iucnId": "169274250",
-      "iucnCategory": "LC",
-      "powoId": "50237-1"
-    }
-  },
-  {
-    "imageHash": "55ea9b8c14aec6e8",
-    "latLng": {
-      "lat": 6.912994444444445,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722477,
-    "timeImageTaken": "2026-05-14 01:34:37",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.52153,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "c8fe0a69dc219962",
-    "latLng": {
-      "lat": 6.913016666666667,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722495,
-    "timeImageTaken": "2026-05-14 01:34:55",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.2484,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "aa0d1b1906c30ea2",
-    "latLng": {
-      "lat": 6.912886111111112,
-      "lng": 79.85997777777777
-    },
-    "source": "exif",
-    "utImageTaken": 1778722346,
-    "timeImageTaken": "2026-05-14 01:32:26",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.89816,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "ee5180b5a108b2ce",
-    "latLng": {
-      "lat": 6.918762814868359,
-      "lng": 79.85912964071474
-    },
-    "source": "browser",
-    "utImageTaken": 1772863980,
-    "timeImageTaken": "2026-03-07 06:13:00",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.78142,
-      "species": "Oxalis pes-caprae L.",
-      "genus": "Oxalis",
-      "family": "Oxalidaceae",
-      "commonNames": [
-        "Bermuda-buttercup",
-        "Sourgrass",
-        "Yellow-flower oxalis"
-      ],
-      "gbifId": "2891661",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "375259-1"
-    }
-  },
-  {
-    "imageHash": "81fd49ac5f8bbe5c",
-    "latLng": {
-      "lat": 6.912936111111112,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722423,
-    "timeImageTaken": "2026-05-14 01:33:43",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.31485,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "01b73bbefdca4e74",
-    "latLng": {
-      "lat": 6.918762814868358,
-      "lng": 79.85912964071473
-    },
-    "source": "browser",
-    "utImageTaken": 1772862899,
-    "timeImageTaken": "2026-03-07 05:54:59",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.26526,
-      "species": "Rhododendron ferrugineum L.",
-      "genus": "Rhododendron",
-      "family": "Ericaceae",
-      "commonNames": [
-        "Rhododendron",
-        "Alpine-rose",
-        "Alpenrose"
-      ],
-      "gbifId": "2883073",
-      "iucnId": "203007",
-      "iucnCategory": "LC",
-      "powoId": "332420-1"
-    }
-  },
-  {
-    "imageHash": "54ab51b75d575eff",
-    "latLng": {
-      "lat": 6.913002777777778,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722489,
-    "timeImageTaken": "2026-05-14 01:34:49",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.14809,
-      "species": "Phyllanthus emblica L.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Amla",
-        "Indian Gooseberry",
-        "Emblic"
-      ],
-      "gbifId": "5381660",
-      "iucnId": "149444430",
-      "iucnCategory": "LC",
-      "powoId": "353838-1"
-    }
-  },
-  {
-    "imageHash": "714c86a5d4e03f65",
-    "latLng": {
-      "lat": 6.912927777777778,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722415,
-    "timeImageTaken": "2026-05-14 01:33:35",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.09081,
-      "species": "Phyllanthus tenellus Roxb.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Long-stalk leaf-flower",
-        "Long-stalk phyllanthus",
-        "Mascarene Island leaf-flower"
-      ],
-      "gbifId": "5381097",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "354756-1"
-    }
-  },
-  {
-    "imageHash": "ea7962919bd12c3d",
-    "latLng": {
-      "lat": 6.912883333333333,
-      "lng": 79.8599611111111
-    },
-    "source": "exif",
-    "utImageTaken": 1778722329,
-    "timeImageTaken": "2026-05-14 01:32:09",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.95789,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "e56bf4cb053f23c6",
-    "latLng": {
-      "lat": 7.990152777777777,
-      "lng": 80.92133333333334
-    },
-    "source": "exif",
-    "utImageTaken": 1696131412,
-    "timeImageTaken": "2023-10-01 03:36:52",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.92883,
-      "species": "Alysicarpus vaginalis (L.) DC.",
-      "genus": "Alysicarpus",
-      "family": "Fabaceae",
-      "commonNames": [
-        "Alyce Clover",
-        "One-leaf-clover",
-        "Buffalo-bur"
-      ],
-      "gbifId": "2948605",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "473569-1"
-    }
-  },
-  {
-    "imageHash": "ebb48c9a17b0a1db",
-    "latLng": {
-      "lat": 6.912886111111112,
-      "lng": 79.8599611111111
-    },
-    "source": "exif",
-    "utImageTaken": 1778722333,
-    "timeImageTaken": "2026-05-14 01:32:13",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.93871,
-      "species": "Euphorbia tithymaloides L.",
-      "genus": "Euphorbia",
-      "family": "Euphorbiaceae",
-      "commonNames": [
-        "Slipper-flower",
-        "Devil's backbone",
-        "Zig zag plant"
-      ],
-      "gbifId": "3069168",
-      "iucnId": "135836706",
-      "iucnCategory": "LC",
-      "powoId": "102036-2"
-    }
-  },
-  {
-    "imageHash": "2e859382180e6553",
-    "latLng": {
-      "lat": 6.912994444444445,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722472,
-    "timeImageTaken": "2026-05-14 01:34:32",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.11581,
-      "species": "Phyllanthus niruroides Müll.Arg.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Seed on the leaf"
-      ],
-      "gbifId": "5381773",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "354351-1"
-    }
-  },
-  {
-    "imageHash": "f662782edadfe9bf",
-    "latLng": {
-      "lat": -8.703630555555554,
-      "lng": 115.16630555555557
-    },
-    "source": "exif",
-    "utImageTaken": 1733025605,
-    "timeImageTaken": "2024-12-01 04:00:05",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.39635,
-      "species": "Heliconia bihai (L.) L.",
-      "genus": "Heliconia",
-      "family": "Heliconiaceae",
-      "commonNames": [
-        "Macaw-flower",
-        "Firebird",
-        "Wild plantain"
-      ],
-      "gbifId": "2760874",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "796925-1"
-    }
-  },
-  {
-    "imageHash": "096704389b620211",
-    "latLng": {
-      "lat": 6.913013888888889,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722506,
-    "timeImageTaken": "2026-05-14 01:35:06",
-    "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.07467,
-      "species": "Phyllanthus tenellus Roxb.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Long-stalk leaf-flower",
-        "Long-stalk phyllanthus",
-        "Mascarene Island leaf-flower"
-      ],
-      "gbifId": "5381097",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "354756-1"
-    }
-  },
-  {
-    "imageHash": "d67c2096ab66b15c",
-    "latLng": {
-      "lat": 6.897664,
-      "lng": 79.8654464
-    },
-    "source": "browser",
-    "utImageTaken": "1778645972",
-    "timeImageTaken": "2026-05-13 04:19:32",
-    "userId": "9f6fcdc6",
-    "topPrediction": {
-      "confidence": 0.91645,
-      "species": "Artocarpus heterophyllus Lam.",
-      "genus": "Artocarpus",
-      "family": "Moraceae",
-      "commonNames": [
-        "Jackfruit",
-        "Nangka",
-        "Jack"
-      ],
-      "gbifId": "2984565",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "850389-1"
-    }
+    "predictions": [
+      {
+        "confidence": 0.23741,
+        "species": "Justicia adhatoda L.",
+        "genus": "Justicia",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Vasaka",
+          "Malabar-nut",
+          "Pavettia"
+        ],
+        "gbifId": "3173105",
+        "iucnId": "169274250",
+        "iucnCategory": "LC",
+        "powoId": "50237-1"
+      }
+    ]
   },
   {
     "imageHash": "ba22a35ff1ab5751",
@@ -2251,20 +80,2529 @@
     "utImageTaken": 1778722413,
     "timeImageTaken": "2026-05-14 01:33:33",
     "userId": "1bi07e4",
-    "topPrediction": {
-      "confidence": 0.02262,
-      "species": "Phyllanthus urinaria L.",
-      "genus": "Phyllanthus",
-      "family": "Phyllanthaceae",
-      "commonNames": [
-        "Chamber bitter",
-        "Common leafflower",
-        "Gale of wind"
-      ],
-      "gbifId": "5382780",
-      "iucnId": "",
-      "iucnCategory": "",
-      "powoId": "354815-1"
-    }
+    "predictions": []
+  },
+  {
+    "imageHash": "ee5180b5a108b2ce",
+    "latLng": {
+      "lat": 6.918762814868359,
+      "lng": 79.85912964071474
+    },
+    "source": "browser",
+    "utImageTaken": 1772863980,
+    "timeImageTaken": "2026-03-07 06:13:00",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.78142,
+        "species": "Oxalis pes-caprae L.",
+        "genus": "Oxalis",
+        "family": "Oxalidaceae",
+        "commonNames": [
+          "Bermuda-buttercup",
+          "Sourgrass",
+          "Yellow-flower oxalis"
+        ],
+        "gbifId": "2891661",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "375259-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "f3ecf71f799b6ea0",
+    "latLng": {
+      "lat": 6.9187627970892756,
+      "lng": 79.85912963991777
+    },
+    "source": "browser",
+    "utImageTaken": 1772864014,
+    "timeImageTaken": "2026-03-07 06:13:34",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.29798,
+        "species": "Leucospermum cordifolium Fourc.",
+        "genus": "Leucospermum",
+        "family": "Proteaceae",
+        "commonNames": [
+          "Red pincushion-protea",
+          "Pincushion",
+          "Nodding pincushion"
+        ],
+        "gbifId": "3997490",
+        "iucnId": "113172076",
+        "iucnCategory": "NT",
+        "powoId": ""
+      }
+    ]
+  },
+  {
+    "imageHash": "aa0d1b1906c30ea2",
+    "latLng": {
+      "lat": 6.912886111111112,
+      "lng": 79.85997777777777
+    },
+    "source": "exif",
+    "utImageTaken": 1778722346,
+    "timeImageTaken": "2026-05-14 01:32:26",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.89816,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "5bdc06925eb4692e",
+    "latLng": {
+      "lat": 6.912908333333334,
+      "lng": 79.85999166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1778722373,
+    "timeImageTaken": "2026-05-14 01:32:53",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.85705,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "ac9f718463cec3ba",
+    "latLng": {
+      "lat": 6.027952777777778,
+      "lng": 80.21449166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1748658594,
+    "timeImageTaken": "2025-05-31 02:29:54",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.43951,
+        "species": "Gomphrena serrata L.",
+        "genus": "Gomphrena",
+        "family": "Amaranthaceae",
+        "commonNames": [
+          "Arrasa Con Todo",
+          "Batchelor's button"
+        ],
+        "gbifId": "3084909",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "112097-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "55ea9b8c14aec6e8",
+    "latLng": {
+      "lat": 6.912994444444445,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722477,
+    "timeImageTaken": "2026-05-14 01:34:37",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.52153,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "b9fb344a38edbe4f",
+    "latLng": {
+      "lat": 6.912972222222223,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722451,
+    "timeImageTaken": "2026-05-14 01:34:11",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.8111,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "ac5cc265d1b10aa0",
+    "latLng": {
+      "lat": 6.913013888888889,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722504,
+    "timeImageTaken": "2026-05-14 01:35:04",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.19823,
+        "species": "Phyllanthus pulcher Wall. ex Müll.Arg.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Tropical leaf-flower",
+          "Dragon-of-the-world"
+        ],
+        "gbifId": "5381514",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "60456391-2"
+      },
+      {
+        "confidence": 0.13691,
+        "species": "Phyllanthus tenellus Roxb.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Long-stalk leaf-flower",
+          "Long-stalk phyllanthus",
+          "Mascarene Island leaf-flower"
+        ],
+        "gbifId": "5381097",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "354756-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "4afa8d459800d84f",
+    "latLng": {
+      "lat": 6.9129555555555555,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722439,
+    "timeImageTaken": "2026-05-14 01:33:59",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.71346,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "31b2c84d9f62b236",
+    "latLng": {
+      "lat": 6.912958333333334,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722446,
+    "timeImageTaken": "2026-05-14 01:34:06",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.82106,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "54ab51b75d575eff",
+    "latLng": {
+      "lat": 6.913002777777778,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722489,
+    "timeImageTaken": "2026-05-14 01:34:49",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.14809,
+        "species": "Phyllanthus emblica L.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Amla",
+          "Indian Gooseberry",
+          "Emblic"
+        ],
+        "gbifId": "5381660",
+        "iucnId": "149444430",
+        "iucnCategory": "LC",
+        "powoId": "353838-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b112a5bfdd527998",
+    "latLng": {
+      "lat": 37.76825,
+      "lng": -122.46939166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1697616302,
+    "timeImageTaken": "2023-10-18 08:05:02",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.62293,
+        "species": "Echinops exaltatus Schrad.",
+        "genus": "Echinops",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Tall globe thistle",
+          "Globe thistle",
+          "Tall globethistle"
+        ],
+        "gbifId": "5392683",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "202484-1"
+      },
+      {
+        "confidence": 0.32848,
+        "species": "Echinops sphaerocephalus L.",
+        "genus": "Echinops",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Great globethistle",
+          "Great globe thistle",
+          "Globe thistle"
+        ],
+        "gbifId": "5392883",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "202677-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "213dededab615bb2",
+    "latLng": {
+      "lat": 6.913022222222223,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722508,
+    "timeImageTaken": "2026-05-14 01:35:08",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.19044,
+        "species": "Phyllanthus pulcher Wall. ex Müll.Arg.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Tropical leaf-flower",
+          "Dragon-of-the-world"
+        ],
+        "gbifId": "5381514",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "60456391-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "4e7a52f7962d668f",
+    "latLng": {
+      "lat": 6.912983333333334,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722462,
+    "timeImageTaken": "2026-05-14 01:34:22",
+    "userId": "1bi07e4",
+    "predictions": []
+  },
+  {
+    "imageHash": "24cbf2290afad730",
+    "latLng": {
+      "lat": 6.912922222222223,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722390,
+    "timeImageTaken": "2026-05-14 01:33:10",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.77516,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "bd9d09ce3795e0e4",
+    "latLng": {
+      "lat": 6.9129000000000005,
+      "lng": 79.85998611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722363,
+    "timeImageTaken": "2026-05-14 01:32:43",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.90377,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "bf555cf89e04a9c8",
+    "latLng": {
+      "lat": 6.8910557,
+      "lng": 79.8632725
+    },
+    "source": "browser",
+    "utImageTaken": "1778656068",
+    "timeImageTaken": "2026-05-13 07:07:48",
+    "userId": "06qahco",
+    "predictions": []
+  },
+  {
+    "imageHash": "d67c2096ab66b15c",
+    "latLng": {
+      "lat": 6.897664,
+      "lng": 79.8654464
+    },
+    "source": "browser",
+    "utImageTaken": "1778645972",
+    "timeImageTaken": "2026-05-13 04:19:32",
+    "userId": "9f6fcdc6",
+    "predictions": [
+      {
+        "confidence": 0.91645,
+        "species": "Artocarpus heterophyllus Lam.",
+        "genus": "Artocarpus",
+        "family": "Moraceae",
+        "commonNames": [
+          "Jackfruit",
+          "Nangka",
+          "Jack"
+        ],
+        "gbifId": "2984565",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "850389-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "81fd49ac5f8bbe5c",
+    "latLng": {
+      "lat": 6.912936111111112,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722423,
+    "timeImageTaken": "2026-05-14 01:33:43",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.31485,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "02307dea103a929a",
+    "latLng": {
+      "lat": 6.912852777777778,
+      "lng": 79.85994722222222
+    },
+    "source": "exif",
+    "utImageTaken": 1778722279,
+    "timeImageTaken": "2026-05-14 01:31:19",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.68535,
+        "species": "Nyctanthes arbor-tristis L.",
+        "genus": "Nyctanthes",
+        "family": "Oleaceae",
+        "commonNames": [
+          "Parijat",
+          "Night jasmine",
+          "हरसिंगार"
+        ],
+        "gbifId": "3683008",
+        "iucnId": "150224828",
+        "iucnCategory": "LC",
+        "powoId": "610599-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "c83f753b7dfebd50",
+    "latLng": {
+      "lat": 6.913022222222223,
+      "lng": 79.85999166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1778722500,
+    "timeImageTaken": "2026-05-14 01:35:00",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.15911,
+        "species": "Phyllanthus tenellus Roxb.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Long-stalk leaf-flower",
+          "Long-stalk phyllanthus",
+          "Mascarene Island leaf-flower"
+        ],
+        "gbifId": "5381097",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "354756-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "2ac715e9b5b6f5a7",
+    "latLng": {
+      "lat": 37.44266944444444,
+      "lng": -122.15888333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1737889412,
+    "timeImageTaken": "2025-01-26 11:03:32",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.34672,
+        "species": "Laurus nobilis L.",
+        "genus": "Laurus",
+        "family": "Lauraceae",
+        "commonNames": [
+          "(Sweet) Bay leaf",
+          "برگ بو",
+          "Laurel"
+        ],
+        "gbifId": "3034015",
+        "iucnId": "203351",
+        "iucnCategory": "LC",
+        "powoId": "465049-1"
+      },
+      {
+        "confidence": 0.13924,
+        "species": "Prunus caroliniana (Mill.) Aiton",
+        "genus": "Prunus",
+        "family": "Rosaceae",
+        "commonNames": [
+          "Carolina laurel cherry",
+          "Cherry-laurel",
+          "Laurel cherry"
+        ],
+        "gbifId": "3023558",
+        "iucnId": "64120952",
+        "iucnCategory": "LC",
+        "powoId": "729552-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "3a7b5f729e42e61e",
+    "latLng": {
+      "lat": 7.990263888888889,
+      "lng": 80.92124166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1696131450,
+    "timeImageTaken": "2023-10-01 03:37:30",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.62905,
+        "species": "Bougainvillea spectabilis Willd.",
+        "genus": "Bougainvillea",
+        "family": "Nyctaginaceae",
+        "commonNames": [
+          "Great bougainvillea",
+          "Bougainvillea",
+          "Paper flower"
+        ],
+        "gbifId": "7167078",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "604358-1"
+      },
+      {
+        "confidence": 0.24569,
+        "species": "Bougainvillea glabra Choisy",
+        "genus": "Bougainvillea",
+        "family": "Nyctaginaceae",
+        "commonNames": [
+          "Bougainvillea",
+          "Paper-flower",
+          "گل کاغذی"
+        ],
+        "gbifId": "5384862",
+        "iucnId": "149207944",
+        "iucnCategory": "LC",
+        "powoId": "35444-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "60af014c2b70070a",
+    "latLng": {
+      "lat": 6.9128694444444445,
+      "lng": 79.8599611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722317,
+    "timeImageTaken": "2026-05-14 01:31:57",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.18205,
+        "species": "Justicia adhatoda L.",
+        "genus": "Justicia",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Vasaka",
+          "Malabar-nut",
+          "Pavettia"
+        ],
+        "gbifId": "3173105",
+        "iucnId": "169274250",
+        "iucnCategory": "LC",
+        "powoId": "50237-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "f56ce6f1ec6dee31",
+    "latLng": {
+      "lat": 6.912897222222223,
+      "lng": 79.85998611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722366,
+    "timeImageTaken": "2026-05-14 01:32:46",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.79682,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "ab92e8e8d0765fb3",
+    "latLng": {
+      "lat": 6.912936111111112,
+      "lng": 79.86001666666667
+    },
+    "source": "exif",
+    "utImageTaken": 1778722420,
+    "timeImageTaken": "2026-05-14 01:33:40",
+    "userId": "1bi07e4",
+    "predictions": []
+  },
+  {
+    "imageHash": "8df7caa24100f793",
+    "latLng": {
+      "lat": 6.912952777777778,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722434,
+    "timeImageTaken": "2026-05-14 01:33:54",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.20136,
+        "species": "Indigofera tinctoria L.",
+        "genus": "Indigofera",
+        "family": "Fabaceae",
+        "commonNames": [
+          "Dye indigo",
+          "Indigo",
+          "Indian indigo"
+        ],
+        "gbifId": "2972043",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "500111-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "01b73bbefdca4e74",
+    "latLng": {
+      "lat": 6.918762814868358,
+      "lng": 79.85912964071473
+    },
+    "source": "browser",
+    "utImageTaken": 1772862899,
+    "timeImageTaken": "2026-03-07 05:54:59",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.26526,
+        "species": "Rhododendron ferrugineum L.",
+        "genus": "Rhododendron",
+        "family": "Ericaceae",
+        "commonNames": [
+          "Rhododendron",
+          "Alpine-rose",
+          "Alpenrose"
+        ],
+        "gbifId": "2883073",
+        "iucnId": "203007",
+        "iucnCategory": "LC",
+        "powoId": "332420-1"
+      },
+      {
+        "confidence": 0.2264,
+        "species": "Rhododendron catawbiense Michx.",
+        "genus": "Rhododendron",
+        "family": "Ericaceae",
+        "commonNames": [
+          "Catawba rhododendron",
+          "Mountain rose bay",
+          "Purple-laurel"
+        ],
+        "gbifId": "2883047",
+        "iucnId": "156821604",
+        "iucnCategory": "LC",
+        "powoId": "332124-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "714c86a5d4e03f65",
+    "latLng": {
+      "lat": 6.912927777777778,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722415,
+    "timeImageTaken": "2026-05-14 01:33:35",
+    "userId": "1bi07e4",
+    "predictions": []
+  },
+  {
+    "imageHash": "bbce6e14c50c56ad",
+    "latLng": {
+      "lat": 6.918762809474212,
+      "lng": 79.85912962116655
+    },
+    "source": "browser",
+    "utImageTaken": 1772863873,
+    "timeImageTaken": "2026-03-07 06:11:13",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.58154,
+        "species": "Rhododendron periclymenoides (Michx.) Shinners",
+        "genus": "Rhododendron",
+        "family": "Ericaceae",
+        "commonNames": [
+          "Election-pink",
+          "Pinxter-flower",
+          "Pinxterbloom azalea"
+        ],
+        "gbifId": "2883027",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "219516-2"
+      },
+      {
+        "confidence": 0.13539,
+        "species": "Rhododendron canescens (Michx.) Sweet",
+        "genus": "Rhododendron",
+        "family": "Ericaceae",
+        "commonNames": [
+          "Hoary azalea",
+          "Piedmont azalea",
+          "Southern pinxterbloom azalea"
+        ],
+        "gbifId": "2883039",
+        "iucnId": "200390841",
+        "iucnCategory": "LC",
+        "powoId": "30117552-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "42f6b514b94fc56b",
+    "latLng": {
+      "lat": -8.703586111111111,
+      "lng": 115.16653333333333
+    },
+    "source": "exif",
+    "utImageTaken": 1733025658,
+    "timeImageTaken": "2024-12-01 04:00:58",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.34273,
+        "species": "Plumeria obtusa L.",
+        "genus": "Plumeria",
+        "family": "Apocynaceae",
+        "commonNames": [
+          "Frangipani",
+          "Singapore graveyard flower",
+          "Pagoda tree"
+        ],
+        "gbifId": "3169677",
+        "iucnId": "156770956",
+        "iucnCategory": "LC",
+        "powoId": "81256-1"
+      },
+      {
+        "confidence": 0.2437,
+        "species": "Plumeria pudica Jacq.",
+        "genus": "Plumeria",
+        "family": "Apocynaceae",
+        "commonNames": [
+          "Fiddle leaf plumeria",
+          "Bridal boquet",
+          "White frangipani"
+        ],
+        "gbifId": "3614691",
+        "iucnId": "151953739",
+        "iucnCategory": "LC",
+        "powoId": "81268-1"
+      },
+      {
+        "confidence": 0.13985,
+        "species": "Plumeria alba L.",
+        "genus": "Plumeria",
+        "family": "Apocynaceae",
+        "commonNames": [
+          "White Frangipani",
+          "Champa",
+          "Pagoda-tree"
+        ],
+        "gbifId": "3169673",
+        "iucnId": "208165050",
+        "iucnCategory": "LC",
+        "powoId": "81171-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "859e87d6074390d2",
+    "latLng": {
+      "lat": 6.897664,
+      "lng": 79.8654464
+    },
+    "source": "browser",
+    "utImageTaken": "1778648524",
+    "timeImageTaken": "2026-05-13 05:02:04",
+    "userId": "9f6fcdc6",
+    "predictions": [
+      {
+        "confidence": 0.89692,
+        "species": "Psidium guajava L.",
+        "genus": "Psidium",
+        "family": "Myrtaceae",
+        "commonNames": [
+          "Guava",
+          "Guave",
+          "Common guava"
+        ],
+        "gbifId": "5420380",
+        "iucnId": "49485755",
+        "iucnCategory": "LC",
+        "powoId": "600841-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "1fcbea0815bdf680",
+    "latLng": {
+      "lat": 6.918830609316016,
+      "lng": 79.85917134723468
+    },
+    "source": "browser",
+    "utImageTaken": "1778656698",
+    "timeImageTaken": "2026-05-13 07:18:18",
+    "userId": "1bi07e4",
+    "predictions": []
+  },
+  {
+    "imageHash": "3b3d1dfb2ec57564",
+    "latLng": {
+      "lat": 6.912922222222223,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722400,
+    "timeImageTaken": "2026-05-14 01:33:20",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.11927,
+        "species": "Barleria cristata L.",
+        "genus": "Barleria",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Philippine-violet",
+          "Bluebell",
+          "Bluebell barleria"
+        ],
+        "gbifId": "3173128",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "45927-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "019f57b122aa24dc",
+    "latLng": {
+      "lat": 6.026213888888889,
+      "lng": 80.215125
+    },
+    "source": "exif",
+    "utImageTaken": 1748659075,
+    "timeImageTaken": "2025-05-31 02:37:55",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.9036,
+        "species": "Barringtonia asiatica (L.) Kurz",
+        "genus": "Barringtonia",
+        "family": "Lecythidaceae",
+        "commonNames": [
+          "Fish-poison-tree",
+          "Mango-pine",
+          "Mangobark"
+        ],
+        "gbifId": "3082920",
+        "iucnId": "31339",
+        "iucnCategory": "LC",
+        "powoId": "469061-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "5bfa3cfd9aa6d6c9",
+    "latLng": {
+      "lat": 6.912961111111112,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722444,
+    "timeImageTaken": "2026-05-14 01:34:04",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.69588,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "aa88bdf31955c239",
+    "latLng": {
+      "lat": 6.912502777777778,
+      "lng": 79.86273055555554
+    },
+    "source": "exif",
+    "utImageTaken": 1778463910,
+    "timeImageTaken": "2026-05-11 01:45:10",
+    "userId": "4c5bc7a0",
+    "predictions": [
+      {
+        "confidence": 0.93118,
+        "species": "Artocarpus heterophyllus Lam.",
+        "genus": "Artocarpus",
+        "family": "Moraceae",
+        "commonNames": [
+          "Jackfruit",
+          "Nangka",
+          "Jack"
+        ],
+        "gbifId": "2984565",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "850389-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "13b4b20ab482edd5",
+    "latLng": {
+      "lat": -8.703638888888888,
+      "lng": 115.16631944444445
+    },
+    "source": "exif",
+    "utImageTaken": 1733025447,
+    "timeImageTaken": "2024-12-01 03:57:27",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.56801,
+        "species": "Bougainvillea spectabilis Willd.",
+        "genus": "Bougainvillea",
+        "family": "Nyctaginaceae",
+        "commonNames": [
+          "Great bougainvillea",
+          "Bougainvillea",
+          "Paper flower"
+        ],
+        "gbifId": "7167078",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "604358-1"
+      },
+      {
+        "confidence": 0.36786,
+        "species": "Bougainvillea glabra Choisy",
+        "genus": "Bougainvillea",
+        "family": "Nyctaginaceae",
+        "commonNames": [
+          "Bougainvillea",
+          "Paper-flower",
+          "گل کاغذی"
+        ],
+        "gbifId": "5384862",
+        "iucnId": "149207944",
+        "iucnCategory": "LC",
+        "powoId": "35444-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "e3e766b4de3e1dbc",
+    "latLng": {
+      "lat": 8.118408333333333,
+      "lng": 80.66439166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1775277302,
+    "timeImageTaken": "2026-04-04 04:35:02",
+    "userId": "e1776bd6",
+    "predictions": [
+      {
+        "confidence": 0.30489,
+        "species": "Eranthemum pulchellum Andrews",
+        "genus": "Eranthemum",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Blue-sage"
+        ],
+        "gbifId": "3172936",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "48879-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "c4cab7f7617a0d7b",
+    "latLng": {
+      "lat": 6.913011111111111,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722497,
+    "timeImageTaken": "2026-05-14 01:34:57",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.45725,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "df3ce15a4da1a2ad",
+    "latLng": {
+      "lat": 37.47770277777778,
+      "lng": -122.29952222222222
+    },
+    "source": "exif",
+    "utImageTaken": 1663752919,
+    "timeImageTaken": "2022-09-21 09:35:19",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.79748,
+        "species": "Alcea rosea L.",
+        "genus": "Alcea",
+        "family": "Malvaceae",
+        "commonNames": [
+          "Hollyhock",
+          "Common Hollyhock",
+          "Garden Hollyhock"
+        ],
+        "gbifId": "5406789",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "558713-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "f7d14a200bacc97c",
+    "latLng": {
+      "lat": 6.912980555555556,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722455,
+    "timeImageTaken": "2026-05-14 01:34:15",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.10962,
+        "species": "Phyllanthus tenellus Roxb.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Long-stalk leaf-flower",
+          "Long-stalk phyllanthus",
+          "Mascarene Island leaf-flower"
+        ],
+        "gbifId": "5381097",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "354756-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "13d73d7c7d59a8c3",
+    "latLng": {
+      "lat": 6.912888888888889,
+      "lng": 79.85996944444445
+    },
+    "source": "exif",
+    "utImageTaken": 1778722338,
+    "timeImageTaken": "2026-05-14 01:32:18",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.8106,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "096704389b620211",
+    "latLng": {
+      "lat": 6.913013888888889,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722506,
+    "timeImageTaken": "2026-05-14 01:35:06",
+    "userId": "1bi07e4",
+    "predictions": []
+  },
+  {
+    "imageHash": "9477aa8de53c1b89",
+    "latLng": {
+      "lat": 8.118325,
+      "lng": 80.66455833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1775277324,
+    "timeImageTaken": "2026-04-04 04:35:24",
+    "userId": "e1776bd6",
+    "predictions": [
+      {
+        "confidence": 0.38905,
+        "species": "Eranthemum pulchellum Andrews",
+        "genus": "Eranthemum",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Blue-sage"
+        ],
+        "gbifId": "3172936",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "48879-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "ebb48c9a17b0a1db",
+    "latLng": {
+      "lat": 6.912886111111112,
+      "lng": 79.8599611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722333,
+    "timeImageTaken": "2026-05-14 01:32:13",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.93871,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "aa89e163e720411d",
+    "latLng": {
+      "lat": 6.91295,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722429,
+    "timeImageTaken": "2026-05-14 01:33:49",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.16815,
+        "species": "Indigofera tinctoria L.",
+        "genus": "Indigofera",
+        "family": "Fabaceae",
+        "commonNames": [
+          "Dye indigo",
+          "Indigo",
+          "Indian indigo"
+        ],
+        "gbifId": "2972043",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "500111-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "4121bca8e382be50",
+    "latLng": {
+      "lat": 6.912891666666667,
+      "lng": 79.85998611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722357,
+    "timeImageTaken": "2026-05-14 01:32:37",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.94192,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "500770bee6e6f06e",
+    "latLng": {
+      "lat": -8.703483333333333,
+      "lng": 115.16723611111112
+    },
+    "source": "exif",
+    "utImageTaken": 1733025808,
+    "timeImageTaken": "2024-12-01 04:03:28",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.79896,
+        "species": "Cleome viscosa L.",
+        "genus": "Cleome",
+        "family": "Cleomaceae",
+        "commonNames": [
+          "Asian Spider-flower",
+          "కుక్కవావింట",
+          "کنجد شیطان، کنجد وحشی"
+        ],
+        "gbifId": "3054214",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "320133-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "4783a44e351751e5",
+    "latLng": {
+      "lat": -8.703688888888887,
+      "lng": 115.16629166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1733025435,
+    "timeImageTaken": "2024-12-01 03:57:15",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.55966,
+        "species": "Zinnia peruviana (L.) L.",
+        "genus": "Zinnia",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Peruvian zinnia",
+          "Field zinnia",
+          "Wild zinnia"
+        ],
+        "gbifId": "9193953",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "261363-1"
+      },
+      {
+        "confidence": 0.12114,
+        "species": "Zinnia elegans Jacq.",
+        "genus": "Zinnia",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Garden zinnia",
+          "Zinnia",
+          "Youth-and-age"
+        ],
+        "gbifId": "3111754",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "261331-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b20c18d33feb6010",
+    "latLng": {
+      "lat": 37.47040277777778,
+      "lng": -122.31145555555555
+    },
+    "source": "exif",
+    "utImageTaken": 1663752718,
+    "timeImageTaken": "2022-09-21 09:31:58",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.98413,
+        "species": "Punica granatum L.",
+        "genus": "Punica",
+        "family": "Lythraceae",
+        "commonNames": [
+          "Pomegranate",
+          "انار",
+          "अनार"
+        ],
+        "gbifId": "5420901",
+        "iucnId": "63531",
+        "iucnCategory": "LC",
+        "powoId": "554129-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "cb61f5450abe37c6",
+    "latLng": {
+      "lat": 6.912991666666667,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722465,
+    "timeImageTaken": "2026-05-14 01:34:25",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.13706,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      },
+      {
+        "confidence": 0.10684,
+        "species": "Citrus × aurantiifolia (Christm.) Swingle",
+        "genus": "Citrus",
+        "family": "Rutaceae",
+        "commonNames": [
+          "Lime",
+          "Key lime",
+          "Egyptian lime"
+        ],
+        "gbifId": "3190164",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "59599-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "4cc51a60ed585c08",
+    "latLng": {
+      "lat": 6.912916666666667,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722410,
+    "timeImageTaken": "2026-05-14 01:33:30",
+    "userId": "1bi07e4",
+    "predictions": []
+  },
+  {
+    "imageHash": "60448bd4f2a7a71f",
+    "latLng": {
+      "lat": 8.117208333333334,
+      "lng": 80.66475000000001
+    },
+    "source": "exif",
+    "utImageTaken": 1775282853,
+    "timeImageTaken": "2026-04-04 06:07:33",
+    "userId": "e1776bd6",
+    "predictions": [
+      {
+        "confidence": 0.62638,
+        "species": "Castanea sativa Mill.",
+        "genus": "Castanea",
+        "family": "Fagaceae",
+        "commonNames": [
+          "Sweet Chestnut",
+          "European chestnut",
+          "Spanish chestnut"
+        ],
+        "gbifId": "5333294",
+        "iucnId": "202948",
+        "iucnCategory": "LC",
+        "powoId": "295349-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "e56bf4cb053f23c6",
+    "latLng": {
+      "lat": 7.990152777777777,
+      "lng": 80.92133333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1696131412,
+    "timeImageTaken": "2023-10-01 03:36:52",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.92883,
+        "species": "Alysicarpus vaginalis (L.) DC.",
+        "genus": "Alysicarpus",
+        "family": "Fabaceae",
+        "commonNames": [
+          "Alyce Clover",
+          "One-leaf-clover",
+          "Buffalo-bur"
+        ],
+        "gbifId": "2948605",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "473569-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b8ad9be301563966",
+    "latLng": {
+      "lat": 37.76723611111111,
+      "lng": -122.46977222222222
+    },
+    "source": "exif",
+    "utImageTaken": 1697614778,
+    "timeImageTaken": "2023-10-18 07:39:38",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.61038,
+        "species": "Crinum moorei Hook.f.",
+        "genus": "Crinum",
+        "family": "Amaryllidaceae",
+        "commonNames": [
+          "Natal lily"
+        ],
+        "gbifId": "4928395",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "63990-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "fafd93b6c99ed934",
+    "latLng": {
+      "lat": 6.912852777777778,
+      "lng": 79.85993888888888
+    },
+    "source": "exif",
+    "utImageTaken": 1778722285,
+    "timeImageTaken": "2026-05-14 01:31:25",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.86159,
+        "species": "Nyctanthes arbor-tristis L.",
+        "genus": "Nyctanthes",
+        "family": "Oleaceae",
+        "commonNames": [
+          "Parijat",
+          "Night jasmine",
+          "हरसिंगार"
+        ],
+        "gbifId": "3683008",
+        "iucnId": "150224828",
+        "iucnCategory": "LC",
+        "powoId": "610599-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "5b57189ecb0e2025",
+    "latLng": {
+      "lat": 6.918805555555556,
+      "lng": 79.85913055555555
+    },
+    "source": "exif",
+    "utImageTaken": 1778656726,
+    "timeImageTaken": "2026-05-13 07:18:46",
+    "userId": "1bi07e4",
+    "predictions": []
+  },
+  {
+    "imageHash": "bd55451b2f0f430a",
+    "latLng": {
+      "lat": 6.912872222222223,
+      "lng": 79.85995555555554
+    },
+    "source": "exif",
+    "utImageTaken": 1778722321,
+    "timeImageTaken": "2026-05-14 01:32:01",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.95733,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "592e30fc7278ab3b",
+    "latLng": {
+      "lat": 6.912958333333334,
+      "lng": 79.85987777777777
+    },
+    "source": "exif",
+    "utImageTaken": 1777514231,
+    "timeImageTaken": "2026-04-30 01:57:11",
+    "userId": "e1776bd6",
+    "predictions": [
+      {
+        "confidence": 0.35893,
+        "species": "Physostegia virginiana (L.) Benth.",
+        "genus": "Physostegia",
+        "family": "Lamiaceae",
+        "commonNames": [
+          "Obedience",
+          "Obedient plant",
+          "False dragonhead"
+        ],
+        "gbifId": "2926572",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "30043311-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "4633aed3d77e0c87",
+    "latLng": {
+      "lat": -8.703475,
+      "lng": 115.16722777777778
+    },
+    "source": "exif",
+    "utImageTaken": 1733025822,
+    "timeImageTaken": "2024-12-01 04:03:42",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.89087,
+        "species": "Cleome viscosa L.",
+        "genus": "Cleome",
+        "family": "Cleomaceae",
+        "commonNames": [
+          "Asian Spider-flower",
+          "کنجد شیطان، کنجد وحشی",
+          "కుక్కవావింట"
+        ],
+        "gbifId": "3054214",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "320133-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "35bf6db29dc600f9",
+    "latLng": {
+      "lat": -8.703505555555555,
+      "lng": 115.16697777777779
+    },
+    "source": "exif",
+    "utImageTaken": 1733025762,
+    "timeImageTaken": "2024-12-01 04:02:42",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.23918,
+        "species": "Rorippa sylvestris (L.) Besser",
+        "genus": "Rorippa",
+        "family": "Brassicaceae",
+        "commonNames": [
+          "Creeping yellow cress",
+          "Creeping yellow field cress",
+          "Yellow field cress"
+        ],
+        "gbifId": "3053376",
+        "iucnId": "176486",
+        "iucnCategory": "LC",
+        "powoId": "288692-1"
+      },
+      {
+        "confidence": 0.1375,
+        "species": "Bunias erucago L.",
+        "genus": "Bunias",
+        "family": "Brassicaceae",
+        "commonNames": [
+          "Southern warty-cabbage",
+          "Crested wartycabbage",
+          "Crested Bunias"
+        ],
+        "gbifId": "3050357",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "279698-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "26e7abcaddf2778d",
+    "latLng": {
+      "lat": -8.70383611111111,
+      "lng": 115.16716111111111
+    },
+    "source": "exif",
+    "utImageTaken": 1733025925,
+    "timeImageTaken": "2024-12-01 04:05:25",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.61447,
+        "species": "Costus spiralis (Jacq.) Roscoe",
+        "genus": "Costus",
+        "family": "Costaceae",
+        "commonNames": [
+          "Insulin plant",
+          "Sunbird's Delight",
+          "Spiralis ginger"
+        ],
+        "gbifId": "2756867",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "796387-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "d49465fcb9afe2e0",
+    "latLng": {
+      "lat": -8.703697222222221,
+      "lng": 115.16623611111112
+    },
+    "source": "exif",
+    "utImageTaken": 1733025422,
+    "timeImageTaken": "2024-12-01 03:57:02",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.90267,
+        "species": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult.",
+        "genus": "Tabernaemontana",
+        "family": "Apocynaceae",
+        "commonNames": [
+          "Crape-jasmine",
+          "কাঠ মালতি",
+          "Butterfly-gardenia"
+        ],
+        "gbifId": "3169625",
+        "iucnId": "149853146",
+        "iucnCategory": "LC",
+        "powoId": "82097-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "3254f6dbb52c52a5",
+    "latLng": {
+      "lat": -8.703644444444445,
+      "lng": 115.16638055555556
+    },
+    "source": "exif",
+    "utImageTaken": 1733025621,
+    "timeImageTaken": "2024-12-01 04:00:21",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.86418,
+        "species": "Tagetes erecta L.",
+        "genus": "Tagetes",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Marigold",
+          "African marigold",
+          "गेंदा फूल (Genda phool)"
+        ],
+        "gbifId": "3088488",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "252092-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "e11382d83c315de1",
+    "latLng": {
+      "lat": 37.42669166666666,
+      "lng": -122.17031111111112
+    },
+    "source": "exif",
+    "utImageTaken": 1737875412,
+    "timeImageTaken": "2025-01-26 07:10:12",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.41021,
+        "species": "Camellia japonica L.",
+        "genus": "Camellia",
+        "family": "Theaceae",
+        "commonNames": [
+          "Camellia",
+          "Japanese Camellia",
+          "Rose of Winter"
+        ],
+        "gbifId": "3189636",
+        "iucnId": "62054114",
+        "iucnCategory": "LC",
+        "powoId": "828524-1"
+      },
+      {
+        "confidence": 0.23725,
+        "species": "Camellia sasanqua Thunb.",
+        "genus": "Camellia",
+        "family": "Theaceae",
+        "commonNames": [
+          "Camellia",
+          "Sasanqua camellia",
+          "Christmas camellia"
+        ],
+        "gbifId": "3189637",
+        "iucnId": "62057947",
+        "iucnCategory": "LC",
+        "powoId": "927409-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "2ef1ca46bb4adcc5",
+    "latLng": {
+      "lat": 6.912911111111112,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722377,
+    "timeImageTaken": "2026-05-14 01:32:57",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.26807,
+        "species": "Gynura procumbens (Lour.) Merr.",
+        "genus": "Gynura",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Longevity spinach",
+          "Okinawa spinach",
+          "Scrambling gynura"
+        ],
+        "gbifId": "3139818",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "211304-1"
+      },
+      {
+        "confidence": 0.17028,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "beb25600caae8f6a",
+    "latLng": {
+      "lat": -8.703475,
+      "lng": 115.16722777777778
+    },
+    "source": "exif",
+    "utImageTaken": 1733025820,
+    "timeImageTaken": "2024-12-01 04:03:40",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.85483,
+        "species": "Cleome viscosa L.",
+        "genus": "Cleome",
+        "family": "Cleomaceae",
+        "commonNames": [
+          "Asian Spider-flower",
+          "కుక్కవావింట",
+          "کنجد شیطان، کنجد وحشی"
+        ],
+        "gbifId": "3054214",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "320133-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "46106a8bdea07c86",
+    "latLng": {
+      "lat": 6.918830555555556,
+      "lng": 79.85912222222221
+    },
+    "source": "exif",
+    "utImageTaken": 1778656727,
+    "timeImageTaken": "2026-05-13 07:18:47",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.11875,
+        "species": "Chlorophytum comosum (Thunb.) Jacques",
+        "genus": "Chlorophytum",
+        "family": "Asparagaceae",
+        "commonNames": [
+          "Spider plant",
+          "کاپنس گندمی\n\nخانواده: لیلیاسه ها (سوسنی ها)",
+          "Hen-and-chickens"
+        ],
+        "gbifId": "2774846",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "532810-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b4ea0e78a2f0f3db",
+    "latLng": {
+      "lat": 37.426649999999995,
+      "lng": -122.17023333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1737875402,
+    "timeImageTaken": "2025-01-26 07:10:02",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.6128,
+        "species": "Camellia japonica L.",
+        "genus": "Camellia",
+        "family": "Theaceae",
+        "commonNames": [
+          "Camellia",
+          "Japanese Camellia",
+          "Rose of Winter"
+        ],
+        "gbifId": "3189636",
+        "iucnId": "62054114",
+        "iucnCategory": "LC",
+        "powoId": "828524-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b568c9ce96b0ebff",
+    "latLng": {
+      "lat": 6.912858333333333,
+      "lng": 79.85994722222222
+    },
+    "source": "exif",
+    "utImageTaken": 1778722301,
+    "timeImageTaken": "2026-05-14 01:31:41",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.11052,
+        "species": "Justicia adhatoda L.",
+        "genus": "Justicia",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Vasaka",
+          "Malabar-nut",
+          "Pavettia"
+        ],
+        "gbifId": "3173105",
+        "iucnId": "169274250",
+        "iucnCategory": "LC",
+        "powoId": "50237-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "e94b60e80f7811b0",
+    "latLng": {
+      "lat": 8.118133333333335,
+      "lng": 80.66473333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1775277316,
+    "timeImageTaken": "2026-04-04 04:35:16",
+    "userId": "e1776bd6",
+    "predictions": [
+      {
+        "confidence": 0.54083,
+        "species": "Ecbolium viride (Forssk.) Alston",
+        "genus": "Ecbolium",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Green shrimp plant",
+          "Turquoise crossandra",
+          "డిసెంబర్ పూల చెట్టు"
+        ],
+        "gbifId": "7264277",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "48609-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "7e4f1232dcf19251",
+    "latLng": {
+      "lat": 37.42685833333333,
+      "lng": -122.17102777777778
+    },
+    "source": "exif",
+    "utImageTaken": 1737874935,
+    "timeImageTaken": "2025-01-26 07:02:15",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.40419,
+        "species": "Camellia japonica L.",
+        "genus": "Camellia",
+        "family": "Theaceae",
+        "commonNames": [
+          "Camellia",
+          "Japanese Camellia",
+          "Rose of Winter"
+        ],
+        "gbifId": "3189636",
+        "iucnId": "62054114",
+        "iucnCategory": "LC",
+        "powoId": "828524-1"
+      },
+      {
+        "confidence": 0.164,
+        "species": "Rosa gallica L.",
+        "genus": "Rosa",
+        "family": "Rosaceae",
+        "commonNames": [
+          "French rose",
+          "Hungarian rose",
+          "Red-rose-of-Lancaster"
+        ],
+        "gbifId": "3002530",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "732569-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "4827878cc3b6cd03",
+    "latLng": {
+      "lat": 6.918872222222222,
+      "lng": 79.85911666666667
+    },
+    "source": "exif",
+    "utImageTaken": 1778656728,
+    "timeImageTaken": "2026-05-13 07:18:48",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.30146,
+        "species": "Plectranthus amboinicus (Lour.) Spreng.",
+        "genus": "Plectranthus",
+        "family": "Lamiaceae",
+        "commonNames": [
+          "Cuban-oregano",
+          "Indian-mint",
+          "Ajwayan leaf indian"
+        ],
+        "gbifId": "2926636",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
+      },
+      {
+        "confidence": 0.20672,
+        "species": "Plectranthus barbatus Andrews",
+        "genus": "Plectranthus",
+        "family": "Lamiaceae",
+        "commonNames": [
+          "Forskohlii",
+          "Coleus",
+          "Indian borage"
+        ],
+        "gbifId": "6412796",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
+      }
+    ]
+  },
+  {
+    "imageHash": "1336d3f3812cf382",
+    "latLng": {
+      "lat": 6.912925,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722408,
+    "timeImageTaken": "2026-05-14 01:33:28",
+    "userId": "1bi07e4",
+    "predictions": []
+  },
+  {
+    "imageHash": "2e859382180e6553",
+    "latLng": {
+      "lat": 6.912994444444445,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722472,
+    "timeImageTaken": "2026-05-14 01:34:32",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.11581,
+        "species": "Phyllanthus niruroides Müll.Arg.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Seed on the leaf"
+        ],
+        "gbifId": "5381773",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "354351-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "3ae050bbdb1eb9cf",
+    "latLng": {
+      "lat": 6.912855555555556,
+      "lng": 79.85993888888888
+    },
+    "source": "exif",
+    "utImageTaken": 1778722292,
+    "timeImageTaken": "2026-05-14 01:31:32",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.94251,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "ea7962919bd12c3d",
+    "latLng": {
+      "lat": 6.912883333333333,
+      "lng": 79.8599611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722329,
+    "timeImageTaken": "2026-05-14 01:32:09",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.95789,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "c8fe0a69dc219962",
+    "latLng": {
+      "lat": 6.913016666666667,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722495,
+    "timeImageTaken": "2026-05-14 01:34:55",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.2484,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      },
+      {
+        "confidence": 0.11144,
+        "species": "Citrus × limon (L.) Osbeck",
+        "genus": "Citrus",
+        "family": "Rutaceae",
+        "commonNames": [
+          "Lemon",
+          "Lemon-tree",
+          "Mandarin lime"
+        ],
+        "gbifId": "7647136",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "60454758-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "df623b97eab9399a",
+    "latLng": {
+      "lat": 6.9129861111111115,
+      "lng": 79.86001666666667
+    },
+    "source": "exif",
+    "utImageTaken": 1778722469,
+    "timeImageTaken": "2026-05-14 01:34:29",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.16225,
+        "species": "Phyllanthus niruroides Müll.Arg.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Seed on the leaf"
+        ],
+        "gbifId": "5381773",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "354351-1"
+      },
+      {
+        "confidence": 0.12511,
+        "species": "Phyllanthus niruri L.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Niruri",
+          "Gale of the wind",
+          "Seed-under-leaf"
+        ],
+        "gbifId": "5381945",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "194900-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "fa0b575a1524e54e",
+    "latLng": {
+      "lat": 6.912908333333334,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722384,
+    "timeImageTaken": "2026-05-14 01:33:04",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.98095,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "5881fec13ce62150",
+    "latLng": {
+      "lat": 37.45101666666667,
+      "lng": -122.16041666666668
+    },
+    "source": "exif",
+    "utImageTaken": 1738831571,
+    "timeImageTaken": "2025-02-06 08:46:11",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.51872,
+        "species": "Magnolia liliiflora Desr.",
+        "genus": "Magnolia",
+        "family": "Magnoliaceae",
+        "commonNames": [
+          "Lily Magnolia",
+          "Purple magnolia",
+          "Red magnolia"
+        ],
+        "gbifId": "3153228",
+        "iucnId": "191488",
+        "iucnCategory": "DD",
+        "powoId": "554759-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "a5cd0676a5a3b86b",
+    "latLng": {
+      "lat": 6.912886111111112,
+      "lng": 79.85998611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722352,
+    "timeImageTaken": "2026-05-14 01:32:32",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.20688,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "663afd2517de2239",
+    "latLng": {
+      "lat": -8.704022222222221,
+      "lng": 115.16684722222223
+    },
+    "source": "exif",
+    "utImageTaken": 1733025996,
+    "timeImageTaken": "2024-12-01 04:06:36",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.3992,
+        "species": "Hymenocallis littoralis (Jacq.) Salisb.",
+        "genus": "Hymenocallis",
+        "family": "Amaryllidaceae",
+        "commonNames": [
+          "Beach spiderlily",
+          "Tropical Spider-Lily",
+          "Spider lily"
+        ],
+        "gbifId": "2860119",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "30048918-2"
+      },
+      {
+        "confidence": 0.17677,
+        "species": "Crinum americanum L.",
+        "genus": "Crinum",
+        "family": "Amaryllidaceae",
+        "commonNames": [
+          "Florida swamp-lily",
+          "Southern swamp crinum",
+          "String-lily"
+        ],
+        "gbifId": "2853938",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "319172-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "0b45537b1d03c88a",
+    "latLng": {
+      "lat": -8.703358333333332,
+      "lng": 115.16625277777779
+    },
+    "source": "exif",
+    "utImageTaken": 1733025569,
+    "timeImageTaken": "2024-12-01 03:59:29",
+    "userId": "1bi07e4",
+    "predictions": [
+      {
+        "confidence": 0.67296,
+        "species": "Ficus lyrata Warb.",
+        "genus": "Ficus",
+        "family": "Moraceae",
+        "commonNames": [
+          "Fiddle-leaf fig",
+          "فیکوس لیراتا",
+          "Lyre-leaf figtree"
+        ],
+        "gbifId": "5361899",
+        "iucnId": "208115167",
+        "iucnCategory": "LC",
+        "powoId": "853158-1"
+      },
+      {
+        "confidence": 0.13893,
+        "species": "Ficus platypoda (Miq.) A.Cunn. ex Miq.",
+        "genus": "Ficus",
+        "family": "Moraceae",
+        "commonNames": [
+          "Fig",
+          "Rock fig",
+          "Small-leaf Moreton Bay fig"
+        ],
+        "gbifId": "6359010",
+        "iucnId": "146605000",
+        "iucnCategory": "LC",
+        "powoId": "853434-1"
+      }
+    ]
   }
 ]
