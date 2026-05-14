@@ -94,6 +94,9 @@ class Aggregate:
             location = image_meta.get("imageLocation", {})
             user_id = image_meta.get("userId")
             predictions = self._predictions(ident)
+            nominatim_display_name = ident.get("nominatim_data", {}).get(
+                "display_name"
+            )
 
             # user_map
             if user_id:
@@ -122,6 +125,7 @@ class Aggregate:
                     "utImageTaken": ut,
                     "timeImageTaken": time_taken,
                     "userId": user_id,
+                    "nominatim_display_name": nominatim_display_name,
                     "predictions": predictions,
                 }
             )
