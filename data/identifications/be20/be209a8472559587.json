@@ -1,0 +1,365 @@
+{
+  "hash": "be209a8472559587",
+  "image_metadata": {
+    "imageHash": "be209a8472559587",
+    "imageLocation": {
+      "latitude": 50.21846666666667,
+      "longitude": -5.479344444444444,
+      "accuracy": 5,
+      "source": "exif"
+    },
+    "utImageTaken": 1496060583,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/be209a8472559587.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "a7ffd4eea304c174715d6ef9c5b98e29"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "a7ffd4eea304c174715d6ef9c5b98e29",
+        "filename": "be209a8472559587.png",
+        "organ": "habit",
+        "score": 0.75324
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Armeria maritima (Mill.) Willd.",
+    "results": [
+      {
+        "score": 0.23917,
+        "species": {
+          "scientificNameWithoutAuthor": "Armeria maritima",
+          "scientificNameAuthorship": "(Mill.) Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Armeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Armeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Plumbaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumbaginaceae"
+          },
+          "commonNames": [
+            "Thrift seapink",
+            "Thrift",
+            "Marsh daisy"
+          ],
+          "scientificName": "Armeria maritima (Mill.) Willd."
+        },
+        "gbif": {
+          "id": "8930531"
+        },
+        "powo": {
+          "id": "19793-2"
+        }
+      },
+      {
+        "score": 0.08292,
+        "species": {
+          "scientificNameWithoutAuthor": "Armeria alpina",
+          "scientificNameAuthorship": "(DC.) Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Armeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Armeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Plumbaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumbaginaceae"
+          },
+          "commonNames": [
+            "Alpine Thrift",
+            "Mountain Thrift"
+          ],
+          "scientificName": "Armeria alpina (DC.) Willd."
+        },
+        "gbif": {
+          "id": "7136582"
+        },
+        "powo": {
+          "id": "686215-1"
+        }
+      },
+      {
+        "score": 0.06708,
+        "species": {
+          "scientificNameWithoutAuthor": "Armeria pungens",
+          "scientificNameAuthorship": "(Brot.) Hoffmanns. & Link",
+          "genus": {
+            "scientificNameWithoutAuthor": "Armeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Armeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Plumbaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumbaginaceae"
+          },
+          "commonNames": [
+            "Spiny thrift"
+          ],
+          "scientificName": "Armeria pungens (Brot.) Hoffmanns. & Link"
+        },
+        "gbif": {
+          "id": "7136719"
+        },
+        "powo": {
+          "id": "686392-1"
+        }
+      },
+      {
+        "score": 0.0441,
+        "species": {
+          "scientificNameWithoutAuthor": "Armeria malinvaudii",
+          "scientificNameAuthorship": "H.J.Coste & Soulié",
+          "genus": {
+            "scientificNameWithoutAuthor": "Armeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Armeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Plumbaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumbaginaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Armeria malinvaudii H.J.Coste & Soulié"
+        },
+        "gbif": {
+          "id": "5667983"
+        },
+        "powo": {
+          "id": "686350-1"
+        }
+      },
+      {
+        "score": 0.03622,
+        "species": {
+          "scientificNameWithoutAuthor": "Allium schoenoprasum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Allium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Allium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "Chives",
+            "Giant garlic",
+            "Wild Chives"
+          ],
+          "scientificName": "Allium schoenoprasum L."
+        },
+        "gbif": {
+          "id": "2855860"
+        },
+        "powo": {
+          "id": "528823-1"
+        },
+        "iucn": {
+          "id": "172256",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.03115,
+        "species": {
+          "scientificNameWithoutAuthor": "Silene acaulis",
+          "scientificNameAuthorship": "(L.) Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Silene",
+            "scientificNameAuthorship": "",
+            "scientificName": "Silene"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caryophyllaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caryophyllaceae"
+          },
+          "commonNames": [
+            "Moss campion",
+            "Cushion-pink",
+            "Moss champion"
+          ],
+          "scientificName": "Silene acaulis (L.) Jacq."
+        },
+        "gbif": {
+          "id": "5384754"
+        },
+        "powo": {
+          "id": "60452326-2"
+        }
+      },
+      {
+        "score": 0.02334,
+        "species": {
+          "scientificNameWithoutAuthor": "Erica cinerea",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Erica",
+            "scientificNameAuthorship": "",
+            "scientificName": "Erica"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ericaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ericaceae"
+          },
+          "commonNames": [
+            "Bell-heather",
+            "Purple Heather",
+            "Gray heath"
+          ],
+          "scientificName": "Erica cinerea L."
+        },
+        "gbif": {
+          "id": "5333411"
+        },
+        "powo": {
+          "id": "328424-1"
+        },
+        "iucn": {
+          "id": "203006",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01792,
+        "species": {
+          "scientificNameWithoutAuthor": "Erodium foetidum",
+          "scientificNameAuthorship": "(L.) L'Hér.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Erodium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Erodium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Geraniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Geraniaceae"
+          },
+          "commonNames": [
+            "Rock Stork's-bill",
+            "Rock storksbill"
+          ],
+          "scientificName": "Erodium foetidum (L.) L'Hér."
+        },
+        "gbif": {
+          "id": "9368145"
+        },
+        "powo": {
+          "id": "372250-1"
+        },
+        "iucn": {
+          "id": "203224",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0154,
+        "species": {
+          "scientificNameWithoutAuthor": "Armeria cantabrica",
+          "scientificNameAuthorship": "Boiss. & Reut. ex Willk.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Armeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Armeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Plumbaginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumbaginaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Armeria cantabrica Boiss. & Reut. ex Willk."
+        },
+        "gbif": {
+          "id": "7298203"
+        },
+        "powo": {
+          "id": "686260-1"
+        }
+      },
+      {
+        "score": 0.01431,
+        "species": {
+          "scientificNameWithoutAuthor": "Allium lusitanicum",
+          "scientificNameAuthorship": "Lam.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Allium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Allium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Amaryllidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amaryllidaceae"
+          },
+          "commonNames": [
+            "German Garlic",
+            "Portuguese Onion"
+          ],
+          "scientificName": "Allium lusitanicum Lam."
+        },
+        "gbif": {
+          "id": "2855705"
+        },
+        "powo": {
+          "id": "528348-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 432
+  },
+  "nominatim_data": {
+    "place_id": 284643324,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5543425806,
+    "lat": "50.2185510",
+    "lon": "-5.4793063",
+    "class": "amenity",
+    "type": "bench",
+    "place_rank": 30,
+    "importance": 3.582284275573385e-05,
+    "addresstype": "amenity",
+    "name": "",
+    "display_name": "Porthmeor Road, St. Ives, Cornwall, England, TR26 1FE, United Kingdom",
+    "address": {
+      "road": "Porthmeor Road",
+      "town": "St. Ives",
+      "county": "Cornwall",
+      "ISO3166-2-lvl6": "GB-CON",
+      "state": "England",
+      "ISO3166-2-lvl4": "GB-ENG",
+      "postcode": "TR26 1FE",
+      "country": "United Kingdom",
+      "country_code": "gb"
+    },
+    "boundingbox": [
+      "50.2185010",
+      "50.2186010",
+      "-5.4793563",
+      "-5.4792563"
+    ]
+  }
+}

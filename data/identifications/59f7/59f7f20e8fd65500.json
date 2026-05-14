@@ -1,0 +1,395 @@
+{
+  "hash": "59f7f20e8fd65500",
+  "image_metadata": {
+    "imageHash": "59f7f20e8fd65500",
+    "imageLocation": {
+      "latitude": 51.5033,
+      "longitude": -0.14399166666666666,
+      "accuracy": 21.089350025724574,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1689843965,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/59f7f20e8fd65500.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "0b03d199f88259bd83f567c073e4dc53"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "0b03d199f88259bd83f567c073e4dc53",
+        "filename": "59f7f20e8fd65500.png",
+        "organ": "habit",
+        "score": 0.64987
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Malus hupehensis (Pamp.) Rehder",
+    "results": [
+      {
+        "score": 0.20578,
+        "species": {
+          "scientificNameWithoutAuthor": "Malus hupehensis",
+          "scientificNameAuthorship": "(Pamp.) Rehder",
+          "genus": {
+            "scientificNameWithoutAuthor": "Malus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Chinese crab apple",
+            "Hupeh crab",
+            "Tea crab apple"
+          ],
+          "scientificName": "Malus hupehensis (Pamp.) Rehder"
+        },
+        "gbif": {
+          "id": "3001077"
+        },
+        "powo": {
+          "id": "726310-1"
+        },
+        "iucn": {
+          "id": "34901",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.04094,
+        "species": {
+          "scientificNameWithoutAuthor": "Malus × floribunda",
+          "scientificNameAuthorship": "Siebold ex Van Houtte",
+          "genus": {
+            "scientificNameWithoutAuthor": "Malus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Japanese Crab Apple",
+            "Japanese Crab",
+            "Japanese Flowering Crab Apple"
+          ],
+          "scientificName": "Malus × floribunda Siebold ex Van Houtte"
+        },
+        "gbif": {
+          "id": "3001365"
+        },
+        "powo": {
+          "id": "726291-1"
+        }
+      },
+      {
+        "score": 0.03883,
+        "species": {
+          "scientificNameWithoutAuthor": "Pittosporum tenuifolium",
+          "scientificNameAuthorship": "Gaertn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pittosporum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pittosporum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Pittosporaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pittosporaceae"
+          },
+          "commonNames": [
+            "Kohuhu",
+            "Tawhiwhi",
+            "Black Matipo"
+          ],
+          "scientificName": "Pittosporum tenuifolium Gaertn."
+        },
+        "gbif": {
+          "id": "2986293"
+        },
+        "powo": {
+          "id": "684708-1"
+        }
+      },
+      {
+        "score": 0.03794,
+        "species": {
+          "scientificNameWithoutAuthor": "Malus sylvestris",
+          "scientificNameAuthorship": "(L.) Mill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Malus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Crab apple",
+            "European crab apple",
+            "Lopâr"
+          ],
+          "scientificName": "Malus sylvestris (L.) Mill."
+        },
+        "gbif": {
+          "id": "3001509"
+        },
+        "powo": {
+          "id": "726415-1"
+        },
+        "iucn": {
+          "id": "172170",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.03598,
+        "species": {
+          "scientificNameWithoutAuthor": "Prunus cerasifera",
+          "scientificNameAuthorship": "Ehrh.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Prunus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Prunus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Cherry plum, myrobalan",
+            "Cherry Plum",
+            "Purple-leaf Plum"
+          ],
+          "scientificName": "Prunus cerasifera Ehrh."
+        },
+        "gbif": {
+          "id": "3021730"
+        },
+        "powo": {
+          "id": "729568-1"
+        },
+        "iucn": {
+          "id": "172162",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.03442,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhamnus cathartica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhamnus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhamnus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rhamnaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhamnaceae"
+          },
+          "commonNames": [
+            "Common buckthorn",
+            "Buckthorn",
+            "European buckthorn"
+          ],
+          "scientificName": "Rhamnus cathartica L."
+        },
+        "gbif": {
+          "id": "3039491"
+        },
+        "powo": {
+          "id": "718256-1"
+        },
+        "iucn": {
+          "id": "61957125",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02781,
+        "species": {
+          "scientificNameWithoutAuthor": "Prunus spinosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Prunus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Prunus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Blackthorn",
+            "Sloe",
+            "Sloe Berry"
+          ],
+          "scientificName": "Prunus spinosa L."
+        },
+        "gbif": {
+          "id": "3023221"
+        },
+        "powo": {
+          "id": "730297-1"
+        },
+        "iucn": {
+          "id": "172194",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02352,
+        "species": {
+          "scientificNameWithoutAuthor": "Cornus sanguinea",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cornus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cornus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cornaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cornaceae"
+          },
+          "commonNames": [
+            "Common Dogwood",
+            "Dogwood",
+            "Pegwood"
+          ],
+          "scientificName": "Cornus sanguinea L."
+        },
+        "gbif": {
+          "id": "3082234"
+        },
+        "powo": {
+          "id": "271661-1"
+        }
+      },
+      {
+        "score": 0.01146,
+        "species": {
+          "scientificNameWithoutAuthor": "Crataegus laevigata",
+          "scientificNameAuthorship": "(Poir.) DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Crataegus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Crataegus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "English hawthorn",
+            "Midland hawthorn",
+            "Woodland hawthorn"
+          ],
+          "scientificName": "Crataegus laevigata (Poir.) DC."
+        },
+        "gbif": {
+          "id": "8252683"
+        },
+        "powo": {
+          "id": "723644-1"
+        },
+        "iucn": {
+          "id": "203425",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01005,
+        "species": {
+          "scientificNameWithoutAuthor": "Laurus nobilis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Laurus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Laurus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lauraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lauraceae"
+          },
+          "commonNames": [
+            "(Sweet) Bay leaf",
+            "برگ بو",
+            "Bay Laurel"
+          ],
+          "scientificName": "Laurus nobilis L."
+        },
+        "gbif": {
+          "id": "3034015"
+        },
+        "powo": {
+          "id": "465049-1"
+        },
+        "iucn": {
+          "id": "203351",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 442
+  },
+  "nominatim_data": {
+    "place_id": 280457910,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6746990790,
+    "lat": "51.5032370",
+    "lon": "-0.1446777",
+    "class": "amenity",
+    "type": "bench",
+    "place_rank": 30,
+    "importance": 9.307927061870783e-05,
+    "addresstype": "amenity",
+    "name": "",
+    "display_name": "Constitution Hill, Belgravia, City of Westminster, Greater London, England, WC2E 9DA, United Kingdom",
+    "address": {
+      "road": "Constitution Hill",
+      "suburb": "Belgravia",
+      "city": "City of Westminster",
+      "ISO3166-2-lvl8": "GB-WSM",
+      "state": "England",
+      "ISO3166-2-lvl4": "GB-ENG",
+      "postcode": "WC2E 9DA",
+      "country": "United Kingdom",
+      "country_code": "gb"
+    },
+    "boundingbox": [
+      "51.5031870",
+      "51.5032870",
+      "-0.1447277",
+      "-0.1446277"
+    ]
+  }
+}

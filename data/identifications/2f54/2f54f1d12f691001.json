@@ -1,0 +1,399 @@
+{
+  "hash": "2f54f1d12f691001",
+  "image_metadata": {
+    "imageHash": "2f54f1d12f691001",
+    "imageLocation": {
+      "latitude": 51.50516388888889,
+      "longitude": -0.0905611111111111,
+      "accuracy": 40,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1689496416,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/2f54f1d12f691001.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "e5a2debe291055a68fec1d191714306e"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "e5a2debe291055a68fec1d191714306e",
+        "filename": "2f54f1d12f691001.png",
+        "organ": "fruit",
+        "score": 0.33994
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Artocarpus heterophyllus Lam.",
+    "results": [
+      {
+        "score": 0.43367,
+        "species": {
+          "scientificNameWithoutAuthor": "Artocarpus heterophyllus",
+          "scientificNameAuthorship": "Lam.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Artocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Artocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Jackfruit",
+            "Nangka",
+            "Jack"
+          ],
+          "scientificName": "Artocarpus heterophyllus Lam."
+        },
+        "gbif": {
+          "id": "2984565"
+        },
+        "powo": {
+          "id": "850389-1"
+        }
+      },
+      {
+        "score": 0.01396,
+        "species": {
+          "scientificNameWithoutAuthor": "Artocarpus integer",
+          "scientificNameAuthorship": "(Thunb.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Artocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Artocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Chempedak",
+            "Champedak",
+            "Tjampedak"
+          ],
+          "scientificName": "Artocarpus integer (Thunb.) Merr."
+        },
+        "gbif": {
+          "id": "2984566"
+        },
+        "powo": {
+          "id": "582622-1"
+        },
+        "iucn": {
+          "id": "61220334",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01216,
+        "species": {
+          "scientificNameWithoutAuthor": "Maclura pomifera",
+          "scientificNameAuthorship": "(Raf.) C.K.Schneid.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Maclura",
+            "scientificNameAuthorship": "",
+            "scientificName": "Maclura"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Osage-orange",
+            "Hedge-apple",
+            "Bow-wood"
+          ],
+          "scientificName": "Maclura pomifera (Raf.) C.K.Schneid."
+        },
+        "gbif": {
+          "id": "2984580"
+        },
+        "powo": {
+          "id": "148738-2"
+        },
+        "iucn": {
+          "id": "61886714",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0118,
+        "species": {
+          "scientificNameWithoutAuthor": "Attalea butyracea",
+          "scientificNameAuthorship": "(Mutis ex L.f.) Wess.Boer",
+          "genus": {
+            "scientificNameWithoutAuthor": "Attalea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Attalea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Arecaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Arecaceae"
+          },
+          "commonNames": [
+            "Kuakish"
+          ],
+          "scientificName": "Attalea butyracea (Mutis ex L.f.) Wess.Boer"
+        },
+        "gbif": {
+          "id": "2732721"
+        },
+        "powo": {
+          "id": "1172851-2"
+        },
+        "iucn": {
+          "id": "67532376",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01152,
+        "species": {
+          "scientificNameWithoutAuthor": "Treculia africana",
+          "scientificNameAuthorship": "Decne. ex Trécul",
+          "genus": {
+            "scientificNameWithoutAuthor": "Treculia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Treculia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "African breadfruit",
+            "African-boxwood",
+            "African breadnut"
+          ],
+          "scientificName": "Treculia africana Decne. ex Trécul"
+        },
+        "gbif": {
+          "id": "7895921"
+        },
+        "powo": {
+          "id": "856719-1"
+        },
+        "iucn": {
+          "id": "87717226",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0078,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus maxima",
+          "scientificNameAuthorship": "(Burm.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Pomelo",
+            "Shaddock",
+            "Pummelo"
+          ],
+          "scientificName": "Citrus maxima (Burm.) Merr."
+        },
+        "gbif": {
+          "id": "3190160"
+        },
+        "powo": {
+          "id": "30075266-2"
+        },
+        "iucn": {
+          "id": "62042732",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00729,
+        "species": {
+          "scientificNameWithoutAuthor": "Azorella compacta",
+          "scientificNameAuthorship": "Phil.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Azorella",
+            "scientificNameAuthorship": "",
+            "scientificName": "Azorella"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apiaceae"
+          },
+          "commonNames": [
+            "Yareta"
+          ],
+          "scientificName": "Azorella compacta Phil."
+        },
+        "gbif": {
+          "id": "3631998"
+        },
+        "powo": {
+          "id": "27728-2"
+        },
+        "iucn": {
+          "id": "133248721",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00665,
+        "species": {
+          "scientificNameWithoutAuthor": "Phoenix dactylifera",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phoenix",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phoenix"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Arecaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Arecaceae"
+          },
+          "commonNames": [
+            "Date palm",
+            "Date",
+            "Common date palm"
+          ],
+          "scientificName": "Phoenix dactylifera L."
+        },
+        "gbif": {
+          "id": "6109699"
+        },
+        "powo": {
+          "id": "668912-1"
+        }
+      },
+      {
+        "score": 0.0053,
+        "species": {
+          "scientificNameWithoutAuthor": "Ferula communis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ferula",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ferula"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apiaceae"
+          },
+          "commonNames": [
+            "Giant Fennel",
+            "Common giant-fennel",
+            "Feshook"
+          ],
+          "scientificName": "Ferula communis L."
+        },
+        "gbif": {
+          "id": "8048981"
+        },
+        "powo": {
+          "id": "842235-1"
+        },
+        "iucn": {
+          "id": "19349293",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00516,
+        "species": {
+          "scientificNameWithoutAuthor": "Amorphophallus titanum",
+          "scientificNameAuthorship": "(Becc.) Becc.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Amorphophallus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amorphophallus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araceae"
+          },
+          "commonNames": [
+            "Titan arum",
+            "Corpse Flower",
+            "Corpse Plant"
+          ],
+          "scientificName": "Amorphophallus titanum (Becc.) Becc."
+        },
+        "gbif": {
+          "id": "2871508"
+        },
+        "powo": {
+          "id": "84456-1"
+        },
+        "iucn": {
+          "id": "118042834",
+          "category": "EN"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 443
+  },
+  "nominatim_data": {
+    "place_id": 280048882,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 12307747119,
+    "lat": "51.5051664",
+    "lon": "-0.0902882",
+    "class": "shop",
+    "type": "spices",
+    "place_rank": 30,
+    "importance": 9.307927061870783e-05,
+    "addresstype": "shop",
+    "name": "Spice  Mountain",
+    "display_name": "Spice  Mountain, Southwark Street, Borough Market, Bankside, The Borough, London Borough of Southwark, Greater London, England, SE1 1YB, United Kingdom",
+    "address": {
+      "shop": "Spice  Mountain",
+      "road": "Southwark Street",
+      "neighbourhood": "Borough Market",
+      "quarter": "Bankside",
+      "suburb": "The Borough",
+      "city_district": "London Borough of Southwark",
+      "ISO3166-2-lvl8": "GB-SWK",
+      "city": "Greater London",
+      "state": "England",
+      "ISO3166-2-lvl4": "GB-ENG",
+      "postcode": "SE1 1YB",
+      "country": "United Kingdom",
+      "country_code": "gb"
+    },
+    "boundingbox": [
+      "51.5051164",
+      "51.5052164",
+      "-0.0903382",
+      "-0.0902382"
+    ]
+  }
+}

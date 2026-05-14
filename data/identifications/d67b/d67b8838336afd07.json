@@ -1,0 +1,291 @@
+{
+  "hash": "d67b8838336afd07",
+  "image_metadata": {
+    "imageHash": "d67b8838336afd07",
+    "imageLocation": {
+      "latitude": 52.63442222222222,
+      "longitude": 1.3053333333333335,
+      "accuracy": 4.274357458547983,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1689753742,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/d67b8838336afd07.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "b88f59ac5fc85994f45b5a7397016761"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "b88f59ac5fc85994f45b5a7397016761",
+        "filename": "d67b8838336afd07.png",
+        "organ": "habit",
+        "score": 0.4958
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Cirsium vulgare (Savi) Ten.",
+    "results": [
+      {
+        "score": 0.8701,
+        "species": {
+          "scientificNameWithoutAuthor": "Cirsium vulgare",
+          "scientificNameAuthorship": "(Savi) Ten.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cirsium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cirsium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Spear Thistle",
+            "Bull Thistle",
+            "Scottish thistle"
+          ],
+          "scientificName": "Cirsium vulgare (Savi) Ten."
+        },
+        "gbif": {
+          "id": "3112801"
+        },
+        "powo": {
+          "id": "196191-1"
+        }
+      },
+      {
+        "score": 0.01462,
+        "species": {
+          "scientificNameWithoutAuthor": "Lophiolepis eriophora",
+          "scientificNameAuthorship": "(L.) Del Guacchio, Bureš, Iamonico & P.Caputo",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lophiolepis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lophiolepis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [],
+          "scientificName": "Lophiolepis eriophora (L.) Del Guacchio, Bureš, Iamonico & P.Caputo"
+        },
+        "gbif": {
+          "id": "12171609"
+        }
+      },
+      {
+        "score": 0.01342,
+        "species": {
+          "scientificNameWithoutAuthor": "Carduus acanthoides",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Carduus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Carduus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Welted thistle",
+            "Plumeless thistle",
+            "Spiny plumeless thistle"
+          ],
+          "scientificName": "Carduus acanthoides L."
+        },
+        "gbif": {
+          "id": "3114643"
+        },
+        "powo": {
+          "id": "188363-1"
+        }
+      },
+      {
+        "score": 0.00923,
+        "species": {
+          "scientificNameWithoutAuthor": "Lophiolepis ferox",
+          "scientificNameAuthorship": "(L.) Del Guacchio, Bureš, Iamonico & P.Caputo",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lophiolepis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lophiolepis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Thistle"
+          ],
+          "scientificName": "Lophiolepis ferox (L.) Del Guacchio, Bureš, Iamonico & P.Caputo"
+        },
+        "gbif": {
+          "id": "12218806"
+        }
+      },
+      {
+        "score": 0.00463,
+        "species": {
+          "scientificNameWithoutAuthor": "Onopordum acanthium",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Onopordum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Onopordum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Cotton thistle",
+            "Scotch thistle",
+            "Scottish thistle"
+          ],
+          "scientificName": "Onopordum acanthium L."
+        },
+        "gbif": {
+          "id": "3094900"
+        },
+        "powo": {
+          "id": "235234-1"
+        }
+      },
+      {
+        "score": 0.00255,
+        "species": {
+          "scientificNameWithoutAuthor": "Carduus nutans",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Carduus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Carduus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Musk thistle",
+            "Nodding thistle",
+            "Nodding Plumeless-Thistle"
+          ],
+          "scientificName": "Carduus nutans L."
+        },
+        "gbif": {
+          "id": "8185959"
+        },
+        "powo": {
+          "id": "188890-1"
+        }
+      },
+      {
+        "score": 0.00166,
+        "species": {
+          "scientificNameWithoutAuthor": "Lophiolepis morisiana",
+          "scientificNameAuthorship": "(Rchb.f.) Del Guacchio, Bureš, Iamonico & P.Caputo",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lophiolepis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lophiolepis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [],
+          "scientificName": "Lophiolepis morisiana (Rchb.f.) Del Guacchio, Bureš, Iamonico & P.Caputo"
+        },
+        "gbif": {
+          "id": "12265518"
+        }
+      },
+      {
+        "score": 0.0014,
+        "species": {
+          "scientificNameWithoutAuthor": "Cirsium altissimum",
+          "scientificNameAuthorship": "(L.) Spreng.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cirsium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cirsium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Roadside thistle",
+            "Tall thistle"
+          ],
+          "scientificName": "Cirsium altissimum (L.) Spreng."
+        },
+        "gbif": {
+          "id": "8078803"
+        },
+        "powo": {
+          "id": "77181240-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 428
+  },
+  "nominatim_data": {
+    "place_id": 159118662,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 37073019,
+    "lat": "52.6344219",
+    "lon": "1.3053333",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.04006797055008773,
+    "addresstype": "road",
+    "name": "Riverside Walk",
+    "display_name": "Riverside Walk, St James Place, Thorpe Hamlet, Norwich, Norfolk, England, NR3 1UB, United Kingdom",
+    "address": {
+      "road": "Riverside Walk",
+      "neighbourhood": "St James Place",
+      "suburb": "Thorpe Hamlet",
+      "city": "Norwich",
+      "county": "Norfolk",
+      "ISO3166-2-lvl6": "GB-NFK",
+      "state": "England",
+      "ISO3166-2-lvl4": "GB-ENG",
+      "postcode": "NR3 1UB",
+      "country": "United Kingdom",
+      "country_code": "gb"
+    },
+    "boundingbox": [
+      "52.6344051",
+      "52.6354333",
+      "1.3003362",
+      "1.3083681"
+    ]
+  }
+}

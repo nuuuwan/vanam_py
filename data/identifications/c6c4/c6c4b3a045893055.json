@@ -1,0 +1,328 @@
+{
+  "hash": "c6c4b3a045893055",
+  "image_metadata": {
+    "imageHash": "c6c4b3a045893055",
+    "imageLocation": {
+      "latitude": 52.634838888888886,
+      "longitude": 1.3039583333333333,
+      "accuracy": 7.919128329297821,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1689753641,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/c6c4b3a045893055.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "4c6b821a335f486db7e32a6d9fab913b"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "4c6b821a335f486db7e32a6d9fab913b",
+        "filename": "c6c4b3a045893055.png",
+        "organ": "habit",
+        "score": 0.47818
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Calystegia sepium (L.) R.Br.",
+    "results": [
+      {
+        "score": 0.35479,
+        "species": {
+          "scientificNameWithoutAuthor": "Calystegia sepium",
+          "scientificNameAuthorship": "(L.) R.Br.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Calystegia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Calystegia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Convolvulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulaceae"
+          },
+          "commonNames": [
+            "Wild Morning-Glory",
+            "Bindweed",
+            "Hedge Bindweed"
+          ],
+          "scientificName": "Calystegia sepium (L.) R.Br."
+        },
+        "gbif": {
+          "id": "2928441"
+        },
+        "powo": {
+          "id": "30033025-2"
+        },
+        "iucn": {
+          "id": "19224959",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.13257,
+        "species": {
+          "scientificNameWithoutAuthor": "Calystegia silvatica",
+          "scientificNameAuthorship": "(Kit.) Griseb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Calystegia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Calystegia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Convolvulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulaceae"
+          },
+          "commonNames": [
+            "Great Bindweed",
+            "Shortstalk false bindweed",
+            "Large Bindweed"
+          ],
+          "scientificName": "Calystegia silvatica (Kit.) Griseb."
+        },
+        "gbif": {
+          "id": "2928446"
+        },
+        "powo": {
+          "id": "143196-3"
+        }
+      },
+      {
+        "score": 0.00486,
+        "species": {
+          "scientificNameWithoutAuthor": "Ipomoea lacunosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ipomoea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ipomoea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Convolvulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulaceae"
+          },
+          "commonNames": [
+            "Whitestar",
+            "White morning-glory",
+            "Small-flowered white morning-glory"
+          ],
+          "scientificName": "Ipomoea lacunosa L."
+        },
+        "gbif": {
+          "id": "2928584"
+        },
+        "powo": {
+          "id": "269155-1"
+        },
+        "iucn": {
+          "id": "20681728",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00368,
+        "species": {
+          "scientificNameWithoutAuthor": "Ipomoea carnea",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ipomoea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ipomoea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Convolvulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulaceae"
+          },
+          "commonNames": [
+            "Morning-glory",
+            "Bush Morning Glory",
+            "Gloria-de-la-Manana"
+          ],
+          "scientificName": "Ipomoea carnea Jacq."
+        },
+        "gbif": {
+          "id": "2928590"
+        },
+        "powo": {
+          "id": "30299665-2"
+        }
+      },
+      {
+        "score": 0.00272,
+        "species": {
+          "scientificNameWithoutAuthor": "Convolvulus arvensis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Convolvulus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Convolvulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulaceae"
+          },
+          "commonNames": [
+            "Wild morning-glory",
+            "Bindweed",
+            "Field Bindweed"
+          ],
+          "scientificName": "Convolvulus arvensis L."
+        },
+        "gbif": {
+          "id": "2928390"
+        },
+        "powo": {
+          "id": "265849-1"
+        }
+      },
+      {
+        "score": 0.00266,
+        "species": {
+          "scientificNameWithoutAuthor": "Ipomoea alba",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ipomoea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ipomoea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Convolvulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulaceae"
+          },
+          "commonNames": [
+            "Moon flower",
+            "Moonvine",
+            "Tropical White Morning-Glory"
+          ],
+          "scientificName": "Ipomoea alba L."
+        },
+        "gbif": {
+          "id": "2928631"
+        },
+        "powo": {
+          "id": "129128-2"
+        },
+        "iucn": {
+          "id": "126421388",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00213,
+        "species": {
+          "scientificNameWithoutAuthor": "Ipomoea cordatotriloba",
+          "scientificNameAuthorship": "Dennst.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ipomoea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ipomoea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Convolvulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulaceae"
+          },
+          "commonNames": [
+            "Tievine",
+            "Cotton Morning Glory",
+            "Purple Bindweed"
+          ],
+          "scientificName": "Ipomoea cordatotriloba Dennst."
+        },
+        "gbif": {
+          "id": "2928541"
+        },
+        "powo": {
+          "id": "30231094-2"
+        },
+        "iucn": {
+          "id": "20681691",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00131,
+        "species": {
+          "scientificNameWithoutAuthor": "Ipomoea purpurea",
+          "scientificNameAuthorship": "(L.) Roth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ipomoea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ipomoea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Convolvulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Convolvulaceae"
+          },
+          "commonNames": [
+            "Morning Glory",
+            "Australian Tree-fern",
+            "Common morning-glory"
+          ],
+          "scientificName": "Ipomoea purpurea (L.) Roth"
+        },
+        "gbif": {
+          "id": "2928576"
+        },
+        "powo": {
+          "id": "30043043-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 430
+  },
+  "nominatim_data": {
+    "place_id": 159195327,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1036996742,
+    "lat": "52.6347543",
+    "lon": "1.3033853",
+    "class": "man_made",
+    "type": "bridge",
+    "place_rank": 30,
+    "importance": 6.797055008769386e-05,
+    "addresstype": "man_made",
+    "name": "Jarrold Bridge",
+    "display_name": "Jarrold Bridge, Riverside Walk, St James Place, Thorpe Hamlet, Norwich, Norfolk, England, NR3 1UB, United Kingdom",
+    "address": {
+      "man_made": "Jarrold Bridge",
+      "road": "Riverside Walk",
+      "neighbourhood": "St James Place",
+      "suburb": "Thorpe Hamlet",
+      "city": "Norwich",
+      "county": "Norfolk",
+      "ISO3166-2-lvl6": "GB-NFK",
+      "state": "England",
+      "ISO3166-2-lvl4": "GB-ENG",
+      "postcode": "NR3 1UB",
+      "country": "United Kingdom",
+      "country_code": "gb"
+    },
+    "boundingbox": [
+      "52.6345988",
+      "52.6349610",
+      "1.3032961",
+      "1.3041008"
+    ]
+  }
+}

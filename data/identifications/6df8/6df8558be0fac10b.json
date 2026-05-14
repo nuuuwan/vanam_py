@@ -1,0 +1,373 @@
+{
+  "hash": "6df8558be0fac10b",
+  "image_metadata": {
+    "imageHash": "6df8558be0fac10b",
+    "imageLocation": {
+      "latitude": 51.527588888888886,
+      "longitude": -0.1518138888888889,
+      "accuracy": 13.17110329817512,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1689213340,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/6df8558be0fac10b.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "4b1d4a7890c5365d67bd8865f27e7be2"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "4b1d4a7890c5365d67bd8865f27e7be2",
+        "filename": "6df8558be0fac10b.png",
+        "organ": "habit",
+        "score": 0.68651
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Rosa chinensis Jacq.",
+    "results": [
+      {
+        "score": 0.2474,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa chinensis",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Bengal rose",
+            "China Rose",
+            "Chinese rose"
+          ],
+          "scientificName": "Rosa chinensis Jacq."
+        },
+        "gbif": {
+          "id": "3005039"
+        },
+        "powo": {
+          "id": "732029-1"
+        }
+      },
+      {
+        "score": 0.11881,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa gallica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "French rose",
+            "Red-rose-of-Lancaster",
+            "Hungarian rose"
+          ],
+          "scientificName": "Rosa gallica L."
+        },
+        "gbif": {
+          "id": "3002530"
+        },
+        "powo": {
+          "id": "732569-1"
+        }
+      },
+      {
+        "score": 0.05807,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa cinnamomea",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Double cinnamon rose",
+            "Knock-Out Rose",
+            "Cinnamon Rose"
+          ],
+          "scientificName": "Rosa cinnamomea L."
+        },
+        "gbif": {
+          "id": "7656220"
+        }
+      },
+      {
+        "score": 0.03444,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa × odorata",
+          "scientificNameAuthorship": "(Andrews) Sweet",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Tea rose",
+            "Spice Humes blush",
+            "Hybrid Tea Rose"
+          ],
+          "scientificName": "Rosa × odorata (Andrews) Sweet"
+        },
+        "gbif": {
+          "id": "3009087"
+        },
+        "powo": {
+          "id": "733521-1"
+        }
+      },
+      {
+        "score": 0.03334,
+        "species": {
+          "scientificNameWithoutAuthor": "Paeonia officinalis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Paeonia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Paeonia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Paeoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Paeoniaceae"
+          },
+          "commonNames": [
+            "Cottage peony",
+            "Common peony",
+            "Wild Peony"
+          ],
+          "scientificName": "Paeonia officinalis L."
+        },
+        "gbif": {
+          "id": "3083488"
+        },
+        "powo": {
+          "id": "711836-1"
+        },
+        "iucn": {
+          "id": "162001",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02911,
+        "species": {
+          "scientificNameWithoutAuthor": "Dahlia pinnata",
+          "scientificNameAuthorship": "Cav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dahlia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dahlia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Dahlia",
+            "Pinnate dahlia",
+            "کوکب"
+          ],
+          "scientificName": "Dahlia pinnata Cav."
+        },
+        "gbif": {
+          "id": "5387142"
+        },
+        "powo": {
+          "id": "30027297-2"
+        }
+      },
+      {
+        "score": 0.01902,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa pendulina",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Mountain rose",
+            "Alpine Rose",
+            "Drooping rose"
+          ],
+          "scientificName": "Rosa pendulina L."
+        },
+        "gbif": {
+          "id": "3006974"
+        },
+        "powo": {
+          "id": "733641-1"
+        },
+        "iucn": {
+          "id": "203449",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01417,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa moyesii",
+          "scientificNameAuthorship": "Hemsl. & E.H.Wilson",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Mandarin rose",
+            "Moyes rose",
+            "Moyes' Rose"
+          ],
+          "scientificName": "Rosa moyesii Hemsl. & E.H.Wilson"
+        },
+        "gbif": {
+          "id": "3007073"
+        },
+        "powo": {
+          "id": "733397-1"
+        }
+      },
+      {
+        "score": 0.01352,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa lucieae",
+          "scientificNameAuthorship": "Franch. & Rochebr. ex Crép.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Wichura's rose",
+            "Memorial rose",
+            "Rambling Rose"
+          ],
+          "scientificName": "Rosa lucieae Franch. & Rochebr. ex Crép."
+        },
+        "gbif": {
+          "id": "8667586"
+        },
+        "powo": {
+          "id": "60464116-2"
+        }
+      },
+      {
+        "score": 0.00909,
+        "species": {
+          "scientificNameWithoutAuthor": "Ranunculus asiaticus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ranunculus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ranunculus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Ranunculaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ranunculaceae"
+          },
+          "commonNames": [
+            "Persian buttercup",
+            "Persian crowfoot",
+            "Asian buttercup"
+          ],
+          "scientificName": "Ranunculus asiaticus L."
+        },
+        "gbif": {
+          "id": "7721054"
+        },
+        "powo": {
+          "id": "712245-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 440
+  },
+  "nominatim_data": {
+    "place_id": 280305286,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 7725329188,
+    "lat": "51.5280573",
+    "lon": "-0.1515575",
+    "class": "information",
+    "type": "map",
+    "place_rank": 30,
+    "importance": 9.307927061870783e-05,
+    "addresstype": "information",
+    "name": "",
+    "display_name": "Inner Circle, East Marylebone, Marylebone, City of Westminster, Greater London, England, NW1 4NU, United Kingdom",
+    "address": {
+      "road": "Inner Circle",
+      "quarter": "East Marylebone",
+      "suburb": "Marylebone",
+      "city": "City of Westminster",
+      "ISO3166-2-lvl8": "GB-WSM",
+      "state": "England",
+      "ISO3166-2-lvl4": "GB-ENG",
+      "postcode": "NW1 4NU",
+      "country": "United Kingdom",
+      "country_code": "gb"
+    },
+    "boundingbox": [
+      "51.5280073",
+      "51.5281073",
+      "-0.1516075",
+      "-0.1515075"
+    ]
+  }
+}

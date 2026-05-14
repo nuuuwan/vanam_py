@@ -1,0 +1,391 @@
+{
+  "hash": "b0e3a6cd50db0815",
+  "image_metadata": {
+    "imageHash": "b0e3a6cd50db0815",
+    "imageLocation": {
+      "latitude": 52.62828888888889,
+      "longitude": 1.30575,
+      "accuracy": 6.816361916771752,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1689752230,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/b0e3a6cd50db0815.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "1146d8a57bc31640b49631d411eb2258"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "1146d8a57bc31640b49631d411eb2258",
+        "filename": "b0e3a6cd50db0815.png",
+        "organ": "leaf",
+        "score": 0.80833
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Populus nigra L.",
+    "results": [
+      {
+        "score": 0.62589,
+        "species": {
+          "scientificNameWithoutAuthor": "Populus nigra",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Populus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Populus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Black poplar",
+            "Lombardy poplar",
+            "Black Cottonwood"
+          ],
+          "scientificName": "Populus nigra L."
+        },
+        "gbif": {
+          "id": "3040227"
+        },
+        "powo": {
+          "id": "776790-1"
+        },
+        "iucn": {
+          "id": "63530",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.2353,
+        "species": {
+          "scientificNameWithoutAuthor": "Populus × canadensis",
+          "scientificNameAuthorship": "Moench",
+          "genus": {
+            "scientificNameWithoutAuthor": "Populus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Populus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Carolina poplar",
+            "Canada poplar",
+            "Canadian poplar"
+          ],
+          "scientificName": "Populus × canadensis Moench"
+        },
+        "gbif": {
+          "id": "8190077"
+        },
+        "powo": {
+          "id": "776622-1"
+        }
+      },
+      {
+        "score": 0.01524,
+        "species": {
+          "scientificNameWithoutAuthor": "Populus deltoides",
+          "scientificNameAuthorship": "W.Bartram ex Marshall",
+          "genus": {
+            "scientificNameWithoutAuthor": "Populus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Populus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Cottonwood",
+            "Common Cottonwood",
+            "Eastern Cottonwood"
+          ],
+          "scientificName": "Populus deltoides W.Bartram ex Marshall"
+        },
+        "gbif": {
+          "id": "3040232"
+        },
+        "powo": {
+          "id": "30102841-2"
+        },
+        "iucn": {
+          "id": "61959821",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00988,
+        "species": {
+          "scientificNameWithoutAuthor": "Populus balsamifera",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Populus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Populus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Cottonwood",
+            "Balsam poplar",
+            "Bamtree"
+          ],
+          "scientificName": "Populus balsamifera L."
+        },
+        "gbif": {
+          "id": "3040184"
+        },
+        "powo": {
+          "id": "776600-1"
+        },
+        "iucn": {
+          "id": "61959749",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00912,
+        "species": {
+          "scientificNameWithoutAuthor": "Populus tristis",
+          "scientificNameAuthorship": "Fisch.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Populus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Populus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Brown-twig poplar",
+            "Balm of Gilead",
+            "Hackmatack"
+          ],
+          "scientificName": "Populus tristis Fisch."
+        },
+        "gbif": {
+          "id": "3804475"
+        },
+        "powo": {
+          "id": "776895-1"
+        },
+        "iucn": {
+          "id": "208705006",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00862,
+        "species": {
+          "scientificNameWithoutAuthor": "Populus × berolinensis",
+          "scientificNameAuthorship": "K.Koch",
+          "genus": {
+            "scientificNameWithoutAuthor": "Populus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Populus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Populus × berolinensis K.Koch"
+        },
+        "gbif": {
+          "id": "8345607"
+        },
+        "powo": {
+          "id": "776607-1"
+        }
+      },
+      {
+        "score": 0.00598,
+        "species": {
+          "scientificNameWithoutAuthor": "Populus tremuloides",
+          "scientificNameAuthorship": "Michx.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Populus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Populus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Quaking aspen",
+            "American aspen",
+            "Trembling aspen"
+          ],
+          "scientificName": "Populus tremuloides Michx."
+        },
+        "gbif": {
+          "id": "3040215"
+        },
+        "powo": {
+          "id": "208337-2"
+        },
+        "iucn": {
+          "id": "61960127",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0047,
+        "species": {
+          "scientificNameWithoutAuthor": "Alnus cordata",
+          "scientificNameAuthorship": "(Loisel.) Duby",
+          "genus": {
+            "scientificNameWithoutAuthor": "Alnus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Alnus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Betulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Betulaceae"
+          },
+          "commonNames": [
+            "Italian alder",
+            "Alder of Corsica",
+            "Hartbladige Els"
+          ],
+          "scientificName": "Alnus cordata (Loisel.) Duby"
+        },
+        "gbif": {
+          "id": "2876607"
+        },
+        "powo": {
+          "id": "294902-1"
+        },
+        "iucn": {
+          "id": "194657",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00179,
+        "species": {
+          "scientificNameWithoutAuthor": "Prunus armeniaca",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Prunus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Prunus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Siberian apricot",
+            "Apricot",
+            "Tibetan Apricot"
+          ],
+          "scientificName": "Prunus armeniaca L."
+        },
+        "gbif": {
+          "id": "7818643"
+        },
+        "powo": {
+          "id": "729463-1"
+        },
+        "iucn": {
+          "id": "50134200",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.00136,
+        "species": {
+          "scientificNameWithoutAuthor": "Populus × generosa",
+          "scientificNameAuthorship": "A.Henry",
+          "genus": {
+            "scientificNameWithoutAuthor": "Populus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Populus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "Balm-of-Gilead",
+            "Generous poplar"
+          ],
+          "scientificName": "Populus × generosa A.Henry"
+        },
+        "gbif": {
+          "id": "3040245"
+        },
+        "powo": {
+          "id": "60459247-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 434
+  },
+  "nominatim_data": {
+    "place_id": 158956172,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9439002376,
+    "lat": "52.6282408",
+    "lon": "1.3058044",
+    "class": "amenity",
+    "type": "waste_basket",
+    "place_rank": 30,
+    "importance": 6.797055008769386e-05,
+    "addresstype": "amenity",
+    "name": "",
+    "display_name": "Prince of Wales Road, Thorpe Hamlet, Norwich, Norfolk, England, NR1 1DU, United Kingdom",
+    "address": {
+      "road": "Prince of Wales Road",
+      "suburb": "Thorpe Hamlet",
+      "city": "Norwich",
+      "county": "Norfolk",
+      "ISO3166-2-lvl6": "GB-NFK",
+      "state": "England",
+      "ISO3166-2-lvl4": "GB-ENG",
+      "postcode": "NR1 1DU",
+      "country": "United Kingdom",
+      "country_code": "gb"
+    },
+    "boundingbox": [
+      "52.6281908",
+      "52.6282908",
+      "1.3057544",
+      "1.3058544"
+    ]
+  }
+}
