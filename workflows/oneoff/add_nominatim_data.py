@@ -51,7 +51,7 @@ def run():
                 nominatim_data = Identify._call_nominatim_raw(lat, lng)
                 break
             except requests.HTTPError as exc:
-                wait = 2 ** i_retry
+                wait = 2**i_retry
                 log.warning(
                     f"Nominatim error for {path} (attempt {i_retry + 1}/5): {exc} "
                     f"— retrying in {wait}s …"
