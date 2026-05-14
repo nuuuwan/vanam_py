@@ -1,0 +1,64 @@
+"""One-off: backfill nominatim_data for legacy identifications that lack it."""
+
+import json
+import os
+
+import requests
+
+from src.vanam.Identify import Identify
+from utils import Log
+
+log = Log(__name__)
+
+DATA_IDENTIFICATIONS_DIR = os.path.join("data", "identifications")
+
+
+def _all_identification_paths():
+    for root, _, files in os.walk(DATA_IDENTIFICATIONS_DIR):
+        for fname in files:
+            if fname.endswith(".json"):
+                yield os.path.join(root, fname)
+
+
+def run():
+    updated = 0
+    skipped = 0
+
+    for path in sorted(_all_identification_paths()):
+        with open(path, encoding="utf-8") as f:
+            identification = json.load(f)
+
+        if "nominatim_data" in identification:
+            skipped += 1
+            continue
+
+        location = identification.get("image_metadata", {}).get(
+            "imageLocation", {}
+        )
+        lat = location.get("latitude")
+        lng = location.get("longitude")
+
+        if lat is None or lng is None:
+            log.warning(f"No coordinates in {path} — skipping.")
+            skipped += 1
+            continue
+
+        log.info(f"Adding nominatim data to {path} …")
+        try:
+            nominatim_data = Identify._call_nominatim_raw(lat, lng)
+        except requests.HTTPError as exc:
+            log.warning(f"Nominatim error for {path}: {exc}")
+            continue
+
+        identification["nominatim_data"] = nominatim_data
+
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(identification, f, indent=2, ensure_ascii=False)
+
+        updated += 1
+
+    log.info(f"Done. {updated} updated, {skipped} skipped.")
+
+
+if __name__ == "__main__":
+    run()
