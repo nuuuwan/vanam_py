@@ -1,8 +1,10 @@
 import json
 import os
 import re
+import time
 
 import requests
+from requests.exceptions import ConnectTimeout, ReadTimeout, Timeout
 
 from utils import Log
 
@@ -72,44 +74,70 @@ class Identify:
     # PlantNet API
     # ------------------------------------------------------------------
 
-    def _call_plantnet_raw(self, photo_path: str) -> dict:
+    def _call_plantnet_raw(
+        self, photo_path: str, max_retries: int = 3
+    ) -> dict:
         """Submit a photo to PlantNet and return the raw API response dict."""
-        with open(photo_path, "rb") as f:
-            response = requests.post(
-                PLANTNET_API_URL,
-                params={"api-key": self.api_key, "lang": "en"},
-                files=[
-                    (
-                        "images",
-                        (os.path.basename(photo_path), f, "image/png"),
+        for attempt in range(1, max_retries + 1):
+            try:
+                with open(photo_path, "rb") as f:
+                    response = requests.post(
+                        PLANTNET_API_URL,
+                        params={"api-key": self.api_key, "lang": "en"},
+                        files=[
+                            (
+                                "images",
+                                (os.path.basename(photo_path), f, "image/png"),
+                            )
+                        ],
+                        data={"organs": ["auto"]},
+                        timeout=60,
                     )
-                ],
-                data={"organs": ["auto"]},
-                timeout=60,
-            )
-        response.raise_for_status()
-        raw = response.json()
-        log.debug(json.dumps(raw, indent=2, ensure_ascii=False))
-        return raw
+                response.raise_for_status()
+                raw = response.json()
+                log.debug(json.dumps(raw, indent=2, ensure_ascii=False))
+                return raw
+            except (ConnectTimeout, ReadTimeout, Timeout) as exc:
+                if attempt == max_retries:
+                    raise
+                wait = 2**attempt
+                log.warning(
+                    f"PlantNet timeout (attempt {attempt}/{max_retries}), "
+                    f"retrying in {wait}s: {exc}"
+                )
+                time.sleep(wait)
 
     # ------------------------------------------------------------------
     # Nominatim API
     # ------------------------------------------------------------------
 
     @staticmethod
-    def _call_nominatim_raw(lat: float, lng: float) -> dict:
+    def _call_nominatim_raw(
+        lat: float, lng: float, max_retries: int = 3
+    ) -> dict:
         """Reverse-geocode a coordinate with Nominatim and
         return the raw response dict."""
-        response = requests.get(
-            NOMINATIM_API_URL,
-            params={"lat": lat, "lon": lng, "format": "json"},
-            headers={"User-Agent": NOMINATIM_USER_AGENT},
-            timeout=30,
-        )
-        response.raise_for_status()
-        raw = response.json()
-        log.debug(json.dumps(raw, indent=2, ensure_ascii=False))
-        return raw
+        for attempt in range(1, max_retries + 1):
+            try:
+                response = requests.get(
+                    NOMINATIM_API_URL,
+                    params={"lat": lat, "lon": lng, "format": "json"},
+                    headers={"User-Agent": NOMINATIM_USER_AGENT},
+                    timeout=30,
+                )
+                response.raise_for_status()
+                raw = response.json()
+                log.debug(json.dumps(raw, indent=2, ensure_ascii=False))
+                return raw
+            except (ConnectTimeout, ReadTimeout, Timeout) as exc:
+                if attempt == max_retries:
+                    raise
+                wait = 2**attempt
+                log.warning(
+                    f"Nominatim timeout (attempt {attempt}/{max_retries}), "
+                    f"retrying in {wait}s: {exc}"
+                )
+                time.sleep(wait)
 
     # ------------------------------------------------------------------
     # Save
@@ -155,8 +183,13 @@ class Identify:
                     if lat is not None and lng is not None
                     else {}
                 )
-            except requests.HTTPError as exc:
-                log.warning(f"PlantNet error for {stem}: {exc}")
+            except (
+                requests.HTTPError,
+                ConnectTimeout,
+                ReadTimeout,
+                Timeout,
+            ) as exc:
+                log.warning(f"API error for {stem}: {exc}")
                 continue
 
             identification = {
