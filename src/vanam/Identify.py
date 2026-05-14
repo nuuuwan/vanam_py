@@ -192,6 +192,13 @@ class Identify:
                 log.warning(f"API error for {stem}: {exc}")
                 continue
 
+            if not plantnet_data:
+                log.warning(f"Skipping {stem}: plantnet_data is empty/null.")
+                continue
+            if not nominatim_data:
+                log.warning(f"Skipping {stem}: nominatim_data is empty/null.")
+                continue
+
             identification = {
                 "hash": stem,
                 "image_metadata": image_metadata,
