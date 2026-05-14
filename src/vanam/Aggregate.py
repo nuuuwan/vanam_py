@@ -66,11 +66,16 @@ class Aggregate:
 
     def _predictions(self, identification: dict) -> list[dict]:
         results = identification.get("plantnet_data", {}).get("results", [])
-        return [
-            self._parse_result(r)
-            for r in results
-            if r.get("score", 0) > self.PREDICTION_CONFIDENCE_THRESHOLD
-        ]
+        if not results:
+            return []
+        parsed = []
+        for i, r in enumerate(results):
+            if (
+                i == 0
+                or r.get("score", 0) > self.PREDICTION_CONFIDENCE_THRESHOLD
+            ):
+                parsed.append(self._parse_result(r))
+        return parsed
 
     @staticmethod
     def _write_json(path: str, data) -> None:
