@@ -325,5 +325,37 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 358
+  },
+  "nominatim_data": {
+    "place_id": 323152768,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9791411571,
+    "lat": "37.7673197",
+    "lon": "-122.4694859",
+    "class": "amenity",
+    "type": "bench",
+    "place_rank": 30,
+    "importance": 8.251392385743523e-05,
+    "addresstype": "amenity",
+    "name": "",
+    "display_name": "Lincoln Way, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+    "address": {
+      "road": "Lincoln Way",
+      "quarter": "Inner Sunset",
+      "suburb": "Richmond District",
+      "city": "San Francisco",
+      "state": "California",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "94122",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "37.7672697",
+      "37.7673697",
+      "-122.4695359",
+      "-122.4694359"
+    ]
   }
 }

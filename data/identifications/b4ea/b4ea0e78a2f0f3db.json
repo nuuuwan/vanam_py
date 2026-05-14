@@ -339,5 +339,36 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 359
+  },
+  "nominatim_data": {
+    "place_id": 320736037,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5553314733,
+    "lat": "37.4269712",
+    "lon": "-122.1701593",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "place_rank": 30,
+    "importance": 6.272297245741997e-05,
+    "addresstype": "amenity",
+    "name": "",
+    "display_name": "Inner Quad, Stanford, Santa Clara County, California, 94305, United States",
+    "address": {
+      "road": "Inner Quad",
+      "hamlet": "Stanford",
+      "county": "Santa Clara County",
+      "state": "California",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "94305",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "37.4269212",
+      "37.4270212",
+      "-122.1702093",
+      "-122.1701093"
+    ]
   }
 }

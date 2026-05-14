@@ -22,10 +22,19 @@ def _all_identification_paths():
 
 
 def run():
+    all_paths = sorted(_all_identification_paths())
+    total = len(all_paths)
+    missing = sum(
+        1
+        for p in all_paths
+        if "nominatim_data" not in json.load(open(p, encoding="utf-8"))
+    )
+    log.info(f"{total} total record(s); {missing} without nominatim data.")
+
     updated = 0
     skipped = 0
 
-    for path in sorted(_all_identification_paths()):
+    for path in all_paths:
         with open(path, encoding="utf-8") as f:
             identification = json.load(f)
 

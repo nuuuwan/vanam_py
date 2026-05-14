@@ -73,5 +73,35 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 301
+  },
+  "nominatim_data": {
+    "place_id": 320725063,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 11899517316,
+    "lat": "37.4704297",
+    "lon": "-122.3114378",
+    "class": "amenity",
+    "type": "bench",
+    "place_rank": 30,
+    "importance": 2.8699931334355954e-05,
+    "addresstype": "amenity",
+    "name": "",
+    "display_name": "Paul Creek Bridge, San Mateo County, California, 94070, United States",
+    "address": {
+      "road": "Paul Creek Bridge",
+      "county": "San Mateo County",
+      "state": "California",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "94070",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "37.4703797",
+      "37.4704797",
+      "-122.3114878",
+      "-122.3113878"
+    ]
   }
 }

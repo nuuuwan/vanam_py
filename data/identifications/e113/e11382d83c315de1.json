@@ -341,5 +341,37 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 356
+  },
+  "nominatim_data": {
+    "place_id": 322783772,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5555953385,
+    "lat": "37.4265654",
+    "lon": "-122.1705720",
+    "class": "amenity",
+    "type": "fountain",
+    "place_rank": 30,
+    "importance": 6.272297245741997e-05,
+    "addresstype": "amenity",
+    "name": "",
+    "display_name": "450, Jane Stanford Way, Stanford, Santa Clara County, California, 94305, United States",
+    "address": {
+      "house_number": "450",
+      "road": "Jane Stanford Way",
+      "hamlet": "Stanford",
+      "county": "Santa Clara County",
+      "state": "California",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "94305",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "37.4265154",
+      "37.4266154",
+      "-122.1706220",
+      "-122.1705220"
+    ]
   }
 }

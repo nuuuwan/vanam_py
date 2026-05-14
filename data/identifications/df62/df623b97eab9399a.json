@@ -327,5 +327,39 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 453
+  },
+  "nominatim_data": {
+    "place_id": 252613677,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1110663379,
+    "lat": "6.9123958",
+    "lon": "79.8602121",
+    "class": "amenity",
+    "type": "shelter",
+    "place_rank": 30,
+    "importance": 7.168307011516011e-05,
+    "addresstype": "amenity",
+    "name": "",
+    "display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "address": {
+      "road": "Ananda Coomaraswamy Mawatha",
+      "suburb": "Town Hall",
+      "village": "Slave Island",
+      "city": "Colombo",
+      "state_district": "Colombo District",
+      "ISO3166-2-lvl5": "LK-11",
+      "state": "Western Province",
+      "ISO3166-2-lvl4": "LK-1",
+      "postcode": "00700",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "6.9123615",
+      "6.9124364",
+      "79.8601724",
+      "79.8602509"
+    ]
   }
 }

@@ -344,5 +344,36 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 365
+  },
+  "nominatim_data": {
+    "place_id": 324295318,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 591686707,
+    "lat": "37.4268229",
+    "lon": "-122.1709887",
+    "class": "amenity",
+    "type": "parking",
+    "place_rank": 30,
+    "importance": 6.272297245741997e-05,
+    "addresstype": "amenity",
+    "name": "",
+    "display_name": "Escondido Mall, Stanford, Santa Clara County, California, 94305, United States",
+    "address": {
+      "road": "Escondido Mall",
+      "hamlet": "Stanford",
+      "county": "Santa Clara County",
+      "state": "California",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "94305",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "37.4267266",
+      "37.4269192",
+      "-122.1711250",
+      "-122.1708523"
+    ]
   }
 }

@@ -344,5 +344,42 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 383
+  },
+  "nominatim_data": {
+    "place_id": 254571128,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 13892838,
+    "lat": "6.9194506",
+    "lon": "79.8590426",
+    "class": "building",
+    "type": "apartments",
+    "place_rank": 30,
+    "importance": 7.168307011516011e-05,
+    "addresstype": "building",
+    "name": "On320 Apartments",
+    "display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "address": {
+      "building": "On320 Apartments",
+      "house_number": "320",
+      "road": "Dr. Colvin R. de Silva Mawatha (Union Place)",
+      "neighbourhood": "Hyde Park Corner",
+      "suburb": "Hunupitiya",
+      "village": "Slave Island",
+      "city": "Colombo",
+      "state_district": "Colombo District",
+      "ISO3166-2-lvl5": "LK-11",
+      "state": "Western Province",
+      "ISO3166-2-lvl4": "LK-1",
+      "postcode": "00200",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "6.9187890",
+      "6.9196281",
+      "79.8588565",
+      "79.8594654"
+    ]
   }
 }

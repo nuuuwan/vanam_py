@@ -322,5 +322,36 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 379
+  },
+  "nominatim_data": {
+    "place_id": 251498080,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 3723220027,
+    "lat": "8.1183328",
+    "lon": "80.6646122",
+    "class": "historic",
+    "type": "archaeological_site",
+    "place_rank": 30,
+    "importance": 9.99999999995449e-06,
+    "addresstype": "historic",
+    "name": "Ritigala Ancient Buddhist Monastery",
+    "display_name": "Ritigala Ancient Buddhist Monastery, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
+    "address": {
+      "historic": "Ritigala Ancient Buddhist Monastery",
+      "road": "Ritigala Archaeological Site Road",
+      "state_district": "Anuradhapura District",
+      "ISO3166-2-lvl5": "LK-71",
+      "state": "North Central Province",
+      "ISO3166-2-lvl4": "LK-7",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "8.1182828",
+      "8.1183828",
+      "80.6645622",
+      "80.6646622"
+    ]
   }
 }

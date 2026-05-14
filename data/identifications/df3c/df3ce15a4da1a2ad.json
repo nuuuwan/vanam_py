@@ -270,5 +270,35 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 297
+  },
+  "nominatim_data": {
+    "place_id": 321960392,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 966218531,
+    "lat": "37.4776928",
+    "lon": "-122.2995862",
+    "class": "highway",
+    "type": "motorway",
+    "place_rank": 26,
+    "importance": 0.0533620332646677,
+    "addresstype": "road",
+    "name": "Junipero Serra Freeway",
+    "display_name": "Junipero Serra Freeway, San Mateo County, California, 94002, United States",
+    "address": {
+      "road": "Junipero Serra Freeway",
+      "county": "San Mateo County",
+      "state": "California",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "94002",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "37.4723283",
+      "37.4892535",
+      "-122.2996519",
+      "-122.2961788"
+    ]
   }
 }

@@ -353,5 +353,37 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 389
+  },
+  "nominatim_data": {
+    "place_id": 252623704,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 406578055,
+    "lat": "6.8982365",
+    "lon": "79.8657319",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.0534050164034485,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Thimbirigasyaya, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "address": {
+      "suburb": "Thimbirigasyaya",
+      "city": "Colombo",
+      "state_district": "Colombo District",
+      "ISO3166-2-lvl5": "LK-11",
+      "state": "Western Province",
+      "ISO3166-2-lvl4": "LK-1",
+      "postcode": "00700",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "6.8981870",
+      "6.8985020",
+      "79.8657084",
+      "79.8666184"
+    ]
   }
 }

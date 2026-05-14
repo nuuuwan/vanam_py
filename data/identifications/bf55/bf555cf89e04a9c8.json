@@ -345,5 +345,38 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 382
+  },
+  "nominatim_data": {
+    "place_id": 253967195,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 398296591,
+    "lat": "6.8910775",
+    "lon": "79.8632658",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.0534050164034485,
+    "addresstype": "road",
+    "name": "Anderson Road",
+    "display_name": "Anderson Road, Havelock Town, Colombo, Colombo District, Western Province, 00400, Sri Lanka",
+    "address": {
+      "road": "Anderson Road",
+      "suburb": "Havelock Town",
+      "city": "Colombo",
+      "state_district": "Colombo District",
+      "ISO3166-2-lvl5": "LK-11",
+      "state": "Western Province",
+      "ISO3166-2-lvl4": "LK-1",
+      "postcode": "00400",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "6.8908111",
+      "6.8910888",
+      "79.8623993",
+      "79.8633027"
+    ]
   }
 }

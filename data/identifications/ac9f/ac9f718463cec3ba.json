@@ -331,5 +331,38 @@
     ],
     "version": "2026-03-20 (7.4)",
     "remainingIdentificationRequests": 326
+  },
+  "nominatim_data": {
+    "place_id": 254553041,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1497141773,
+    "lat": "6.0279472",
+    "lon": "80.2147714",
+    "class": "aeroway",
+    "type": "helipad",
+    "place_rank": 30,
+    "importance": 4.0000762951049326e-05,
+    "addresstype": "aeroway",
+    "name": "",
+    "display_name": "Rampart Street, Talbot Town, Galle, Galle District, Southern Province, 80000, Sri Lanka",
+    "address": {
+      "road": "Rampart Street",
+      "suburb": "Talbot Town",
+      "city": "Galle",
+      "state_district": "Galle District",
+      "ISO3166-2-lvl5": "LK-31",
+      "state": "Southern Province",
+      "ISO3166-2-lvl4": "LK-3",
+      "postcode": "80000",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "6.0278972",
+      "6.0279972",
+      "80.2147214",
+      "80.2148214"
+    ]
   }
 }
