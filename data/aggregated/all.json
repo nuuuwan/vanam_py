@@ -1,103 +1,18 @@
 [
   {
-    "imageHash": "e94b60e80f7811b0",
-    "latLng": {
-      "lat": 8.118133333333335,
-      "lng": 80.66473333333334
-    },
-    "source": "exif",
-    "utImageTaken": 1775277316,
-    "timeImageTaken": "2026-04-04 04:35:16",
-    "userId": "e1776bd6",
-    "nominatim_display_name": "Stone bridge 01, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.54083,
-        "species": "Ecbolium viride (Forssk.) Alston",
-        "genus": "Ecbolium",
-        "family": "Acanthaceae",
-        "commonNames": [
-          "Green shrimp plant",
-          "Turquoise crossandra",
-          "డిసెంబర్ పూల చెట్టు"
-        ],
-        "gbifId": "7264277",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "48609-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "9477aa8de53c1b89",
-    "latLng": {
-      "lat": 8.118325,
-      "lng": 80.66455833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1775277324,
-    "timeImageTaken": "2026-04-04 04:35:24",
-    "userId": "e1776bd6",
-    "nominatim_display_name": "Ritigala Ancient Buddhist Monastery, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.38905,
-        "species": "Eranthemum pulchellum Andrews",
-        "genus": "Eranthemum",
-        "family": "Acanthaceae",
-        "commonNames": [
-          "Blue-sage"
-        ],
-        "gbifId": "3172936",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "48879-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "019f57b122aa24dc",
-    "latLng": {
-      "lat": 6.026213888888889,
-      "lng": 80.215125
-    },
-    "source": "exif",
-    "utImageTaken": 1748659075,
-    "timeImageTaken": "2025-05-31 02:37:55",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Pedlar Street, Talbot Town, Galle, Galle District, Southern Province, 80000, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.9036,
-        "species": "Barringtonia asiatica (L.) Kurz",
-        "genus": "Barringtonia",
-        "family": "Lecythidaceae",
-        "commonNames": [
-          "Fish-poison-tree",
-          "Mango-pine",
-          "Mangobark"
-        ],
-        "gbifId": "3082920",
-        "iucnId": "31339",
-        "iucnCategory": "LC",
-        "powoId": "469061-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "aa0d1b1906c30ea2",
+    "imageHash": "ebb48c9a17b0a1db",
     "latLng": {
       "lat": 6.912886111111112,
-      "lng": 79.85997777777777
+      "lng": 79.8599611111111
     },
     "source": "exif",
-    "utImageTaken": 1778722346,
-    "timeImageTaken": "2026-05-14 01:32:26",
+    "utImageTaken": 1778722333,
+    "timeImageTaken": "2026-05-14 01:32:13",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.89816,
+        "confidence": 0.93871,
         "species": "Euphorbia tithymaloides L.",
         "genus": "Euphorbia",
         "family": "Euphorbiaceae",
@@ -114,48 +29,19 @@
     ]
   },
   {
-    "imageHash": "46106a8bdea07c86",
+    "imageHash": "24cbf2290afad730",
     "latLng": {
-      "lat": 6.918830555555556,
-      "lng": 79.85912222222221
-    },
-    "source": "exif",
-    "utImageTaken": 1778656727,
-    "timeImageTaken": "2026-05-13 07:18:47",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.11875,
-        "species": "Chlorophytum comosum (Thunb.) Jacques",
-        "genus": "Chlorophytum",
-        "family": "Asparagaceae",
-        "commonNames": [
-          "Spider plant",
-          "کاپنس گندمی\n\nخانواده: لیلیاسه ها (سوسنی ها)",
-          "Hen-and-chickens"
-        ],
-        "gbifId": "2774846",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "532810-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "4afa8d459800d84f",
-    "latLng": {
-      "lat": 6.9129555555555555,
+      "lat": 6.912922222222223,
       "lng": 79.86000833333333
     },
     "source": "exif",
-    "utImageTaken": 1778722439,
-    "timeImageTaken": "2026-05-14 01:33:59",
+    "utImageTaken": 1778722390,
+    "timeImageTaken": "2026-05-14 01:33:10",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.71346,
+        "confidence": 0.77516,
         "species": "Euphorbia tithymaloides L.",
         "genus": "Euphorbia",
         "family": "Euphorbiaceae",
@@ -168,64 +54,6 @@
         "iucnId": "135836706",
         "iucnCategory": "LC",
         "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "a5cd0676a5a3b86b",
-    "latLng": {
-      "lat": 6.912886111111112,
-      "lng": 79.85998611111111
-    },
-    "source": "exif",
-    "utImageTaken": 1778722352,
-    "timeImageTaken": "2026-05-14 01:32:32",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.20688,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
-        "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
-        ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "c83f753b7dfebd50",
-    "latLng": {
-      "lat": 6.913022222222223,
-      "lng": 79.85999166666666
-    },
-    "source": "exif",
-    "utImageTaken": 1778722500,
-    "timeImageTaken": "2026-05-14 01:35:00",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.15911,
-        "species": "Phyllanthus tenellus Roxb.",
-        "genus": "Phyllanthus",
-        "family": "Phyllanthaceae",
-        "commonNames": [
-          "Long-stalk leaf-flower",
-          "Long-stalk phyllanthus",
-          "Mascarene Island leaf-flower"
-        ],
-        "gbifId": "5381097",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "354756-1"
       }
     ]
   },
@@ -255,584 +83,6 @@
         "iucnId": "34901",
         "iucnCategory": "LC",
         "powoId": "726310-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "55ea9b8c14aec6e8",
-    "latLng": {
-      "lat": 6.912994444444445,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722477,
-    "timeImageTaken": "2026-05-14 01:34:37",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.52153,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
-        "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
-        ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "bbce6e14c50c56ad",
-    "latLng": {
-      "lat": 6.918762809474212,
-      "lng": 79.85912962116655
-    },
-    "source": "browser",
-    "utImageTaken": 1772863873,
-    "timeImageTaken": "2026-03-07 06:11:13",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.58154,
-        "species": "Rhododendron periclymenoides (Michx.) Shinners",
-        "genus": "Rhododendron",
-        "family": "Ericaceae",
-        "commonNames": [
-          "Election-pink",
-          "Pinxter-flower",
-          "Pinxterbloom azalea"
-        ],
-        "gbifId": "2883027",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "219516-2"
-      },
-      {
-        "confidence": 0.13539,
-        "species": "Rhododendron canescens (Michx.) Sweet",
-        "genus": "Rhododendron",
-        "family": "Ericaceae",
-        "commonNames": [
-          "Hoary azalea",
-          "Piedmont azalea",
-          "Southern pinxterbloom azalea"
-        ],
-        "gbifId": "2883039",
-        "iucnId": "200390841",
-        "iucnCategory": "LC",
-        "powoId": "30117552-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "4783a44e351751e5",
-    "latLng": {
-      "lat": -8.703688888888887,
-      "lng": 115.16629166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1733025435,
-    "timeImageTaken": "2024-12-01 03:57:15",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
-    "predictions": [
-      {
-        "confidence": 0.55966,
-        "species": "Zinnia peruviana (L.) L.",
-        "genus": "Zinnia",
-        "family": "Asteraceae",
-        "commonNames": [
-          "Peruvian zinnia",
-          "Field zinnia",
-          "Wild zinnia"
-        ],
-        "gbifId": "9193953",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "261363-1"
-      },
-      {
-        "confidence": 0.12114,
-        "species": "Zinnia elegans Jacq.",
-        "genus": "Zinnia",
-        "family": "Asteraceae",
-        "commonNames": [
-          "Garden zinnia",
-          "Zinnia",
-          "Youth-and-age"
-        ],
-        "gbifId": "3111754",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "261331-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "e3e766b4de3e1dbc",
-    "latLng": {
-      "lat": 8.118408333333333,
-      "lng": 80.66439166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1775277302,
-    "timeImageTaken": "2026-04-04 04:35:02",
-    "userId": "e1776bd6",
-    "nominatim_display_name": "Ritigala Ancient Buddhist Monastery, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.30489,
-        "species": "Eranthemum pulchellum Andrews",
-        "genus": "Eranthemum",
-        "family": "Acanthaceae",
-        "commonNames": [
-          "Blue-sage"
-        ],
-        "gbifId": "3172936",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "48879-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "e11382d83c315de1",
-    "latLng": {
-      "lat": 37.42669166666666,
-      "lng": -122.17031111111112
-    },
-    "source": "exif",
-    "utImageTaken": 1737875412,
-    "timeImageTaken": "2025-01-26 07:10:12",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "450, Jane Stanford Way, Stanford, Santa Clara County, California, 94305, United States",
-    "predictions": [
-      {
-        "confidence": 0.41021,
-        "species": "Camellia japonica L.",
-        "genus": "Camellia",
-        "family": "Theaceae",
-        "commonNames": [
-          "Camellia",
-          "Japanese Camellia",
-          "Rose of Winter"
-        ],
-        "gbifId": "3189636",
-        "iucnId": "62054114",
-        "iucnCategory": "LC",
-        "powoId": "828524-1"
-      },
-      {
-        "confidence": 0.23725,
-        "species": "Camellia sasanqua Thunb.",
-        "genus": "Camellia",
-        "family": "Theaceae",
-        "commonNames": [
-          "Camellia",
-          "Sasanqua camellia",
-          "Christmas camellia"
-        ],
-        "gbifId": "3189637",
-        "iucnId": "62057947",
-        "iucnCategory": "LC",
-        "powoId": "927409-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "8df7caa24100f793",
-    "latLng": {
-      "lat": 6.912952777777778,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722434,
-    "timeImageTaken": "2026-05-14 01:33:54",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.20136,
-        "species": "Indigofera tinctoria L.",
-        "genus": "Indigofera",
-        "family": "Fabaceae",
-        "commonNames": [
-          "Dye indigo",
-          "Indigo",
-          "Indian indigo"
-        ],
-        "gbifId": "2972043",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "500111-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "81fd49ac5f8bbe5c",
-    "latLng": {
-      "lat": 6.912936111111112,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722423,
-    "timeImageTaken": "2026-05-14 01:33:43",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.31485,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
-        "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
-        ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "b4ea0e78a2f0f3db",
-    "latLng": {
-      "lat": 37.426649999999995,
-      "lng": -122.17023333333334
-    },
-    "source": "exif",
-    "utImageTaken": 1737875402,
-    "timeImageTaken": "2025-01-26 07:10:02",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Inner Quad, Stanford, Santa Clara County, California, 94305, United States",
-    "predictions": [
-      {
-        "confidence": 0.6128,
-        "species": "Camellia japonica L.",
-        "genus": "Camellia",
-        "family": "Theaceae",
-        "commonNames": [
-          "Camellia",
-          "Japanese Camellia",
-          "Rose of Winter"
-        ],
-        "gbifId": "3189636",
-        "iucnId": "62054114",
-        "iucnCategory": "LC",
-        "powoId": "828524-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "26e7abcaddf2778d",
-    "latLng": {
-      "lat": -8.70383611111111,
-      "lng": 115.16716111111111
-    },
-    "source": "exif",
-    "utImageTaken": 1733025925,
-    "timeImageTaken": "2024-12-01 04:05:25",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma Utara, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
-    "predictions": [
-      {
-        "confidence": 0.61447,
-        "species": "Costus spiralis (Jacq.) Roscoe",
-        "genus": "Costus",
-        "family": "Costaceae",
-        "commonNames": [
-          "Insulin plant",
-          "Sunbird's Delight",
-          "Spiralis ginger"
-        ],
-        "gbifId": "2756867",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "796387-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "213dededab615bb2",
-    "latLng": {
-      "lat": 6.913022222222223,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722508,
-    "timeImageTaken": "2026-05-14 01:35:08",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.19044,
-        "species": "Phyllanthus pulcher Wall. ex Müll.Arg.",
-        "genus": "Phyllanthus",
-        "family": "Phyllanthaceae",
-        "commonNames": [
-          "Tropical leaf-flower",
-          "Dragon-of-the-world"
-        ],
-        "gbifId": "5381514",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "60456391-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "2e859382180e6553",
-    "latLng": {
-      "lat": 6.912994444444445,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722472,
-    "timeImageTaken": "2026-05-14 01:34:32",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.11581,
-        "species": "Phyllanthus niruroides Müll.Arg.",
-        "genus": "Phyllanthus",
-        "family": "Phyllanthaceae",
-        "commonNames": [
-          "Seed on the leaf"
-        ],
-        "gbifId": "5381773",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "354351-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "500770bee6e6f06e",
-    "latLng": {
-      "lat": -8.703483333333333,
-      "lng": 115.16723611111112
-    },
-    "source": "exif",
-    "utImageTaken": 1733025808,
-    "timeImageTaken": "2024-12-01 04:03:28",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
-    "predictions": [
-      {
-        "confidence": 0.79896,
-        "species": "Cleome viscosa L.",
-        "genus": "Cleome",
-        "family": "Cleomaceae",
-        "commonNames": [
-          "Asian Spider-flower",
-          "కుక్కవావింట",
-          "کنجد شیطان، کنجد وحشی"
-        ],
-        "gbifId": "3054214",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "320133-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "f662782edadfe9bf",
-    "latLng": {
-      "lat": -8.703630555555554,
-      "lng": 115.16630555555557
-    },
-    "source": "exif",
-    "utImageTaken": 1733025605,
-    "timeImageTaken": "2024-12-01 04:00:05",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
-    "predictions": [
-      {
-        "confidence": 0.39635,
-        "species": "Heliconia bihai (L.) L.",
-        "genus": "Heliconia",
-        "family": "Heliconiaceae",
-        "commonNames": [
-          "Macaw-flower",
-          "Firebird",
-          "Wild plantain"
-        ],
-        "gbifId": "2760874",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "796925-1"
-      },
-      {
-        "confidence": 0.32142,
-        "species": "Heliconia rostrata Ruiz & Pav.",
-        "genus": "Heliconia",
-        "family": "Heliconiaceae",
-        "commonNames": [
-          "False bird of paradise",
-          "Hanging Heliconia",
-          "Lobster Claw"
-        ],
-        "gbifId": "2760967",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "796978-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "42f6b514b94fc56b",
-    "latLng": {
-      "lat": -8.703586111111111,
-      "lng": 115.16653333333333
-    },
-    "source": "exif",
-    "utImageTaken": 1733025658,
-    "timeImageTaken": "2024-12-01 04:00:58",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
-    "predictions": [
-      {
-        "confidence": 0.34273,
-        "species": "Plumeria obtusa L.",
-        "genus": "Plumeria",
-        "family": "Apocynaceae",
-        "commonNames": [
-          "Frangipani",
-          "Singapore graveyard flower",
-          "Pagoda tree"
-        ],
-        "gbifId": "3169677",
-        "iucnId": "156770956",
-        "iucnCategory": "LC",
-        "powoId": "81256-1"
-      },
-      {
-        "confidence": 0.2437,
-        "species": "Plumeria pudica Jacq.",
-        "genus": "Plumeria",
-        "family": "Apocynaceae",
-        "commonNames": [
-          "Fiddle leaf plumeria",
-          "Bridal boquet",
-          "White frangipani"
-        ],
-        "gbifId": "3614691",
-        "iucnId": "151953739",
-        "iucnCategory": "LC",
-        "powoId": "81268-1"
-      },
-      {
-        "confidence": 0.13985,
-        "species": "Plumeria alba L.",
-        "genus": "Plumeria",
-        "family": "Apocynaceae",
-        "commonNames": [
-          "White Frangipani",
-          "Champa",
-          "Pagoda-tree"
-        ],
-        "gbifId": "3169673",
-        "iucnId": "208165050",
-        "iucnCategory": "LC",
-        "powoId": "81171-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "fa0b575a1524e54e",
-    "latLng": {
-      "lat": 6.912908333333334,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722384,
-    "timeImageTaken": "2026-05-14 01:33:04",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.98095,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
-        "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
-        ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "bd55451b2f0f430a",
-    "latLng": {
-      "lat": 6.912872222222223,
-      "lng": 79.85995555555554
-    },
-    "source": "exif",
-    "utImageTaken": 1778722321,
-    "timeImageTaken": "2026-05-14 01:32:01",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.95733,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
-        "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
-        ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "b20c18d33feb6010",
-    "latLng": {
-      "lat": 37.47040277777778,
-      "lng": -122.31145555555555
-    },
-    "source": "exif",
-    "utImageTaken": 1663752718,
-    "timeImageTaken": "2022-09-21 09:31:58",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Paul Creek Bridge, San Mateo County, California, 94070, United States",
-    "predictions": [
-      {
-        "confidence": 0.98413,
-        "species": "Punica granatum L.",
-        "genus": "Punica",
-        "family": "Lythraceae",
-        "commonNames": [
-          "Pomegranate",
-          "انار",
-          "अनार"
-        ],
-        "gbifId": "5420901",
-        "iucnId": "63531",
-        "iucnCategory": "LC",
-        "powoId": "554129-1"
       }
     ]
   },
@@ -881,150 +131,92 @@
     ]
   },
   {
-    "imageHash": "2ef1ca46bb4adcc5",
+    "imageHash": "26e7abcaddf2778d",
     "latLng": {
-      "lat": 6.912911111111112,
-      "lng": 79.86
+      "lat": -8.70383611111111,
+      "lng": 115.16716111111111
     },
     "source": "exif",
-    "utImageTaken": 1778722377,
-    "timeImageTaken": "2026-05-14 01:32:57",
+    "utImageTaken": 1733025925,
+    "timeImageTaken": "2024-12-01 04:05:25",
     "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma Utara, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
-        "confidence": 0.26807,
-        "species": "Gynura procumbens (Lour.) Merr.",
-        "genus": "Gynura",
-        "family": "Asteraceae",
+        "confidence": 0.61447,
+        "species": "Costus spiralis (Jacq.) Roscoe",
+        "genus": "Costus",
+        "family": "Costaceae",
         "commonNames": [
-          "Longevity spinach",
-          "Okinawa spinach",
-          "Scrambling gynura"
+          "Insulin plant",
+          "Sunbird's Delight",
+          "Spiralis ginger"
         ],
-        "gbifId": "3139818",
+        "gbifId": "2756867",
         "iucnId": "",
         "iucnCategory": "",
-        "powoId": "211304-1"
+        "powoId": "796387-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b0e3a6cd50db0815",
+    "latLng": {
+      "lat": 52.62828888888889,
+      "lng": 1.30575
+    },
+    "source": "exif",
+    "utImageTaken": 1689752230,
+    "timeImageTaken": "2023-07-19 07:37:10",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Prince of Wales Road, Thorpe Hamlet, Norwich, Norfolk, England, NR1 1DU, United Kingdom",
+    "predictions": [
+      {
+        "confidence": 0.62589,
+        "species": "Populus nigra L.",
+        "genus": "Populus",
+        "family": "Salicaceae",
+        "commonNames": [
+          "Black poplar",
+          "Lombardy poplar",
+          "Black Cottonwood"
+        ],
+        "gbifId": "3040227",
+        "iucnId": "63530",
+        "iucnCategory": "DD",
+        "powoId": "776790-1"
       },
       {
-        "confidence": 0.17028,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
+        "confidence": 0.2353,
+        "species": "Populus × canadensis Moench",
+        "genus": "Populus",
+        "family": "Salicaceae",
         "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
+          "Carolina poplar",
+          "Canada poplar",
+          "Canadian poplar"
         ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "df3ce15a4da1a2ad",
-    "latLng": {
-      "lat": 37.47770277777778,
-      "lng": -122.29952222222222
-    },
-    "source": "exif",
-    "utImageTaken": 1663752919,
-    "timeImageTaken": "2022-09-21 09:35:19",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Junipero Serra Freeway, San Mateo County, California, 94002, United States",
-    "predictions": [
-      {
-        "confidence": 0.79748,
-        "species": "Alcea rosea L.",
-        "genus": "Alcea",
-        "family": "Malvaceae",
-        "commonNames": [
-          "Hollyhock",
-          "Common Hollyhock",
-          "Garden Hollyhock"
-        ],
-        "gbifId": "5406789",
+        "gbifId": "8190077",
         "iucnId": "",
         "iucnCategory": "",
-        "powoId": "558713-1"
+        "powoId": "776622-1"
       }
     ]
   },
   {
-    "imageHash": "aa88bdf31955c239",
+    "imageHash": "fa0b575a1524e54e",
     "latLng": {
-      "lat": 6.912502777777778,
-      "lng": 79.86273055555554
-    },
-    "source": "exif",
-    "utImageTaken": 1778463910,
-    "timeImageTaken": "2026-05-11 01:45:10",
-    "userId": "4c5bc7a0",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.93118,
-        "species": "Artocarpus heterophyllus Lam.",
-        "genus": "Artocarpus",
-        "family": "Moraceae",
-        "commonNames": [
-          "Jackfruit",
-          "Nangka",
-          "Jack"
-        ],
-        "gbifId": "2984565",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "850389-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "ec9a0664d1dc3994",
-    "latLng": {
-      "lat": 6.912866666666667,
-      "lng": 79.85995555555554
-    },
-    "source": "exif",
-    "utImageTaken": 1778722308,
-    "timeImageTaken": "2026-05-14 01:31:48",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.23741,
-        "species": "Justicia adhatoda L.",
-        "genus": "Justicia",
-        "family": "Acanthaceae",
-        "commonNames": [
-          "Vasaka",
-          "Malabar-nut",
-          "Pavettia"
-        ],
-        "gbifId": "3173105",
-        "iucnId": "169274250",
-        "iucnCategory": "LC",
-        "powoId": "50237-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "31b2c84d9f62b236",
-    "latLng": {
-      "lat": 6.912958333333334,
+      "lat": 6.912908333333334,
       "lng": 79.86000833333333
     },
     "source": "exif",
-    "utImageTaken": 1778722446,
-    "timeImageTaken": "2026-05-14 01:34:06",
+    "utImageTaken": 1778722384,
+    "timeImageTaken": "2026-05-14 01:33:04",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.82106,
+        "confidence": 0.98095,
         "species": "Euphorbia tithymaloides L.",
         "genus": "Euphorbia",
         "family": "Euphorbiaceae",
@@ -1069,35 +261,6 @@
     ]
   },
   {
-    "imageHash": "60448bd4f2a7a71f",
-    "latLng": {
-      "lat": 8.117208333333334,
-      "lng": 80.66475000000001
-    },
-    "source": "exif",
-    "utImageTaken": 1775282853,
-    "timeImageTaken": "2026-04-04 06:07:33",
-    "userId": "e1776bd6",
-    "nominatim_display_name": "Stone bridge 01, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.62638,
-        "species": "Castanea sativa Mill.",
-        "genus": "Castanea",
-        "family": "Fagaceae",
-        "commonNames": [
-          "Sweet Chestnut",
-          "European chestnut",
-          "Spanish chestnut"
-        ],
-        "gbifId": "5333294",
-        "iucnId": "202948",
-        "iucnCategory": "LC",
-        "powoId": "295349-1"
-      }
-    ]
-  },
-  {
     "imageHash": "d67c2096ab66b15c",
     "latLng": {
       "lat": 6.897664,
@@ -1127,48 +290,48 @@
     ]
   },
   {
-    "imageHash": "b568c9ce96b0ebff",
+    "imageHash": "f7d14a200bacc97c",
     "latLng": {
-      "lat": 6.912858333333333,
-      "lng": 79.85994722222222
+      "lat": 6.912980555555556,
+      "lng": 79.86
     },
     "source": "exif",
-    "utImageTaken": 1778722301,
-    "timeImageTaken": "2026-05-14 01:31:41",
+    "utImageTaken": 1778722455,
+    "timeImageTaken": "2026-05-14 01:34:15",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.11052,
-        "species": "Justicia adhatoda L.",
-        "genus": "Justicia",
-        "family": "Acanthaceae",
+        "confidence": 0.10962,
+        "species": "Phyllanthus tenellus Roxb.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
         "commonNames": [
-          "Vasaka",
-          "Malabar-nut",
-          "Pavettia"
+          "Long-stalk leaf-flower",
+          "Long-stalk phyllanthus",
+          "Mascarene Island leaf-flower"
         ],
-        "gbifId": "3173105",
-        "iucnId": "169274250",
-        "iucnCategory": "LC",
-        "powoId": "50237-1"
+        "gbifId": "5381097",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "354756-1"
       }
     ]
   },
   {
-    "imageHash": "24cbf2290afad730",
+    "imageHash": "bd9d09ce3795e0e4",
     "latLng": {
-      "lat": 6.912922222222223,
-      "lng": 79.86000833333333
+      "lat": 6.9129000000000005,
+      "lng": 79.85998611111111
     },
     "source": "exif",
-    "utImageTaken": 1778722390,
-    "timeImageTaken": "2026-05-14 01:33:10",
+    "utImageTaken": 1778722363,
+    "timeImageTaken": "2026-05-14 01:32:43",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.77516,
+        "confidence": 0.90377,
         "species": "Euphorbia tithymaloides L.",
         "genus": "Euphorbia",
         "family": "Euphorbiaceae",
@@ -1181,35 +344,6 @@
         "iucnId": "135836706",
         "iucnCategory": "LC",
         "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "f3ecf71f799b6ea0",
-    "latLng": {
-      "lat": 6.9187627970892756,
-      "lng": 79.85912963991777
-    },
-    "source": "browser",
-    "utImageTaken": 1772864014,
-    "timeImageTaken": "2026-03-07 06:13:34",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.29798,
-        "species": "Leucospermum cordifolium Fourc.",
-        "genus": "Leucospermum",
-        "family": "Proteaceae",
-        "commonNames": [
-          "Red pincushion-protea",
-          "Pincushion",
-          "Nodding pincushion"
-        ],
-        "gbifId": "3997490",
-        "iucnId": "113172076",
-        "iucnCategory": "NT",
-        "powoId": ""
       }
     ]
   },
@@ -1243,46 +377,148 @@
     ]
   },
   {
-    "imageHash": "13b4b20ab482edd5",
+    "imageHash": "e11382d83c315de1",
     "latLng": {
-      "lat": -8.703638888888888,
-      "lng": 115.16631944444445
+      "lat": 37.42669166666666,
+      "lng": -122.17031111111112
     },
     "source": "exif",
-    "utImageTaken": 1733025447,
-    "timeImageTaken": "2024-12-01 03:57:27",
+    "utImageTaken": 1737875412,
+    "timeImageTaken": "2025-01-26 07:10:12",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "450, Jane Stanford Way, Stanford, Santa Clara County, California, 94305, United States",
+    "predictions": [
+      {
+        "confidence": 0.41021,
+        "species": "Camellia japonica L.",
+        "genus": "Camellia",
+        "family": "Theaceae",
+        "commonNames": [
+          "Camellia",
+          "Japanese Camellia",
+          "Rose of Winter"
+        ],
+        "gbifId": "3189636",
+        "iucnId": "62054114",
+        "iucnCategory": "LC",
+        "powoId": "828524-1"
+      },
+      {
+        "confidence": 0.23725,
+        "species": "Camellia sasanqua Thunb.",
+        "genus": "Camellia",
+        "family": "Theaceae",
+        "commonNames": [
+          "Camellia",
+          "Sasanqua camellia",
+          "Christmas camellia"
+        ],
+        "gbifId": "3189637",
+        "iucnId": "62057947",
+        "iucnCategory": "LC",
+        "powoId": "927409-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "c4cab7f7617a0d7b",
+    "latLng": {
+      "lat": 6.913011111111111,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722497,
+    "timeImageTaken": "2026-05-14 01:34:57",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.45725,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "b4ea0e78a2f0f3db",
+    "latLng": {
+      "lat": 37.426649999999995,
+      "lng": -122.17023333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1737875402,
+    "timeImageTaken": "2025-01-26 07:10:02",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Inner Quad, Stanford, Santa Clara County, California, 94305, United States",
+    "predictions": [
+      {
+        "confidence": 0.6128,
+        "species": "Camellia japonica L.",
+        "genus": "Camellia",
+        "family": "Theaceae",
+        "commonNames": [
+          "Camellia",
+          "Japanese Camellia",
+          "Rose of Winter"
+        ],
+        "gbifId": "3189636",
+        "iucnId": "62054114",
+        "iucnCategory": "LC",
+        "powoId": "828524-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "f662782edadfe9bf",
+    "latLng": {
+      "lat": -8.703630555555554,
+      "lng": 115.16630555555557
+    },
+    "source": "exif",
+    "utImageTaken": 1733025605,
+    "timeImageTaken": "2024-12-01 04:00:05",
     "userId": "1bi07e4",
     "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
-        "confidence": 0.56801,
-        "species": "Bougainvillea spectabilis Willd.",
-        "genus": "Bougainvillea",
-        "family": "Nyctaginaceae",
+        "confidence": 0.39635,
+        "species": "Heliconia bihai (L.) L.",
+        "genus": "Heliconia",
+        "family": "Heliconiaceae",
         "commonNames": [
-          "Great bougainvillea",
-          "Bougainvillea",
-          "Paper flower"
+          "Macaw-flower",
+          "Firebird",
+          "Wild plantain"
         ],
-        "gbifId": "7167078",
+        "gbifId": "2760874",
         "iucnId": "",
         "iucnCategory": "",
-        "powoId": "604358-1"
+        "powoId": "796925-1"
       },
       {
-        "confidence": 0.36786,
-        "species": "Bougainvillea glabra Choisy",
-        "genus": "Bougainvillea",
-        "family": "Nyctaginaceae",
+        "confidence": 0.32142,
+        "species": "Heliconia rostrata Ruiz & Pav.",
+        "genus": "Heliconia",
+        "family": "Heliconiaceae",
         "commonNames": [
-          "Bougainvillea",
-          "Paper-flower",
-          "گل کاغذی"
+          "False bird of paradise",
+          "Hanging Heliconia",
+          "Lobster Claw"
         ],
-        "gbifId": "5384862",
-        "iucnId": "149207944",
-        "iucnCategory": "LC",
-        "powoId": "35444-2"
+        "gbifId": "2760967",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "796978-1"
       }
     ]
   },
@@ -1331,221 +567,163 @@
     ]
   },
   {
-    "imageHash": "2f54f1d12f691001",
+    "imageHash": "c6c4b3a045893055",
     "latLng": {
-      "lat": 51.50516388888889,
-      "lng": -0.0905611111111111
+      "lat": 52.634838888888886,
+      "lng": 1.3039583333333333
     },
     "source": "exif",
-    "utImageTaken": 1689496416,
-    "timeImageTaken": "2023-07-16 08:33:36",
+    "utImageTaken": 1689753641,
+    "timeImageTaken": "2023-07-19 08:00:41",
     "userId": "1bi07e4",
-    "nominatim_display_name": "Spice  Mountain, Southwark Street, Borough Market, Bankside, The Borough, London Borough of Southwark, Greater London, England, SE1 1YB, United Kingdom",
+    "nominatim_display_name": "Jarrold Bridge, Riverside Walk, St James Place, Thorpe Hamlet, Norwich, Norfolk, England, NR3 1UB, United Kingdom",
     "predictions": [
       {
-        "confidence": 0.43367,
-        "species": "Artocarpus heterophyllus Lam.",
-        "genus": "Artocarpus",
-        "family": "Moraceae",
+        "confidence": 0.35479,
+        "species": "Calystegia sepium (L.) R.Br.",
+        "genus": "Calystegia",
+        "family": "Convolvulaceae",
         "commonNames": [
-          "Jackfruit",
-          "Nangka",
-          "Jack"
+          "Wild Morning-Glory",
+          "Bindweed",
+          "Hedge Bindweed"
         ],
-        "gbifId": "2984565",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "850389-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "4827878cc3b6cd03",
-    "latLng": {
-      "lat": 6.918872222222222,
-      "lng": 79.85911666666667
-    },
-    "source": "exif",
-    "utImageTaken": 1778656728,
-    "timeImageTaken": "2026-05-13 07:18:48",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.30146,
-        "species": "Plectranthus amboinicus (Lour.) Spreng.",
-        "genus": "Plectranthus",
-        "family": "Lamiaceae",
-        "commonNames": [
-          "Cuban-oregano",
-          "Indian-mint",
-          "Ajwayan leaf indian"
-        ],
-        "gbifId": "2926636",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": ""
+        "gbifId": "2928441",
+        "iucnId": "19224959",
+        "iucnCategory": "LC",
+        "powoId": "30033025-2"
       },
       {
-        "confidence": 0.20672,
-        "species": "Plectranthus barbatus Andrews",
-        "genus": "Plectranthus",
-        "family": "Lamiaceae",
+        "confidence": 0.13257,
+        "species": "Calystegia silvatica (Kit.) Griseb.",
+        "genus": "Calystegia",
+        "family": "Convolvulaceae",
         "commonNames": [
-          "Forskohlii",
-          "Coleus",
-          "Indian borage"
+          "Great Bindweed",
+          "Shortstalk false bindweed",
+          "Large Bindweed"
         ],
-        "gbifId": "6412796",
+        "gbifId": "2928446",
         "iucnId": "",
         "iucnCategory": "",
-        "powoId": ""
+        "powoId": "143196-3"
       }
     ]
   },
   {
-    "imageHash": "01b73bbefdca4e74",
+    "imageHash": "4783a44e351751e5",
     "latLng": {
-      "lat": 6.918762814868358,
-      "lng": 79.85912964071473
-    },
-    "source": "browser",
-    "utImageTaken": 1772862899,
-    "timeImageTaken": "2026-03-07 05:54:59",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.26526,
-        "species": "Rhododendron ferrugineum L.",
-        "genus": "Rhododendron",
-        "family": "Ericaceae",
-        "commonNames": [
-          "Rhododendron",
-          "Alpine-rose",
-          "Alpenrose"
-        ],
-        "gbifId": "2883073",
-        "iucnId": "203007",
-        "iucnCategory": "LC",
-        "powoId": "332420-1"
-      },
-      {
-        "confidence": 0.2264,
-        "species": "Rhododendron catawbiense Michx.",
-        "genus": "Rhododendron",
-        "family": "Ericaceae",
-        "commonNames": [
-          "Catawba rhododendron",
-          "Mountain rose bay",
-          "Purple-laurel"
-        ],
-        "gbifId": "2883047",
-        "iucnId": "156821604",
-        "iucnCategory": "LC",
-        "powoId": "332124-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "5bfa3cfd9aa6d6c9",
-    "latLng": {
-      "lat": 6.912961111111112,
-      "lng": 79.86000833333333
+      "lat": -8.703688888888887,
+      "lng": 115.16629166666667
     },
     "source": "exif",
-    "utImageTaken": 1778722444,
-    "timeImageTaken": "2026-05-14 01:34:04",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.69588,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
-        "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
-        ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "ea7962919bd12c3d",
-    "latLng": {
-      "lat": 6.912883333333333,
-      "lng": 79.8599611111111
-    },
-    "source": "exif",
-    "utImageTaken": 1778722329,
-    "timeImageTaken": "2026-05-14 01:32:09",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.95789,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
-        "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
-        ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "35bf6db29dc600f9",
-    "latLng": {
-      "lat": -8.703505555555555,
-      "lng": 115.16697777777779
-    },
-    "source": "exif",
-    "utImageTaken": 1733025762,
-    "timeImageTaken": "2024-12-01 04:02:42",
+    "utImageTaken": 1733025435,
+    "timeImageTaken": "2024-12-01 03:57:15",
     "userId": "1bi07e4",
     "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
-        "confidence": 0.23918,
-        "species": "Rorippa sylvestris (L.) Besser",
-        "genus": "Rorippa",
-        "family": "Brassicaceae",
+        "confidence": 0.55966,
+        "species": "Zinnia peruviana (L.) L.",
+        "genus": "Zinnia",
+        "family": "Asteraceae",
         "commonNames": [
-          "Creeping yellow cress",
-          "Creeping yellow field cress",
-          "Yellow field cress"
+          "Peruvian zinnia",
+          "Field zinnia",
+          "Wild zinnia"
         ],
-        "gbifId": "3053376",
-        "iucnId": "176486",
-        "iucnCategory": "LC",
-        "powoId": "288692-1"
-      },
-      {
-        "confidence": 0.1375,
-        "species": "Bunias erucago L.",
-        "genus": "Bunias",
-        "family": "Brassicaceae",
-        "commonNames": [
-          "Southern warty-cabbage",
-          "Crested wartycabbage",
-          "Crested Bunias"
-        ],
-        "gbifId": "3050357",
+        "gbifId": "9193953",
         "iucnId": "",
         "iucnCategory": "",
-        "powoId": "279698-1"
+        "powoId": "261363-1"
+      },
+      {
+        "confidence": 0.12114,
+        "species": "Zinnia elegans Jacq.",
+        "genus": "Zinnia",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Garden zinnia",
+          "Zinnia",
+          "Youth-and-age"
+        ],
+        "gbifId": "3111754",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "261331-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "7e4f1232dcf19251",
+    "latLng": {
+      "lat": 37.42685833333333,
+      "lng": -122.17102777777778
+    },
+    "source": "exif",
+    "utImageTaken": 1737874935,
+    "timeImageTaken": "2025-01-26 07:02:15",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Escondido Mall, Stanford, Santa Clara County, California, 94305, United States",
+    "predictions": [
+      {
+        "confidence": 0.40419,
+        "species": "Camellia japonica L.",
+        "genus": "Camellia",
+        "family": "Theaceae",
+        "commonNames": [
+          "Camellia",
+          "Japanese Camellia",
+          "Rose of Winter"
+        ],
+        "gbifId": "3189636",
+        "iucnId": "62054114",
+        "iucnCategory": "LC",
+        "powoId": "828524-1"
+      },
+      {
+        "confidence": 0.164,
+        "species": "Rosa gallica L.",
+        "genus": "Rosa",
+        "family": "Rosaceae",
+        "commonNames": [
+          "French rose",
+          "Hungarian rose",
+          "Red-rose-of-Lancaster"
+        ],
+        "gbifId": "3002530",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "732569-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "859e87d6074390d2",
+    "latLng": {
+      "lat": 6.897664,
+      "lng": 79.8654464
+    },
+    "source": "browser",
+    "utImageTaken": "1778648524",
+    "timeImageTaken": "2026-05-13 05:02:04",
+    "userId": "9f6fcdc6",
+    "nominatim_display_name": "Thimbirigasyaya, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.89692,
+        "species": "Psidium guajava L.",
+        "genus": "Psidium",
+        "family": "Myrtaceae",
+        "commonNames": [
+          "Guava",
+          "Guave",
+          "Common guava"
+        ],
+        "gbifId": "5420380",
+        "iucnId": "49485755",
+        "iucnCategory": "LC",
+        "powoId": "600841-1"
       }
     ]
   },
@@ -1579,19 +757,19 @@
     ]
   },
   {
-    "imageHash": "5bdc06925eb4692e",
+    "imageHash": "81fd49ac5f8bbe5c",
     "latLng": {
-      "lat": 6.912908333333334,
-      "lng": 79.85999166666666
+      "lat": 6.912936111111112,
+      "lng": 79.86000833333333
     },
     "source": "exif",
-    "utImageTaken": 1778722373,
-    "timeImageTaken": "2026-05-14 01:32:53",
+    "utImageTaken": 1778722423,
+    "timeImageTaken": "2026-05-14 01:33:43",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.85705,
+        "confidence": 0.31485,
         "species": "Euphorbia tithymaloides L.",
         "genus": "Euphorbia",
         "family": "Euphorbiaceae",
@@ -1650,135 +828,164 @@
     ]
   },
   {
-    "imageHash": "60af014c2b70070a",
+    "imageHash": "4afa8d459800d84f",
     "latLng": {
-      "lat": 6.9128694444444445,
-      "lng": 79.8599611111111
+      "lat": 6.9129555555555555,
+      "lng": 79.86000833333333
     },
     "source": "exif",
-    "utImageTaken": 1778722317,
-    "timeImageTaken": "2026-05-14 01:31:57",
+    "utImageTaken": 1778722439,
+    "timeImageTaken": "2026-05-14 01:33:59",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.18205,
-        "species": "Justicia adhatoda L.",
-        "genus": "Justicia",
-        "family": "Acanthaceae",
+        "confidence": 0.71346,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
         "commonNames": [
-          "Vasaka",
-          "Malabar-nut",
-          "Pavettia"
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
         ],
-        "gbifId": "3173105",
-        "iucnId": "169274250",
+        "gbifId": "3069168",
+        "iucnId": "135836706",
         "iucnCategory": "LC",
-        "powoId": "50237-1"
+        "powoId": "102036-2"
       }
     ]
   },
   {
-    "imageHash": "3b3d1dfb2ec57564",
+    "imageHash": "5bfa3cfd9aa6d6c9",
     "latLng": {
-      "lat": 6.912922222222223,
-      "lng": 79.86
+      "lat": 6.912961111111112,
+      "lng": 79.86000833333333
     },
     "source": "exif",
-    "utImageTaken": 1778722400,
-    "timeImageTaken": "2026-05-14 01:33:20",
+    "utImageTaken": 1778722444,
+    "timeImageTaken": "2026-05-14 01:34:04",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.11927,
-        "species": "Barleria cristata L.",
-        "genus": "Barleria",
-        "family": "Acanthaceae",
+        "confidence": 0.69588,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
         "commonNames": [
-          "Philippine-violet",
-          "Bluebell",
-          "Bluebell barleria"
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
         ],
-        "gbifId": "3173128",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "45927-1"
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
       }
     ]
   },
   {
-    "imageHash": "be209a8472559587",
+    "imageHash": "31b2c84d9f62b236",
     "latLng": {
-      "lat": 50.21846666666667,
-      "lng": -5.479344444444444
+      "lat": 6.912958333333334,
+      "lng": 79.86000833333333
     },
     "source": "exif",
-    "utImageTaken": 1496060583,
-    "timeImageTaken": "2017-05-29 12:23:03",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Porthmeor Road, St. Ives, Cornwall, England, TR26 1FE, United Kingdom",
-    "predictions": [
-      {
-        "confidence": 0.23917,
-        "species": "Armeria maritima (Mill.) Willd.",
-        "genus": "Armeria",
-        "family": "Plumbaginaceae",
-        "commonNames": [
-          "Thrift seapink",
-          "Thrift",
-          "Marsh daisy"
-        ],
-        "gbifId": "8930531",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "19793-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "4633aed3d77e0c87",
-    "latLng": {
-      "lat": -8.703475,
-      "lng": 115.16722777777778
-    },
-    "source": "exif",
-    "utImageTaken": 1733025822,
-    "timeImageTaken": "2024-12-01 04:03:42",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
-    "predictions": [
-      {
-        "confidence": 0.89087,
-        "species": "Cleome viscosa L.",
-        "genus": "Cleome",
-        "family": "Cleomaceae",
-        "commonNames": [
-          "Asian Spider-flower",
-          "کنجد شیطان، کنجد وحشی",
-          "కుక్కవావింట"
-        ],
-        "gbifId": "3054214",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "320133-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "f7d14a200bacc97c",
-    "latLng": {
-      "lat": 6.912980555555556,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722455,
-    "timeImageTaken": "2026-05-14 01:34:15",
+    "utImageTaken": 1778722446,
+    "timeImageTaken": "2026-05-14 01:34:06",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.10962,
+        "confidence": 0.82106,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "01b73bbefdca4e74",
+    "latLng": {
+      "lat": 6.918762814868358,
+      "lng": 79.85912964071473
+    },
+    "source": "browser",
+    "utImageTaken": 1772862899,
+    "timeImageTaken": "2026-03-07 05:54:59",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.26526,
+        "species": "Rhododendron ferrugineum L.",
+        "genus": "Rhododendron",
+        "family": "Ericaceae",
+        "commonNames": [
+          "Rhododendron",
+          "Alpine-rose",
+          "Alpenrose"
+        ],
+        "gbifId": "2883073",
+        "iucnId": "203007",
+        "iucnCategory": "LC",
+        "powoId": "332420-1"
+      },
+      {
+        "confidence": 0.2264,
+        "species": "Rhododendron catawbiense Michx.",
+        "genus": "Rhododendron",
+        "family": "Ericaceae",
+        "commonNames": [
+          "Catawba rhododendron",
+          "Mountain rose bay",
+          "Purple-laurel"
+        ],
+        "gbifId": "2883047",
+        "iucnId": "156821604",
+        "iucnCategory": "LC",
+        "powoId": "332124-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "ac5cc265d1b10aa0",
+    "latLng": {
+      "lat": 6.913013888888889,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722504,
+    "timeImageTaken": "2026-05-14 01:35:04",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.19823,
+        "species": "Phyllanthus pulcher Wall. ex Müll.Arg.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Tropical leaf-flower",
+          "Dragon-of-the-world"
+        ],
+        "gbifId": "5381514",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "60456391-2"
+      },
+      {
+        "confidence": 0.13691,
         "species": "Phyllanthus tenellus Roxb.",
         "genus": "Phyllanthus",
         "family": "Phyllanthaceae",
@@ -1791,79 +998,6 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "354756-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "5881fec13ce62150",
-    "latLng": {
-      "lat": 37.45101666666667,
-      "lng": -122.16041666666668
-    },
-    "source": "exif",
-    "utImageTaken": 1738831571,
-    "timeImageTaken": "2025-02-06 08:46:11",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "576, Webster Street, Downtown North, Palo Alto, Santa Clara County, California, 94301, United States",
-    "predictions": [
-      {
-        "confidence": 0.51872,
-        "species": "Magnolia liliiflora Desr.",
-        "genus": "Magnolia",
-        "family": "Magnoliaceae",
-        "commonNames": [
-          "Lily Magnolia",
-          "Purple magnolia",
-          "Red magnolia"
-        ],
-        "gbifId": "3153228",
-        "iucnId": "191488",
-        "iucnCategory": "DD",
-        "powoId": "554759-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "b0e3a6cd50db0815",
-    "latLng": {
-      "lat": 52.62828888888889,
-      "lng": 1.30575
-    },
-    "source": "exif",
-    "utImageTaken": 1689752230,
-    "timeImageTaken": "2023-07-19 07:37:10",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Prince of Wales Road, Thorpe Hamlet, Norwich, Norfolk, England, NR1 1DU, United Kingdom",
-    "predictions": [
-      {
-        "confidence": 0.62589,
-        "species": "Populus nigra L.",
-        "genus": "Populus",
-        "family": "Salicaceae",
-        "commonNames": [
-          "Black poplar",
-          "Lombardy poplar",
-          "Black Cottonwood"
-        ],
-        "gbifId": "3040227",
-        "iucnId": "63530",
-        "iucnCategory": "DD",
-        "powoId": "776790-1"
-      },
-      {
-        "confidence": 0.2353,
-        "species": "Populus × canadensis Moench",
-        "genus": "Populus",
-        "family": "Salicaceae",
-        "commonNames": [
-          "Carolina poplar",
-          "Canada poplar",
-          "Canadian poplar"
-        ],
-        "gbifId": "8190077",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "776622-1"
       }
     ]
   },
@@ -1897,46 +1031,201 @@
     ]
   },
   {
-    "imageHash": "c8fe0a69dc219962",
+    "imageHash": "9477aa8de53c1b89",
     "latLng": {
-      "lat": 6.913016666666667,
+      "lat": 8.118325,
+      "lng": 80.66455833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1775277324,
+    "timeImageTaken": "2026-04-04 04:35:24",
+    "userId": "e1776bd6",
+    "nominatim_display_name": "Ritigala Ancient Buddhist Monastery, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.38905,
+        "species": "Eranthemum pulchellum Andrews",
+        "genus": "Eranthemum",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Blue-sage"
+        ],
+        "gbifId": "3172936",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "48879-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b20c18d33feb6010",
+    "latLng": {
+      "lat": 37.47040277777778,
+      "lng": -122.31145555555555
+    },
+    "source": "exif",
+    "utImageTaken": 1663752718,
+    "timeImageTaken": "2022-09-21 09:31:58",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Paul Creek Bridge, San Mateo County, California, 94070, United States",
+    "predictions": [
+      {
+        "confidence": 0.98413,
+        "species": "Punica granatum L.",
+        "genus": "Punica",
+        "family": "Lythraceae",
+        "commonNames": [
+          "Pomegranate",
+          "انار",
+          "अनार"
+        ],
+        "gbifId": "5420901",
+        "iucnId": "63531",
+        "iucnCategory": "LC",
+        "powoId": "554129-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "2e859382180e6553",
+    "latLng": {
+      "lat": 6.912994444444445,
       "lng": 79.86000833333333
     },
     "source": "exif",
-    "utImageTaken": 1778722495,
-    "timeImageTaken": "2026-05-14 01:34:55",
+    "utImageTaken": 1778722472,
+    "timeImageTaken": "2026-05-14 01:34:32",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.2484,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
+        "confidence": 0.11581,
+        "species": "Phyllanthus niruroides Müll.Arg.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
         "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
+          "Seed on the leaf"
         ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      },
-      {
-        "confidence": 0.11144,
-        "species": "Citrus × limon (L.) Osbeck",
-        "genus": "Citrus",
-        "family": "Rutaceae",
-        "commonNames": [
-          "Lemon",
-          "Lemon-tree",
-          "Mandarin lime"
-        ],
-        "gbifId": "7647136",
+        "gbifId": "5381773",
         "iucnId": "",
         "iucnCategory": "",
-        "powoId": "60454758-2"
+        "powoId": "354351-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "46106a8bdea07c86",
+    "latLng": {
+      "lat": 6.918830555555556,
+      "lng": 79.85912222222221
+    },
+    "source": "exif",
+    "utImageTaken": 1778656727,
+    "timeImageTaken": "2026-05-13 07:18:47",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.11875,
+        "species": "Chlorophytum comosum (Thunb.) Jacques",
+        "genus": "Chlorophytum",
+        "family": "Asparagaceae",
+        "commonNames": [
+          "Spider plant",
+          "کاپنس گندمی\n\nخانواده: لیلیاسه ها (سوسنی ها)",
+          "Hen-and-chickens"
+        ],
+        "gbifId": "2774846",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "532810-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "8df7caa24100f793",
+    "latLng": {
+      "lat": 6.912952777777778,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722434,
+    "timeImageTaken": "2026-05-14 01:33:54",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.20136,
+        "species": "Indigofera tinctoria L.",
+        "genus": "Indigofera",
+        "family": "Fabaceae",
+        "commonNames": [
+          "Dye indigo",
+          "Indigo",
+          "Indian indigo"
+        ],
+        "gbifId": "2972043",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "500111-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "019f57b122aa24dc",
+    "latLng": {
+      "lat": 6.026213888888889,
+      "lng": 80.215125
+    },
+    "source": "exif",
+    "utImageTaken": 1748659075,
+    "timeImageTaken": "2025-05-31 02:37:55",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Pedlar Street, Talbot Town, Galle, Galle District, Southern Province, 80000, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.9036,
+        "species": "Barringtonia asiatica (L.) Kurz",
+        "genus": "Barringtonia",
+        "family": "Lecythidaceae",
+        "commonNames": [
+          "Fish-poison-tree",
+          "Mango-pine",
+          "Mangobark"
+        ],
+        "gbifId": "3082920",
+        "iucnId": "31339",
+        "iucnCategory": "LC",
+        "powoId": "469061-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "4633aed3d77e0c87",
+    "latLng": {
+      "lat": -8.703475,
+      "lng": 115.16722777777778
+    },
+    "source": "exif",
+    "utImageTaken": 1733025822,
+    "timeImageTaken": "2024-12-01 04:03:42",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
+    "predictions": [
+      {
+        "confidence": 0.89087,
+        "species": "Cleome viscosa L.",
+        "genus": "Cleome",
+        "family": "Cleomaceae",
+        "commonNames": [
+          "Asian Spider-flower",
+          "کنجد شیطان، کنجد وحشی",
+          "కుక్కవావింట"
+        ],
+        "gbifId": "3054214",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "320133-2"
       }
     ]
   },
@@ -2014,150 +1303,19 @@
     ]
   },
   {
-    "imageHash": "c6c4b3a045893055",
+    "imageHash": "a5cd0676a5a3b86b",
     "latLng": {
-      "lat": 52.634838888888886,
-      "lng": 1.3039583333333333
-    },
-    "source": "exif",
-    "utImageTaken": 1689753641,
-    "timeImageTaken": "2023-07-19 08:00:41",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Jarrold Bridge, Riverside Walk, St James Place, Thorpe Hamlet, Norwich, Norfolk, England, NR3 1UB, United Kingdom",
-    "predictions": [
-      {
-        "confidence": 0.35479,
-        "species": "Calystegia sepium (L.) R.Br.",
-        "genus": "Calystegia",
-        "family": "Convolvulaceae",
-        "commonNames": [
-          "Wild Morning-Glory",
-          "Bindweed",
-          "Hedge Bindweed"
-        ],
-        "gbifId": "2928441",
-        "iucnId": "19224959",
-        "iucnCategory": "LC",
-        "powoId": "30033025-2"
-      },
-      {
-        "confidence": 0.13257,
-        "species": "Calystegia silvatica (Kit.) Griseb.",
-        "genus": "Calystegia",
-        "family": "Convolvulaceae",
-        "commonNames": [
-          "Great Bindweed",
-          "Shortstalk false bindweed",
-          "Large Bindweed"
-        ],
-        "gbifId": "2928446",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "143196-3"
-      }
-    ]
-  },
-  {
-    "imageHash": "d67b8838336afd07",
-    "latLng": {
-      "lat": 52.63442222222222,
-      "lng": 1.3053333333333335
-    },
-    "source": "exif",
-    "utImageTaken": 1689753742,
-    "timeImageTaken": "2023-07-19 08:02:22",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Riverside Walk, St James Place, Thorpe Hamlet, Norwich, Norfolk, England, NR3 1UB, United Kingdom",
-    "predictions": [
-      {
-        "confidence": 0.8701,
-        "species": "Cirsium vulgare (Savi) Ten.",
-        "genus": "Cirsium",
-        "family": "Asteraceae",
-        "commonNames": [
-          "Spear Thistle",
-          "Bull Thistle",
-          "Scottish thistle"
-        ],
-        "gbifId": "3112801",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "196191-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "3ae050bbdb1eb9cf",
-    "latLng": {
-      "lat": 6.912855555555556,
-      "lng": 79.85993888888888
-    },
-    "source": "exif",
-    "utImageTaken": 1778722292,
-    "timeImageTaken": "2026-05-14 01:31:32",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.94251,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
-        "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
-        ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "54ab51b75d575eff",
-    "latLng": {
-      "lat": 6.913002777777778,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722489,
-    "timeImageTaken": "2026-05-14 01:34:49",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.14809,
-        "species": "Phyllanthus emblica L.",
-        "genus": "Phyllanthus",
-        "family": "Phyllanthaceae",
-        "commonNames": [
-          "Amla",
-          "Indian Gooseberry",
-          "Emblic"
-        ],
-        "gbifId": "5381660",
-        "iucnId": "149444430",
-        "iucnCategory": "LC",
-        "powoId": "353838-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "bd9d09ce3795e0e4",
-    "latLng": {
-      "lat": 6.9129000000000005,
+      "lat": 6.912886111111112,
       "lng": 79.85998611111111
     },
     "source": "exif",
-    "utImageTaken": 1778722363,
-    "timeImageTaken": "2026-05-14 01:32:43",
+    "utImageTaken": 1778722352,
+    "timeImageTaken": "2026-05-14 01:32:32",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.90377,
+        "confidence": 0.20688,
         "species": "Euphorbia tithymaloides L.",
         "genus": "Euphorbia",
         "family": "Euphorbiaceae",
@@ -2174,262 +1332,118 @@
     ]
   },
   {
-    "imageHash": "2ac715e9b5b6f5a7",
+    "imageHash": "60af014c2b70070a",
     "latLng": {
-      "lat": 37.44266944444444,
-      "lng": -122.15888333333334
-    },
-    "source": "exif",
-    "utImageTaken": 1737889412,
-    "timeImageTaken": "2025-01-26 11:03:32",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "209, Homer Avenue, University South, Palo Alto, Santa Clara County, California, 94301, United States",
-    "predictions": [
-      {
-        "confidence": 0.34672,
-        "species": "Laurus nobilis L.",
-        "genus": "Laurus",
-        "family": "Lauraceae",
-        "commonNames": [
-          "(Sweet) Bay leaf",
-          "برگ بو",
-          "Laurel"
-        ],
-        "gbifId": "3034015",
-        "iucnId": "203351",
-        "iucnCategory": "LC",
-        "powoId": "465049-1"
-      },
-      {
-        "confidence": 0.13924,
-        "species": "Prunus caroliniana (Mill.) Aiton",
-        "genus": "Prunus",
-        "family": "Rosaceae",
-        "commonNames": [
-          "Carolina laurel cherry",
-          "Cherry-laurel",
-          "Laurel cherry"
-        ],
-        "gbifId": "3023558",
-        "iucnId": "64120952",
-        "iucnCategory": "LC",
-        "powoId": "729552-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "b112a5bfdd527998",
-    "latLng": {
-      "lat": 37.76825,
-      "lng": -122.46939166666667
-    },
-    "source": "exif",
-    "utImageTaken": 1697616302,
-    "timeImageTaken": "2023-10-18 08:05:02",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Martin Luther King Junior Drive, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
-    "predictions": [
-      {
-        "confidence": 0.62293,
-        "species": "Echinops exaltatus Schrad.",
-        "genus": "Echinops",
-        "family": "Asteraceae",
-        "commonNames": [
-          "Tall globe thistle",
-          "Globe thistle",
-          "Tall globethistle"
-        ],
-        "gbifId": "5392683",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "202484-1"
-      },
-      {
-        "confidence": 0.32848,
-        "species": "Echinops sphaerocephalus L.",
-        "genus": "Echinops",
-        "family": "Asteraceae",
-        "commonNames": [
-          "Great globethistle",
-          "Great globe thistle",
-          "Globe thistle"
-        ],
-        "gbifId": "5392883",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "202677-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "b8ad9be301563966",
-    "latLng": {
-      "lat": 37.76723611111111,
-      "lng": -122.46977222222222
-    },
-    "source": "exif",
-    "utImageTaken": 1697614778,
-    "timeImageTaken": "2023-10-18 07:39:38",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Lincoln Way, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
-    "predictions": [
-      {
-        "confidence": 0.61038,
-        "species": "Crinum moorei Hook.f.",
-        "genus": "Crinum",
-        "family": "Amaryllidaceae",
-        "commonNames": [
-          "Natal lily"
-        ],
-        "gbifId": "4928395",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "63990-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "859e87d6074390d2",
-    "latLng": {
-      "lat": 6.897664,
-      "lng": 79.8654464
-    },
-    "source": "browser",
-    "utImageTaken": "1778648524",
-    "timeImageTaken": "2026-05-13 05:02:04",
-    "userId": "9f6fcdc6",
-    "nominatim_display_name": "Thimbirigasyaya, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.89692,
-        "species": "Psidium guajava L.",
-        "genus": "Psidium",
-        "family": "Myrtaceae",
-        "commonNames": [
-          "Guava",
-          "Guave",
-          "Common guava"
-        ],
-        "gbifId": "5420380",
-        "iucnId": "49485755",
-        "iucnCategory": "LC",
-        "powoId": "600841-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "b9fb344a38edbe4f",
-    "latLng": {
-      "lat": 6.912972222222223,
-      "lng": 79.86000833333333
-    },
-    "source": "exif",
-    "utImageTaken": 1778722451,
-    "timeImageTaken": "2026-05-14 01:34:11",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.8111,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
-        "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
-        ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
-      }
-    ]
-  },
-  {
-    "imageHash": "ebb48c9a17b0a1db",
-    "latLng": {
-      "lat": 6.912886111111112,
+      "lat": 6.9128694444444445,
       "lng": 79.8599611111111
     },
     "source": "exif",
-    "utImageTaken": 1778722333,
-    "timeImageTaken": "2026-05-14 01:32:13",
+    "utImageTaken": 1778722317,
+    "timeImageTaken": "2026-05-14 01:31:57",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.93871,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
+        "confidence": 0.18205,
+        "species": "Justicia adhatoda L.",
+        "genus": "Justicia",
+        "family": "Acanthaceae",
         "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
+          "Vasaka",
+          "Malabar-nut",
+          "Pavettia"
         ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
+        "gbifId": "3173105",
+        "iucnId": "169274250",
         "iucnCategory": "LC",
-        "powoId": "102036-2"
+        "powoId": "50237-1"
       }
     ]
   },
   {
-    "imageHash": "c4cab7f7617a0d7b",
+    "imageHash": "be209a8472559587",
     "latLng": {
-      "lat": 6.913011111111111,
-      "lng": 79.86
+      "lat": 50.21846666666667,
+      "lng": -5.479344444444444
     },
     "source": "exif",
-    "utImageTaken": 1778722497,
-    "timeImageTaken": "2026-05-14 01:34:57",
+    "utImageTaken": 1496060583,
+    "timeImageTaken": "2017-05-29 12:23:03",
     "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "nominatim_display_name": "Porthmeor Road, St. Ives, Cornwall, England, TR26 1FE, United Kingdom",
     "predictions": [
       {
-        "confidence": 0.45725,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
+        "confidence": 0.23917,
+        "species": "Armeria maritima (Mill.) Willd.",
+        "genus": "Armeria",
+        "family": "Plumbaginaceae",
         "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
+          "Thrift seapink",
+          "Thrift",
+          "Marsh daisy"
         ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
-        "iucnCategory": "LC",
-        "powoId": "102036-2"
+        "gbifId": "8930531",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "19793-2"
       }
     ]
   },
   {
-    "imageHash": "4121bca8e382be50",
+    "imageHash": "d49465fcb9afe2e0",
     "latLng": {
-      "lat": 6.912891666666667,
-      "lng": 79.85998611111111
+      "lat": -8.703697222222221,
+      "lng": 115.16623611111112
     },
     "source": "exif",
-    "utImageTaken": 1778722357,
-    "timeImageTaken": "2026-05-14 01:32:37",
+    "utImageTaken": 1733025422,
+    "timeImageTaken": "2024-12-01 03:57:02",
     "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
-        "confidence": 0.94192,
-        "species": "Euphorbia tithymaloides L.",
-        "genus": "Euphorbia",
-        "family": "Euphorbiaceae",
+        "confidence": 0.90267,
+        "species": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult.",
+        "genus": "Tabernaemontana",
+        "family": "Apocynaceae",
         "commonNames": [
-          "Slipper-flower",
-          "Devil's backbone",
-          "Zig zag plant"
+          "Crape-jasmine",
+          "কাঠ মালতি",
+          "Butterfly-gardenia"
         ],
-        "gbifId": "3069168",
-        "iucnId": "135836706",
+        "gbifId": "3169625",
+        "iucnId": "149853146",
         "iucnCategory": "LC",
-        "powoId": "102036-2"
+        "powoId": "82097-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "2f54f1d12f691001",
+    "latLng": {
+      "lat": 51.50516388888889,
+      "lng": -0.0905611111111111
+    },
+    "source": "exif",
+    "utImageTaken": 1689496416,
+    "timeImageTaken": "2023-07-16 08:33:36",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Spice  Mountain, Southwark Street, Borough Market, Bankside, The Borough, London Borough of Southwark, Greater London, England, SE1 1YB, United Kingdom",
+    "predictions": [
+      {
+        "confidence": 0.43367,
+        "species": "Artocarpus heterophyllus Lam.",
+        "genus": "Artocarpus",
+        "family": "Moraceae",
+        "commonNames": [
+          "Jackfruit",
+          "Nangka",
+          "Jack"
+        ],
+        "gbifId": "2984565",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "850389-1"
       }
     ]
   },
@@ -2463,103 +1477,90 @@
     ]
   },
   {
-    "imageHash": "ac5cc265d1b10aa0",
+    "imageHash": "f3ecf71f799b6ea0",
     "latLng": {
-      "lat": 6.913013888888889,
-      "lng": 79.86
-    },
-    "source": "exif",
-    "utImageTaken": 1778722504,
-    "timeImageTaken": "2026-05-14 01:35:04",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
-    "predictions": [
-      {
-        "confidence": 0.19823,
-        "species": "Phyllanthus pulcher Wall. ex Müll.Arg.",
-        "genus": "Phyllanthus",
-        "family": "Phyllanthaceae",
-        "commonNames": [
-          "Tropical leaf-flower",
-          "Dragon-of-the-world"
-        ],
-        "gbifId": "5381514",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "60456391-2"
-      },
-      {
-        "confidence": 0.13691,
-        "species": "Phyllanthus tenellus Roxb.",
-        "genus": "Phyllanthus",
-        "family": "Phyllanthaceae",
-        "commonNames": [
-          "Long-stalk leaf-flower",
-          "Long-stalk phyllanthus",
-          "Mascarene Island leaf-flower"
-        ],
-        "gbifId": "5381097",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "354756-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "ee5180b5a108b2ce",
-    "latLng": {
-      "lat": 6.918762814868359,
-      "lng": 79.85912964071474
+      "lat": 6.9187627970892756,
+      "lng": 79.85912963991777
     },
     "source": "browser",
-    "utImageTaken": 1772863980,
-    "timeImageTaken": "2026-03-07 06:13:00",
+    "utImageTaken": 1772864014,
+    "timeImageTaken": "2026-03-07 06:13:34",
     "userId": "1bi07e4",
     "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.78142,
-        "species": "Oxalis pes-caprae L.",
-        "genus": "Oxalis",
-        "family": "Oxalidaceae",
+        "confidence": 0.29798,
+        "species": "Leucospermum cordifolium Fourc.",
+        "genus": "Leucospermum",
+        "family": "Proteaceae",
         "commonNames": [
-          "Bermuda-buttercup",
-          "Sourgrass",
-          "Yellow-flower oxalis"
+          "Red pincushion-protea",
+          "Pincushion",
+          "Nodding pincushion"
         ],
-        "gbifId": "2891661",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "375259-1"
+        "gbifId": "3997490",
+        "iucnId": "113172076",
+        "iucnCategory": "NT",
+        "powoId": ""
       }
     ]
   },
   {
-    "imageHash": "beb25600caae8f6a",
+    "imageHash": "42f6b514b94fc56b",
     "latLng": {
-      "lat": -8.703475,
-      "lng": 115.16722777777778
+      "lat": -8.703586111111111,
+      "lng": 115.16653333333333
     },
     "source": "exif",
-    "utImageTaken": 1733025820,
-    "timeImageTaken": "2024-12-01 04:03:40",
+    "utImageTaken": 1733025658,
+    "timeImageTaken": "2024-12-01 04:00:58",
     "userId": "1bi07e4",
     "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
-        "confidence": 0.85483,
-        "species": "Cleome viscosa L.",
-        "genus": "Cleome",
-        "family": "Cleomaceae",
+        "confidence": 0.34273,
+        "species": "Plumeria obtusa L.",
+        "genus": "Plumeria",
+        "family": "Apocynaceae",
         "commonNames": [
-          "Asian Spider-flower",
-          "కుక్కవావింట",
-          "کنجد شیطان، کنجد وحشی"
+          "Frangipani",
+          "Singapore graveyard flower",
+          "Pagoda tree"
         ],
-        "gbifId": "3054214",
-        "iucnId": "",
-        "iucnCategory": "",
-        "powoId": "320133-2"
+        "gbifId": "3169677",
+        "iucnId": "156770956",
+        "iucnCategory": "LC",
+        "powoId": "81256-1"
+      },
+      {
+        "confidence": 0.2437,
+        "species": "Plumeria pudica Jacq.",
+        "genus": "Plumeria",
+        "family": "Apocynaceae",
+        "commonNames": [
+          "Fiddle leaf plumeria",
+          "Bridal boquet",
+          "White frangipani"
+        ],
+        "gbifId": "3614691",
+        "iucnId": "151953739",
+        "iucnCategory": "LC",
+        "powoId": "81268-1"
+      },
+      {
+        "confidence": 0.13985,
+        "species": "Plumeria alba L.",
+        "genus": "Plumeria",
+        "family": "Apocynaceae",
+        "commonNames": [
+          "White Frangipani",
+          "Champa",
+          "Pagoda-tree"
+        ],
+        "gbifId": "3169673",
+        "iucnId": "208165050",
+        "iucnCategory": "LC",
+        "powoId": "81171-1"
       }
     ]
   },
@@ -2608,46 +1609,362 @@
     ]
   },
   {
-    "imageHash": "7e4f1232dcf19251",
+    "imageHash": "35bf6db29dc600f9",
     "latLng": {
-      "lat": 37.42685833333333,
-      "lng": -122.17102777777778
+      "lat": -8.703505555555555,
+      "lng": 115.16697777777779
     },
     "source": "exif",
-    "utImageTaken": 1737874935,
-    "timeImageTaken": "2025-01-26 07:02:15",
+    "utImageTaken": 1733025762,
+    "timeImageTaken": "2024-12-01 04:02:42",
     "userId": "1bi07e4",
-    "nominatim_display_name": "Escondido Mall, Stanford, Santa Clara County, California, 94305, United States",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
     "predictions": [
       {
-        "confidence": 0.40419,
-        "species": "Camellia japonica L.",
-        "genus": "Camellia",
-        "family": "Theaceae",
+        "confidence": 0.23918,
+        "species": "Rorippa sylvestris (L.) Besser",
+        "genus": "Rorippa",
+        "family": "Brassicaceae",
         "commonNames": [
-          "Camellia",
-          "Japanese Camellia",
-          "Rose of Winter"
+          "Creeping yellow cress",
+          "Creeping yellow field cress",
+          "Yellow field cress"
         ],
-        "gbifId": "3189636",
-        "iucnId": "62054114",
+        "gbifId": "3053376",
+        "iucnId": "176486",
         "iucnCategory": "LC",
-        "powoId": "828524-1"
+        "powoId": "288692-1"
       },
       {
-        "confidence": 0.164,
-        "species": "Rosa gallica L.",
-        "genus": "Rosa",
-        "family": "Rosaceae",
+        "confidence": 0.1375,
+        "species": "Bunias erucago L.",
+        "genus": "Bunias",
+        "family": "Brassicaceae",
         "commonNames": [
-          "French rose",
-          "Hungarian rose",
-          "Red-rose-of-Lancaster"
+          "Southern warty-cabbage",
+          "Crested wartycabbage",
+          "Crested Bunias"
         ],
-        "gbifId": "3002530",
+        "gbifId": "3050357",
         "iucnId": "",
         "iucnCategory": "",
-        "powoId": "732569-1"
+        "powoId": "279698-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "4827878cc3b6cd03",
+    "latLng": {
+      "lat": 6.918872222222222,
+      "lng": 79.85911666666667
+    },
+    "source": "exif",
+    "utImageTaken": 1778656728,
+    "timeImageTaken": "2026-05-13 07:18:48",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.30146,
+        "species": "Plectranthus amboinicus (Lour.) Spreng.",
+        "genus": "Plectranthus",
+        "family": "Lamiaceae",
+        "commonNames": [
+          "Cuban-oregano",
+          "Indian-mint",
+          "Ajwayan leaf indian"
+        ],
+        "gbifId": "2926636",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
+      },
+      {
+        "confidence": 0.20672,
+        "species": "Plectranthus barbatus Andrews",
+        "genus": "Plectranthus",
+        "family": "Lamiaceae",
+        "commonNames": [
+          "Forskohlii",
+          "Coleus",
+          "Indian borage"
+        ],
+        "gbifId": "6412796",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
+      }
+    ]
+  },
+  {
+    "imageHash": "5bdc06925eb4692e",
+    "latLng": {
+      "lat": 6.912908333333334,
+      "lng": 79.85999166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1778722373,
+    "timeImageTaken": "2026-05-14 01:32:53",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.85705,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "13d73d7c7d59a8c3",
+    "latLng": {
+      "lat": 6.912888888888889,
+      "lng": 79.85996944444445
+    },
+    "source": "exif",
+    "utImageTaken": 1778722338,
+    "timeImageTaken": "2026-05-14 01:32:18",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.8106,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "b8ad9be301563966",
+    "latLng": {
+      "lat": 37.76723611111111,
+      "lng": -122.46977222222222
+    },
+    "source": "exif",
+    "utImageTaken": 1697614778,
+    "timeImageTaken": "2023-10-18 07:39:38",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Lincoln Way, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+    "predictions": [
+      {
+        "confidence": 0.61038,
+        "species": "Crinum moorei Hook.f.",
+        "genus": "Crinum",
+        "family": "Amaryllidaceae",
+        "commonNames": [
+          "Natal lily"
+        ],
+        "gbifId": "4928395",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "63990-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "ee5180b5a108b2ce",
+    "latLng": {
+      "lat": 6.918762814868359,
+      "lng": 79.85912964071474
+    },
+    "source": "browser",
+    "utImageTaken": 1772863980,
+    "timeImageTaken": "2026-03-07 06:13:00",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.78142,
+        "species": "Oxalis pes-caprae L.",
+        "genus": "Oxalis",
+        "family": "Oxalidaceae",
+        "commonNames": [
+          "Bermuda-buttercup",
+          "Sourgrass",
+          "Yellow-flower oxalis"
+        ],
+        "gbifId": "2891661",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "375259-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "c83f753b7dfebd50",
+    "latLng": {
+      "lat": 6.913022222222223,
+      "lng": 79.85999166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1778722500,
+    "timeImageTaken": "2026-05-14 01:35:00",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.15911,
+        "species": "Phyllanthus tenellus Roxb.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Long-stalk leaf-flower",
+          "Long-stalk phyllanthus",
+          "Mascarene Island leaf-flower"
+        ],
+        "gbifId": "5381097",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "354756-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "ec9a0664d1dc3994",
+    "latLng": {
+      "lat": 6.912866666666667,
+      "lng": 79.85995555555554
+    },
+    "source": "exif",
+    "utImageTaken": 1778722308,
+    "timeImageTaken": "2026-05-14 01:31:48",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.23741,
+        "species": "Justicia adhatoda L.",
+        "genus": "Justicia",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Vasaka",
+          "Malabar-nut",
+          "Pavettia"
+        ],
+        "gbifId": "3173105",
+        "iucnId": "169274250",
+        "iucnCategory": "LC",
+        "powoId": "50237-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "3ae050bbdb1eb9cf",
+    "latLng": {
+      "lat": 6.912855555555556,
+      "lng": 79.85993888888888
+    },
+    "source": "exif",
+    "utImageTaken": 1778722292,
+    "timeImageTaken": "2026-05-14 01:31:32",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.94251,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "e3e766b4de3e1dbc",
+    "latLng": {
+      "lat": 8.118408333333333,
+      "lng": 80.66439166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1775277302,
+    "timeImageTaken": "2026-04-04 04:35:02",
+    "userId": "e1776bd6",
+    "nominatim_display_name": "Ritigala Ancient Buddhist Monastery, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.30489,
+        "species": "Eranthemum pulchellum Andrews",
+        "genus": "Eranthemum",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Blue-sage"
+        ],
+        "gbifId": "3172936",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "48879-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b112a5bfdd527998",
+    "latLng": {
+      "lat": 37.76825,
+      "lng": -122.46939166666667
+    },
+    "source": "exif",
+    "utImageTaken": 1697616302,
+    "timeImageTaken": "2023-10-18 08:05:02",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Martin Luther King Junior Drive, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+    "predictions": [
+      {
+        "confidence": 0.62293,
+        "species": "Echinops exaltatus Schrad.",
+        "genus": "Echinops",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Tall globe thistle",
+          "Globe thistle",
+          "Tall globethistle"
+        ],
+        "gbifId": "5392683",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "202484-1"
+      },
+      {
+        "confidence": 0.32848,
+        "species": "Echinops sphaerocephalus L.",
+        "genus": "Echinops",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Great globethistle",
+          "Great globe thistle",
+          "Globe thistle"
+        ],
+        "gbifId": "5392883",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "202677-1"
       }
     ]
   },
@@ -2677,6 +1994,558 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "500111-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "3b3d1dfb2ec57564",
+    "latLng": {
+      "lat": 6.912922222222223,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722400,
+    "timeImageTaken": "2026-05-14 01:33:20",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.11927,
+        "species": "Barleria cristata L.",
+        "genus": "Barleria",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Philippine-violet",
+          "Bluebell",
+          "Bluebell barleria"
+        ],
+        "gbifId": "3173128",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "45927-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "beb25600caae8f6a",
+    "latLng": {
+      "lat": -8.703475,
+      "lng": 115.16722777777778
+    },
+    "source": "exif",
+    "utImageTaken": 1733025820,
+    "timeImageTaken": "2024-12-01 04:03:40",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
+    "predictions": [
+      {
+        "confidence": 0.85483,
+        "species": "Cleome viscosa L.",
+        "genus": "Cleome",
+        "family": "Cleomaceae",
+        "commonNames": [
+          "Asian Spider-flower",
+          "కుక్కవావింట",
+          "کنجد شیطان، کنجد وحشی"
+        ],
+        "gbifId": "3054214",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "320133-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "54ab51b75d575eff",
+    "latLng": {
+      "lat": 6.913002777777778,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722489,
+    "timeImageTaken": "2026-05-14 01:34:49",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.14809,
+        "species": "Phyllanthus emblica L.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Amla",
+          "Indian Gooseberry",
+          "Emblic"
+        ],
+        "gbifId": "5381660",
+        "iucnId": "149444430",
+        "iucnCategory": "LC",
+        "powoId": "353838-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "f56ce6f1ec6dee31",
+    "latLng": {
+      "lat": 6.912897222222223,
+      "lng": 79.85998611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722366,
+    "timeImageTaken": "2026-05-14 01:32:46",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.79682,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "213dededab615bb2",
+    "latLng": {
+      "lat": 6.913022222222223,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722508,
+    "timeImageTaken": "2026-05-14 01:35:08",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.19044,
+        "species": "Phyllanthus pulcher Wall. ex Müll.Arg.",
+        "genus": "Phyllanthus",
+        "family": "Phyllanthaceae",
+        "commonNames": [
+          "Tropical leaf-flower",
+          "Dragon-of-the-world"
+        ],
+        "gbifId": "5381514",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "60456391-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "4121bca8e382be50",
+    "latLng": {
+      "lat": 6.912891666666667,
+      "lng": 79.85998611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722357,
+    "timeImageTaken": "2026-05-14 01:32:37",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.94192,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "55ea9b8c14aec6e8",
+    "latLng": {
+      "lat": 6.912994444444445,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722477,
+    "timeImageTaken": "2026-05-14 01:34:37",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.52153,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "13b4b20ab482edd5",
+    "latLng": {
+      "lat": -8.703638888888888,
+      "lng": 115.16631944444445
+    },
+    "source": "exif",
+    "utImageTaken": 1733025447,
+    "timeImageTaken": "2024-12-01 03:57:27",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
+    "predictions": [
+      {
+        "confidence": 0.56801,
+        "species": "Bougainvillea spectabilis Willd.",
+        "genus": "Bougainvillea",
+        "family": "Nyctaginaceae",
+        "commonNames": [
+          "Great bougainvillea",
+          "Bougainvillea",
+          "Paper flower"
+        ],
+        "gbifId": "7167078",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "604358-1"
+      },
+      {
+        "confidence": 0.36786,
+        "species": "Bougainvillea glabra Choisy",
+        "genus": "Bougainvillea",
+        "family": "Nyctaginaceae",
+        "commonNames": [
+          "Bougainvillea",
+          "Paper-flower",
+          "گل کاغذی"
+        ],
+        "gbifId": "5384862",
+        "iucnId": "149207944",
+        "iucnCategory": "LC",
+        "powoId": "35444-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "2ef1ca46bb4adcc5",
+    "latLng": {
+      "lat": 6.912911111111112,
+      "lng": 79.86
+    },
+    "source": "exif",
+    "utImageTaken": 1778722377,
+    "timeImageTaken": "2026-05-14 01:32:57",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.26807,
+        "species": "Gynura procumbens (Lour.) Merr.",
+        "genus": "Gynura",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Longevity spinach",
+          "Okinawa spinach",
+          "Scrambling gynura"
+        ],
+        "gbifId": "3139818",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "211304-1"
+      },
+      {
+        "confidence": 0.17028,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "bbce6e14c50c56ad",
+    "latLng": {
+      "lat": 6.918762809474212,
+      "lng": 79.85912962116655
+    },
+    "source": "browser",
+    "utImageTaken": 1772863873,
+    "timeImageTaken": "2026-03-07 06:11:13",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.58154,
+        "species": "Rhododendron periclymenoides (Michx.) Shinners",
+        "genus": "Rhododendron",
+        "family": "Ericaceae",
+        "commonNames": [
+          "Election-pink",
+          "Pinxter-flower",
+          "Pinxterbloom azalea"
+        ],
+        "gbifId": "2883027",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "219516-2"
+      },
+      {
+        "confidence": 0.13539,
+        "species": "Rhododendron canescens (Michx.) Sweet",
+        "genus": "Rhododendron",
+        "family": "Ericaceae",
+        "commonNames": [
+          "Hoary azalea",
+          "Piedmont azalea",
+          "Southern pinxterbloom azalea"
+        ],
+        "gbifId": "2883039",
+        "iucnId": "200390841",
+        "iucnCategory": "LC",
+        "powoId": "30117552-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "500770bee6e6f06e",
+    "latLng": {
+      "lat": -8.703483333333333,
+      "lng": 115.16723611111112
+    },
+    "source": "exif",
+    "utImageTaken": 1733025808,
+    "timeImageTaken": "2024-12-01 04:03:28",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
+    "predictions": [
+      {
+        "confidence": 0.79896,
+        "species": "Cleome viscosa L.",
+        "genus": "Cleome",
+        "family": "Cleomaceae",
+        "commonNames": [
+          "Asian Spider-flower",
+          "కుక్కవావింట",
+          "کنجد شیطان، کنجد وحشی"
+        ],
+        "gbifId": "3054214",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "320133-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "60448bd4f2a7a71f",
+    "latLng": {
+      "lat": 8.117208333333334,
+      "lng": 80.66475000000001
+    },
+    "source": "exif",
+    "utImageTaken": 1775282853,
+    "timeImageTaken": "2026-04-04 06:07:33",
+    "userId": "e1776bd6",
+    "nominatim_display_name": "Stone bridge 01, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.62638,
+        "species": "Castanea sativa Mill.",
+        "genus": "Castanea",
+        "family": "Fagaceae",
+        "commonNames": [
+          "Sweet Chestnut",
+          "European chestnut",
+          "Spanish chestnut"
+        ],
+        "gbifId": "5333294",
+        "iucnId": "202948",
+        "iucnCategory": "LC",
+        "powoId": "295349-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "2ac715e9b5b6f5a7",
+    "latLng": {
+      "lat": 37.44266944444444,
+      "lng": -122.15888333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1737889412,
+    "timeImageTaken": "2025-01-26 11:03:32",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "209, Homer Avenue, University South, Palo Alto, Santa Clara County, California, 94301, United States",
+    "predictions": [
+      {
+        "confidence": 0.34672,
+        "species": "Laurus nobilis L.",
+        "genus": "Laurus",
+        "family": "Lauraceae",
+        "commonNames": [
+          "(Sweet) Bay leaf",
+          "برگ بو",
+          "Laurel"
+        ],
+        "gbifId": "3034015",
+        "iucnId": "203351",
+        "iucnCategory": "LC",
+        "powoId": "465049-1"
+      },
+      {
+        "confidence": 0.13924,
+        "species": "Prunus caroliniana (Mill.) Aiton",
+        "genus": "Prunus",
+        "family": "Rosaceae",
+        "commonNames": [
+          "Carolina laurel cherry",
+          "Cherry-laurel",
+          "Laurel cherry"
+        ],
+        "gbifId": "3023558",
+        "iucnId": "64120952",
+        "iucnCategory": "LC",
+        "powoId": "729552-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "df3ce15a4da1a2ad",
+    "latLng": {
+      "lat": 37.47770277777778,
+      "lng": -122.29952222222222
+    },
+    "source": "exif",
+    "utImageTaken": 1663752919,
+    "timeImageTaken": "2022-09-21 09:35:19",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Junipero Serra Freeway, San Mateo County, California, 94002, United States",
+    "predictions": [
+      {
+        "confidence": 0.79748,
+        "species": "Alcea rosea L.",
+        "genus": "Alcea",
+        "family": "Malvaceae",
+        "commonNames": [
+          "Hollyhock",
+          "Common Hollyhock",
+          "Garden Hollyhock"
+        ],
+        "gbifId": "5406789",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "558713-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b568c9ce96b0ebff",
+    "latLng": {
+      "lat": 6.912858333333333,
+      "lng": 79.85994722222222
+    },
+    "source": "exif",
+    "utImageTaken": 1778722301,
+    "timeImageTaken": "2026-05-14 01:31:41",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.11052,
+        "species": "Justicia adhatoda L.",
+        "genus": "Justicia",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Vasaka",
+          "Malabar-nut",
+          "Pavettia"
+        ],
+        "gbifId": "3173105",
+        "iucnId": "169274250",
+        "iucnCategory": "LC",
+        "powoId": "50237-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "d67b8838336afd07",
+    "latLng": {
+      "lat": 52.63442222222222,
+      "lng": 1.3053333333333335
+    },
+    "source": "exif",
+    "utImageTaken": 1689753742,
+    "timeImageTaken": "2023-07-19 08:02:22",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Riverside Walk, St James Place, Thorpe Hamlet, Norwich, Norfolk, England, NR3 1UB, United Kingdom",
+    "predictions": [
+      {
+        "confidence": 0.8701,
+        "species": "Cirsium vulgare (Savi) Ten.",
+        "genus": "Cirsium",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Spear Thistle",
+          "Bull Thistle",
+          "Scottish thistle"
+        ],
+        "gbifId": "3112801",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "196191-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "5881fec13ce62150",
+    "latLng": {
+      "lat": 37.45101666666667,
+      "lng": -122.16041666666668
+    },
+    "source": "exif",
+    "utImageTaken": 1738831571,
+    "timeImageTaken": "2025-02-06 08:46:11",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "576, Webster Street, Downtown North, Palo Alto, Santa Clara County, California, 94301, United States",
+    "predictions": [
+      {
+        "confidence": 0.51872,
+        "species": "Magnolia liliiflora Desr.",
+        "genus": "Magnolia",
+        "family": "Magnoliaceae",
+        "commonNames": [
+          "Lily Magnolia",
+          "Purple magnolia",
+          "Red magnolia"
+        ],
+        "gbifId": "3153228",
+        "iucnId": "191488",
+        "iucnCategory": "DD",
+        "powoId": "554759-1"
       }
     ]
   },
@@ -2725,19 +2594,48 @@
     ]
   },
   {
-    "imageHash": "13d73d7c7d59a8c3",
+    "imageHash": "aa88bdf31955c239",
     "latLng": {
-      "lat": 6.912888888888889,
-      "lng": 79.85996944444445
+      "lat": 6.912502777777778,
+      "lng": 79.86273055555554
     },
     "source": "exif",
-    "utImageTaken": 1778722338,
-    "timeImageTaken": "2026-05-14 01:32:18",
+    "utImageTaken": 1778463910,
+    "timeImageTaken": "2026-05-11 01:45:10",
+    "userId": "4c5bc7a0",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.93118,
+        "species": "Artocarpus heterophyllus Lam.",
+        "genus": "Artocarpus",
+        "family": "Moraceae",
+        "commonNames": [
+          "Jackfruit",
+          "Nangka",
+          "Jack"
+        ],
+        "gbifId": "2984565",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "850389-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b9fb344a38edbe4f",
+    "latLng": {
+      "lat": 6.912972222222223,
+      "lng": 79.86000833333333
+    },
+    "source": "exif",
+    "utImageTaken": 1778722451,
+    "timeImageTaken": "2026-05-14 01:34:11",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.8106,
+        "confidence": 0.8111,
         "species": "Euphorbia tithymaloides L.",
         "genus": "Euphorbia",
         "family": "Euphorbiaceae",
@@ -2754,48 +2652,19 @@
     ]
   },
   {
-    "imageHash": "d49465fcb9afe2e0",
+    "imageHash": "c8fe0a69dc219962",
     "latLng": {
-      "lat": -8.703697222222221,
-      "lng": 115.16623611111112
+      "lat": 6.913016666666667,
+      "lng": 79.86000833333333
     },
     "source": "exif",
-    "utImageTaken": 1733025422,
-    "timeImageTaken": "2024-12-01 03:57:02",
-    "userId": "1bi07e4",
-    "nominatim_display_name": "Padma Resort Legian, 1, Jalan Padma, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",
-    "predictions": [
-      {
-        "confidence": 0.90267,
-        "species": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult.",
-        "genus": "Tabernaemontana",
-        "family": "Apocynaceae",
-        "commonNames": [
-          "Crape-jasmine",
-          "কাঠ মালতি",
-          "Butterfly-gardenia"
-        ],
-        "gbifId": "3169625",
-        "iucnId": "149853146",
-        "iucnCategory": "LC",
-        "powoId": "82097-1"
-      }
-    ]
-  },
-  {
-    "imageHash": "f56ce6f1ec6dee31",
-    "latLng": {
-      "lat": 6.912897222222223,
-      "lng": 79.85998611111111
-    },
-    "source": "exif",
-    "utImageTaken": 1778722366,
-    "timeImageTaken": "2026-05-14 01:32:46",
+    "utImageTaken": 1778722495,
+    "timeImageTaken": "2026-05-14 01:34:55",
     "userId": "1bi07e4",
     "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
     "predictions": [
       {
-        "confidence": 0.79682,
+        "confidence": 0.2484,
         "species": "Euphorbia tithymaloides L.",
         "genus": "Euphorbia",
         "family": "Euphorbiaceae",
@@ -2808,6 +2677,137 @@
         "iucnId": "135836706",
         "iucnCategory": "LC",
         "powoId": "102036-2"
+      },
+      {
+        "confidence": 0.11144,
+        "species": "Citrus × limon (L.) Osbeck",
+        "genus": "Citrus",
+        "family": "Rutaceae",
+        "commonNames": [
+          "Lemon",
+          "Lemon-tree",
+          "Mandarin lime"
+        ],
+        "gbifId": "7647136",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "60454758-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "bd55451b2f0f430a",
+    "latLng": {
+      "lat": 6.912872222222223,
+      "lng": 79.85995555555554
+    },
+    "source": "exif",
+    "utImageTaken": 1778722321,
+    "timeImageTaken": "2026-05-14 01:32:01",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.95733,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "aa0d1b1906c30ea2",
+    "latLng": {
+      "lat": 6.912886111111112,
+      "lng": 79.85997777777777
+    },
+    "source": "exif",
+    "utImageTaken": 1778722346,
+    "timeImageTaken": "2026-05-14 01:32:26",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.89816,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "ea7962919bd12c3d",
+    "latLng": {
+      "lat": 6.912883333333333,
+      "lng": 79.8599611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1778722329,
+    "timeImageTaken": "2026-05-14 01:32:09",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Ananda Coomaraswamy Mawatha, Town Hall, Cinnamon Gardens, Slave Island, Colombo, Colombo District, Western Province, 00700, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.95789,
+        "species": "Euphorbia tithymaloides L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Slipper-flower",
+          "Devil's backbone",
+          "Zig zag plant"
+        ],
+        "gbifId": "3069168",
+        "iucnId": "135836706",
+        "iucnCategory": "LC",
+        "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "e94b60e80f7811b0",
+    "latLng": {
+      "lat": 8.118133333333335,
+      "lng": 80.66473333333334
+    },
+    "source": "exif",
+    "utImageTaken": 1775277316,
+    "timeImageTaken": "2026-04-04 04:35:16",
+    "userId": "e1776bd6",
+    "nominatim_display_name": "Stone bridge 01, Ritigala Archaeological Site Road, Anuradhapura District, North Central Province, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.54083,
+        "species": "Ecbolium viride (Forssk.) Alston",
+        "genus": "Ecbolium",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Green shrimp plant",
+          "Turquoise crossandra",
+          "డిసెంబర్ పూల చెట్టు"
+        ],
+        "gbifId": "7264277",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "48609-1"
       }
     ]
   }
