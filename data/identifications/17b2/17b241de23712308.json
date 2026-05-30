@@ -1,0 +1,368 @@
+{
+  "hash": "17b241de23712308",
+  "image_metadata": {
+    "imageHash": "17b241de23712308",
+    "imageLocation": {
+      "latitude": 7.255227777777778,
+      "longitude": 80.61899444444444,
+      "accuracy": 4.043569779085688,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780134000,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/17b241de23712308.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "bcc54148aacd478f4a01a6ca1685d2b4"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "bcc54148aacd478f4a01a6ca1685d2b4",
+        "filename": "17b241de23712308.png",
+        "organ": "flower",
+        "score": 0.70711
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Chrysanthemum indicum L.",
+    "results": [
+      {
+        "score": 0.21304,
+        "species": {
+          "scientificNameWithoutAuthor": "Chrysanthemum indicum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chrysanthemum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chrysanthemum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Indian chrysanthemum",
+            "Chrysanthemum",
+            "চন্দ্রমল্লিকা"
+          ],
+          "scientificName": "Chrysanthemum indicum L."
+        },
+        "gbif": {
+          "id": "3150814"
+        },
+        "powo": {
+          "id": "193510-1"
+        }
+      },
+      {
+        "score": 0.09409,
+        "species": {
+          "scientificNameWithoutAuthor": "Chrysanthemum × morifolium",
+          "scientificNameAuthorship": "(Ramat.) Hemsl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chrysanthemum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chrysanthemum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Hardy Garden Mum",
+            "Garden chrysanthemum",
+            "Common chrysanthemum"
+          ],
+          "scientificName": "Chrysanthemum × morifolium (Ramat.) Hemsl."
+        },
+        "gbif": {
+          "id": "3150767"
+        },
+        "powo": {
+          "id": "77111328-1"
+        }
+      },
+      {
+        "score": 0.0471,
+        "species": {
+          "scientificNameWithoutAuthor": "Rudbeckia laciniata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rudbeckia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rudbeckia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Cutleaf coneflower",
+            "Green-Head Coneflower",
+            "Tall Cone Flower"
+          ],
+          "scientificName": "Rudbeckia laciniata L."
+        },
+        "gbif": {
+          "id": "3114229"
+        },
+        "powo": {
+          "id": "241716-1"
+        }
+      },
+      {
+        "score": 0.02408,
+        "species": {
+          "scientificNameWithoutAuthor": "Tithonia diversifolia",
+          "scientificNameAuthorship": "(Hemsl.) A.Gray",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tithonia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tithonia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Mexican Sunflower",
+            "Tree Marigold",
+            "Arbol maravilla"
+          ],
+          "scientificName": "Tithonia diversifolia (Hemsl.) A.Gray"
+        },
+        "gbif": {
+          "id": "5396557"
+        },
+        "powo": {
+          "id": "255747-1"
+        }
+      },
+      {
+        "score": 0.02022,
+        "species": {
+          "scientificNameWithoutAuthor": "Dahlia × hortensis",
+          "scientificNameAuthorship": "Guillaumin",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dahlia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dahlia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Bishop of Llandaff"
+          ],
+          "scientificName": "Dahlia × hortensis Guillaumin"
+        },
+        "gbif": {
+          "id": "5387161"
+        }
+      },
+      {
+        "score": 0.01017,
+        "species": {
+          "scientificNameWithoutAuthor": "Euryops chrysanthemoides",
+          "scientificNameAuthorship": "(DC.) B.Nord.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euryops",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euryops"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "African bush daisy",
+            "Bull's Eye",
+            "Bullseye"
+          ],
+          "scientificName": "Euryops chrysanthemoides (DC.) B.Nord."
+        },
+        "gbif": {
+          "id": "5394961"
+        },
+        "powo": {
+          "id": "207397-1"
+        }
+      },
+      {
+        "score": 0.00955,
+        "species": {
+          "scientificNameWithoutAuthor": "Bidens bipinnata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bidens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bidens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Spanish-needles",
+            "Hemlock beggar-ticks",
+            "Spanish blackjack"
+          ],
+          "scientificName": "Bidens bipinnata L."
+        },
+        "gbif": {
+          "id": "5389402"
+        },
+        "powo": {
+          "id": "184769-1"
+        }
+      },
+      {
+        "score": 0.00843,
+        "species": {
+          "scientificNameWithoutAuthor": "Dahlia pinnata",
+          "scientificNameAuthorship": "Cav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dahlia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dahlia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Dahlia",
+            "Pinnate dahlia",
+            "کوکب"
+          ],
+          "scientificName": "Dahlia pinnata Cav."
+        },
+        "gbif": {
+          "id": "5387142"
+        },
+        "powo": {
+          "id": "30027297-2"
+        }
+      },
+      {
+        "score": 0.00723,
+        "species": {
+          "scientificNameWithoutAuthor": "Callistephus chinensis",
+          "scientificNameAuthorship": "(L.) Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Callistephus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Callistephus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "China Aster",
+            "Annual-aster",
+            "Chinese Aster"
+          ],
+          "scientificName": "Callistephus chinensis (L.) Nees"
+        },
+        "gbif": {
+          "id": "3092946"
+        },
+        "powo": {
+          "id": "188023-1"
+        }
+      },
+      {
+        "score": 0.00648,
+        "species": {
+          "scientificNameWithoutAuthor": "Helianthus decapetalus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Helianthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Helianthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Thin-leaf sunflower",
+            "Ten-petals sunflower",
+            "Thinleaf sunflower"
+          ],
+          "scientificName": "Helianthus decapetalus L."
+        },
+        "gbif": {
+          "id": "3119185"
+        },
+        "powo": {
+          "id": "119102-2"
+        },
+        "iucn": {
+          "id": "64989879",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 458
+  },
+  "nominatim_data": {
+    "place_id": 255293400,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

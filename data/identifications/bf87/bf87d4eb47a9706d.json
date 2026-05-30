@@ -1,0 +1,131 @@
+{
+  "hash": "bf87d4eb47a9706d",
+  "image_metadata": {
+    "imageHash": "bf87d4eb47a9706d",
+    "imageLocation": {
+      "latitude": 7.255166666666667,
+      "longitude": 80.61914166666666,
+      "accuracy": 17.056602906014348,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780134328,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/bf87d4eb47a9706d.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "f60471f5988389f04925cd5c602b9551"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "f60471f5988389f04925cd5c602b9551",
+        "filename": "bf87d4eb47a9706d.png",
+        "organ": "flower",
+        "score": 0.88209
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "useful",
+    "bestMatch": "Tibouchina urvilleana (DC.) Cogn.",
+    "results": [
+      {
+        "score": 0.52523,
+        "species": {
+          "scientificNameWithoutAuthor": "Tibouchina urvilleana",
+          "scientificNameAuthorship": "(DC.) Cogn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tibouchina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tibouchina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [
+            "Princess flower",
+            "Purple glorytree",
+            "Glorybush"
+          ],
+          "scientificName": "Tibouchina urvilleana (DC.) Cogn."
+        },
+        "gbif": {
+          "id": "3188519"
+        }
+      },
+      {
+        "score": 0.03617,
+        "species": {
+          "scientificNameWithoutAuthor": "Tibouchina granulosa",
+          "scientificNameAuthorship": "(Desr.) Cogn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tibouchina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tibouchina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [
+            "Brazilian glorytree",
+            "Purple glory bush",
+            "Dwarf glory bush"
+          ],
+          "scientificName": "Tibouchina granulosa (Desr.) Cogn."
+        },
+        "gbif": {
+          "id": "3188520"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 445
+  },
+  "nominatim_data": {
+    "place_id": 252802874,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

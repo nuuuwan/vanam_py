@@ -1,0 +1,389 @@
+{
+  "hash": "f5404cde3fde27c1",
+  "image_metadata": {
+    "imageHash": "f5404cde3fde27c1",
+    "imageLocation": {
+      "latitude": 7.255061111111111,
+      "longitude": 80.61901944444443,
+      "accuracy": 13.989784799782075,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780134906,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/f5404cde3fde27c1.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "1e66490a79d5c84927baccd02bc18534"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "1e66490a79d5c84927baccd02bc18534",
+        "filename": "f5404cde3fde27c1.png",
+        "organ": "fruit",
+        "score": 0.55065
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Kopsia arborea Blume",
+    "results": [
+      {
+        "score": 0.70727,
+        "species": {
+          "scientificNameWithoutAuthor": "Kopsia arborea",
+          "scientificNameAuthorship": "Blume",
+          "genus": {
+            "scientificNameWithoutAuthor": "Kopsia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Kopsia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Java prune",
+            "Penang sloe",
+            "White kopsia"
+          ],
+          "scientificName": "Kopsia arborea Blume"
+        },
+        "gbif": {
+          "id": "5536040"
+        },
+        "powo": {
+          "id": "79490-1"
+        },
+        "iucn": {
+          "id": "147643327",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00997,
+        "species": {
+          "scientificNameWithoutAuthor": "Nyssa sylvatica",
+          "scientificNameAuthorship": "Marshall",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nyssa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyssa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nyssaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nyssaceae"
+          },
+          "commonNames": [
+            "Black tupelo",
+            "Black-gum",
+            "Tupelo"
+          ],
+          "scientificName": "Nyssa sylvatica Marshall"
+        },
+        "gbif": {
+          "id": "5383717"
+        },
+        "powo": {
+          "id": "271953-1"
+        },
+        "iucn": {
+          "id": "61990588",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00437,
+        "species": {
+          "scientificNameWithoutAuthor": "Mangifera indica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Mangifera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Mangifera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Anacardiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Anacardiaceae"
+          },
+          "commonNames": [
+            "Mango",
+            "Mango Tree",
+            "आम"
+          ],
+          "scientificName": "Mangifera indica L."
+        },
+        "gbif": {
+          "id": "3190638"
+        },
+        "powo": {
+          "id": "69913-1"
+        },
+        "iucn": {
+          "id": "31389",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.00437,
+        "species": {
+          "scientificNameWithoutAuthor": "Calophyllum tacamahaca",
+          "scientificNameAuthorship": "Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Calophyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Calophyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Calophyllaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Calophyllaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Calophyllum tacamahaca Willd."
+        },
+        "gbif": {
+          "id": "7424662"
+        },
+        "powo": {
+          "id": "427309-1"
+        }
+      },
+      {
+        "score": 0.00392,
+        "species": {
+          "scientificNameWithoutAuthor": "Tabernaemontana divaricata",
+          "scientificNameAuthorship": "(L.) R.Br. ex Roem. & Schult.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tabernaemontana",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tabernaemontana"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Crape-jasmine",
+            "কাঠ মালতি",
+            "Butterfly-gardenia"
+          ],
+          "scientificName": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult."
+        },
+        "gbif": {
+          "id": "3169625"
+        },
+        "powo": {
+          "id": "82097-1"
+        },
+        "iucn": {
+          "id": "149853146",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00267,
+        "species": {
+          "scientificNameWithoutAuthor": "Chionanthus virginicus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chionanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chionanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [
+            "White fringetree",
+            "Grancy Greybeard",
+            "American fringetree"
+          ],
+          "scientificName": "Chionanthus virginicus L."
+        },
+        "gbif": {
+          "id": "3172303"
+        },
+        "powo": {
+          "id": "319141-2"
+        },
+        "iucn": {
+          "id": "153739948",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00259,
+        "species": {
+          "scientificNameWithoutAuthor": "Ligustrum lucidum",
+          "scientificNameAuthorship": "W.T.Aiton",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ligustrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ligustrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [
+            "Broad-leaf-privet",
+            "Broadleaf Privet",
+            "Chinese Privet"
+          ],
+          "scientificName": "Ligustrum lucidum W.T.Aiton"
+        },
+        "gbif": {
+          "id": "3172297"
+        },
+        "powo": {
+          "id": "610017-1"
+        },
+        "iucn": {
+          "id": "49838597",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00228,
+        "species": {
+          "scientificNameWithoutAuthor": "Trachelospermum jasminoides",
+          "scientificNameAuthorship": "(Lindl.) Lem.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Trachelospermum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Trachelospermum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Star jasmine",
+            "Confederate jasmine",
+            "Chinese star-jessamine"
+          ],
+          "scientificName": "Trachelospermum jasminoides (Lindl.) Lem."
+        },
+        "gbif": {
+          "id": "3169713"
+        },
+        "powo": {
+          "id": "82553-1"
+        }
+      },
+      {
+        "score": 0.00192,
+        "species": {
+          "scientificNameWithoutAuthor": "Elaeocarpus reticulatus",
+          "scientificNameAuthorship": "Sm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Elaeocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Elaeocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Elaeocarpaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Elaeocarpaceae"
+          },
+          "commonNames": [
+            "Blueberry-ash",
+            "Blue oliveberry",
+            "Fringetree"
+          ],
+          "scientificName": "Elaeocarpus reticulatus Sm."
+        },
+        "gbif": {
+          "id": "7290944"
+        },
+        "powo": {
+          "id": "833934-1"
+        },
+        "iucn": {
+          "id": "200141911",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0019,
+        "species": {
+          "scientificNameWithoutAuthor": "Persea barbujana",
+          "scientificNameAuthorship": "(Cav.) Mabb. & Nieto Fel.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Persea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Persea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lauraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lauraceae"
+          },
+          "commonNames": [],
+          "scientificName": "Persea barbujana (Cav.) Mabb. & Nieto Fel."
+        },
+        "gbif": {
+          "id": "9495972"
+        },
+        "powo": {
+          "id": "77164254-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 441
+  },
+  "nominatim_data": {
+    "place_id": 254758159,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

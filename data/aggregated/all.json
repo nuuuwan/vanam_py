@@ -450,6 +450,35 @@
     ]
   },
   {
+    "imageHash": "144ddb892e41769d",
+    "latLng": {
+      "lat": 7.255236111111111,
+      "lng": 80.61898055555555
+    },
+    "source": "exif",
+    "utImageTaken": 1780134020,
+    "timeImageTaken": "2026-05-30 09:40:20",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.52214,
+        "species": "Chrysanthemum × morifolium (Ramat.) Hemsl.",
+        "genus": "Chrysanthemum",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Hardy Garden Mum",
+          "Garden chrysanthemum",
+          "Common chrysanthemum"
+        ],
+        "gbifId": "3150767",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "77111328-1"
+      }
+    ]
+  },
+  {
     "imageHash": "b4ea0e78a2f0f3db",
     "latLng": {
       "lat": 37.426649999999995,
@@ -563,6 +592,35 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "59599-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "f5404cde3fde27c1",
+    "latLng": {
+      "lat": 7.255061111111111,
+      "lng": 80.61901944444443
+    },
+    "source": "exif",
+    "utImageTaken": 1780134906,
+    "timeImageTaken": "2026-05-30 09:55:06",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.70727,
+        "species": "Kopsia arborea Blume",
+        "genus": "Kopsia",
+        "family": "Apocynaceae",
+        "commonNames": [
+          "Java prune",
+          "Penang sloe",
+          "White kopsia"
+        ],
+        "gbifId": "5536040",
+        "iucnId": "147643327",
+        "iucnCategory": "LC",
+        "powoId": "79490-1"
       }
     ]
   },
@@ -824,6 +882,33 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "194900-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "614b1dff5cf1a3b5",
+    "latLng": {
+      "lat": 7.255261111111111,
+      "lng": 80.619225
+    },
+    "source": "exif",
+    "utImageTaken": 1780133992,
+    "timeImageTaken": "2026-05-30 09:39:52",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.78147,
+        "species": "Salvia splendens Sellow ex Schult.",
+        "genus": "Salvia",
+        "family": "Lamiaceae",
+        "commonNames": [
+          "Scarlet sage"
+        ],
+        "gbifId": "2927029",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
       }
     ]
   },
@@ -1172,6 +1257,65 @@
     ]
   },
   {
+    "imageHash": "813f3ee3d9f5d12a",
+    "latLng": {
+      "lat": 7.255227777777778,
+      "lng": 80.6190111111111
+    },
+    "source": "exif",
+    "utImageTaken": 1780134005,
+    "timeImageTaken": "2026-05-30 09:40:05",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.38074,
+        "species": "Chrysanthemum × morifolium (Ramat.) Hemsl.",
+        "genus": "Chrysanthemum",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Hardy Garden Mum",
+          "Garden chrysanthemum",
+          "Common chrysanthemum"
+        ],
+        "gbifId": "3150767",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "77111328-1"
+      },
+      {
+        "confidence": 0.37982,
+        "species": "Chrysanthemum indicum L.",
+        "genus": "Chrysanthemum",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Indian chrysanthemum",
+          "Chrysanthemum",
+          "চন্দ্রমল্লিকা"
+        ],
+        "gbifId": "3150814",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "193510-1"
+      },
+      {
+        "confidence": 0.10694,
+        "species": "Tanacetum coccineum (Willd.) Grierson",
+        "genus": "Tanacetum",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Persian daisy",
+          "Persian insect-flower",
+          "Garden pyrethrum"
+        ],
+        "gbifId": "3118616",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "252277-1"
+      }
+    ]
+  },
+  {
     "imageHash": "019f57b122aa24dc",
     "latLng": {
       "lat": 6.026213888888889,
@@ -1226,6 +1370,35 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "320133-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "bf87d4eb47a9706d",
+    "latLng": {
+      "lat": 7.255166666666667,
+      "lng": 80.61914166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1780134328,
+    "timeImageTaken": "2026-05-30 09:45:28",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.52523,
+        "species": "Tibouchina urvilleana (DC.) Cogn.",
+        "genus": "Tibouchina",
+        "family": "Melastomataceae",
+        "commonNames": [
+          "Princess flower",
+          "Purple glorytree",
+          "Glorybush"
+        ],
+        "gbifId": "3188519",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
       }
     ]
   },
@@ -2114,6 +2287,35 @@
     ]
   },
   {
+    "imageHash": "17b241de23712308",
+    "latLng": {
+      "lat": 7.255227777777778,
+      "lng": 80.61899444444444
+    },
+    "source": "exif",
+    "utImageTaken": 1780134000,
+    "timeImageTaken": "2026-05-30 09:40:00",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.21304,
+        "species": "Chrysanthemum indicum L.",
+        "genus": "Chrysanthemum",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Indian chrysanthemum",
+          "Chrysanthemum",
+          "চন্দ্রমল্লিকা"
+        ],
+        "gbifId": "3150814",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "193510-1"
+      }
+    ]
+  },
+  {
     "imageHash": "213dededab615bb2",
     "latLng": {
       "lat": 6.913022222222223,
@@ -2284,6 +2486,50 @@
         "iucnId": "135836706",
         "iucnCategory": "LC",
         "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "bc3379761098a75c",
+    "latLng": {
+      "lat": 7.254991666666666,
+      "lng": 80.61900277777777
+    },
+    "source": "exif",
+    "utImageTaken": 1780134855,
+    "timeImageTaken": "2026-05-30 09:54:15",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.61214,
+        "species": "Mangifera indica L.",
+        "genus": "Mangifera",
+        "family": "Anacardiaceae",
+        "commonNames": [
+          "Mango",
+          "Mango Tree",
+          "आम"
+        ],
+        "gbifId": "3190638",
+        "iucnId": "31389",
+        "iucnCategory": "DD",
+        "powoId": "69913-1"
+      },
+      {
+        "confidence": 0.11053,
+        "species": "Prunus persica (L.) Batsch",
+        "genus": "Prunus",
+        "family": "Rosaceae",
+        "commonNames": [
+          "Peach",
+          "Peach tree",
+          "هلو"
+        ],
+        "gbifId": "3022511",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "1212858-2"
       }
     ]
   },
@@ -2463,6 +2709,35 @@
     ]
   },
   {
+    "imageHash": "59ef65230591a29c",
+    "latLng": {
+      "lat": 7.255127777777778,
+      "lng": 80.61911666666666
+    },
+    "source": "exif",
+    "utImageTaken": 1780130419,
+    "timeImageTaken": "2026-05-30 08:40:19",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.50717,
+        "species": "Cedrela odorata L.",
+        "genus": "Cedrela",
+        "family": "Meliaceae",
+        "commonNames": [
+          "Cigar-box-cedar",
+          "West Indian-cedar",
+          "Barbados-cedar"
+        ],
+        "gbifId": "3190511",
+        "iucnId": "32292",
+        "iucnCategory": "VU",
+        "powoId": "51010-2"
+      }
+    ]
+  },
+  {
     "imageHash": "b568c9ce96b0ebff",
     "latLng": {
       "lat": 6.912858333333333,
@@ -2517,6 +2792,49 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "196191-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "7c7143242403d315",
+    "latLng": {
+      "lat": 7.2552972222222225,
+      "lng": 80.618775
+    },
+    "source": "exif",
+    "utImageTaken": 1780134255,
+    "timeImageTaken": "2026-05-30 09:44:15",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.17181,
+        "species": "Ailanthus altissima (Mill.) Swingle",
+        "genus": "Ailanthus",
+        "family": "Simaroubaceae",
+        "commonNames": [
+          "Tree of heaven",
+          "Tree-from-hell-that-will-not-be-killed",
+          "عرعر"
+        ],
+        "gbifId": "3190653",
+        "iucnId": "62993",
+        "iucnCategory": "LC",
+        "powoId": "813521-1"
+      },
+      {
+        "confidence": 0.10346,
+        "species": "Polyscias repanda (DC.) Baker",
+        "genus": "Polyscias",
+        "family": "Araliaceae",
+        "commonNames": [
+          "Cluster Top (బొంగరం గుత్తి)",
+          "Cluster top"
+        ],
+        "gbifId": "3035799",
+        "iucnId": "166744372",
+        "iucnCategory": "LC",
+        "powoId": "91809-1"
       }
     ]
   },

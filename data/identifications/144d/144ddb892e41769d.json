@@ -1,0 +1,366 @@
+{
+  "hash": "144ddb892e41769d",
+  "image_metadata": {
+    "imageHash": "144ddb892e41769d",
+    "imageLocation": {
+      "latitude": 7.255236111111111,
+      "longitude": 80.61898055555555,
+      "accuracy": 4.748651528267963,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780134020,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/144ddb892e41769d.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "a6a5c3b3a1cf91d916da78b05ade2ade"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "a6a5c3b3a1cf91d916da78b05ade2ade",
+        "filename": "144ddb892e41769d.png",
+        "organ": "flower",
+        "score": 0.67661
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Chrysanthemum × morifolium (Ramat.) Hemsl.",
+    "results": [
+      {
+        "score": 0.52214,
+        "species": {
+          "scientificNameWithoutAuthor": "Chrysanthemum × morifolium",
+          "scientificNameAuthorship": "(Ramat.) Hemsl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chrysanthemum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chrysanthemum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Hardy Garden Mum",
+            "Garden chrysanthemum",
+            "Common chrysanthemum"
+          ],
+          "scientificName": "Chrysanthemum × morifolium (Ramat.) Hemsl."
+        },
+        "gbif": {
+          "id": "3150767"
+        },
+        "powo": {
+          "id": "77111328-1"
+        }
+      },
+      {
+        "score": 0.09301,
+        "species": {
+          "scientificNameWithoutAuthor": "Chrysanthemum indicum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chrysanthemum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chrysanthemum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Indian chrysanthemum",
+            "Chrysanthemum",
+            "চন্দ্রমল্লিকা"
+          ],
+          "scientificName": "Chrysanthemum indicum L."
+        },
+        "gbif": {
+          "id": "3150814"
+        },
+        "powo": {
+          "id": "193510-1"
+        }
+      },
+      {
+        "score": 0.08597,
+        "species": {
+          "scientificNameWithoutAuthor": "Dahlia × hortensis",
+          "scientificNameAuthorship": "Guillaumin",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dahlia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dahlia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Bishop of Llandaff"
+          ],
+          "scientificName": "Dahlia × hortensis Guillaumin"
+        },
+        "gbif": {
+          "id": "5387161"
+        }
+      },
+      {
+        "score": 0.01239,
+        "species": {
+          "scientificNameWithoutAuthor": "Dahlia pinnata",
+          "scientificNameAuthorship": "Cav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dahlia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dahlia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Dahlia",
+            "Pinnate dahlia",
+            "کوکب"
+          ],
+          "scientificName": "Dahlia pinnata Cav."
+        },
+        "gbif": {
+          "id": "5387142"
+        },
+        "powo": {
+          "id": "30027297-2"
+        }
+      },
+      {
+        "score": 0.0091,
+        "species": {
+          "scientificNameWithoutAuthor": "Callistephus chinensis",
+          "scientificNameAuthorship": "(L.) Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Callistephus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Callistephus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "China Aster",
+            "Annual-aster",
+            "Chinese Aster"
+          ],
+          "scientificName": "Callistephus chinensis (L.) Nees"
+        },
+        "gbif": {
+          "id": "3092946"
+        },
+        "powo": {
+          "id": "188023-1"
+        }
+      },
+      {
+        "score": 0.00473,
+        "species": {
+          "scientificNameWithoutAuthor": "Paeonia officinalis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Paeonia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Paeonia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Paeoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Paeoniaceae"
+          },
+          "commonNames": [
+            "Cottage peony",
+            "Common peony",
+            "Wild Peony"
+          ],
+          "scientificName": "Paeonia officinalis L."
+        },
+        "gbif": {
+          "id": "3083488"
+        },
+        "powo": {
+          "id": "711836-1"
+        },
+        "iucn": {
+          "id": "162001",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00462,
+        "species": {
+          "scientificNameWithoutAuthor": "Papaver somniferum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Papaver",
+            "scientificNameAuthorship": "",
+            "scientificName": "Papaver"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Papaveraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Papaveraceae"
+          },
+          "commonNames": [
+            "Opium poppy",
+            "Common garden poppy",
+            "Oilseed poppy"
+          ],
+          "scientificName": "Papaver somniferum L."
+        },
+        "gbif": {
+          "id": "2888439"
+        },
+        "powo": {
+          "id": "673724-1"
+        }
+      },
+      {
+        "score": 0.00333,
+        "species": {
+          "scientificNameWithoutAuthor": "Paeonia californica",
+          "scientificNameAuthorship": "Nutt.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Paeonia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Paeonia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Paeoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Paeoniaceae"
+          },
+          "commonNames": [
+            "California peony"
+          ],
+          "scientificName": "Paeonia californica Nutt."
+        },
+        "gbif": {
+          "id": "3083484"
+        },
+        "powo": {
+          "id": "180056-2"
+        }
+      },
+      {
+        "score": 0.00245,
+        "species": {
+          "scientificNameWithoutAuthor": "Melianthus major",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Melianthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melianthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Francoaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Francoaceae"
+          },
+          "commonNames": [
+            "Tall Cape honey-flower",
+            "Cape honeyflower",
+            "Honey-flower"
+          ],
+          "scientificName": "Melianthus major L."
+        },
+        "gbif": {
+          "id": "3845298"
+        },
+        "powo": {
+          "id": "783659-1"
+        }
+      },
+      {
+        "score": 0.00225,
+        "species": {
+          "scientificNameWithoutAuthor": "Argyranthemum frutescens",
+          "scientificNameAuthorship": "(L.) Sch.Bip.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Argyranthemum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Argyranthemum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Marguerite",
+            "Marguerite Daisy",
+            "Boston daisy"
+          ],
+          "scientificName": "Argyranthemum frutescens (L.) Sch.Bip."
+        },
+        "gbif": {
+          "id": "3104491"
+        },
+        "powo": {
+          "id": "178745-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 459
+  },
+  "nominatim_data": {
+    "place_id": 254758159,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

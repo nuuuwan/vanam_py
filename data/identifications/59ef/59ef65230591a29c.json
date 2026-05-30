@@ -1,0 +1,400 @@
+{
+  "hash": "59ef65230591a29c",
+  "image_metadata": {
+    "imageHash": "59ef65230591a29c",
+    "imageLocation": {
+      "latitude": 7.255127777777778,
+      "longitude": 80.61911666666666,
+      "accuracy": 30.739555979947482,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780130419,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/59ef65230591a29c.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "e9a17ee5c54ee0a4a0908bc96303e4a3"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "e9a17ee5c54ee0a4a0908bc96303e4a3",
+        "filename": "59ef65230591a29c.png",
+        "organ": "fruit",
+        "score": 0.44095
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Cedrela odorata L.",
+    "results": [
+      {
+        "score": 0.50717,
+        "species": {
+          "scientificNameWithoutAuthor": "Cedrela odorata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cedrela",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cedrela"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Meliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Meliaceae"
+          },
+          "commonNames": [
+            "Cigar-box-cedar",
+            "West Indian-cedar",
+            "Barbados-cedar"
+          ],
+          "scientificName": "Cedrela odorata L."
+        },
+        "gbif": {
+          "id": "3190511"
+        },
+        "powo": {
+          "id": "51010-2"
+        },
+        "iucn": {
+          "id": "32292",
+          "category": "VU"
+        }
+      },
+      {
+        "score": 0.04344,
+        "species": {
+          "scientificNameWithoutAuthor": "Toona sureni",
+          "scientificNameAuthorship": "(Blume) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Toona",
+            "scientificNameAuthorship": "",
+            "scientificName": "Toona"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Meliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Meliaceae"
+          },
+          "commonNames": [
+            "Red Cedar",
+            "Suren"
+          ],
+          "scientificName": "Toona sureni (Blume) Merr."
+        },
+        "gbif": {
+          "id": "7271494"
+        },
+        "powo": {
+          "id": "579316-1"
+        },
+        "iucn": {
+          "id": "61804593",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02005,
+        "species": {
+          "scientificNameWithoutAuthor": "Brachychiton populneus",
+          "scientificNameAuthorship": "(Schott & Endl.) R.Br.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Brachychiton",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brachychiton"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Kurrajong",
+            "Bottletree",
+            "Lacebark kurrajong"
+          ],
+          "scientificName": "Brachychiton populneus (Schott & Endl.) R.Br."
+        },
+        "gbif": {
+          "id": "7323035"
+        },
+        "powo": {
+          "id": "822268-1"
+        }
+      },
+      {
+        "score": 0.0129,
+        "species": {
+          "scientificNameWithoutAuthor": "Philadelphus coronarius",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Philadelphus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Philadelphus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Sweet mock orange",
+            "Mock-orange",
+            "European mock-orange"
+          ],
+          "scientificName": "Philadelphus coronarius L."
+        },
+        "gbif": {
+          "id": "2986045"
+        },
+        "powo": {
+          "id": "792194-1"
+        }
+      },
+      {
+        "score": 0.00928,
+        "species": {
+          "scientificNameWithoutAuthor": "Carpinus betulus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Carpinus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Carpinus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Betulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Betulaceae"
+          },
+          "commonNames": [
+            "European hornbeam",
+            "Hornbeam",
+            "Common Hornbeam"
+          ],
+          "scientificName": "Carpinus betulus L."
+        },
+        "gbif": {
+          "id": "2875818"
+        },
+        "powo": {
+          "id": "295248-1"
+        },
+        "iucn": {
+          "id": "194274",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00888,
+        "species": {
+          "scientificNameWithoutAuthor": "Paulownia tomentosa",
+          "scientificNameAuthorship": "(Thunb.) Steud.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Paulownia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Paulownia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Paulowniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Paulowniaceae"
+          },
+          "commonNames": [
+            "Foxglovetree",
+            "Empresstree",
+            "Princesstree"
+          ],
+          "scientificName": "Paulownia tomentosa (Thunb.) Steud."
+        },
+        "gbif": {
+          "id": "3170823"
+        },
+        "powo": {
+          "id": "185784-2"
+        },
+        "iucn": {
+          "id": "61954083",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00836,
+        "species": {
+          "scientificNameWithoutAuthor": "Magnolia grandiflora",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Magnolia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnolia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Magnoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnoliaceae"
+          },
+          "commonNames": [
+            "Southern magnolia",
+            "Evergreen Magnolia",
+            "Magnolia little gem"
+          ],
+          "scientificName": "Magnolia grandiflora L."
+        },
+        "gbif": {
+          "id": "9605163"
+        },
+        "powo": {
+          "id": "554723-1"
+        },
+        "iucn": {
+          "id": "193948",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00703,
+        "species": {
+          "scientificNameWithoutAuthor": "Syringa vulgaris",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Syringa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Syringa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [
+            "Common lilac",
+            "Lilac Tree",
+            "Lilac"
+          ],
+          "scientificName": "Syringa vulgaris L."
+        },
+        "gbif": {
+          "id": "5415039"
+        },
+        "powo": {
+          "id": "289009-2"
+        },
+        "iucn": {
+          "id": "61919333",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00693,
+        "species": {
+          "scientificNameWithoutAuthor": "Brachychiton discolor",
+          "scientificNameAuthorship": "F.Muell.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Brachychiton",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brachychiton"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Lacebarktree",
+            "Hat Tree",
+            "Lacebark"
+          ],
+          "scientificName": "Brachychiton discolor F.Muell."
+        },
+        "gbif": {
+          "id": "7426033"
+        },
+        "powo": {
+          "id": "822259-1"
+        },
+        "iucn": {
+          "id": "192229298",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00655,
+        "species": {
+          "scientificNameWithoutAuthor": "Lagerstroemia indica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lagerstroemia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lagerstroemia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lythraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lythraceae"
+          },
+          "commonNames": [
+            "Crapemyrtle",
+            "Crepe-myrtle",
+            "Pride of India"
+          ],
+          "scientificName": "Lagerstroemia indica L."
+        },
+        "gbif": {
+          "id": "3188725"
+        },
+        "powo": {
+          "id": "553576-1"
+        },
+        "iucn": {
+          "id": "136142818",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 457
+  },
+  "nominatim_data": {
+    "place_id": 255293400,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

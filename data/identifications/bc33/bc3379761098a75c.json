@@ -1,0 +1,386 @@
+{
+  "hash": "bc3379761098a75c",
+  "image_metadata": {
+    "imageHash": "bc3379761098a75c",
+    "imageLocation": {
+      "latitude": 7.254991666666666,
+      "longitude": 80.61900277777777,
+      "accuracy": 16.358340248962655,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780134855,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/bc3379761098a75c.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "839e612c049d9e9d090ac7eaf046074e"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "839e612c049d9e9d090ac7eaf046074e",
+        "filename": "bc3379761098a75c.png",
+        "organ": "habit",
+        "score": 0.47119
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Mangifera indica L.",
+    "results": [
+      {
+        "score": 0.61214,
+        "species": {
+          "scientificNameWithoutAuthor": "Mangifera indica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Mangifera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Mangifera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Anacardiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Anacardiaceae"
+          },
+          "commonNames": [
+            "Mango",
+            "Mango Tree",
+            "आम"
+          ],
+          "scientificName": "Mangifera indica L."
+        },
+        "gbif": {
+          "id": "3190638"
+        },
+        "powo": {
+          "id": "69913-1"
+        },
+        "iucn": {
+          "id": "31389",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.11053,
+        "species": {
+          "scientificNameWithoutAuthor": "Prunus persica",
+          "scientificNameAuthorship": "(L.) Batsch",
+          "genus": {
+            "scientificNameWithoutAuthor": "Prunus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Prunus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Peach",
+            "Peach tree",
+            "هلو"
+          ],
+          "scientificName": "Prunus persica (L.) Batsch"
+        },
+        "gbif": {
+          "id": "3022511"
+        },
+        "powo": {
+          "id": "1212858-2"
+        }
+      },
+      {
+        "score": 0.02138,
+        "species": {
+          "scientificNameWithoutAuthor": "Litchi chinensis",
+          "scientificNameAuthorship": "Sonn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Litchi",
+            "scientificNameAuthorship": "",
+            "scientificName": "Litchi"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Sapindaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sapindaceae"
+          },
+          "commonNames": [
+            "Lychee",
+            "Leechee",
+            "Litchi"
+          ],
+          "scientificName": "Litchi chinensis Sonn."
+        },
+        "gbif": {
+          "id": "3190002"
+        },
+        "powo": {
+          "id": "783539-1"
+        }
+      },
+      {
+        "score": 0.00598,
+        "species": {
+          "scientificNameWithoutAuthor": "Pentadesma butyracea",
+          "scientificNameAuthorship": "Sabine",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pentadesma",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pentadesma"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Clusiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Clusiaceae"
+          },
+          "commonNames": [
+            "Kanya",
+            "Tallowtree",
+            "Buttertree"
+          ],
+          "scientificName": "Pentadesma butyracea Sabine"
+        },
+        "gbif": {
+          "id": "3189435"
+        },
+        "powo": {
+          "id": "428981-1"
+        },
+        "iucn": {
+          "id": "61988986",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00591,
+        "species": {
+          "scientificNameWithoutAuthor": "Saba senegalensis",
+          "scientificNameAuthorship": "(A.DC.) Pichon",
+          "genus": {
+            "scientificNameWithoutAuthor": "Saba",
+            "scientificNameAuthorship": "",
+            "scientificName": "Saba"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Senegal saba",
+            "Monkey Fruit"
+          ],
+          "scientificName": "Saba senegalensis (A.DC.) Pichon"
+        },
+        "gbif": {
+          "id": "3169621"
+        },
+        "powo": {
+          "id": "81759-1"
+        }
+      },
+      {
+        "score": 0.00579,
+        "species": {
+          "scientificNameWithoutAuthor": "Prunus domestica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Prunus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Prunus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Plum",
+            "European Plum",
+            "Wild plum"
+          ],
+          "scientificName": "Prunus domestica L."
+        },
+        "gbif": {
+          "id": "7931731"
+        },
+        "powo": {
+          "id": "30221374-2"
+        },
+        "iucn": {
+          "id": "50135950",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.00506,
+        "species": {
+          "scientificNameWithoutAuthor": "Bertholletia excelsa",
+          "scientificNameAuthorship": "Bonpl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bertholletia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bertholletia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lecythidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lecythidaceae"
+          },
+          "commonNames": [
+            "Brazilnut",
+            "Brazil-nut Tree",
+            "Para Nut"
+          ],
+          "scientificName": "Bertholletia excelsa Bonpl."
+        },
+        "gbif": {
+          "id": "3083180"
+        },
+        "powo": {
+          "id": "591270-1"
+        },
+        "iucn": {
+          "id": "32986",
+          "category": "VU"
+        }
+      },
+      {
+        "score": 0.00396,
+        "species": {
+          "scientificNameWithoutAuthor": "Lecythis lurida",
+          "scientificNameAuthorship": "(Miers) S.A.Mori",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lecythis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lecythis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lecythidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lecythidaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Lecythis lurida (Miers) S.A.Mori"
+        },
+        "gbif": {
+          "id": "3082401"
+        },
+        "powo": {
+          "id": "136947-2"
+        },
+        "iucn": {
+          "id": "34420",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00375,
+        "species": {
+          "scientificNameWithoutAuthor": "Diploglottis campbellii",
+          "scientificNameAuthorship": "Cheel",
+          "genus": {
+            "scientificNameWithoutAuthor": "Diploglottis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Diploglottis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Sapindaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sapindaceae"
+          },
+          "commonNames": [
+            "Small-leaved Tamarind"
+          ],
+          "scientificName": "Diploglottis campbellii Cheel"
+        },
+        "gbif": {
+          "id": "8168552"
+        },
+        "powo": {
+          "id": "782806-1"
+        }
+      },
+      {
+        "score": 0.00327,
+        "species": {
+          "scientificNameWithoutAuthor": "Couroupita guianensis",
+          "scientificNameAuthorship": "Aubl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Couroupita",
+            "scientificNameAuthorship": "",
+            "scientificName": "Couroupita"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lecythidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lecythidaceae"
+          },
+          "commonNames": [
+            "Cannonball-tree",
+            "నాగ మల్లి",
+            "Carrion tree"
+          ],
+          "scientificName": "Couroupita guianensis Aubl."
+        },
+        "gbif": {
+          "id": "3082562"
+        },
+        "powo": {
+          "id": "592385-1"
+        },
+        "iucn": {
+          "id": "33969",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 446
+  },
+  "nominatim_data": {
+    "place_id": 255293400,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

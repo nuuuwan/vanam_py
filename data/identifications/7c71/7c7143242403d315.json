@@ -1,0 +1,391 @@
+{
+  "hash": "7c7143242403d315",
+  "image_metadata": {
+    "imageHash": "7c7143242403d315",
+    "imageLocation": {
+      "latitude": 7.2552972222222225,
+      "longitude": 80.618775,
+      "accuracy": 27.468004769475357,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780134255,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/7c7143242403d315.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "d2debc49d4c7fd770c29f25e31e75ee6"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "d2debc49d4c7fd770c29f25e31e75ee6",
+        "filename": "7c7143242403d315.png",
+        "organ": "habit",
+        "score": 0.83252
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Ailanthus altissima (Mill.) Swingle",
+    "results": [
+      {
+        "score": 0.17181,
+        "species": {
+          "scientificNameWithoutAuthor": "Ailanthus altissima",
+          "scientificNameAuthorship": "(Mill.) Swingle",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ailanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ailanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Simaroubaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Simaroubaceae"
+          },
+          "commonNames": [
+            "Tree of heaven",
+            "Tree-from-hell-that-will-not-be-killed",
+            "عرعر"
+          ],
+          "scientificName": "Ailanthus altissima (Mill.) Swingle"
+        },
+        "gbif": {
+          "id": "3190653"
+        },
+        "powo": {
+          "id": "813521-1"
+        },
+        "iucn": {
+          "id": "62993",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.10346,
+        "species": {
+          "scientificNameWithoutAuthor": "Polyscias repanda",
+          "scientificNameAuthorship": "(DC.) Baker",
+          "genus": {
+            "scientificNameWithoutAuthor": "Polyscias",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polyscias"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araliaceae"
+          },
+          "commonNames": [
+            "Cluster Top (బొంగరం గుత్తి)",
+            "Cluster top"
+          ],
+          "scientificName": "Polyscias repanda (DC.) Baker"
+        },
+        "gbif": {
+          "id": "3035799"
+        },
+        "powo": {
+          "id": "91809-1"
+        },
+        "iucn": {
+          "id": "166744372",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.04064,
+        "species": {
+          "scientificNameWithoutAuthor": "Sorbus aucuparia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Sorbus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sorbus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Rowan",
+            "Mountain Ash",
+            "Rowan tree"
+          ],
+          "scientificName": "Sorbus aucuparia L."
+        },
+        "gbif": {
+          "id": "3012167"
+        },
+        "powo": {
+          "id": "741641-1"
+        },
+        "iucn": {
+          "id": "61957558",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02537,
+        "species": {
+          "scientificNameWithoutAuthor": "Robinia pseudoacacia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Robinia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Robinia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Black locust",
+            "False acacia",
+            "اقاقیای سیاه"
+          ],
+          "scientificName": "Robinia pseudoacacia L."
+        },
+        "gbif": {
+          "id": "5352251"
+        },
+        "powo": {
+          "id": "30034699-2"
+        },
+        "iucn": {
+          "id": "19891648",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02247,
+        "species": {
+          "scientificNameWithoutAuthor": "Fraxinus excelsior",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Fraxinus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fraxinus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [
+            "Ash",
+            "European ash",
+            "Common Ash"
+          ],
+          "scientificName": "Fraxinus excelsior L."
+        },
+        "gbif": {
+          "id": "3172358"
+        },
+        "powo": {
+          "id": "609009-1"
+        },
+        "iucn": {
+          "id": "203367",
+          "category": "NT"
+        }
+      },
+      {
+        "score": 0.0213,
+        "species": {
+          "scientificNameWithoutAuthor": "Daucus decipiens",
+          "scientificNameAuthorship": "(Schrad. & J.C.Wendl.) Spalik, Wojew., Banasiak & Reduron",
+          "genus": {
+            "scientificNameWithoutAuthor": "Daucus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Daucus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apiaceae"
+          },
+          "commonNames": [
+            "Black parsley",
+            "Madeira giant black parsley",
+            "Parsnip palm"
+          ],
+          "scientificName": "Daucus decipiens (Schrad. & J.C.Wendl.) Spalik, Wojew., Banasiak & Reduron"
+        },
+        "gbif": {
+          "id": "9244277"
+        },
+        "powo": {
+          "id": "77158614-1"
+        }
+      },
+      {
+        "score": 0.0184,
+        "species": {
+          "scientificNameWithoutAuthor": "Zanthoxylum ailanthoides",
+          "scientificNameAuthorship": "Siebold & Zucc.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Zanthoxylum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Zanthoxylum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Japanese prickly ash",
+            "Alianthus-like prickly-ash"
+          ],
+          "scientificName": "Zanthoxylum ailanthoides Siebold & Zucc."
+        },
+        "gbif": {
+          "id": "7269097"
+        },
+        "powo": {
+          "id": "775558-1"
+        }
+      },
+      {
+        "score": 0.0149,
+        "species": {
+          "scientificNameWithoutAuthor": "Rhus coriaria",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rhus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rhus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Anacardiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Anacardiaceae"
+          },
+          "commonNames": [
+            "Tanner's sumac",
+            "Tanner's sumach",
+            "Sicilian sumac"
+          ],
+          "scientificName": "Rhus coriaria L."
+        },
+        "gbif": {
+          "id": "3190563"
+        },
+        "powo": {
+          "id": "70477-1"
+        },
+        "iucn": {
+          "id": "63485",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01139,
+        "species": {
+          "scientificNameWithoutAuthor": "Polyscias bracteata",
+          "scientificNameAuthorship": "(R.Vig.) Lowry",
+          "genus": {
+            "scientificNameWithoutAuthor": "Polyscias",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polyscias"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araliaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Polyscias bracteata (R.Vig.) Lowry"
+        },
+        "gbif": {
+          "id": "3035884"
+        },
+        "powo": {
+          "id": "60427050-2"
+        },
+        "iucn": {
+          "id": "157938148",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01019,
+        "species": {
+          "scientificNameWithoutAuthor": "Cormus domestica",
+          "scientificNameAuthorship": "(L.) Spach",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cormus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cormus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Service Tree",
+            "Cormier",
+            "Sorb Tree"
+          ],
+          "scientificName": "Cormus domestica (L.) Spach"
+        },
+        "gbif": {
+          "id": "3013215"
+        },
+        "powo": {
+          "id": "722386-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 454
+  },
+  "nominatim_data": {
+    "place_id": 255293400,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}
