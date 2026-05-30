@@ -1,0 +1,409 @@
+{
+  "hash": "688a4d91eec22182",
+  "image_metadata": {
+    "imageHash": "688a4d91eec22182",
+    "imageLocation": {
+      "latitude": 7.255169444444444,
+      "longitude": 80.61914166666666,
+      "accuracy": 25.57991584852735,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780134956,
+    "userId": "1bi07e4",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/688a4d91eec22182.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "168331006c1e1b9999b581c7c2828fd0"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "168331006c1e1b9999b581c7c2828fd0",
+        "filename": "688a4d91eec22182.png",
+        "organ": "leaf",
+        "score": 0.83945
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Saraca indica L.",
+    "results": [
+      {
+        "score": 0.11833,
+        "species": {
+          "scientificNameWithoutAuthor": "Saraca indica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Saraca",
+            "scientificNameAuthorship": "",
+            "scientificName": "Saraca"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Asoka-tree",
+            "Ashok",
+            "Asoca"
+          ],
+          "scientificName": "Saraca indica L."
+        },
+        "gbif": {
+          "id": "5359538"
+        },
+        "powo": {
+          "id": "517899-1"
+        },
+        "iucn": {
+          "id": "170270761",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.11023,
+        "species": {
+          "scientificNameWithoutAuthor": "Amherstia nobilis",
+          "scientificNameAuthorship": "Wall.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Amherstia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Amherstia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Pride-of-Burma",
+            "Amherstia",
+            "Pride of Burma"
+          ],
+          "scientificName": "Amherstia nobilis Wall."
+        },
+        "gbif": {
+          "id": "2968146"
+        },
+        "powo": {
+          "id": "473718-1"
+        },
+        "iucn": {
+          "id": "226776565",
+          "category": "EW"
+        }
+      },
+      {
+        "score": 0.049,
+        "species": {
+          "scientificNameWithoutAuthor": "Juglans nigra",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Juglans",
+            "scientificNameAuthorship": "",
+            "scientificName": "Juglans"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Juglandaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Juglandaceae"
+          },
+          "commonNames": [
+            "Black walnut",
+            "Eastern Black Walnut",
+            "American Walnut"
+          ],
+          "scientificName": "Juglans nigra L."
+        },
+        "gbif": {
+          "id": "3054357"
+        },
+        "powo": {
+          "id": "279034-2"
+        },
+        "iucn": {
+          "id": "62019712",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.04349,
+        "species": {
+          "scientificNameWithoutAuthor": "Inga edulis",
+          "scientificNameAuthorship": "Mart.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Inga",
+            "scientificNameAuthorship": "",
+            "scientificName": "Inga"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Ice-cream-bean",
+            "Icecreambean",
+            "Ice cream bean"
+          ],
+          "scientificName": "Inga edulis Mart."
+        },
+        "gbif": {
+          "id": "5357677"
+        },
+        "powo": {
+          "id": "128478-2"
+        },
+        "iucn": {
+          "id": "137640618",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01629,
+        "species": {
+          "scientificNameWithoutAuthor": "Tecoma stans",
+          "scientificNameAuthorship": "(L.) Juss. ex Kunth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tecoma",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tecoma"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Bignoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bignoniaceae"
+          },
+          "commonNames": [
+            "Yellow-bells",
+            "Yellow trumpet flower",
+            "Esperanza"
+          ],
+          "scientificName": "Tecoma stans (L.) Juss. ex Kunth"
+        },
+        "gbif": {
+          "id": "3172492"
+        },
+        "powo": {
+          "id": "111284-1"
+        },
+        "iucn": {
+          "id": "82858855",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01223,
+        "species": {
+          "scientificNameWithoutAuthor": "Fraxinus excelsior",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Fraxinus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fraxinus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [
+            "Ash",
+            "European ash",
+            "Common Ash"
+          ],
+          "scientificName": "Fraxinus excelsior L."
+        },
+        "gbif": {
+          "id": "3172358"
+        },
+        "powo": {
+          "id": "609009-1"
+        },
+        "iucn": {
+          "id": "203367",
+          "category": "NT"
+        }
+      },
+      {
+        "score": 0.01222,
+        "species": {
+          "scientificNameWithoutAuthor": "Spathodea campanulata",
+          "scientificNameAuthorship": "P.Beauv.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Spathodea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Spathodea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Bignoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bignoniaceae"
+          },
+          "commonNames": [
+            "African Tulip Tree",
+            "Nandi Flame",
+            "Flame-of-the-forest"
+          ],
+          "scientificName": "Spathodea campanulata P.Beauv."
+        },
+        "gbif": {
+          "id": "3172574"
+        },
+        "powo": {
+          "id": "110661-1"
+        },
+        "iucn": {
+          "id": "49196213",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01138,
+        "species": {
+          "scientificNameWithoutAuthor": "Juglans regia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Juglans",
+            "scientificNameAuthorship": "",
+            "scientificName": "Juglans"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Juglandaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Juglandaceae"
+          },
+          "commonNames": [
+            "Black Walnut",
+            "English walnut",
+            "Common Walnut"
+          ],
+          "scientificName": "Juglans regia L."
+        },
+        "gbif": {
+          "id": "3054368"
+        },
+        "powo": {
+          "id": "442427-1"
+        },
+        "iucn": {
+          "id": "63495",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.011,
+        "species": {
+          "scientificNameWithoutAuthor": "Robinia pseudoacacia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Robinia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Robinia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Black locust",
+            "False acacia",
+            "اقاقیای سیاه"
+          ],
+          "scientificName": "Robinia pseudoacacia L."
+        },
+        "gbif": {
+          "id": "5352251"
+        },
+        "powo": {
+          "id": "30034699-2"
+        },
+        "iucn": {
+          "id": "19891648",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01064,
+        "species": {
+          "scientificNameWithoutAuthor": "Robinia hispida",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Robinia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Robinia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Rose-acacia",
+            "Moss locust",
+            "Bristly locust"
+          ],
+          "scientificName": "Robinia hispida L."
+        },
+        "gbif": {
+          "id": "5352221"
+        },
+        "powo": {
+          "id": "517689-1"
+        },
+        "iucn": {
+          "id": "19892296",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 439
+  },
+  "nominatim_data": {
+    "place_id": 255345790,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

@@ -713,6 +713,50 @@
     ]
   },
   {
+    "imageHash": "688a4d91eec22182",
+    "latLng": {
+      "lat": 7.255169444444444,
+      "lng": 80.61914166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1780134956,
+    "timeImageTaken": "2026-05-30 09:55:56",
+    "userId": "1bi07e4",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.11833,
+        "species": "Saraca indica L.",
+        "genus": "Saraca",
+        "family": "Fabaceae",
+        "commonNames": [
+          "Asoka-tree",
+          "Ashok",
+          "Asoca"
+        ],
+        "gbifId": "5359538",
+        "iucnId": "170270761",
+        "iucnCategory": "LC",
+        "powoId": "517899-1"
+      },
+      {
+        "confidence": 0.11023,
+        "species": "Amherstia nobilis Wall.",
+        "genus": "Amherstia",
+        "family": "Fabaceae",
+        "commonNames": [
+          "Pride-of-Burma",
+          "Amherstia",
+          "Pride of Burma"
+        ],
+        "gbifId": "2968146",
+        "iucnId": "226776565",
+        "iucnCategory": "EW",
+        "powoId": "473718-1"
+      }
+    ]
+  },
+  {
     "imageHash": "7e4f1232dcf19251",
     "latLng": {
       "lat": 37.42685833333333,
