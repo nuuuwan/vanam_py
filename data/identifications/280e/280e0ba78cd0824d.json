@@ -1,0 +1,229 @@
+{
+  "hash": "280e0ba78cd0824d",
+  "image_metadata": {
+    "imageHash": "280e0ba78cd0824d",
+    "imageLocation": {
+      "latitude": 7.256205555555556,
+      "longitude": 80.61959166666666,
+      "accuracy": 2.556762741773641,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780203574,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/280e0ba78cd0824d.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "b2dae34d4448b8f9fc78303f8c55c03a"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "b2dae34d4448b8f9fc78303f8c55c03a",
+        "filename": "280e0ba78cd0824d.png",
+        "organ": "leaf",
+        "score": 0.78518
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Megaskepasma erythrochlamys Lindau",
+    "results": [
+      {
+        "score": 0.91037,
+        "species": {
+          "scientificNameWithoutAuthor": "Megaskepasma erythrochlamys",
+          "scientificNameAuthorship": "Lindau",
+          "genus": {
+            "scientificNameWithoutAuthor": "Megaskepasma",
+            "scientificNameAuthorship": "",
+            "scientificName": "Megaskepasma"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Brazilian red-cloak",
+            "Red-cloak",
+            "Red justicia"
+          ],
+          "scientificName": "Megaskepasma erythrochlamys Lindau"
+        },
+        "gbif": {
+          "id": "3773061"
+        },
+        "powo": {
+          "id": "155854-2"
+        }
+      },
+      {
+        "score": 0.00548,
+        "species": {
+          "scientificNameWithoutAuthor": "Brillantaisia owariensis",
+          "scientificNameAuthorship": "P.Beauv.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Brillantaisia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brillantaisia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Tropical Giant Salvia",
+            "Giant blue African Salvia"
+          ],
+          "scientificName": "Brillantaisia owariensis P.Beauv."
+        },
+        "gbif": {
+          "id": "3778283"
+        },
+        "powo": {
+          "id": "46674-1"
+        },
+        "iucn": {
+          "id": "185444",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00179,
+        "species": {
+          "scientificNameWithoutAuthor": "Cananga odorata",
+          "scientificNameAuthorship": "(Lam.) Hook.f. & Thomson",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cananga",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cananga"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Annonaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Annonaceae"
+          },
+          "commonNames": [
+            "Ylang-ylang",
+            "Cananga tree",
+            "Macassar oiltree"
+          ],
+          "scientificName": "Cananga odorata (Lam.) Hook.f. & Thomson"
+        },
+        "gbif": {
+          "id": "5407583"
+        },
+        "powo": {
+          "id": "72580-1"
+        },
+        "iucn": {
+          "id": "61984545",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00144,
+        "species": {
+          "scientificNameWithoutAuthor": "Ledenbergia peruviana",
+          "scientificNameAuthorship": "O.C.Schmidt",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ledenbergia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ledenbergia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Petiveriaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Petiveriaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Ledenbergia peruviana O.C.Schmidt"
+        },
+        "gbif": {
+          "id": "4192526"
+        },
+        "powo": {
+          "id": "136986-2"
+        }
+      },
+      {
+        "score": 0.00107,
+        "species": {
+          "scientificNameWithoutAuthor": "Justicia aurea",
+          "scientificNameAuthorship": "Schltdl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Justicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Justicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Yellow Jacobinia",
+            "Orange Flame Justicia",
+            "Golden shrimp plant"
+          ],
+          "scientificName": "Justicia aurea Schltdl."
+        },
+        "gbif": {
+          "id": "8410331"
+        },
+        "powo": {
+          "id": "320654-2"
+        },
+        "iucn": {
+          "id": "198888723",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 453
+  },
+  "nominatim_data": {
+    "place_id": 255510731,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2562181",
+    "lon": "80.6196415",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "hash": "cfc1adfe52641c33",
+  "image_metadata": {
+    "imageHash": "cfc1adfe52641c33",
+    "imageLocation": {
+      "latitude": 7.255422222222222,
+      "longitude": 80.61936944444444,
+      "accuracy": 2.4855645851154833,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780204401,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/cfc1adfe52641c33.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "6a82342c94245c68f2dedf6747cbabf6"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "6a82342c94245c68f2dedf6747cbabf6",
+        "filename": "cfc1adfe52641c33.png",
+        "organ": "fruit",
+        "score": 0.48526
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Canna indica L.",
+    "results": [
+      {
+        "score": 0.74912,
+        "species": {
+          "scientificNameWithoutAuthor": "Canna indica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Canna",
+            "scientificNameAuthorship": "",
+            "scientificName": "Canna"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cannaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cannaceae"
+          },
+          "commonNames": [
+            "Canna lily",
+            "Indian-shot",
+            "Canna"
+          ],
+          "scientificName": "Canna indica L."
+        },
+        "gbif": {
+          "id": "8034409"
+        },
+        "powo": {
+          "id": "319130-2"
+        }
+      },
+      {
+        "score": 0.17887,
+        "species": {
+          "scientificNameWithoutAuthor": "Canna × hybrida",
+          "scientificNameAuthorship": "Rodigas",
+          "genus": {
+            "scientificNameWithoutAuthor": "Canna",
+            "scientificNameAuthorship": "",
+            "scientificName": "Canna"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cannaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cannaceae"
+          },
+          "commonNames": [
+            "Canna Lily",
+            "Hybrid Canna Lily",
+            "Garden Canna"
+          ],
+          "scientificName": "Canna × hybrida Rodigas"
+        },
+        "gbif": {
+          "id": "7529533"
+        },
+        "powo": {
+          "id": "77208084-1"
+        }
+      },
+      {
+        "score": 0.04645,
+        "species": {
+          "scientificNameWithoutAuthor": "Canna glauca",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Canna",
+            "scientificNameAuthorship": "",
+            "scientificName": "Canna"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cannaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cannaceae"
+          },
+          "commonNames": [
+            "Louisiana canna",
+            "Brazilian Arrow-Wood",
+            "Maraca amarilla"
+          ],
+          "scientificName": "Canna glauca L."
+        },
+        "gbif": {
+          "id": "5303128"
+        },
+        "powo": {
+          "id": "796016-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 435
+  },
+  "nominatim_data": {
+    "place_id": 254210146,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2556356",
+    "lon": "80.6195571",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "hash": "b4c23da62810bc7c",
+  "image_metadata": {
+    "imageHash": "b4c23da62810bc7c",
+    "imageLocation": {
+      "latitude": 7.255433333333333,
+      "longitude": 80.6195361111111,
+      "accuracy": 3.0168590648617224,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780204358,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/b4c23da62810bc7c.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "2accb9b98f68356e92fd10a7df26c764"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "2accb9b98f68356e92fd10a7df26c764",
+        "filename": "b4c23da62810bc7c.png",
+        "organ": "flower",
+        "score": 0.70238
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Hydrangea macrophylla (Thunb.) Ser.",
+    "results": [
+      {
+        "score": 0.7748,
+        "species": {
+          "scientificNameWithoutAuthor": "Hydrangea macrophylla",
+          "scientificNameAuthorship": "(Thunb.) Ser.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hydrangea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Hydrangea",
+            "Hortensia",
+            "Bigleaf Hydrangea"
+          ],
+          "scientificName": "Hydrangea macrophylla (Thunb.) Ser."
+        },
+        "gbif": {
+          "id": "2985994"
+        },
+        "powo": {
+          "id": "791637-1"
+        }
+      },
+      {
+        "score": 0.00354,
+        "species": {
+          "scientificNameWithoutAuthor": "Hydrangea arborescens",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hydrangea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Smooth hydrangea",
+            "Sevenbark",
+            "Wild Hydrangea"
+          ],
+          "scientificName": "Hydrangea arborescens L."
+        },
+        "gbif": {
+          "id": "2985986"
+        },
+        "powo": {
+          "id": "30010549-2"
+        }
+      },
+      {
+        "score": 0.00206,
+        "species": {
+          "scientificNameWithoutAuthor": "Primula obconica",
+          "scientificNameAuthorship": "Hance",
+          "genus": {
+            "scientificNameWithoutAuthor": "Primula",
+            "scientificNameAuthorship": "",
+            "scientificName": "Primula"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Primulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Primulaceae"
+          },
+          "commonNames": [
+            "German primrose",
+            "Poison primrose",
+            "Top primrose"
+          ],
+          "scientificName": "Primula obconica Hance"
+        },
+        "gbif": {
+          "id": "7290874"
+        },
+        "powo": {
+          "id": "702340-1"
+        }
+      },
+      {
+        "score": 0.00185,
+        "species": {
+          "scientificNameWithoutAuthor": "Streptocarpus ionanthus",
+          "scientificNameAuthorship": "(H.Wendl.) Christenh.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Streptocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Streptocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Gesneriaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gesneriaceae"
+          },
+          "commonNames": [
+            "African Violet",
+            "Usambara-violet",
+            "Blue African violet"
+          ],
+          "scientificName": "Streptocarpus ionanthus (H.Wendl.) Christenh."
+        },
+        "gbif": {
+          "id": "6710927"
+        },
+        "powo": {
+          "id": "77117375-1"
+        }
+      },
+      {
+        "score": 0.00184,
+        "species": {
+          "scientificNameWithoutAuthor": "Hydrangea quercifolia",
+          "scientificNameAuthorship": "W.Bartram",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hydrangea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Oakleaf Hydrangea",
+            "Oak-leaf hydrangea",
+            "Oak-leaved hydrangea"
+          ],
+          "scientificName": "Hydrangea quercifolia W.Bartram"
+        },
+        "gbif": {
+          "id": "2985993"
+        },
+        "powo": {
+          "id": "791666-1"
+        }
+      },
+      {
+        "score": 0.00135,
+        "species": {
+          "scientificNameWithoutAuthor": "Vanda coerulea",
+          "scientificNameAuthorship": "Griff. ex Lindl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vanda",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vanda"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Orchidaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Orchidaceae"
+          },
+          "commonNames": [
+            "Blue orchid",
+            "Blue Vanda",
+            "Orchid"
+          ],
+          "scientificName": "Vanda coerulea Griff. ex Lindl."
+        },
+        "gbif": {
+          "id": "2783163"
+        },
+        "powo": {
+          "id": "660987-1"
+        }
+      },
+      {
+        "score": 0.00106,
+        "species": {
+          "scientificNameWithoutAuthor": "Campanula carpatica",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Campanula",
+            "scientificNameAuthorship": "",
+            "scientificName": "Campanula"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Campanulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Campanulaceae"
+          },
+          "commonNames": [
+            "Carpathian harebell",
+            "Tussock bellflower",
+            "Carpathian bellflower"
+          ],
+          "scientificName": "Campanula carpatica Jacq."
+        },
+        "gbif": {
+          "id": "5410826"
+        },
+        "powo": {
+          "id": "140068-1"
+        }
+      },
+      {
+        "score": 0.00104,
+        "species": {
+          "scientificNameWithoutAuthor": "Phlox drummondii",
+          "scientificNameAuthorship": "Hook.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phlox",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phlox"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Polemoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polemoniaceae"
+          },
+          "commonNames": [
+            "Drummond's phlox",
+            "Annual phlox",
+            "Pride-of-Texas"
+          ],
+          "scientificName": "Phlox drummondii Hook."
+        },
+        "gbif": {
+          "id": "2927723"
+        },
+        "powo": {
+          "id": "193463-2"
+        }
+      },
+      {
+        "score": 0.00104,
+        "species": {
+          "scientificNameWithoutAuthor": "Hydrangea sargentiana",
+          "scientificNameAuthorship": "Rehder",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hydrangea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Hydrangeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hydrangeaceae"
+          },
+          "commonNames": [
+            "Hairy Hydrangea",
+            "Grape Hydrangea",
+            "Sargent's Hydrangea"
+          ],
+          "scientificName": "Hydrangea sargentiana Rehder"
+        },
+        "gbif": {
+          "id": "3645659"
+        },
+        "powo": {
+          "id": "791675-1"
+        }
+      },
+      {
+        "score": 0.00102,
+        "species": {
+          "scientificNameWithoutAuthor": "Brunfelsia pauciflora",
+          "scientificNameAuthorship": "(Cham. & Schltdl.) Benth.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Brunfelsia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brunfelsia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Yesterday Today and Tomorrow",
+            "Brazil raintree",
+            "Kiss me quick"
+          ],
+          "scientificName": "Brunfelsia pauciflora (Cham. & Schltdl.) Benth."
+        },
+        "gbif": {
+          "id": "6402571"
+        },
+        "powo": {
+          "id": "814676-1"
+        },
+        "iucn": {
+          "id": "146114039",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 440
+  },
+  "nominatim_data": {
+    "place_id": 255510731,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2553913",
+    "lon": "80.6196665",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

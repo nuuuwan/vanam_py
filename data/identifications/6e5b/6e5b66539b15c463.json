@@ -1,0 +1,390 @@
+{
+  "hash": "6e5b66539b15c463",
+  "image_metadata": {
+    "imageHash": "6e5b66539b15c463",
+    "imageLocation": {
+      "latitude": 7.253619444444444,
+      "longitude": 80.620025,
+      "accuracy": 2.604218594217348,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780202271,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/6e5b66539b15c463.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "07e4b33751e59619b83862351a14c451"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "07e4b33751e59619b83862351a14c451",
+        "filename": "6e5b66539b15c463.png",
+        "organ": "leaf",
+        "score": 0.59922
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Miconia calvescens DC.",
+    "results": [
+      {
+        "score": 0.7846,
+        "species": {
+          "scientificNameWithoutAuthor": "Miconia calvescens",
+          "scientificNameAuthorship": "DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Miconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Miconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [
+            "Miconia",
+            "Purple plague",
+            "Devil's-Scourge"
+          ],
+          "scientificName": "Miconia calvescens DC."
+        },
+        "gbif": {
+          "id": "3188585"
+        },
+        "powo": {
+          "id": "326247-2"
+        },
+        "iucn": {
+          "id": "49278524",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00541,
+        "species": {
+          "scientificNameWithoutAuthor": "Plumeria obtusa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plumeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Frangipani",
+            "Singapore graveyard flower",
+            "Singapore white frangipani"
+          ],
+          "scientificName": "Plumeria obtusa L."
+        },
+        "gbif": {
+          "id": "3169677"
+        },
+        "powo": {
+          "id": "81256-1"
+        },
+        "iucn": {
+          "id": "156770956",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00365,
+        "species": {
+          "scientificNameWithoutAuthor": "Syzygium acre",
+          "scientificNameAuthorship": "(Pancher ex Guillaumin) J.W.Dawson",
+          "genus": {
+            "scientificNameWithoutAuthor": "Syzygium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Syzygium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Myrtaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Myrtaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Syzygium acre (Pancher ex Guillaumin) J.W.Dawson"
+        },
+        "gbif": {
+          "id": "3182621"
+        },
+        "powo": {
+          "id": "1014947-1"
+        },
+        "iucn": {
+          "id": "181014589",
+          "category": "EN"
+        }
+      },
+      {
+        "score": 0.00335,
+        "species": {
+          "scientificNameWithoutAuthor": "Plumeria rubra",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plumeria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plumeria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Frangipani",
+            "Plumeria",
+            "Kamboja"
+          ],
+          "scientificName": "Plumeria rubra L."
+        },
+        "gbif": {
+          "id": "3169674"
+        },
+        "powo": {
+          "id": "81275-1"
+        },
+        "iucn": {
+          "id": "144270910",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00268,
+        "species": {
+          "scientificNameWithoutAuthor": "Meriania nobilis",
+          "scientificNameAuthorship": "Triana",
+          "genus": {
+            "scientificNameWithoutAuthor": "Meriania",
+            "scientificNameAuthorship": "",
+            "scientificName": "Meriania"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [
+            "Motley meriania"
+          ],
+          "scientificName": "Meriania nobilis Triana"
+        },
+        "gbif": {
+          "id": "5599684"
+        },
+        "powo": {
+          "id": "571978-1"
+        },
+        "iucn": {
+          "id": "135877017",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00207,
+        "species": {
+          "scientificNameWithoutAuthor": "Miconia argentea",
+          "scientificNameAuthorship": "(Sw.) DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Miconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Miconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [
+            "Silver miconia"
+          ],
+          "scientificName": "Miconia argentea (Sw.) DC."
+        },
+        "gbif": {
+          "id": "3859926"
+        },
+        "iucn": {
+          "id": "144254950",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00163,
+        "species": {
+          "scientificNameWithoutAuthor": "Inga spectabilis",
+          "scientificNameAuthorship": "(Vahl) Willd.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Inga",
+            "scientificNameAuthorship": "",
+            "scientificName": "Inga"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Machete ice cream bean",
+            "Machete ice-cream-bean",
+            "Guama"
+          ],
+          "scientificName": "Inga spectabilis (Vahl) Willd."
+        },
+        "gbif": {
+          "id": "5357491"
+        },
+        "powo": {
+          "id": "1122303-2"
+        },
+        "iucn": {
+          "id": "129739032",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00149,
+        "species": {
+          "scientificNameWithoutAuthor": "Meriania macrophylla",
+          "scientificNameAuthorship": "(Benth.) Triana",
+          "genus": {
+            "scientificNameWithoutAuthor": "Meriania",
+            "scientificNameAuthorship": "",
+            "scientificName": "Meriania"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [],
+          "scientificName": "Meriania macrophylla (Benth.) Triana"
+        },
+        "gbif": {
+          "id": "3862157"
+        },
+        "powo": {
+          "id": "571971-1"
+        },
+        "iucn": {
+          "id": "151978469",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00146,
+        "species": {
+          "scientificNameWithoutAuthor": "Miconia racemosa",
+          "scientificNameAuthorship": "(Aubl.) DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Miconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Miconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [
+            "Camasey-Felpa"
+          ],
+          "scientificName": "Miconia racemosa (Aubl.) DC."
+        },
+        "gbif": {
+          "id": "3188564"
+        },
+        "powo": {
+          "id": "1158780-2"
+        },
+        "iucn": {
+          "id": "144280838",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00133,
+        "species": {
+          "scientificNameWithoutAuthor": "Clerodendrum quadriloculare",
+          "scientificNameAuthorship": "(Blanco) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Clerodendrum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Clerodendrum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Philippine glorybower",
+            "Fire works",
+            "Starburst Bush"
+          ],
+          "scientificName": "Clerodendrum quadriloculare (Blanco) Merr."
+        },
+        "gbif": {
+          "id": "3890217"
+        },
+        "powo": {
+          "id": "862346-1"
+        },
+        "iucn": {
+          "id": "127525329",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 449
+  },
+  "nominatim_data": {
+    "place_id": 254495860,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2535678",
+    "lon": "80.6201655",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

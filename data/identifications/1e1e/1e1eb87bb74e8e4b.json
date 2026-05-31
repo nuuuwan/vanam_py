@@ -1,0 +1,234 @@
+{
+  "hash": "1e1eb87bb74e8e4b",
+  "image_metadata": {
+    "imageHash": "1e1eb87bb74e8e4b",
+    "imageLocation": {
+      "latitude": 7.255952777777778,
+      "longitude": 80.61961388888888,
+      "accuracy": 2.7836480902174334,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780203456,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/1e1eb87bb74e8e4b.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "fae23c6aed7728dcba4ffecc4ec0b3b9"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "fae23c6aed7728dcba4ffecc4ec0b3b9",
+        "filename": "1e1eb87bb74e8e4b.png",
+        "organ": "fruit",
+        "score": 0.48521
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Persea americana Mill.",
+    "results": [
+      {
+        "score": 0.82446,
+        "species": {
+          "scientificNameWithoutAuthor": "Persea americana",
+          "scientificNameAuthorship": "Mill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Persea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Persea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lauraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lauraceae"
+          },
+          "commonNames": [
+            "Avocado",
+            "Butter Fruit",
+            "آواکادو"
+          ],
+          "scientificName": "Persea americana Mill."
+        },
+        "gbif": {
+          "id": "3034046"
+        },
+        "powo": {
+          "id": "325643-2"
+        },
+        "iucn": {
+          "id": "96986556",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00355,
+        "species": {
+          "scientificNameWithoutAuthor": "Tabernaemontana stapfiana",
+          "scientificNameAuthorship": "Britten",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tabernaemontana",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tabernaemontana"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Soccerball fruit"
+          ],
+          "scientificName": "Tabernaemontana stapfiana Britten"
+        },
+        "gbif": {
+          "id": "3621804"
+        },
+        "powo": {
+          "id": "82342-1"
+        },
+        "iucn": {
+          "id": "144307376",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00298,
+        "species": {
+          "scientificNameWithoutAuthor": "Persea indica",
+          "scientificNameAuthorship": "(L.) Spreng.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Persea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Persea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lauraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lauraceae"
+          },
+          "commonNames": [
+            "Madeira Mahogany",
+            "Madeira bay persea",
+            "Viñátigo"
+          ],
+          "scientificName": "Persea indica (L.) Spreng."
+        },
+        "gbif": {
+          "id": "4181596"
+        },
+        "powo": {
+          "id": "468067-1"
+        },
+        "iucn": {
+          "id": "30329",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00176,
+        "species": {
+          "scientificNameWithoutAuthor": "Ficus sur",
+          "scientificNameAuthorship": "Forssk.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ficus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ficus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [
+            "Bush fig",
+            "Cape fig",
+            "Broom Cluster Fig"
+          ],
+          "scientificName": "Ficus sur Forssk."
+        },
+        "gbif": {
+          "id": "5569827"
+        },
+        "powo": {
+          "id": "853792-1"
+        },
+        "iucn": {
+          "id": "146435594",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00113,
+        "species": {
+          "scientificNameWithoutAuthor": "Feroniella lucida",
+          "scientificNameAuthorship": "(Scheff.) Swingle",
+          "genus": {
+            "scientificNameWithoutAuthor": "Feroniella",
+            "scientificNameAuthorship": "",
+            "scientificName": "Feroniella"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Kabista krèkèl"
+          ],
+          "scientificName": "Feroniella lucida (Scheff.) Swingle"
+        },
+        "gbif": {
+          "id": "3835743"
+        },
+        "powo": {
+          "id": "773617-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 455
+  },
+  "nominatim_data": {
+    "place_id": 254210146,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2559627",
+    "lon": "80.6195827",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

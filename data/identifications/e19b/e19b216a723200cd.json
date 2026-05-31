@@ -1,0 +1,399 @@
+{
+  "hash": "e19b216a723200cd",
+  "image_metadata": {
+    "imageHash": "e19b216a723200cd",
+    "imageLocation": {
+      "latitude": 7.256538888888889,
+      "longitude": 80.61959166666666,
+      "accuracy": 3.797559760956175,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780204076,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/e19b216a723200cd.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "91cbad39d97eeba6a334b72aca6b8e48"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "91cbad39d97eeba6a334b72aca6b8e48",
+        "filename": "e19b216a723200cd.png",
+        "organ": "habit",
+        "score": 0.62124
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Quercus suber L.",
+    "results": [
+      {
+        "score": 0.13509,
+        "species": {
+          "scientificNameWithoutAuthor": "Quercus suber",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Quercus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Quercus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fagaceae"
+          },
+          "commonNames": [
+            "Cork oak",
+            "Sûr",
+            "Cork bark oak"
+          ],
+          "scientificName": "Quercus suber L."
+        },
+        "gbif": {
+          "id": "2879411"
+        },
+        "powo": {
+          "id": "296785-1"
+        },
+        "iucn": {
+          "id": "194237",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.11131,
+        "species": {
+          "scientificNameWithoutAuthor": "Buxus sempervirens",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Buxus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Buxus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Buxaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Buxaceae"
+          },
+          "commonNames": [
+            "Common boxwood",
+            "Box",
+            "Caucasian boxwood"
+          ],
+          "scientificName": "Buxus sempervirens L."
+        },
+        "gbif": {
+          "id": "2984671"
+        },
+        "powo": {
+          "id": "340317-1"
+        },
+        "iucn": {
+          "id": "202944",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.06721,
+        "species": {
+          "scientificNameWithoutAuthor": "Quercus ilex",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Quercus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Quercus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fagaceae"
+          },
+          "commonNames": [
+            "Holm Oak",
+            "Holly oak",
+            "Evergreen Oak"
+          ],
+          "scientificName": "Quercus ilex L."
+        },
+        "gbif": {
+          "id": "2879098"
+        },
+        "powo": {
+          "id": "296290-1"
+        },
+        "iucn": {
+          "id": "62537",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.04156,
+        "species": {
+          "scientificNameWithoutAuthor": "Quercus glauca",
+          "scientificNameAuthorship": "Thunb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Quercus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Quercus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fagaceae"
+          },
+          "commonNames": [
+            "Ring-cup oak",
+            "Ring-cupped oak",
+            "Japanese blue oak"
+          ],
+          "scientificName": "Quercus glauca Thunb."
+        },
+        "gbif": {
+          "id": "2876873"
+        },
+        "powo": {
+          "id": "927477-1"
+        },
+        "iucn": {
+          "id": "194825",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.03351,
+        "species": {
+          "scientificNameWithoutAuthor": "Salix alba",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Salix",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salix"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Salicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salicaceae"
+          },
+          "commonNames": [
+            "White-willow",
+            "Golden willow",
+            "Ак-тал"
+          ],
+          "scientificName": "Salix alba L."
+        },
+        "gbif": {
+          "id": "5372513"
+        },
+        "powo": {
+          "id": "776974-1"
+        },
+        "iucn": {
+          "id": "203465",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02782,
+        "species": {
+          "scientificNameWithoutAuthor": "Fraxinus angustifolia",
+          "scientificNameAuthorship": "Vahl",
+          "genus": {
+            "scientificNameWithoutAuthor": "Fraxinus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fraxinus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [
+            "Narrow-leaved Ash",
+            "زبان گنجشک",
+            "Desert ash"
+          ],
+          "scientificName": "Fraxinus angustifolia Vahl"
+        },
+        "gbif": {
+          "id": "7325877"
+        },
+        "powo": {
+          "id": "332095-2"
+        },
+        "iucn": {
+          "id": "203366",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01884,
+        "species": {
+          "scientificNameWithoutAuthor": "Phillyrea latifolia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phillyrea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phillyrea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [
+            "Phillyrea",
+            "Green Olive Tree",
+            "Broad-leaved phillyrea"
+          ],
+          "scientificName": "Phillyrea latifolia L."
+        },
+        "gbif": {
+          "id": "7325923"
+        },
+        "powo": {
+          "id": "610971-1"
+        },
+        "iucn": {
+          "id": "79919776",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01198,
+        "species": {
+          "scientificNameWithoutAuthor": "Murraya paniculata",
+          "scientificNameAuthorship": "(L.) Jack",
+          "genus": {
+            "scientificNameWithoutAuthor": "Murraya",
+            "scientificNameAuthorship": "",
+            "scientificName": "Murraya"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Orange jasmine",
+            "Kamini",
+            "Mock orange"
+          ],
+          "scientificName": "Murraya paniculata (L.) Jack"
+        },
+        "gbif": {
+          "id": "5421335"
+        },
+        "powo": {
+          "id": "774441-1"
+        }
+      },
+      {
+        "score": 0.00877,
+        "species": {
+          "scientificNameWithoutAuthor": "Osmanthus fragrans",
+          "scientificNameAuthorship": "Lour.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Osmanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Osmanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [
+            "Sweet osmanthus",
+            "Tea Olive",
+            "Fragrant olive"
+          ],
+          "scientificName": "Osmanthus fragrans Lour."
+        },
+        "gbif": {
+          "id": "3172278"
+        },
+        "powo": {
+          "id": "610878-1"
+        },
+        "iucn": {
+          "id": "147642268",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00832,
+        "species": {
+          "scientificNameWithoutAuthor": "Lithocarpus uraianus",
+          "scientificNameAuthorship": "(Hayata) Hayata",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lithocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lithocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fagaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fagaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Lithocarpus uraianus (Hayata) Hayata"
+        },
+        "gbif": {
+          "id": "5332814"
+        },
+        "powo": {
+          "id": "359039-1"
+        },
+        "iucn": {
+          "id": "138597010",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 431
+  },
+  "nominatim_data": {
+    "place_id": 254495860,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2565354",
+    "lon": "80.6196185",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

@@ -1,5 +1,63 @@
 [
   {
+    "imageHash": "2c1d75640da7ad02",
+    "latLng": {
+      "lat": 7.255980555555555,
+      "lng": 80.61955277777777
+    },
+    "source": "exif",
+    "utImageTaken": 1780203490,
+    "timeImageTaken": "2026-05-31 04:58:10",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.9557,
+        "species": "Sphagneticola trilobata (L.) Pruski",
+        "genus": "Sphagneticola",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Wedelia",
+          "Singapore daisy",
+          "Creeping Daisy"
+        ],
+        "gbifId": "3116842",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "1093589-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "9d1463304a488b33",
+    "latLng": {
+      "lat": 7.255875,
+      "lng": 80.61968333333333
+    },
+    "source": "exif",
+    "utImageTaken": 1780203117,
+    "timeImageTaken": "2026-05-31 04:51:57",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.53391,
+        "species": "Tibouchina urvilleana (DC.) Cogn.",
+        "genus": "Tibouchina",
+        "family": "Melastomataceae",
+        "commonNames": [
+          "Princess flower",
+          "Purple glorytree",
+          "Glorybush"
+        ],
+        "gbifId": "3188519",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
+      }
+    ]
+  },
+  {
     "imageHash": "ebb48c9a17b0a1db",
     "latLng": {
       "lat": 6.912886111111112,
@@ -214,6 +272,50 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "796387-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "91db4368445c2189",
+    "latLng": {
+      "lat": 7.255416666666667,
+      "lng": 80.6194
+    },
+    "source": "exif",
+    "utImageTaken": 1780204388,
+    "timeImageTaken": "2026-05-31 05:13:08",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.58601,
+        "species": "Canna indica L.",
+        "genus": "Canna",
+        "family": "Cannaceae",
+        "commonNames": [
+          "Canna lily",
+          "Indian-shot",
+          "Canna"
+        ],
+        "gbifId": "8034409",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "319130-2"
+      },
+      {
+        "confidence": 0.33371,
+        "species": "Canna × hybrida Rodigas",
+        "genus": "Canna",
+        "family": "Cannaceae",
+        "commonNames": [
+          "Canna Lily",
+          "Hybrid Canna Lily",
+          "Garden Canna"
+        ],
+        "gbifId": "7529533",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "77208084-1"
       }
     ]
   },
@@ -1073,6 +1175,35 @@
     ]
   },
   {
+    "imageHash": "4475940207e2041e",
+    "latLng": {
+      "lat": 7.255991666666667,
+      "lng": 80.61955277777777
+    },
+    "source": "exif",
+    "utImageTaken": 1780203485,
+    "timeImageTaken": "2026-05-31 04:58:05",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.83297,
+        "species": "Allamanda cathartica L.",
+        "genus": "Allamanda",
+        "family": "Apocynaceae",
+        "commonNames": [
+          "Golden-trumpet",
+          "Allamanda",
+          "Yellow allamanda"
+        ],
+        "gbifId": "3169836",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "319065-2"
+      }
+    ]
+  },
+  {
     "imageHash": "a6917201d63b3da6",
     "latLng": {
       "lat": 7.255183333333333,
@@ -1299,6 +1430,35 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "48879-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "b8286028cead0ca9",
+    "latLng": {
+      "lat": 7.256338888888889,
+      "lng": 80.61959722222221
+    },
+    "source": "exif",
+    "utImageTaken": 1780203602,
+    "timeImageTaken": "2026-05-31 05:00:02",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.52415,
+        "species": "Duranta erecta L.",
+        "genus": "Duranta",
+        "family": "Verbenaceae",
+        "commonNames": [
+          "Golden dewdrops",
+          "Skyflower",
+          "Pigeonberry"
+        ],
+        "gbifId": "2925655",
+        "iucnId": "145351548",
+        "iucnCategory": "LC",
+        "powoId": "330606-2"
       }
     ]
   },
@@ -1535,6 +1695,35 @@
     ]
   },
   {
+    "imageHash": "6e5b66539b15c463",
+    "latLng": {
+      "lat": 7.253619444444444,
+      "lng": 80.620025
+    },
+    "source": "exif",
+    "utImageTaken": 1780202271,
+    "timeImageTaken": "2026-05-31 04:37:51",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.7846,
+        "species": "Miconia calvescens DC.",
+        "genus": "Miconia",
+        "family": "Melastomataceae",
+        "commonNames": [
+          "Miconia",
+          "Purple plague",
+          "Devil's-Scourge"
+        ],
+        "gbifId": "3188585",
+        "iucnId": "49278524",
+        "iucnCategory": "LC",
+        "powoId": "326247-2"
+      }
+    ]
+  },
+  {
     "imageHash": "019f57b122aa24dc",
     "latLng": {
       "lat": 6.026213888888889,
@@ -1560,6 +1749,35 @@
         "iucnId": "31339",
         "iucnCategory": "LC",
         "powoId": "469061-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "280e0ba78cd0824d",
+    "latLng": {
+      "lat": 7.256205555555556,
+      "lng": 80.61959166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1780203574,
+    "timeImageTaken": "2026-05-31 04:59:34",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.91037,
+        "species": "Megaskepasma erythrochlamys Lindau",
+        "genus": "Megaskepasma",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Brazilian red-cloak",
+          "Red-cloak",
+          "Red justicia"
+        ],
+        "gbifId": "3773061",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "155854-2"
       }
     ]
   },
@@ -1753,6 +1971,79 @@
     ]
   },
   {
+    "imageHash": "c386ca0035f9025f",
+    "latLng": {
+      "lat": 7.256777777777778,
+      "lng": 80.61960555555555
+    },
+    "source": "exif",
+    "utImageTaken": 1780203752,
+    "timeImageTaken": "2026-05-31 05:02:32",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.77051,
+        "species": "Odontonema cuspidatum (Nees) Kuntze",
+        "genus": "Odontonema",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Scarlet firespike",
+          "Cardinal's-crest",
+          "Cardinal-flower"
+        ],
+        "gbifId": "5415341",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "1210381-2"
+      },
+      {
+        "confidence": 0.10839,
+        "species": "Odontonema tubaeforme (Bertol.) Kuntze",
+        "genus": "Odontonema",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Cardinal's guard flower",
+          "Fire spike",
+          "Brazilian Firespike"
+        ],
+        "gbifId": "5575932",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "172486-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "a29bc2f2a2937f82",
+    "latLng": {
+      "lat": 7.2562,
+      "lng": 80.61959166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1780203562,
+    "timeImageTaken": "2026-05-31 04:59:22",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.17298,
+        "species": "Megaskepasma erythrochlamys Lindau",
+        "genus": "Megaskepasma",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Brazilian red-cloak",
+          "Red-cloak",
+          "Red justicia"
+        ],
+        "gbifId": "3773061",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "155854-2"
+      }
+    ]
+  },
+  {
     "imageHash": "be209a8472559587",
     "latLng": {
       "lat": 50.21846666666667,
@@ -1865,6 +2156,35 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "850389-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "d767b80605969b31",
+    "latLng": {
+      "lat": 7.256566666666667,
+      "lng": 80.61964444444443
+    },
+    "source": "exif",
+    "utImageTaken": 1780203701,
+    "timeImageTaken": "2026-05-31 05:01:41",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.22659,
+        "species": "Commelina erecta L.",
+        "genus": "Commelina",
+        "family": "Commelinaceae",
+        "commonNames": [
+          "Blue Commelina",
+          "Day flower",
+          "Erect dayflower"
+        ],
+        "gbifId": "2764389",
+        "iucnId": "176972",
+        "iucnCategory": "LC",
+        "powoId": "172048-1"
       }
     ]
   },
@@ -2116,6 +2436,35 @@
     ]
   },
   {
+    "imageHash": "22ad0fec46fc1ef0",
+    "latLng": {
+      "lat": 7.256563888888889,
+      "lng": 80.61964444444443
+    },
+    "source": "exif",
+    "utImageTaken": 1780203705,
+    "timeImageTaken": "2026-05-31 05:01:45",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.90268,
+        "species": "Miconia crenata (Vahl) Michelang.",
+        "genus": "Miconia",
+        "family": "Melastomataceae",
+        "commonNames": [
+          "Velvet tree",
+          "Koster's curse",
+          "Curse"
+        ],
+        "gbifId": "9404220",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "77164247-1"
+      }
+    ]
+  },
+  {
     "imageHash": "4827878cc3b6cd03",
     "latLng": {
       "lat": 6.918872222222222,
@@ -2156,6 +2505,64 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": ""
+      }
+    ]
+  },
+  {
+    "imageHash": "b4c23da62810bc7c",
+    "latLng": {
+      "lat": 7.255433333333333,
+      "lng": 80.6195361111111
+    },
+    "source": "exif",
+    "utImageTaken": 1780204358,
+    "timeImageTaken": "2026-05-31 05:12:38",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.7748,
+        "species": "Hydrangea macrophylla (Thunb.) Ser.",
+        "genus": "Hydrangea",
+        "family": "Hydrangeaceae",
+        "commonNames": [
+          "Hydrangea",
+          "Hortensia",
+          "Bigleaf Hydrangea"
+        ],
+        "gbifId": "2985994",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "791637-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "138d63563dc10e0a",
+    "latLng": {
+      "lat": 7.255258333333333,
+      "lng": 80.61905555555555
+    },
+    "source": "exif",
+    "utImageTaken": 1780204506,
+    "timeImageTaken": "2026-05-31 05:15:06",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.87578,
+        "species": "Pachystachys lutea Nees",
+        "genus": "Pachystachys",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Golden shrimp-plant",
+          "Yellow shrimp-plant",
+          "Golden-candle"
+        ],
+        "gbifId": "3778625",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "52814-1"
       }
     ]
   },
@@ -2461,6 +2868,35 @@
     ]
   },
   {
+    "imageHash": "fcf2c49e5ab566e2",
+    "latLng": {
+      "lat": 7.256022222222223,
+      "lng": 80.61955277777777
+    },
+    "source": "exif",
+    "utImageTaken": 1780203517,
+    "timeImageTaken": "2026-05-31 04:58:37",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.54643,
+        "species": "Phanera kockiana (Korth.) Benth.",
+        "genus": "Phanera",
+        "family": "Fabaceae",
+        "commonNames": [
+          "Kock's bauhinia",
+          "Bauhinia Kockiana",
+          "Ketup-ketup"
+        ],
+        "gbifId": "2953058",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "513543-1"
+      }
+    ]
+  },
+  {
     "imageHash": "aa89e163e720411d",
     "latLng": {
       "lat": 6.91295,
@@ -2577,6 +3013,50 @@
     ]
   },
   {
+    "imageHash": "e19b216a723200cd",
+    "latLng": {
+      "lat": 7.256538888888889,
+      "lng": 80.61959166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1780204076,
+    "timeImageTaken": "2026-05-31 05:07:56",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.13509,
+        "species": "Quercus suber L.",
+        "genus": "Quercus",
+        "family": "Fagaceae",
+        "commonNames": [
+          "Cork oak",
+          "Sûr",
+          "Cork bark oak"
+        ],
+        "gbifId": "2879411",
+        "iucnId": "194237",
+        "iucnCategory": "LC",
+        "powoId": "296785-1"
+      },
+      {
+        "confidence": 0.11131,
+        "species": "Buxus sempervirens L.",
+        "genus": "Buxus",
+        "family": "Buxaceae",
+        "commonNames": [
+          "Common boxwood",
+          "Box",
+          "Caucasian boxwood"
+        ],
+        "gbifId": "2984671",
+        "iucnId": "202944",
+        "iucnCategory": "LC",
+        "powoId": "340317-1"
+      }
+    ]
+  },
+  {
     "imageHash": "f56ce6f1ec6dee31",
     "latLng": {
       "lat": 6.912897222222223,
@@ -2659,6 +3139,35 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "60456391-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "dcf5648a341791cf",
+    "latLng": {
+      "lat": 7.255441666666667,
+      "lng": 80.61953055555554
+    },
+    "source": "exif",
+    "utImageTaken": 1780204361,
+    "timeImageTaken": "2026-05-31 05:12:41",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.89883,
+        "species": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult.",
+        "genus": "Tabernaemontana",
+        "family": "Apocynaceae",
+        "commonNames": [
+          "Crape-jasmine",
+          "কাঠ মালতি",
+          "Butterfly-gardenia"
+        ],
+        "gbifId": "3169625",
+        "iucnId": "149853146",
+        "iucnCategory": "LC",
+        "powoId": "82097-1"
       }
     ]
   },
@@ -2999,6 +3508,35 @@
     ]
   },
   {
+    "imageHash": "11ec3e6be7aef35c",
+    "latLng": {
+      "lat": 7.253555555555556,
+      "lng": 80.62001111111111
+    },
+    "source": "exif",
+    "utImageTaken": 1780202318,
+    "timeImageTaken": "2026-05-31 04:38:38",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.36685,
+        "species": "Impatiens flaccida Arn.",
+        "genus": "Impatiens",
+        "family": "Balsaminaceae",
+        "commonNames": [
+          "South Indian balsam",
+          "Pink orchid balsam",
+          "Busy lizzy"
+        ],
+        "gbifId": "4193555",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "374090-1"
+      }
+    ]
+  },
+  {
     "imageHash": "df3ce15a4da1a2ad",
     "latLng": {
       "lat": 37.47770277777778,
@@ -3126,6 +3664,50 @@
         "iucnId": "169274250",
         "iucnCategory": "LC",
         "powoId": "50237-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "cfc1adfe52641c33",
+    "latLng": {
+      "lat": 7.255422222222222,
+      "lng": 80.61936944444444
+    },
+    "source": "exif",
+    "utImageTaken": 1780204401,
+    "timeImageTaken": "2026-05-31 05:13:21",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.74912,
+        "species": "Canna indica L.",
+        "genus": "Canna",
+        "family": "Cannaceae",
+        "commonNames": [
+          "Canna lily",
+          "Indian-shot",
+          "Canna"
+        ],
+        "gbifId": "8034409",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "319130-2"
+      },
+      {
+        "confidence": 0.17887,
+        "species": "Canna × hybrida Rodigas",
+        "genus": "Canna",
+        "family": "Cannaceae",
+        "commonNames": [
+          "Canna Lily",
+          "Hybrid Canna Lily",
+          "Garden Canna"
+        ],
+        "gbifId": "7529533",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "77208084-1"
       }
     ]
   },
@@ -3304,6 +3886,64 @@
     ]
   },
   {
+    "imageHash": "1e1eb87bb74e8e4b",
+    "latLng": {
+      "lat": 7.255952777777778,
+      "lng": 80.61961388888888
+    },
+    "source": "exif",
+    "utImageTaken": 1780203456,
+    "timeImageTaken": "2026-05-31 04:57:36",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.82446,
+        "species": "Persea americana Mill.",
+        "genus": "Persea",
+        "family": "Lauraceae",
+        "commonNames": [
+          "Avocado",
+          "Butter Fruit",
+          "آواکادو"
+        ],
+        "gbifId": "3034046",
+        "iucnId": "96986556",
+        "iucnCategory": "LC",
+        "powoId": "325643-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "04a8009fd6d75774",
+    "latLng": {
+      "lat": 7.255269444444444,
+      "lng": 80.619025
+    },
+    "source": "exif",
+    "utImageTaken": 1780204486,
+    "timeImageTaken": "2026-05-31 05:14:46",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.84186,
+        "species": "Euphorbia hypericifolia L.",
+        "genus": "Euphorbia",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Chickenweed",
+          "Graceful Sandmat",
+          "Pillpod euphorbia"
+        ],
+        "gbifId": "3066321",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "101671-2"
+      }
+    ]
+  },
+  {
     "imageHash": "b9fb344a38edbe4f",
     "latLng": {
       "lat": 6.912972222222223,
@@ -3460,6 +4100,35 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "732029-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "0b7fc096b03a9cf9",
+    "latLng": {
+      "lat": 7.256786111111111,
+      "lng": 80.61961388888888
+    },
+    "source": "exif",
+    "utImageTaken": 1780204015,
+    "timeImageTaken": "2026-05-31 05:06:55",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.8377,
+        "species": "Odontonema cuspidatum (Nees) Kuntze",
+        "genus": "Odontonema",
+        "family": "Acanthaceae",
+        "commonNames": [
+          "Scarlet firespike",
+          "Cardinal's-crest",
+          "Cardinal-flower"
+        ],
+        "gbifId": "5415341",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "1210381-2"
       }
     ]
   },

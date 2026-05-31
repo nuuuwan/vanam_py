@@ -1,0 +1,334 @@
+{
+  "hash": "c386ca0035f9025f",
+  "image_metadata": {
+    "imageHash": "c386ca0035f9025f",
+    "imageLocation": {
+      "latitude": 7.256777777777778,
+      "longitude": 80.61960555555555,
+      "accuracy": 3.288879305697806,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780203752,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/c386ca0035f9025f.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "32a91f1ce3bdbf9a6f5b261cdccffd2e"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "32a91f1ce3bdbf9a6f5b261cdccffd2e",
+        "filename": "c386ca0035f9025f.png",
+        "organ": "flower",
+        "score": 0.72807
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Odontonema cuspidatum (Nees) Kuntze",
+    "results": [
+      {
+        "score": 0.77051,
+        "species": {
+          "scientificNameWithoutAuthor": "Odontonema cuspidatum",
+          "scientificNameAuthorship": "(Nees) Kuntze",
+          "genus": {
+            "scientificNameWithoutAuthor": "Odontonema",
+            "scientificNameAuthorship": "",
+            "scientificName": "Odontonema"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Scarlet firespike",
+            "Cardinal's-crest",
+            "Cardinal-flower"
+          ],
+          "scientificName": "Odontonema cuspidatum (Nees) Kuntze"
+        },
+        "gbif": {
+          "id": "5415341"
+        },
+        "powo": {
+          "id": "1210381-2"
+        }
+      },
+      {
+        "score": 0.10839,
+        "species": {
+          "scientificNameWithoutAuthor": "Odontonema tubaeforme",
+          "scientificNameAuthorship": "(Bertol.) Kuntze",
+          "genus": {
+            "scientificNameWithoutAuthor": "Odontonema",
+            "scientificNameAuthorship": "",
+            "scientificName": "Odontonema"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Cardinal's guard flower",
+            "Fire spike",
+            "Brazilian Firespike"
+          ],
+          "scientificName": "Odontonema tubaeforme (Bertol.) Kuntze"
+        },
+        "gbif": {
+          "id": "5575932"
+        },
+        "powo": {
+          "id": "172486-2"
+        }
+      },
+      {
+        "score": 0.00378,
+        "species": {
+          "scientificNameWithoutAuthor": "Aphelandra longiflora",
+          "scientificNameAuthorship": "(Lindl.) Profice",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aphelandra",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aphelandra"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Aphelandra longiflora (Lindl.) Profice"
+        },
+        "gbif": {
+          "id": "3778472"
+        },
+        "powo": {
+          "id": "77079304-1"
+        }
+      },
+      {
+        "score": 0.00299,
+        "species": {
+          "scientificNameWithoutAuthor": "Hamelia patens",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hamelia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hamelia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rubiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rubiaceae"
+          },
+          "commonNames": [
+            "Fire bush",
+            "Redhead",
+            "Scarletbush"
+          ],
+          "scientificName": "Hamelia patens Jacq."
+        },
+        "gbif": {
+          "id": "2902066"
+        },
+        "powo": {
+          "id": "752194-1"
+        },
+        "iucn": {
+          "id": "136789578",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00163,
+        "species": {
+          "scientificNameWithoutAuthor": "Odontonema callistachyum",
+          "scientificNameAuthorship": "(Schltdl. & Cham.) Kuntze",
+          "genus": {
+            "scientificNameWithoutAuthor": "Odontonema",
+            "scientificNameAuthorship": "",
+            "scientificName": "Odontonema"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Firespike",
+            "Mexican firespike",
+            "Brazilian Firespike"
+          ],
+          "scientificName": "Odontonema callistachyum (Schltdl. & Cham.) Kuntze"
+        },
+        "gbif": {
+          "id": "5576250"
+        },
+        "powo": {
+          "id": "172444-2"
+        }
+      },
+      {
+        "score": 0.00162,
+        "species": {
+          "scientificNameWithoutAuthor": "Scutellaria costaricana",
+          "scientificNameAuthorship": "H.Wendl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Scutellaria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Scutellaria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Costa Rican skullcap",
+            "Dragon's tears",
+            "Helmet flower"
+          ],
+          "scientificName": "Scutellaria costaricana H.Wendl."
+        },
+        "gbif": {
+          "id": "5609675"
+        },
+        "powo": {
+          "id": "458224-1"
+        }
+      },
+      {
+        "score": 0.00154,
+        "species": {
+          "scientificNameWithoutAuthor": "Pachystachys coccinea",
+          "scientificNameAuthorship": "(Aubl.) Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pachystachys",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pachystachys"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Cardinal's-guard",
+            "Red Pachystachys",
+            "Scarlet Pachystachys"
+          ],
+          "scientificName": "Pachystachys coccinea (Aubl.) Nees"
+        },
+        "gbif": {
+          "id": "3778711"
+        },
+        "powo": {
+          "id": "52812-1"
+        }
+      },
+      {
+        "score": 0.00111,
+        "species": {
+          "scientificNameWithoutAuthor": "Scutellaria coccinea",
+          "scientificNameAuthorship": "Kunth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Scutellaria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Scutellaria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Scutellaria coccinea Kunth"
+        },
+        "gbif": {
+          "id": "5609740"
+        },
+        "powo": {
+          "id": "318268-2"
+        }
+      },
+      {
+        "score": 0.00106,
+        "species": {
+          "scientificNameWithoutAuthor": "Justicia carnea",
+          "scientificNameAuthorship": "Lindl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Justicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Justicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Brazilian-plume",
+            "Flamingo-flower",
+            "Plumeflower"
+          ],
+          "scientificName": "Justicia carnea Lindl."
+        },
+        "gbif": {
+          "id": "3770188"
+        },
+        "powo": {
+          "id": "132826-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 436
+  },
+  "nominatim_data": {
+    "place_id": 254210146,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2567675",
+    "lon": "80.6196511",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

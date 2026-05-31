@@ -1,0 +1,369 @@
+{
+  "hash": "a29bc2f2a2937f82",
+  "image_metadata": {
+    "imageHash": "a29bc2f2a2937f82",
+    "imageLocation": {
+      "latitude": 7.2562,
+      "longitude": 80.61959166666666,
+      "accuracy": 2.485028324790936,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780203562,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/a29bc2f2a2937f82.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "1b51b7167f85091bbd1287105f01ed77"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "1b51b7167f85091bbd1287105f01ed77",
+        "filename": "a29bc2f2a2937f82.png",
+        "organ": "flower",
+        "score": 0.47094
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Megaskepasma erythrochlamys Lindau",
+    "results": [
+      {
+        "score": 0.17298,
+        "species": {
+          "scientificNameWithoutAuthor": "Megaskepasma erythrochlamys",
+          "scientificNameAuthorship": "Lindau",
+          "genus": {
+            "scientificNameWithoutAuthor": "Megaskepasma",
+            "scientificNameAuthorship": "",
+            "scientificName": "Megaskepasma"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Brazilian red-cloak",
+            "Red-cloak",
+            "Red justicia"
+          ],
+          "scientificName": "Megaskepasma erythrochlamys Lindau"
+        },
+        "gbif": {
+          "id": "3773061"
+        },
+        "powo": {
+          "id": "155854-2"
+        }
+      },
+      {
+        "score": 0.00597,
+        "species": {
+          "scientificNameWithoutAuthor": "Lobelia cardinalis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lobelia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lobelia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Campanulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Campanulaceae"
+          },
+          "commonNames": [
+            "Cardinal Flower",
+            "Scarlet lobelia",
+            "Red Cardinal Flower"
+          ],
+          "scientificName": "Lobelia cardinalis L."
+        },
+        "gbif": {
+          "id": "5408269"
+        },
+        "powo": {
+          "id": "142115-2"
+        },
+        "iucn": {
+          "id": "64317175",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00482,
+        "species": {
+          "scientificNameWithoutAuthor": "Salvia coccinea",
+          "scientificNameAuthorship": "Buc'hoz ex Etl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Salvia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salvia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Red salvia",
+            "Texas sage",
+            "Tropical sage"
+          ],
+          "scientificName": "Salvia coccinea Buc'hoz ex Etl."
+        },
+        "gbif": {
+          "id": "9278365"
+        },
+        "powo": {
+          "id": "455978-1"
+        }
+      },
+      {
+        "score": 0.0038,
+        "species": {
+          "scientificNameWithoutAuthor": "Pachystachys coccinea",
+          "scientificNameAuthorship": "(Aubl.) Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pachystachys",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pachystachys"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Cardinal's-guard",
+            "Red Pachystachys",
+            "Scarlet Pachystachys"
+          ],
+          "scientificName": "Pachystachys coccinea (Aubl.) Nees"
+        },
+        "gbif": {
+          "id": "3778711"
+        },
+        "powo": {
+          "id": "52812-1"
+        }
+      },
+      {
+        "score": 0.00285,
+        "species": {
+          "scientificNameWithoutAuthor": "Salvia splendens",
+          "scientificNameAuthorship": "Sellow ex Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Salvia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Salvia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Bonfire salvia",
+            "Scarlet sage",
+            "Tropical sage"
+          ],
+          "scientificName": "Salvia splendens Sellow ex Nees"
+        },
+        "gbif": {
+          "id": "8249932"
+        },
+        "powo": {
+          "id": "60466516-2"
+        }
+      },
+      {
+        "score": 0.00259,
+        "species": {
+          "scientificNameWithoutAuthor": "Justicia brandegeeana",
+          "scientificNameAuthorship": "Wassh. & L.B.Sm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Justicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Justicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Shrimp Plant",
+            "False hop",
+            "Honolulu-salvia"
+          ],
+          "scientificName": "Justicia brandegeeana Wassh. & L.B.Sm."
+        },
+        "gbif": {
+          "id": "3173122"
+        },
+        "powo": {
+          "id": "289220-2"
+        }
+      },
+      {
+        "score": 0.00203,
+        "species": {
+          "scientificNameWithoutAuthor": "Fumaria agraria",
+          "scientificNameAuthorship": "Lag.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Fumaria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fumaria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Papaveraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Papaveraceae"
+          },
+          "commonNames": [
+            "Field Fumitory"
+          ],
+          "scientificName": "Fumaria agraria Lag."
+        },
+        "gbif": {
+          "id": "5531376"
+        },
+        "powo": {
+          "id": "672858-1"
+        }
+      },
+      {
+        "score": 0.00193,
+        "species": {
+          "scientificNameWithoutAuthor": "Graptophyllum pictum",
+          "scientificNameAuthorship": "(L.) Griff.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Graptophyllum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Graptophyllum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Caricature-plant",
+            "Karotong",
+            "Temen"
+          ],
+          "scientificName": "Graptophyllum pictum (L.) Griff."
+        },
+        "gbif": {
+          "id": "3173137"
+        },
+        "powo": {
+          "id": "49186-1"
+        }
+      },
+      {
+        "score": 0.00169,
+        "species": {
+          "scientificNameWithoutAuthor": "Acalypha hispida",
+          "scientificNameAuthorship": "Burm.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Acalypha",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acalypha"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Red-hot cat's tail",
+            "Chenilleplant",
+            "Philippine-medusa"
+          ],
+          "scientificName": "Acalypha hispida Burm.f."
+        },
+        "gbif": {
+          "id": "3056375"
+        },
+        "powo": {
+          "id": "337478-1"
+        }
+      },
+      {
+        "score": 0.00139,
+        "species": {
+          "scientificNameWithoutAuthor": "Begonia grandis",
+          "scientificNameAuthorship": "Dryand.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Begonia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Begonia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Begoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Begoniaceae"
+          },
+          "commonNames": [
+            "Hardy begonia",
+            "Begonia",
+            "Grand Begonia"
+          ],
+          "scientificName": "Begonia grandis Dryand."
+        },
+        "gbif": {
+          "id": "8414451"
+        },
+        "powo": {
+          "id": "60458941-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 442
+  },
+  "nominatim_data": {
+    "place_id": 255510731,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2562129",
+    "lon": "80.6196428",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

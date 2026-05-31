@@ -1,0 +1,346 @@
+{
+  "hash": "22ad0fec46fc1ef0",
+  "image_metadata": {
+    "imageHash": "22ad0fec46fc1ef0",
+    "imageLocation": {
+      "latitude": 7.256563888888889,
+      "longitude": 80.61964444444443,
+      "accuracy": 4.806942187137219,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780203705,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/22ad0fec46fc1ef0.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "126d16b2aebffdb79790c538d1a0a1f4"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "126d16b2aebffdb79790c538d1a0a1f4",
+        "filename": "22ad0fec46fc1ef0.png",
+        "organ": "leaf",
+        "score": 0.74145
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Miconia crenata (Vahl) Michelang.",
+    "results": [
+      {
+        "score": 0.90268,
+        "species": {
+          "scientificNameWithoutAuthor": "Miconia crenata",
+          "scientificNameAuthorship": "(Vahl) Michelang.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Miconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Miconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [
+            "Velvet tree",
+            "Koster's curse",
+            "Curse"
+          ],
+          "scientificName": "Miconia crenata (Vahl) Michelang."
+        },
+        "gbif": {
+          "id": "9404220"
+        },
+        "powo": {
+          "id": "77164247-1"
+        }
+      },
+      {
+        "score": 0.00383,
+        "species": {
+          "scientificNameWithoutAuthor": "Miconia triplinervis",
+          "scientificNameAuthorship": "Ruiz & Pav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Miconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Miconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [],
+          "scientificName": "Miconia triplinervis Ruiz & Pav."
+        },
+        "gbif": {
+          "id": "3863767"
+        },
+        "powo": {
+          "id": "159880-2"
+        },
+        "iucn": {
+          "id": "146787523",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00271,
+        "species": {
+          "scientificNameWithoutAuthor": "Triolena pustulata",
+          "scientificNameAuthorship": "Triana",
+          "genus": {
+            "scientificNameWithoutAuthor": "Triolena",
+            "scientificNameAuthorship": "",
+            "scientificName": "Triolena"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [],
+          "scientificName": "Triolena pustulata Triana"
+        },
+        "gbif": {
+          "id": "5601031"
+        },
+        "powo": {
+          "id": "576778-1"
+        },
+        "iucn": {
+          "id": "45487",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00133,
+        "species": {
+          "scientificNameWithoutAuthor": "Miconia subseriata",
+          "scientificNameAuthorship": "(Naudin) R.Goldenb. & Michelang.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Miconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Miconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [],
+          "scientificName": "Miconia subseriata (Naudin) R.Goldenb. & Michelang."
+        },
+        "gbif": {
+          "id": "10782427"
+        },
+        "powo": {
+          "id": "77207614-1"
+        }
+      },
+      {
+        "score": 0.00121,
+        "species": {
+          "scientificNameWithoutAuthor": "Miconia racemosa",
+          "scientificNameAuthorship": "(Aubl.) DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Miconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Miconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [
+            "Camasey-Felpa"
+          ],
+          "scientificName": "Miconia racemosa (Aubl.) DC."
+        },
+        "gbif": {
+          "id": "3188564"
+        },
+        "powo": {
+          "id": "1158780-2"
+        },
+        "iucn": {
+          "id": "144280838",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00116,
+        "species": {
+          "scientificNameWithoutAuthor": "Besleria lutea",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Besleria",
+            "scientificNameAuthorship": "",
+            "scientificName": "Besleria"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Gesneriaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gesneriaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Besleria lutea L."
+        },
+        "gbif": {
+          "id": "6365866"
+        },
+        "powo": {
+          "id": "319081-2"
+        }
+      },
+      {
+        "score": 0.00115,
+        "species": {
+          "scientificNameWithoutAuthor": "Miconia multispicata",
+          "scientificNameAuthorship": "Naudin",
+          "genus": {
+            "scientificNameWithoutAuthor": "Miconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Miconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [],
+          "scientificName": "Miconia multispicata Naudin"
+        },
+        "gbif": {
+          "id": "3860116"
+        },
+        "powo": {
+          "id": "323245-2"
+        },
+        "iucn": {
+          "id": "150003911",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00113,
+        "species": {
+          "scientificNameWithoutAuthor": "Cryptocarya macrocarpa",
+          "scientificNameAuthorship": "Guillaumin",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cryptocarya",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cryptocarya"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lauraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lauraceae"
+          },
+          "commonNames": [],
+          "scientificName": "Cryptocarya macrocarpa Guillaumin"
+        },
+        "gbif": {
+          "id": "4175602"
+        },
+        "powo": {
+          "id": "463989-1"
+        }
+      },
+      {
+        "score": 0.0011,
+        "species": {
+          "scientificNameWithoutAuthor": "Ficus pancheriana",
+          "scientificNameAuthorship": "Bureau",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ficus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ficus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Moraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Moraceae"
+          },
+          "commonNames": [],
+          "scientificName": "Ficus pancheriana Bureau"
+        },
+        "gbif": {
+          "id": "5570033"
+        },
+        "powo": {
+          "id": "853365-1"
+        }
+      },
+      {
+        "score": 0.00101,
+        "species": {
+          "scientificNameWithoutAuthor": "Miconia ibaguensis",
+          "scientificNameAuthorship": "(Bonpl.) Triana",
+          "genus": {
+            "scientificNameWithoutAuthor": "Miconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Miconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [],
+          "scientificName": "Miconia ibaguensis (Bonpl.) Triana"
+        },
+        "gbif": {
+          "id": "3863925"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 454
+  },
+  "nominatim_data": {
+    "place_id": 254210146,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2565668",
+    "lon": "80.6196226",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

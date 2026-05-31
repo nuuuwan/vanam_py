@@ -1,0 +1,280 @@
+{
+  "hash": "4475940207e2041e",
+  "image_metadata": {
+    "imageHash": "4475940207e2041e",
+    "imageLocation": {
+      "latitude": 7.255991666666667,
+      "longitude": 80.61955277777777,
+      "accuracy": 2.566295506594014,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780203485,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/4475940207e2041e.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "d1c5c0df0a46c3b8adcdbbcb1883dcd1"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "d1c5c0df0a46c3b8adcdbbcb1883dcd1",
+        "filename": "4475940207e2041e.png",
+        "organ": "flower",
+        "score": 0.78228
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Allamanda cathartica L.",
+    "results": [
+      {
+        "score": 0.83297,
+        "species": {
+          "scientificNameWithoutAuthor": "Allamanda cathartica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Allamanda",
+            "scientificNameAuthorship": "",
+            "scientificName": "Allamanda"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Golden-trumpet",
+            "Allamanda",
+            "Yellow allamanda"
+          ],
+          "scientificName": "Allamanda cathartica L."
+        },
+        "gbif": {
+          "id": "3169836"
+        },
+        "powo": {
+          "id": "319065-2"
+        }
+      },
+      {
+        "score": 0.06495,
+        "species": {
+          "scientificNameWithoutAuthor": "Allamanda schottii",
+          "scientificNameAuthorship": "Pohl",
+          "genus": {
+            "scientificNameWithoutAuthor": "Allamanda",
+            "scientificNameAuthorship": "",
+            "scientificName": "Allamanda"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Bush allamanda",
+            "Golden trumpet",
+            "Shrub allamanda"
+          ],
+          "scientificName": "Allamanda schottii Pohl"
+        },
+        "gbif": {
+          "id": "3169838"
+        },
+        "powo": {
+          "id": "76487-1"
+        }
+      },
+      {
+        "score": 0.00528,
+        "species": {
+          "scientificNameWithoutAuthor": "Allamanda blanchetii",
+          "scientificNameAuthorship": "A.DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Allamanda",
+            "scientificNameAuthorship": "",
+            "scientificName": "Allamanda"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Purple allamanda",
+            "Violet allamanda",
+            "Hanchinal"
+          ],
+          "scientificName": "Allamanda blanchetii A.DC."
+        },
+        "gbif": {
+          "id": "3169835"
+        },
+        "powo": {
+          "id": "76468-1"
+        }
+      },
+      {
+        "score": 0.00417,
+        "species": {
+          "scientificNameWithoutAuthor": "Dolichandra unguis-cati",
+          "scientificNameAuthorship": "(L.) L.G.Lohmann",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dolichandra",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dolichandra"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Bignoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bignoniaceae"
+          },
+          "commonNames": [
+            "Golden-shower",
+            "Cat's Claw",
+            "Cat-claw"
+          ],
+          "scientificName": "Dolichandra unguis-cati (L.) L.G.Lohmann"
+        },
+        "gbif": {
+          "id": "5830619"
+        },
+        "powo": {
+          "id": "77100466-1"
+        }
+      },
+      {
+        "score": 0.00318,
+        "species": {
+          "scientificNameWithoutAuthor": "Tecoma stans",
+          "scientificNameAuthorship": "(L.) Juss. ex Kunth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tecoma",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tecoma"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Bignoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bignoniaceae"
+          },
+          "commonNames": [
+            "Yellow-bells",
+            "Yellow trumpet flower",
+            "Esperanza"
+          ],
+          "scientificName": "Tecoma stans (L.) Juss. ex Kunth"
+        },
+        "gbif": {
+          "id": "3172492"
+        },
+        "powo": {
+          "id": "111284-1"
+        },
+        "iucn": {
+          "id": "82858855",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00141,
+        "species": {
+          "scientificNameWithoutAuthor": "Allamanda doniana",
+          "scientificNameAuthorship": "Müll.Arg.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Allamanda",
+            "scientificNameAuthorship": "",
+            "scientificName": "Allamanda"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Allamanda doniana Müll.Arg."
+        },
+        "gbif": {
+          "id": "3618045"
+        },
+        "powo": {
+          "id": "76472-1"
+        }
+      },
+      {
+        "score": 0.00125,
+        "species": {
+          "scientificNameWithoutAuthor": "Campsis grandiflora",
+          "scientificNameAuthorship": "(Thunb.) K.Schum.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Campsis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Campsis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Bignoniaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bignoniaceae"
+          },
+          "commonNames": [
+            "Chinese trumpet-creeper",
+            "Chinese trumpet vine",
+            "Chinese trumpet flower"
+          ],
+          "scientificName": "Campsis grandiflora (Thunb.) K.Schum."
+        },
+        "gbif": {
+          "id": "4094511"
+        },
+        "powo": {
+          "id": "109136-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 451
+  },
+  "nominatim_data": {
+    "place_id": 255510731,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2559804",
+    "lon": "80.6195883",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

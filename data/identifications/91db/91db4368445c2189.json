@@ -1,0 +1,219 @@
+{
+  "hash": "91db4368445c2189",
+  "image_metadata": {
+    "imageHash": "91db4368445c2189",
+    "imageLocation": {
+      "latitude": 7.255416666666667,
+      "longitude": 80.6194,
+      "accuracy": 2.8096926358801793,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780204388,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/91db4368445c2189.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "bdeefa3f9b67a200499e06fed0126a3b"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "bdeefa3f9b67a200499e06fed0126a3b",
+        "filename": "91db4368445c2189.png",
+        "organ": "flower",
+        "score": 0.60886
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Canna indica L.",
+    "results": [
+      {
+        "score": 0.58601,
+        "species": {
+          "scientificNameWithoutAuthor": "Canna indica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Canna",
+            "scientificNameAuthorship": "",
+            "scientificName": "Canna"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cannaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cannaceae"
+          },
+          "commonNames": [
+            "Canna lily",
+            "Indian-shot",
+            "Canna"
+          ],
+          "scientificName": "Canna indica L."
+        },
+        "gbif": {
+          "id": "8034409"
+        },
+        "powo": {
+          "id": "319130-2"
+        }
+      },
+      {
+        "score": 0.33371,
+        "species": {
+          "scientificNameWithoutAuthor": "Canna × hybrida",
+          "scientificNameAuthorship": "Rodigas",
+          "genus": {
+            "scientificNameWithoutAuthor": "Canna",
+            "scientificNameAuthorship": "",
+            "scientificName": "Canna"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cannaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cannaceae"
+          },
+          "commonNames": [
+            "Canna Lily",
+            "Hybrid Canna Lily",
+            "Garden Canna"
+          ],
+          "scientificName": "Canna × hybrida Rodigas"
+        },
+        "gbif": {
+          "id": "7529533"
+        },
+        "powo": {
+          "id": "77208084-1"
+        }
+      },
+      {
+        "score": 0.00428,
+        "species": {
+          "scientificNameWithoutAuthor": "Gladiolus dalenii",
+          "scientificNameAuthorship": "Van Geel",
+          "genus": {
+            "scientificNameWithoutAuthor": "Gladiolus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gladiolus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Iridaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Iridaceae"
+          },
+          "commonNames": [
+            "Maid-of-the-mist",
+            "Dragon's-head-lily",
+            "Natal-lily"
+          ],
+          "scientificName": "Gladiolus dalenii Van Geel"
+        },
+        "gbif": {
+          "id": "2750406"
+        },
+        "powo": {
+          "id": "437402-1"
+        }
+      },
+      {
+        "score": 0.00273,
+        "species": {
+          "scientificNameWithoutAuthor": "Canna iridiflora",
+          "scientificNameAuthorship": "Ruiz & Pav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Canna",
+            "scientificNameAuthorship": "",
+            "scientificName": "Canna"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cannaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cannaceae"
+          },
+          "commonNames": [
+            "Peruvian Canna"
+          ],
+          "scientificName": "Canna iridiflora Ruiz & Pav."
+        },
+        "gbif": {
+          "id": "5303127"
+        },
+        "powo": {
+          "id": "796025-1"
+        }
+      },
+      {
+        "score": 0.00107,
+        "species": {
+          "scientificNameWithoutAuthor": "Sanchezia oblonga",
+          "scientificNameAuthorship": "Ruiz & Pav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Sanchezia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sanchezia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Shrubby Whitevein",
+            "Brilliant-flowered sanchezia"
+          ],
+          "scientificName": "Sanchezia oblonga Ruiz & Pav."
+        },
+        "gbif": {
+          "id": "3778854"
+        },
+        "powo": {
+          "id": "54890-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 447
+  },
+  "nominatim_data": {
+    "place_id": 254022557,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2553365",
+    "lon": "80.6196488",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

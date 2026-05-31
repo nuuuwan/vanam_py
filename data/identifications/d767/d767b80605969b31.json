@@ -1,0 +1,369 @@
+{
+  "hash": "d767b80605969b31",
+  "image_metadata": {
+    "imageHash": "d767b80605969b31",
+    "imageLocation": {
+      "latitude": 7.256566666666667,
+      "longitude": 80.61964444444443,
+      "accuracy": 4.62761485826002,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780203701,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/d767b80605969b31.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "262751acbb56ac132acdbd72f7761a60"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "262751acbb56ac132acdbd72f7761a60",
+        "filename": "d767b80605969b31.png",
+        "organ": "habit",
+        "score": 0.42559
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Commelina erecta L.",
+    "results": [
+      {
+        "score": 0.22659,
+        "species": {
+          "scientificNameWithoutAuthor": "Commelina erecta",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Commelina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [
+            "Blue Commelina",
+            "Day flower",
+            "Erect dayflower"
+          ],
+          "scientificName": "Commelina erecta L."
+        },
+        "gbif": {
+          "id": "2764389"
+        },
+        "powo": {
+          "id": "172048-1"
+        },
+        "iucn": {
+          "id": "176972",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.05937,
+        "species": {
+          "scientificNameWithoutAuthor": "Commelina diffusa",
+          "scientificNameAuthorship": "Burm.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Commelina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [
+            "Climbing dayflower",
+            "Spreading dayflower",
+            "Birdbill Dayflower"
+          ],
+          "scientificName": "Commelina diffusa Burm.f."
+        },
+        "gbif": {
+          "id": "2764202"
+        },
+        "powo": {
+          "id": "172020-1"
+        },
+        "iucn": {
+          "id": "177028",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.05024,
+        "species": {
+          "scientificNameWithoutAuthor": "Commelina communis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Commelina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [
+            "Dayflower",
+            "Asiatic dayflower",
+            "Wandering Jew"
+          ],
+          "scientificName": "Commelina communis L."
+        },
+        "gbif": {
+          "id": "2764179"
+        },
+        "powo": {
+          "id": "319150-2"
+        }
+      },
+      {
+        "score": 0.05,
+        "species": {
+          "scientificNameWithoutAuthor": "Commelina benghalensis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Commelina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [
+            "Benghal dayflower",
+            "Wandering-Jew",
+            "Hairy wandering-Jew"
+          ],
+          "scientificName": "Commelina benghalensis L."
+        },
+        "gbif": {
+          "id": "2763941"
+        },
+        "powo": {
+          "id": "332090-2"
+        },
+        "iucn": {
+          "id": "177240",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02384,
+        "species": {
+          "scientificNameWithoutAuthor": "Commelina bracteosa",
+          "scientificNameAuthorship": "Hassk.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Commelina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Commelina bracteosa Hassk."
+        },
+        "gbif": {
+          "id": "2764194"
+        },
+        "powo": {
+          "id": "171937-1"
+        }
+      },
+      {
+        "score": 0.01755,
+        "species": {
+          "scientificNameWithoutAuthor": "Commelina latifolia",
+          "scientificNameAuthorship": "Hochst. ex A.Rich.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Commelina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [
+            "Enkaiteteiyiai in Masai"
+          ],
+          "scientificName": "Commelina latifolia Hochst. ex A.Rich."
+        },
+        "gbif": {
+          "id": "2764087"
+        },
+        "powo": {
+          "id": "172152-1"
+        }
+      },
+      {
+        "score": 0.01385,
+        "species": {
+          "scientificNameWithoutAuthor": "Commelina tuberosa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Commelina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [
+            "Commelina",
+            "Blue Spiderwort",
+            "Bakhaxiu"
+          ],
+          "scientificName": "Commelina tuberosa L."
+        },
+        "gbif": {
+          "id": "2763962"
+        },
+        "powo": {
+          "id": "302798-2"
+        }
+      },
+      {
+        "score": 0.01384,
+        "species": {
+          "scientificNameWithoutAuthor": "Commelina obliqua",
+          "scientificNameAuthorship": "Vahl",
+          "genus": {
+            "scientificNameWithoutAuthor": "Commelina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Commelina obliqua Vahl"
+        },
+        "gbif": {
+          "id": "2764337"
+        },
+        "powo": {
+          "id": "63900-2"
+        }
+      },
+      {
+        "score": 0.00912,
+        "species": {
+          "scientificNameWithoutAuthor": "Miconia crenata",
+          "scientificNameAuthorship": "(Vahl) Michelang.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Miconia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Miconia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Melastomataceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Melastomataceae"
+          },
+          "commonNames": [
+            "Velvet tree",
+            "Koster's curse",
+            "Curse"
+          ],
+          "scientificName": "Miconia crenata (Vahl) Michelang."
+        },
+        "gbif": {
+          "id": "9404220"
+        },
+        "powo": {
+          "id": "77164247-1"
+        }
+      },
+      {
+        "score": 0.00905,
+        "species": {
+          "scientificNameWithoutAuthor": "Commelina virginica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Commelina",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelina"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Commelinaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Commelinaceae"
+          },
+          "commonNames": [
+            "Virginia Dayflower",
+            "Funchweed",
+            "Virginian dayflower"
+          ],
+          "scientificName": "Commelina virginica L."
+        },
+        "gbif": {
+          "id": "2764028"
+        },
+        "powo": {
+          "id": "172418-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 433
+  },
+  "nominatim_data": {
+    "place_id": 254022557,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2565695",
+    "lon": "80.6196230",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

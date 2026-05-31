@@ -1,0 +1,366 @@
+{
+  "hash": "fcf2c49e5ab566e2",
+  "image_metadata": {
+    "imageHash": "fcf2c49e5ab566e2",
+    "imageLocation": {
+      "latitude": 7.256022222222223,
+      "longitude": 80.61955277777777,
+      "accuracy": 2.4316539690341608,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780203517,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/fcf2c49e5ab566e2.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "2bb2f134d214c2aff3d8a7c5b4302c22"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "2bb2f134d214c2aff3d8a7c5b4302c22",
+        "filename": "fcf2c49e5ab566e2.png",
+        "organ": "flower",
+        "score": 0.83031
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Phanera kockiana (Korth.) Benth.",
+    "results": [
+      {
+        "score": 0.54643,
+        "species": {
+          "scientificNameWithoutAuthor": "Phanera kockiana",
+          "scientificNameAuthorship": "(Korth.) Benth.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phanera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phanera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Kock's bauhinia",
+            "Bauhinia Kockiana",
+            "Ketup-ketup"
+          ],
+          "scientificName": "Phanera kockiana (Korth.) Benth."
+        },
+        "gbif": {
+          "id": "2953058"
+        },
+        "powo": {
+          "id": "513543-1"
+        }
+      },
+      {
+        "score": 0.00802,
+        "species": {
+          "scientificNameWithoutAuthor": "Phanera bidentata",
+          "scientificNameAuthorship": "(Jack) Benth.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Phanera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Phanera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Pride of Selangor"
+          ],
+          "scientificName": "Phanera bidentata (Jack) Benth."
+        },
+        "gbif": {
+          "id": "2953905"
+        },
+        "powo": {
+          "id": "513502-1"
+        }
+      },
+      {
+        "score": 0.00373,
+        "species": {
+          "scientificNameWithoutAuthor": "Cogniauxia podolaena",
+          "scientificNameAuthorship": "Baill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cogniauxia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cogniauxia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cucurbitaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cucurbitaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Cogniauxia podolaena Baill."
+        },
+        "gbif": {
+          "id": "3623906"
+        },
+        "powo": {
+          "id": "292031-1"
+        }
+      },
+      {
+        "score": 0.00292,
+        "species": {
+          "scientificNameWithoutAuthor": "Senna occidentalis",
+          "scientificNameAuthorship": "(L.) Link",
+          "genus": {
+            "scientificNameWithoutAuthor": "Senna",
+            "scientificNameAuthorship": "",
+            "scientificName": "Senna"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Septicweed",
+            "Antbush",
+            "Coffee senna"
+          ],
+          "scientificName": "Senna occidentalis (L.) Link"
+        },
+        "gbif": {
+          "id": "2957966"
+        },
+        "powo": {
+          "id": "1117728-2"
+        },
+        "iucn": {
+          "id": "130525346",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00282,
+        "species": {
+          "scientificNameWithoutAuthor": "Cheniella corymbosa",
+          "scientificNameAuthorship": "(Roxb. ex DC.) R.Clark & Mackinder",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cheniella",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cheniella"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Climbing bauhinia",
+            "Phanera"
+          ],
+          "scientificName": "Cheniella corymbosa (Roxb. ex DC.) R.Clark & Mackinder"
+        },
+        "gbif": {
+          "id": "10805020"
+        },
+        "powo": {
+          "id": "77165911-1"
+        }
+      },
+      {
+        "score": 0.00277,
+        "species": {
+          "scientificNameWithoutAuthor": "Senna siamea",
+          "scientificNameAuthorship": "(Lam.) H.S.Irwin & Barneby",
+          "genus": {
+            "scientificNameWithoutAuthor": "Senna",
+            "scientificNameAuthorship": "",
+            "scientificName": "Senna"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Yellow cassia",
+            "Ironwood Cassia",
+            "Kassod Tree"
+          ],
+          "scientificName": "Senna siamea (Lam.) H.S.Irwin & Barneby"
+        },
+        "gbif": {
+          "id": "2956905"
+        },
+        "powo": {
+          "id": "911410-1"
+        },
+        "iucn": {
+          "id": "62027907",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00208,
+        "species": {
+          "scientificNameWithoutAuthor": "Stigmaphyllon grandifolium",
+          "scientificNameAuthorship": "(Guillaumin) C.E.Anderson",
+          "genus": {
+            "scientificNameWithoutAuthor": "Stigmaphyllon",
+            "scientificNameAuthorship": "",
+            "scientificName": "Stigmaphyllon"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malpighiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malpighiaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Stigmaphyllon grandifolium (Guillaumin) C.E.Anderson"
+        },
+        "gbif": {
+          "id": "7975591"
+        },
+        "powo": {
+          "id": "77111100-1"
+        }
+      },
+      {
+        "score": 0.00191,
+        "species": {
+          "scientificNameWithoutAuthor": "Cassia leptophylla",
+          "scientificNameAuthorship": "Vogel",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cassia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cassia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Gold medallion tree",
+            "Golden medallion"
+          ],
+          "scientificName": "Cassia leptophylla Vogel"
+        },
+        "gbif": {
+          "id": "5357169"
+        },
+        "powo": {
+          "id": "484754-1"
+        },
+        "iucn": {
+          "id": "149205559",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00165,
+        "species": {
+          "scientificNameWithoutAuthor": "Stigmaphyllon diversifolium",
+          "scientificNameAuthorship": "(Kunth) A.Juss.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Stigmaphyllon",
+            "scientificNameAuthorship": "",
+            "scientificName": "Stigmaphyllon"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malpighiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malpighiaceae"
+          },
+          "commonNames": [
+            "Heartleaf Amazonvine",
+            "Heart-leaf Amazonvine"
+          ],
+          "scientificName": "Stigmaphyllon diversifolium (Kunth) A.Juss."
+        },
+        "gbif": {
+          "id": "3191316"
+        },
+        "powo": {
+          "id": "557496-1"
+        }
+      },
+      {
+        "score": 0.00159,
+        "species": {
+          "scientificNameWithoutAuthor": "Momordica charantia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Momordica",
+            "scientificNameAuthorship": "",
+            "scientificName": "Momordica"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Cucurbitaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cucurbitaceae"
+          },
+          "commonNames": [
+            "Bitter gourd",
+            "Bitter-melon",
+            "Cerasee"
+          ],
+          "scientificName": "Momordica charantia L."
+        },
+        "gbif": {
+          "id": "2874581"
+        },
+        "powo": {
+          "id": "293413-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 429
+  },
+  "nominatim_data": {
+    "place_id": 254022557,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2560081",
+    "lon": "80.6195971",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

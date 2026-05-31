@@ -1,0 +1,359 @@
+{
+  "hash": "11ec3e6be7aef35c",
+  "image_metadata": {
+    "imageHash": "11ec3e6be7aef35c",
+    "imageLocation": {
+      "latitude": 7.253555555555556,
+      "longitude": 80.62001111111111,
+      "accuracy": 3.5753668613762644,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780202318,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/11ec3e6be7aef35c.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "aed159970baf410838c9c5f40770df27"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "aed159970baf410838c9c5f40770df27",
+        "filename": "11ec3e6be7aef35c.png",
+        "organ": "flower",
+        "score": 0.5852
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Impatiens flaccida Arn.",
+    "results": [
+      {
+        "score": 0.36685,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens flaccida",
+          "scientificNameAuthorship": "Arn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "South Indian balsam",
+            "Pink orchid balsam",
+            "Busy lizzy"
+          ],
+          "scientificName": "Impatiens flaccida Arn."
+        },
+        "gbif": {
+          "id": "4193555"
+        },
+        "powo": {
+          "id": "374090-1"
+        }
+      },
+      {
+        "score": 0.06444,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens walleriana",
+          "scientificNameAuthorship": "Hook.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "Busy lizzy",
+            "Impatiens",
+            "Sultan's Balsam"
+          ],
+          "scientificName": "Impatiens walleriana Hook.f."
+        },
+        "gbif": {
+          "id": "2891772"
+        },
+        "powo": {
+          "id": "374419-1"
+        }
+      },
+      {
+        "score": 0.01177,
+        "species": {
+          "scientificNameWithoutAuthor": "Episcia cupreata",
+          "scientificNameAuthorship": "(Hook.) Hanst.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Episcia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Episcia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Gesneriaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gesneriaceae"
+          },
+          "commonNames": [
+            "Flame-violet",
+            "Carpet plant",
+            "Strawberry begonia"
+          ],
+          "scientificName": "Episcia cupreata (Hook.) Hanst."
+        },
+        "gbif": {
+          "id": "3172881"
+        },
+        "powo": {
+          "id": "380772-1"
+        }
+      },
+      {
+        "score": 0.01134,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens hawkeri",
+          "scientificNameAuthorship": "W.Bull",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "Impatiens",
+            "New Guinea Impatiens",
+            "گل حنا"
+          ],
+          "scientificName": "Impatiens hawkeri W.Bull"
+        },
+        "gbif": {
+          "id": "4193702"
+        },
+        "powo": {
+          "id": "374127-1"
+        }
+      },
+      {
+        "score": 0.00707,
+        "species": {
+          "scientificNameWithoutAuthor": "Chrysothemis melittifolia",
+          "scientificNameAuthorship": "(L.) M.M.Mora & J.L.Clark",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chrysothemis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chrysothemis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Gesneriaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gesneriaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Chrysothemis melittifolia (L.) M.M.Mora & J.L.Clark"
+        },
+        "gbif": {
+          "id": "9914638"
+        },
+        "powo": {
+          "id": "77155046-1"
+        }
+      },
+      {
+        "score": 0.00684,
+        "species": {
+          "scientificNameWithoutAuthor": "Achimenes grandiflora",
+          "scientificNameAuthorship": "(Schiede) DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Achimenes",
+            "scientificNameAuthorship": "",
+            "scientificName": "Achimenes"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Gesneriaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Gesneriaceae"
+          },
+          "commonNames": [
+            "Cupid's bower",
+            "Monkey-faced pansy",
+            "Hot-water plant"
+          ],
+          "scientificName": "Achimenes grandiflora (Schiede) DC."
+        },
+        "gbif": {
+          "id": "9036864"
+        },
+        "powo": {
+          "id": "377597-1"
+        }
+      },
+      {
+        "score": 0.0055,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens balsamina",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "Balsam",
+            "Garden balsam",
+            "Touch-me-not"
+          ],
+          "scientificName": "Impatiens balsamina L."
+        },
+        "gbif": {
+          "id": "2891773"
+        },
+        "powo": {
+          "id": "373978-1"
+        }
+      },
+      {
+        "score": 0.00434,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens stuhlmannii",
+          "scientificNameAuthorship": "Warb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Impatiens stuhlmannii Warb."
+        },
+        "gbif": {
+          "id": "7309724"
+        },
+        "powo": {
+          "id": "374360-1"
+        },
+        "iucn": {
+          "id": "111320752",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00392,
+        "species": {
+          "scientificNameWithoutAuthor": "Catharanthus roseus",
+          "scientificNameAuthorship": "(L.) G.Don",
+          "genus": {
+            "scientificNameWithoutAuthor": "Catharanthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Catharanthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Periwinkle",
+            "Vinca",
+            "Sadabahar"
+          ],
+          "scientificName": "Catharanthus roseus (L.) G.Don"
+        },
+        "gbif": {
+          "id": "3169830"
+        },
+        "powo": {
+          "id": "77880-1"
+        }
+      },
+      {
+        "score": 0.00387,
+        "species": {
+          "scientificNameWithoutAuthor": "Ruellia subsessilis",
+          "scientificNameAuthorship": "(Nees) Lindau",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ruellia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ruellia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Ruellia subsessilis (Nees) Lindau"
+        },
+        "gbif": {
+          "id": "7701121"
+        },
+        "powo": {
+          "id": "224301-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 457
+  },
+  "nominatim_data": {
+    "place_id": 255510731,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2535070",
+    "lon": "80.6201432",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

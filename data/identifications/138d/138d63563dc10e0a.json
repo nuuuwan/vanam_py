@@ -1,0 +1,221 @@
+{
+  "hash": "138d63563dc10e0a",
+  "image_metadata": {
+    "imageHash": "138d63563dc10e0a",
+    "imageLocation": {
+      "latitude": 7.255258333333333,
+      "longitude": 80.61905555555555,
+      "accuracy": 3.2001552928996637,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780204506,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/138d63563dc10e0a.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "806303a0fcd3a8927d21a64bdf4924bb"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "806303a0fcd3a8927d21a64bdf4924bb",
+        "filename": "138d63563dc10e0a.png",
+        "organ": "flower",
+        "score": 0.64342
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Pachystachys lutea Nees",
+    "results": [
+      {
+        "score": 0.87578,
+        "species": {
+          "scientificNameWithoutAuthor": "Pachystachys lutea",
+          "scientificNameAuthorship": "Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pachystachys",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pachystachys"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Golden shrimp-plant",
+            "Yellow shrimp-plant",
+            "Golden-candle"
+          ],
+          "scientificName": "Pachystachys lutea Nees"
+        },
+        "gbif": {
+          "id": "3778625"
+        },
+        "powo": {
+          "id": "52814-1"
+        }
+      },
+      {
+        "score": 0.0058,
+        "species": {
+          "scientificNameWithoutAuthor": "Senna alata",
+          "scientificNameAuthorship": "(L.) Roxb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Senna",
+            "scientificNameAuthorship": "",
+            "scientificName": "Senna"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Candlesticks",
+            "Christmas-candle",
+            "Candlebush"
+          ],
+          "scientificName": "Senna alata (L.) Roxb."
+        },
+        "gbif": {
+          "id": "2956947"
+        },
+        "powo": {
+          "id": "1192167-2"
+        },
+        "iucn": {
+          "id": "144263375",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00196,
+        "species": {
+          "scientificNameWithoutAuthor": "Justicia aurea",
+          "scientificNameAuthorship": "Schltdl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Justicia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Justicia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Yellow Jacobinia",
+            "Orange Flame Justicia",
+            "Golden shrimp plant"
+          ],
+          "scientificName": "Justicia aurea Schltdl."
+        },
+        "gbif": {
+          "id": "8410331"
+        },
+        "powo": {
+          "id": "320654-2"
+        },
+        "iucn": {
+          "id": "198888723",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00132,
+        "species": {
+          "scientificNameWithoutAuthor": "Aphelandra storkii",
+          "scientificNameAuthorship": "Leonard",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aphelandra",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aphelandra"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Aphelandra storkii Leonard"
+        },
+        "gbif": {
+          "id": "3776773"
+        },
+        "powo": {
+          "id": "16309-2"
+        }
+      },
+      {
+        "score": 0.00101,
+        "species": {
+          "scientificNameWithoutAuthor": "Senega lutea",
+          "scientificNameAuthorship": "(L.) J.F.B.Pastore & J.R.Abbott",
+          "genus": {
+            "scientificNameWithoutAuthor": "Senega",
+            "scientificNameAuthorship": "",
+            "scientificName": "Senega"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Polygalaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Polygalaceae"
+          },
+          "commonNames": [
+            "Orange Milkwort"
+          ],
+          "scientificName": "Senega lutea (L.) J.F.B.Pastore & J.R.Abbott"
+        },
+        "gbif": null
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 456
+  },
+  "nominatim_data": {
+    "place_id": 255345790,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

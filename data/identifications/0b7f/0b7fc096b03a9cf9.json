@@ -1,0 +1,197 @@
+{
+  "hash": "0b7fc096b03a9cf9",
+  "image_metadata": {
+    "imageHash": "0b7fc096b03a9cf9",
+    "imageLocation": {
+      "latitude": 7.256786111111111,
+      "longitude": 80.61961388888888,
+      "accuracy": 4.634357938822825,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780204015,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/0b7fc096b03a9cf9.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "582dece8ab83b5cbccea76ed856e93f9"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "582dece8ab83b5cbccea76ed856e93f9",
+        "filename": "0b7fc096b03a9cf9.png",
+        "organ": "flower",
+        "score": 0.78382
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Odontonema cuspidatum (Nees) Kuntze",
+    "results": [
+      {
+        "score": 0.8377,
+        "species": {
+          "scientificNameWithoutAuthor": "Odontonema cuspidatum",
+          "scientificNameAuthorship": "(Nees) Kuntze",
+          "genus": {
+            "scientificNameWithoutAuthor": "Odontonema",
+            "scientificNameAuthorship": "",
+            "scientificName": "Odontonema"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Scarlet firespike",
+            "Cardinal's-crest",
+            "Cardinal-flower"
+          ],
+          "scientificName": "Odontonema cuspidatum (Nees) Kuntze"
+        },
+        "gbif": {
+          "id": "5415341"
+        },
+        "powo": {
+          "id": "1210381-2"
+        }
+      },
+      {
+        "score": 0.08275,
+        "species": {
+          "scientificNameWithoutAuthor": "Odontonema tubaeforme",
+          "scientificNameAuthorship": "(Bertol.) Kuntze",
+          "genus": {
+            "scientificNameWithoutAuthor": "Odontonema",
+            "scientificNameAuthorship": "",
+            "scientificName": "Odontonema"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Acanthaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acanthaceae"
+          },
+          "commonNames": [
+            "Cardinal's guard flower",
+            "Fire spike",
+            "Brazilian Firespike"
+          ],
+          "scientificName": "Odontonema tubaeforme (Bertol.) Kuntze"
+        },
+        "gbif": {
+          "id": "5575932"
+        },
+        "powo": {
+          "id": "172486-2"
+        }
+      },
+      {
+        "score": 0.00178,
+        "species": {
+          "scientificNameWithoutAuthor": "Lonicera sempervirens",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Lonicera",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lonicera"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caprifoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caprifoliaceae"
+          },
+          "commonNames": [
+            "Coral Honeysuckle",
+            "Trumpet honeysuckle",
+            "Everblooming honeysuckle"
+          ],
+          "scientificName": "Lonicera sempervirens L."
+        },
+        "gbif": {
+          "id": "5334239"
+        },
+        "powo": {
+          "id": "30080890-2"
+        }
+      },
+      {
+        "score": 0.00153,
+        "species": {
+          "scientificNameWithoutAuthor": "Aesculus pavia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aesculus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aesculus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Sapindaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sapindaceae"
+          },
+          "commonNames": [
+            "Red buckeye",
+            "Firecracker plant",
+            "Red horse-chestnut"
+          ],
+          "scientificName": "Aesculus pavia L."
+        },
+        "gbif": {
+          "id": "3189807"
+        },
+        "powo": {
+          "id": "781619-1"
+        },
+        "iucn": {
+          "id": "152909167",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 458
+  },
+  "nominatim_data": {
+    "place_id": 254210146,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2567772",
+    "lon": "80.6196533",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

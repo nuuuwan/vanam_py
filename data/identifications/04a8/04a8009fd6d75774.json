@@ -1,0 +1,228 @@
+{
+  "hash": "04a8009fd6d75774",
+  "image_metadata": {
+    "imageHash": "04a8009fd6d75774",
+    "imageLocation": {
+      "latitude": 7.255269444444444,
+      "longitude": 80.619025,
+      "accuracy": 3.1867791311846503,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780204486,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/04a8009fd6d75774.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "c4ef66c093dbadaf9cf1fa16d0ce6176"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "c4ef66c093dbadaf9cf1fa16d0ce6176",
+        "filename": "04a8009fd6d75774.png",
+        "organ": "habit",
+        "score": 0.42655
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Euphorbia hypericifolia L.",
+    "results": [
+      {
+        "score": 0.84186,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia hypericifolia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Chickenweed",
+            "Graceful Sandmat",
+            "Pillpod euphorbia"
+          ],
+          "scientificName": "Euphorbia hypericifolia L."
+        },
+        "gbif": {
+          "id": "3066321"
+        },
+        "powo": {
+          "id": "101671-2"
+        }
+      },
+      {
+        "score": 0.04787,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia graminea",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Grassleaf spurge",
+            "Grass-leaved spurge",
+            "Onob-kax"
+          ],
+          "scientificName": "Euphorbia graminea Jacq."
+        },
+        "gbif": {
+          "id": "3064170"
+        },
+        "powo": {
+          "id": "101568-2"
+        }
+      },
+      {
+        "score": 0.00513,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia leucocephala",
+          "scientificNameAuthorship": "Lotsy",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "White lace bush",
+            "White poinsettia",
+            "Pascuita"
+          ],
+          "scientificName": "Euphorbia leucocephala Lotsy"
+        },
+        "gbif": {
+          "id": "3066435"
+        },
+        "powo": {
+          "id": "101612-2"
+        },
+        "iucn": {
+          "id": "205089331",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00397,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia ariensis",
+          "scientificNameAuthorship": "Kunth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Euphorbia ariensis Kunth"
+        },
+        "gbif": {
+          "id": "3067658"
+        },
+        "powo": {
+          "id": "345655-1"
+        }
+      },
+      {
+        "score": 0.00102,
+        "species": {
+          "scientificNameWithoutAuthor": "Pithecellobium dulce",
+          "scientificNameAuthorship": "(Roxb.) Benth.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Pithecellobium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Pithecellobium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Madrasthorn",
+            "Manila-tamarind",
+            "Camachile"
+          ],
+          "scientificName": "Pithecellobium dulce (Roxb.) Benth."
+        },
+        "gbif": {
+          "id": "2962831"
+        },
+        "powo": {
+          "id": "1003508-2"
+        },
+        "iucn": {
+          "id": "130519803",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 459
+  },
+  "nominatim_data": {
+    "place_id": 254758159,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

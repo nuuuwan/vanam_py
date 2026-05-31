@@ -1,0 +1,377 @@
+{
+  "hash": "b8286028cead0ca9",
+  "image_metadata": {
+    "imageHash": "b8286028cead0ca9",
+    "imageLocation": {
+      "latitude": 7.256338888888889,
+      "longitude": 80.61959722222221,
+      "accuracy": 2.989094248651131,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780203602,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/b8286028cead0ca9.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "1e2397cffd0d6f6a8a69bbfc75ee4b37"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "1e2397cffd0d6f6a8a69bbfc75ee4b37",
+        "filename": "b8286028cead0ca9.png",
+        "organ": "habit",
+        "score": 0.70385
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Duranta erecta L.",
+    "results": [
+      {
+        "score": 0.52415,
+        "species": {
+          "scientificNameWithoutAuthor": "Duranta erecta",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Duranta",
+            "scientificNameAuthorship": "",
+            "scientificName": "Duranta"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Verbenaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Verbenaceae"
+          },
+          "commonNames": [
+            "Golden dewdrops",
+            "Skyflower",
+            "Pigeonberry"
+          ],
+          "scientificName": "Duranta erecta L."
+        },
+        "gbif": {
+          "id": "2925655"
+        },
+        "powo": {
+          "id": "330606-2"
+        },
+        "iucn": {
+          "id": "145351548",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.03016,
+        "species": {
+          "scientificNameWithoutAuthor": "Wigandia urens",
+          "scientificNameAuthorship": "(Ruiz & Pav.) Kunth",
+          "genus": {
+            "scientificNameWithoutAuthor": "Wigandia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Wigandia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Boraginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Boraginaceae"
+          },
+          "commonNames": [
+            "Caracus wigandia",
+            "Wigandia"
+          ],
+          "scientificName": "Wigandia urens (Ruiz & Pav.) Kunth"
+        },
+        "gbif": {
+          "id": "2928366"
+        },
+        "powo": {
+          "id": "114242-3"
+        },
+        "iucn": {
+          "id": "146704610",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01643,
+        "species": {
+          "scientificNameWithoutAuthor": "Heliotropium arborescens",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Heliotropium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Heliotropium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Boraginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Boraginaceae"
+          },
+          "commonNames": [
+            "Garden heliotrope",
+            "Cherry-pie",
+            "Heliotrope"
+          ],
+          "scientificName": "Heliotropium arborescens L."
+        },
+        "gbif": {
+          "id": "2925807"
+        },
+        "powo": {
+          "id": "116670-1"
+        }
+      },
+      {
+        "score": 0.01548,
+        "species": {
+          "scientificNameWithoutAuthor": "Solanum crispum",
+          "scientificNameAuthorship": "Ruiz & Pav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Solanum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Chilean nightshade",
+            "Chilean potato-tree",
+            "Bittersweet"
+          ],
+          "scientificName": "Solanum crispum Ruiz & Pav."
+        },
+        "gbif": {
+          "id": "2930846"
+        },
+        "powo": {
+          "id": "818846-1"
+        }
+      },
+      {
+        "score": 0.01267,
+        "species": {
+          "scientificNameWithoutAuthor": "Duranta serratifolia",
+          "scientificNameAuthorship": "(Griseb.) Kuntze",
+          "genus": {
+            "scientificNameWithoutAuthor": "Duranta",
+            "scientificNameAuthorship": "",
+            "scientificName": "Duranta"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Verbenaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Verbenaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Duranta serratifolia (Griseb.) Kuntze"
+        },
+        "gbif": {
+          "id": "7297743"
+        },
+        "powo": {
+          "id": "86108-2"
+        },
+        "iucn": {
+          "id": "146076267",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00974,
+        "species": {
+          "scientificNameWithoutAuthor": "Hesperis matronalis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hesperis",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hesperis"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Brassicaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brassicaceae"
+          },
+          "commonNames": [
+            "Dames rocket",
+            "Dame's-violet",
+            "Sweet Rocket"
+          ],
+          "scientificName": "Hesperis matronalis L."
+        },
+        "gbif": {
+          "id": "3042291"
+        },
+        "powo": {
+          "id": "285087-1"
+        }
+      },
+      {
+        "score": 0.0069,
+        "species": {
+          "scientificNameWithoutAuthor": "Stachytarpheta jamaicensis",
+          "scientificNameAuthorship": "(L.) Vahl",
+          "genus": {
+            "scientificNameWithoutAuthor": "Stachytarpheta",
+            "scientificNameAuthorship": "",
+            "scientificName": "Stachytarpheta"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Verbenaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Verbenaceae"
+          },
+          "commonNames": [
+            "Light-blue snakeweed",
+            "Blue porterweed",
+            "Jamaica-vervain"
+          ],
+          "scientificName": "Stachytarpheta jamaicensis (L.) Vahl"
+        },
+        "gbif": {
+          "id": "2925463"
+        },
+        "powo": {
+          "id": "1092351-2"
+        },
+        "iucn": {
+          "id": "96816126",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00523,
+        "species": {
+          "scientificNameWithoutAuthor": "Hardenbergia violacea",
+          "scientificNameAuthorship": "(Schneev.) Stearn",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hardenbergia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hardenbergia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Coral-pea",
+            "Vine-lilac",
+            "Purple coral-pea"
+          ],
+          "scientificName": "Hardenbergia violacea (Schneev.) Stearn"
+        },
+        "gbif": {
+          "id": "2948698"
+        },
+        "powo": {
+          "id": "497362-1"
+        }
+      },
+      {
+        "score": 0.00515,
+        "species": {
+          "scientificNameWithoutAuthor": "Stachytarpheta frantzii",
+          "scientificNameAuthorship": "Pol.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Stachytarpheta",
+            "scientificNameAuthorship": "",
+            "scientificName": "Stachytarpheta"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Verbenaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Verbenaceae"
+          },
+          "commonNames": [
+            "Purple porterweed",
+            "Perry Winkle"
+          ],
+          "scientificName": "Stachytarpheta frantzii Pol."
+        },
+        "gbif": {
+          "id": "7297130"
+        },
+        "powo": {
+          "id": "864726-1"
+        }
+      },
+      {
+        "score": 0.00416,
+        "species": {
+          "scientificNameWithoutAuthor": "Trachelium caeruleum",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Trachelium",
+            "scientificNameAuthorship": "",
+            "scientificName": "Trachelium"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Campanulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Campanulaceae"
+          },
+          "commonNames": [
+            "Throatwort",
+            "Blue throatwort",
+            "Throatword"
+          ],
+          "scientificName": "Trachelium caeruleum L."
+        },
+        "gbif": {
+          "id": "5407810"
+        },
+        "powo": {
+          "id": "145511-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 439
+  },
+  "nominatim_data": {
+    "place_id": 254495860,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2563422",
+    "lon": "80.6196102",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}

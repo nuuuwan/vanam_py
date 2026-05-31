@@ -1,0 +1,248 @@
+{
+  "hash": "2c1d75640da7ad02",
+  "image_metadata": {
+    "imageHash": "2c1d75640da7ad02",
+    "imageLocation": {
+      "latitude": 7.255980555555555,
+      "longitude": 80.61955277777777,
+      "accuracy": 2.577079541804946,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780203490,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/2c1d75640da7ad02.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "0c432b221c74f5fa91532fda22b6e687"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "0c432b221c74f5fa91532fda22b6e687",
+        "filename": "2c1d75640da7ad02.png",
+        "organ": "flower",
+        "score": 0.37505
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Sphagneticola trilobata (L.) Pruski",
+    "results": [
+      {
+        "score": 0.9557,
+        "species": {
+          "scientificNameWithoutAuthor": "Sphagneticola trilobata",
+          "scientificNameAuthorship": "(L.) Pruski",
+          "genus": {
+            "scientificNameWithoutAuthor": "Sphagneticola",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sphagneticola"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Wedelia",
+            "Singapore daisy",
+            "Creeping Daisy"
+          ],
+          "scientificName": "Sphagneticola trilobata (L.) Pruski"
+        },
+        "gbif": {
+          "id": "3116842"
+        },
+        "powo": {
+          "id": "1093589-2"
+        }
+      },
+      {
+        "score": 0.0055,
+        "species": {
+          "scientificNameWithoutAuthor": "Sphagneticola calendulacea",
+          "scientificNameAuthorship": "(L.) Pruski",
+          "genus": {
+            "scientificNameWithoutAuthor": "Sphagneticola",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sphagneticola"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Chinese wedelia",
+            "Wedelia"
+          ],
+          "scientificName": "Sphagneticola calendulacea (L.) Pruski"
+        },
+        "gbif": {
+          "id": "3116861"
+        },
+        "powo": {
+          "id": "993278-1"
+        }
+      },
+      {
+        "score": 0.00298,
+        "species": {
+          "scientificNameWithoutAuthor": "Calyptocarpus vialis",
+          "scientificNameAuthorship": "Less.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Calyptocarpus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Calyptocarpus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Creeping Cinderella-weed",
+            "Horseherb",
+            "Straggler daisy"
+          ],
+          "scientificName": "Calyptocarpus vialis Less."
+        },
+        "gbif": {
+          "id": "3091480"
+        },
+        "powo": {
+          "id": "188166-1"
+        }
+      },
+      {
+        "score": 0.00187,
+        "species": {
+          "scientificNameWithoutAuthor": "Sphagneticola gracilis",
+          "scientificNameAuthorship": "(Rich.) Pruski",
+          "genus": {
+            "scientificNameWithoutAuthor": "Sphagneticola",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sphagneticola"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Slender creeping-oxeye"
+          ],
+          "scientificName": "Sphagneticola gracilis (Rich.) Pruski"
+        },
+        "gbif": {
+          "id": "3116871"
+        },
+        "powo": {
+          "id": "993279-1"
+        }
+      },
+      {
+        "score": 0.00179,
+        "species": {
+          "scientificNameWithoutAuthor": "Bidens bipinnata",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Bidens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Bidens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Spanish-needles",
+            "Hemlock beggar-ticks",
+            "Spanish blackjack"
+          ],
+          "scientificName": "Bidens bipinnata L."
+        },
+        "gbif": {
+          "id": "5389402"
+        },
+        "powo": {
+          "id": "184769-1"
+        }
+      },
+      {
+        "score": 0.00139,
+        "species": {
+          "scientificNameWithoutAuthor": "Synedrella nodiflora",
+          "scientificNameAuthorship": "(L.) Gaertn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Synedrella",
+            "scientificNameAuthorship": "",
+            "scientificName": "Synedrella"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Cinderella-weed",
+            "Synedrella",
+            "Nodeweed"
+          ],
+          "scientificName": "Synedrella nodiflora (L.) Gaertn."
+        },
+        "gbif": {
+          "id": "5404991"
+        },
+        "powo": {
+          "id": "252024-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 452
+  },
+  "nominatim_data": {
+    "place_id": 255510731,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933962,
+    "lat": "7.2559703",
+    "lon": "80.6195851",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2528932",
+      "7.2577632",
+      "80.6195151",
+      "80.6206495"
+    ]
+  }
+}
