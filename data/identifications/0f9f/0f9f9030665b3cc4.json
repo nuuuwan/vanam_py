@@ -1,0 +1,369 @@
+{
+  "hash": "0f9f9030665b3cc4",
+  "image_metadata": {
+    "imageHash": "0f9f9030665b3cc4",
+    "imageLocation": {
+      "latitude": 7.255261111111111,
+      "longitude": 80.61911111111111,
+      "accuracy": 2.7414199229499174,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780198163,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/0f9f9030665b3cc4.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "331ca5d6dbc7d57797c620e789d9f9c2"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "331ca5d6dbc7d57797c620e789d9f9c2",
+        "filename": "0f9f9030665b3cc4.png",
+        "organ": "flower",
+        "score": 0.77293
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Rosa chinensis Jacq.",
+    "results": [
+      {
+        "score": 0.53525,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa chinensis",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Bengal rose",
+            "China Rose",
+            "Chinese rose"
+          ],
+          "scientificName": "Rosa chinensis Jacq."
+        },
+        "gbif": {
+          "id": "3005039"
+        },
+        "powo": {
+          "id": "732029-1"
+        }
+      },
+      {
+        "score": 0.08919,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa × odorata",
+          "scientificNameAuthorship": "(Andrews) Sweet",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Tea rose",
+            "Spice Humes blush",
+            "Hybrid Tea Rose"
+          ],
+          "scientificName": "Rosa × odorata (Andrews) Sweet"
+        },
+        "gbif": {
+          "id": "3009087"
+        },
+        "powo": {
+          "id": "733521-1"
+        }
+      },
+      {
+        "score": 0.08855,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa cinnamomea",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Double cinnamon rose",
+            "Knock-Out Rose",
+            "Cinnamon Rose"
+          ],
+          "scientificName": "Rosa cinnamomea L."
+        },
+        "gbif": {
+          "id": "7656220"
+        }
+      },
+      {
+        "score": 0.0634,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa gallica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "French rose",
+            "Hungarian rose",
+            "Red-rose-of-Lancaster"
+          ],
+          "scientificName": "Rosa gallica L."
+        },
+        "gbif": {
+          "id": "3002530"
+        },
+        "powo": {
+          "id": "732569-1"
+        }
+      },
+      {
+        "score": 0.03502,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa × damascena",
+          "scientificNameAuthorship": "Herrm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Damask rose",
+            "Portland rose",
+            "York-and-Lancaster rose"
+          ],
+          "scientificName": "Rosa × damascena Herrm."
+        },
+        "gbif": {
+          "id": "3008478"
+        },
+        "powo": {
+          "id": "2968261-4"
+        }
+      },
+      {
+        "score": 0.02198,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa lucieae",
+          "scientificNameAuthorship": "Franch. & Rochebr. ex Crép.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Wichura's rose",
+            "Memorial rose",
+            "Rambling Rose"
+          ],
+          "scientificName": "Rosa lucieae Franch. & Rochebr. ex Crép."
+        },
+        "gbif": {
+          "id": "8667586"
+        },
+        "powo": {
+          "id": "60464116-2"
+        }
+      },
+      {
+        "score": 0.00959,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa pendulina",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Mountain rose",
+            "Alpine Rose",
+            "Drooping rose"
+          ],
+          "scientificName": "Rosa pendulina L."
+        },
+        "gbif": {
+          "id": "3006974"
+        },
+        "powo": {
+          "id": "733641-1"
+        },
+        "iucn": {
+          "id": "203449",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00913,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa moyesii",
+          "scientificNameAuthorship": "Hemsl. & E.H.Wilson",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Mandarin rose",
+            "Moyes rose",
+            "Moyes' Rose"
+          ],
+          "scientificName": "Rosa moyesii Hemsl. & E.H.Wilson"
+        },
+        "gbif": {
+          "id": "3007073"
+        },
+        "powo": {
+          "id": "733397-1"
+        }
+      },
+      {
+        "score": 0.00438,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa indica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Cyme rose",
+            "గులాబి"
+          ],
+          "scientificName": "Rosa indica L."
+        },
+        "gbif": {
+          "id": "8342804"
+        },
+        "powo": {
+          "id": "732892-1"
+        }
+      },
+      {
+        "score": 0.00297,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa rugosa",
+          "scientificNameAuthorship": "Thunb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Rugosa rose",
+            "Hedgerow Rose",
+            "Saltspray Rose"
+          ],
+          "scientificName": "Rosa rugosa Thunb."
+        },
+        "gbif": {
+          "id": "3003979"
+        },
+        "powo": {
+          "id": "927373-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 488
+  },
+  "nominatim_data": {
+    "place_id": 255293400,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

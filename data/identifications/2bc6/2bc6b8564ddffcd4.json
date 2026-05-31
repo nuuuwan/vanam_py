@@ -1,0 +1,335 @@
+{
+  "hash": "2bc6b8564ddffcd4",
+  "image_metadata": {
+    "imageHash": "2bc6b8564ddffcd4",
+    "imageLocation": {
+      "latitude": 7.2552055555555555,
+      "longitude": 80.61896388888889,
+      "accuracy": 3.3450727404384173,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780195173,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/2bc6b8564ddffcd4.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "fa09c5211777e05322d0af2d58764ec5"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "fa09c5211777e05322d0af2d58764ec5",
+        "filename": "2bc6b8564ddffcd4.png",
+        "organ": "flower",
+        "score": 0.74703
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Impatiens walleriana Hook.f.",
+    "results": [
+      {
+        "score": 0.52562,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens walleriana",
+          "scientificNameAuthorship": "Hook.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "Busy lizzy",
+            "Impatiens",
+            "Sultan's Balsam"
+          ],
+          "scientificName": "Impatiens walleriana Hook.f."
+        },
+        "gbif": {
+          "id": "2891772"
+        },
+        "powo": {
+          "id": "374419-1"
+        }
+      },
+      {
+        "score": 0.17025,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens hawkeri",
+          "scientificNameAuthorship": "W.Bull",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "Impatiens",
+            "New Guinea Impatiens",
+            "گل حنا"
+          ],
+          "scientificName": "Impatiens hawkeri W.Bull"
+        },
+        "gbif": {
+          "id": "4193702"
+        },
+        "powo": {
+          "id": "374127-1"
+        }
+      },
+      {
+        "score": 0.05107,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens flaccida",
+          "scientificNameAuthorship": "Arn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "South Indian balsam",
+            "Pink orchid balsam",
+            "Busy lizzy"
+          ],
+          "scientificName": "Impatiens flaccida Arn."
+        },
+        "gbif": {
+          "id": "4193555"
+        },
+        "powo": {
+          "id": "374090-1"
+        }
+      },
+      {
+        "score": 0.0421,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens sodenii",
+          "scientificNameAuthorship": "Engl. & Warb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "Shrub balsam",
+            "Oliver's touch-me-not",
+            "Giant impatiens"
+          ],
+          "scientificName": "Impatiens sodenii Engl. & Warb."
+        },
+        "gbif": {
+          "id": "4193715"
+        },
+        "powo": {
+          "id": "374351-1"
+        }
+      },
+      {
+        "score": 0.00696,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens balsamina",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "Balsam",
+            "Garden balsam",
+            "Touch-me-not"
+          ],
+          "scientificName": "Impatiens balsamina L."
+        },
+        "gbif": {
+          "id": "2891773"
+        },
+        "powo": {
+          "id": "373978-1"
+        }
+      },
+      {
+        "score": 0.00523,
+        "species": {
+          "scientificNameWithoutAuthor": "Impatiens platypetala",
+          "scientificNameAuthorship": "Lindl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Impatiens",
+            "scientificNameAuthorship": "",
+            "scientificName": "Impatiens"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Balsaminaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Balsaminaceae"
+          },
+          "commonNames": [
+            "Broad-petaled Balsam"
+          ],
+          "scientificName": "Impatiens platypetala Lindl."
+        },
+        "gbif": {
+          "id": "4193746"
+        },
+        "powo": {
+          "id": "374276-1"
+        }
+      },
+      {
+        "score": 0.00198,
+        "species": {
+          "scientificNameWithoutAuthor": "Vinca difformis",
+          "scientificNameAuthorship": "Pourr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vinca",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vinca"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Intermediate Periwinkle",
+            "Intermediate Periwinkle [plant]"
+          ],
+          "scientificName": "Vinca difformis Pourr."
+        },
+        "gbif": {
+          "id": "6421637"
+        },
+        "powo": {
+          "id": "82683-1"
+        }
+      },
+      {
+        "score": 0.00111,
+        "species": {
+          "scientificNameWithoutAuthor": "Primula hirsuta",
+          "scientificNameAuthorship": "All.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Primula",
+            "scientificNameAuthorship": "",
+            "scientificName": "Primula"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Primulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Primulaceae"
+          },
+          "commonNames": [
+            "Hairy primrose",
+            "Red alpine primrose",
+            "Stinking Primerose"
+          ],
+          "scientificName": "Primula hirsuta All."
+        },
+        "gbif": {
+          "id": "8297072"
+        },
+        "powo": {
+          "id": "702039-1"
+        }
+      },
+      {
+        "score": 0.00107,
+        "species": {
+          "scientificNameWithoutAuthor": "Primula integrifolia",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Primula",
+            "scientificNameAuthorship": "",
+            "scientificName": "Primula"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Primulaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Primulaceae"
+          },
+          "commonNames": [
+            "Entire-leaved primrose"
+          ],
+          "scientificName": "Primula integrifolia L."
+        },
+        "gbif": {
+          "id": "7631456"
+        },
+        "powo": {
+          "id": "702088-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 487
+  },
+  "nominatim_data": {
+    "place_id": 255345790,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

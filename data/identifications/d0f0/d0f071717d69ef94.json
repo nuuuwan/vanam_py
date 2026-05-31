@@ -1,0 +1,277 @@
+{
+  "hash": "d0f071717d69ef94",
+  "image_metadata": {
+    "imageHash": "d0f071717d69ef94",
+    "imageLocation": {
+      "latitude": 7.255105555555556,
+      "longitude": 80.61857499999999,
+      "accuracy": 14.396561828482126,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780195112,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/d0f071717d69ef94.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "cc3a0f15f076d23de1d0977a80707202"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "cc3a0f15f076d23de1d0977a80707202",
+        "filename": "d0f071717d69ef94.png",
+        "organ": "flower",
+        "score": 0.76688
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "useful",
+    "bestMatch": "Hibiscus spp.",
+    "results": [
+      {
+        "score": 0.32516,
+        "species": {
+          "scientificNameWithoutAuthor": "Hibiscus spp.",
+          "scientificNameAuthorship": "",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hibiscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hibiscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Common Hibiscus",
+            "Garden Hibiscus",
+            "Cultivated Hibiscus"
+          ],
+          "scientificName": "Hibiscus spp."
+        },
+        "gbif": null
+      },
+      {
+        "score": 0.28942,
+        "species": {
+          "scientificNameWithoutAuthor": "Hibiscus rosa-sinensis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hibiscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hibiscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Hawaiian hibiscus",
+            "Hibiscus",
+            "गुड़हल"
+          ],
+          "scientificName": "Hibiscus rosa-sinensis L."
+        },
+        "gbif": {
+          "id": "3152559"
+        },
+        "powo": {
+          "id": "560756-1"
+        }
+      },
+      {
+        "score": 0.1093,
+        "species": {
+          "scientificNameWithoutAuthor": "Hibiscus schizopetalus",
+          "scientificNameAuthorship": "(Dyer) Hook.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hibiscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hibiscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Coral hibiscus",
+            "Japanese lantern",
+            "Fringed Rosemallow"
+          ],
+          "scientificName": "Hibiscus schizopetalus (Dyer) Hook.f."
+        },
+        "gbif": {
+          "id": "9064581"
+        }
+      },
+      {
+        "score": 0.00162,
+        "species": {
+          "scientificNameWithoutAuthor": "Hibiscus syriacus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hibiscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hibiscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Rose of Sharon",
+            "Syrian hibiscus",
+            "Common Hibiscus"
+          ],
+          "scientificName": "Hibiscus syriacus L."
+        },
+        "gbif": {
+          "id": "3152583"
+        },
+        "powo": {
+          "id": "560890-1"
+        }
+      },
+      {
+        "score": 0.00125,
+        "species": {
+          "scientificNameWithoutAuthor": "Delonix regia",
+          "scientificNameAuthorship": "(Bojer) Raf.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Delonix",
+            "scientificNameAuthorship": "",
+            "scientificName": "Delonix"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Fabaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fabaceae"
+          },
+          "commonNames": [
+            "Flamboyant",
+            "Flame-of-the-forest",
+            "Flametree"
+          ],
+          "scientificName": "Delonix regia (Bojer) Raf."
+        },
+        "gbif": {
+          "id": "2956176"
+        },
+        "iucn": {
+          "id": "32947",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00117,
+        "species": {
+          "scientificNameWithoutAuthor": "Cordia sebestena",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cordia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cordia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Boraginaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Boraginaceae"
+          },
+          "commonNames": [
+            "Geigertree",
+            "Largeleaf geigertree",
+            "Geranium-tree"
+          ],
+          "scientificName": "Cordia sebestena L."
+        },
+        "gbif": {
+          "id": "5341289"
+        },
+        "powo": {
+          "id": "65551-2"
+        },
+        "iucn": {
+          "id": "62558",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00105,
+        "species": {
+          "scientificNameWithoutAuthor": "Hibiscus mutabilis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hibiscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hibiscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Confederate rose",
+            "Cotton-rose",
+            "Dixie rosemallow"
+          ],
+          "scientificName": "Hibiscus mutabilis L."
+        },
+        "gbif": {
+          "id": "3152555"
+        },
+        "powo": {
+          "id": "560549-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 472
+  },
+  "nominatim_data": {
+    "place_id": 255604154,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 399933970,
+    "lat": "7.2548430",
+    "lon": "80.6181100",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339284885938808,
+    "addresstype": "road",
+    "name": "",
+    "display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2548430",
+      "7.2570387",
+      "80.6168168",
+      "80.6181100"
+    ]
+  }
+}

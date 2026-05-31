@@ -1,0 +1,360 @@
+{
+  "hash": "607ecec2cda9a033",
+  "image_metadata": {
+    "imageHash": "607ecec2cda9a033",
+    "imageLocation": {
+      "latitude": 7.255127777777778,
+      "longitude": 80.61890277777778,
+      "accuracy": 4.567629123503049,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780198005,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/607ecec2cda9a033.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "e02e7ab5cc179c38ecdd2e002da90a0a"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "e02e7ab5cc179c38ecdd2e002da90a0a",
+        "filename": "607ecec2cda9a033.png",
+        "organ": "flower",
+        "score": 0.74436
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Nymphaea nouchali Burm.f.",
+    "results": [
+      {
+        "score": 0.87442,
+        "species": {
+          "scientificNameWithoutAuthor": "Nymphaea nouchali",
+          "scientificNameAuthorship": "Burm.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nymphaea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nymphaeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaeaceae"
+          },
+          "commonNames": [
+            "Blue Water Lily",
+            "Red and blue water-lily",
+            "Indian bllue waterlily"
+          ],
+          "scientificName": "Nymphaea nouchali Burm.f."
+        },
+        "gbif": {
+          "id": "7326947"
+        },
+        "powo": {
+          "id": "605643-1"
+        },
+        "iucn": {
+          "id": "168917",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01677,
+        "species": {
+          "scientificNameWithoutAuthor": "Nymphaea micrantha",
+          "scientificNameAuthorship": "Guill. & Perr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nymphaea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nymphaeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaeaceae"
+          },
+          "commonNames": [
+            "Blue Egyptian lotus",
+            "Dwarf Madagascar Lily",
+            "Small-flower water lily"
+          ],
+          "scientificName": "Nymphaea micrantha Guill. & Perr."
+        },
+        "gbif": {
+          "id": "2882414"
+        },
+        "powo": {
+          "id": "605626-1"
+        },
+        "iucn": {
+          "id": "140427320",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01024,
+        "species": {
+          "scientificNameWithoutAuthor": "Nymphaea alba",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nymphaea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nymphaeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaeaceae"
+          },
+          "commonNames": [
+            "White Water-lily",
+            "Waterlily",
+            "White Pond-lily"
+          ],
+          "scientificName": "Nymphaea alba L."
+        },
+        "gbif": {
+          "id": "2882437"
+        },
+        "powo": {
+          "id": "171158-2"
+        },
+        "iucn": {
+          "id": "164237",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00478,
+        "species": {
+          "scientificNameWithoutAuthor": "Nymphaea candida",
+          "scientificNameAuthorship": "C.Presl",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nymphaea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nymphaeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaeaceae"
+          },
+          "commonNames": [
+            "White water lily",
+            "Shining water lily",
+            "Atlantic Waterlily"
+          ],
+          "scientificName": "Nymphaea candida C.Presl"
+        },
+        "gbif": {
+          "id": "7410966"
+        },
+        "powo": {
+          "id": "605520-1"
+        }
+      },
+      {
+        "score": 0.00272,
+        "species": {
+          "scientificNameWithoutAuthor": "Nelumbo nucifera",
+          "scientificNameAuthorship": "Gaertn.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nelumbo",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nelumbo"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nelumbonaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nelumbonaceae"
+          },
+          "commonNames": [
+            "Indian Lotus",
+            "East Indian lotus",
+            "Oriental lotus"
+          ],
+          "scientificName": "Nelumbo nucifera Gaertn."
+        },
+        "gbif": {
+          "id": "2882449"
+        },
+        "powo": {
+          "id": "605422-1"
+        }
+      },
+      {
+        "score": 0.00258,
+        "species": {
+          "scientificNameWithoutAuthor": "Nymphaea elegans",
+          "scientificNameAuthorship": "Hook.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nymphaea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nymphaeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaeaceae"
+          },
+          "commonNames": [
+            "Blue water-lily",
+            "Elegant Waterlily",
+            "Tropical Royal-Blue Water-Lily"
+          ],
+          "scientificName": "Nymphaea elegans Hook."
+        },
+        "gbif": {
+          "id": "2882415"
+        },
+        "powo": {
+          "id": "171178-2"
+        }
+      },
+      {
+        "score": 0.00153,
+        "species": {
+          "scientificNameWithoutAuthor": "Nymphaea lotus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nymphaea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nymphaeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaeaceae"
+          },
+          "commonNames": [
+            "Egyptian lotus",
+            "Egyptian water-lily",
+            "Tiger lotus"
+          ],
+          "scientificName": "Nymphaea lotus L."
+        },
+        "gbif": {
+          "id": "2882429"
+        },
+        "powo": {
+          "id": "605604-1"
+        },
+        "iucn": {
+          "id": "164281",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.0015,
+        "species": {
+          "scientificNameWithoutAuthor": "Nymphaea tetragona",
+          "scientificNameAuthorship": "Georgi",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nymphaea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nymphaeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaeaceae"
+          },
+          "commonNames": [
+            "Pygmy water-lily",
+            "Small white water-lily",
+            "Pygmy waterlily"
+          ],
+          "scientificName": "Nymphaea tetragona Georgi"
+        },
+        "gbif": {
+          "id": "2882422"
+        },
+        "powo": {
+          "id": "171226-2"
+        },
+        "iucn": {
+          "id": "167890",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00102,
+        "species": {
+          "scientificNameWithoutAuthor": "Nymphaea heudelotii",
+          "scientificNameAuthorship": "Planch.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Nymphaea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Nymphaeaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Nymphaeaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Nymphaea heudelotii Planch."
+        },
+        "gbif": {
+          "id": "3697639"
+        },
+        "powo": {
+          "id": "605577-1"
+        },
+        "iucn": {
+          "id": "185674",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 485
+  },
+  "nominatim_data": {
+    "place_id": 255345790,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

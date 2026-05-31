@@ -1,0 +1,365 @@
+{
+  "hash": "03bdfaaea141e8e7",
+  "image_metadata": {
+    "imageHash": "03bdfaaea141e8e7",
+    "imageLocation": {
+      "latitude": 7.2552111111111115,
+      "longitude": 80.61904166666666,
+      "accuracy": 3.0451222298377885,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780195151,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/03bdfaaea141e8e7.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "0155437316ec93b1c1749f63b29254d5"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "0155437316ec93b1c1749f63b29254d5",
+        "filename": "03bdfaaea141e8e7.png",
+        "organ": "flower",
+        "score": 0.87757
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Dahlia × hortensis Guillaumin",
+    "results": [
+      {
+        "score": 0.46103,
+        "species": {
+          "scientificNameWithoutAuthor": "Dahlia × hortensis",
+          "scientificNameAuthorship": "Guillaumin",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dahlia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dahlia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Bishop of Llandaff"
+          ],
+          "scientificName": "Dahlia × hortensis Guillaumin"
+        },
+        "gbif": {
+          "id": "5387161"
+        }
+      },
+      {
+        "score": 0.27131,
+        "species": {
+          "scientificNameWithoutAuthor": "Dahlia pinnata",
+          "scientificNameAuthorship": "Cav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dahlia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dahlia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Dahlia",
+            "Pinnate dahlia",
+            "کوکب"
+          ],
+          "scientificName": "Dahlia pinnata Cav."
+        },
+        "gbif": {
+          "id": "5387142"
+        },
+        "powo": {
+          "id": "30027297-2"
+        }
+      },
+      {
+        "score": 0.03816,
+        "species": {
+          "scientificNameWithoutAuthor": "Dahlia imperialis",
+          "scientificNameAuthorship": "Roezl ex Ortgies",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dahlia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dahlia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Tree dahlia",
+            "Bell tree dahlia",
+            "Giant dahlia"
+          ],
+          "scientificName": "Dahlia imperialis Roezl ex Ortgies"
+        },
+        "gbif": {
+          "id": "5387165"
+        },
+        "powo": {
+          "id": "200959-1"
+        },
+        "iucn": {
+          "id": "168615747",
+          "category": "NT"
+        }
+      },
+      {
+        "score": 0.0058,
+        "species": {
+          "scientificNameWithoutAuthor": "Dahlia merckii",
+          "scientificNameAuthorship": "Lehm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dahlia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dahlia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Bedding Dahlia",
+            "Mystic Dreamer"
+          ],
+          "scientificName": "Dahlia merckii Lehm."
+        },
+        "gbif": {
+          "id": "5387121"
+        },
+        "powo": {
+          "id": "200967-1"
+        }
+      },
+      {
+        "score": 0.00486,
+        "species": {
+          "scientificNameWithoutAuthor": "Callistephus chinensis",
+          "scientificNameAuthorship": "(L.) Nees",
+          "genus": {
+            "scientificNameWithoutAuthor": "Callistephus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Callistephus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "China Aster",
+            "Annual-aster",
+            "Chinese Aster"
+          ],
+          "scientificName": "Callistephus chinensis (L.) Nees"
+        },
+        "gbif": {
+          "id": "3092946"
+        },
+        "powo": {
+          "id": "188023-1"
+        }
+      },
+      {
+        "score": 0.00302,
+        "species": {
+          "scientificNameWithoutAuthor": "Solanum melongena",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Solanum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Eggplant",
+            "Aubergine",
+            "Brinjal"
+          ],
+          "scientificName": "Solanum melongena L."
+        },
+        "gbif": {
+          "id": "2930617"
+        },
+        "powo": {
+          "id": "820053-1"
+        }
+      },
+      {
+        "score": 0.00294,
+        "species": {
+          "scientificNameWithoutAuthor": "Dahlia tenuicaulis",
+          "scientificNameAuthorship": "P.D.Sørensen",
+          "genus": {
+            "scientificNameWithoutAuthor": "Dahlia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Dahlia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Dahlia"
+          ],
+          "scientificName": "Dahlia tenuicaulis P.D.Sørensen"
+        },
+        "gbif": {
+          "id": "5387162"
+        },
+        "powo": {
+          "id": "75868-2"
+        }
+      },
+      {
+        "score": 0.00274,
+        "species": {
+          "scientificNameWithoutAuthor": "Tanacetum coccineum",
+          "scientificNameAuthorship": "(Willd.) Grierson",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tanacetum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tanacetum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Persian daisy",
+            "Persian insect-flower",
+            "Garden pyrethrum"
+          ],
+          "scientificName": "Tanacetum coccineum (Willd.) Grierson"
+        },
+        "gbif": {
+          "id": "3118616"
+        },
+        "powo": {
+          "id": "252277-1"
+        }
+      },
+      {
+        "score": 0.00227,
+        "species": {
+          "scientificNameWithoutAuthor": "Cosmos bipinnatus",
+          "scientificNameAuthorship": "Cav.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cosmos",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cosmos"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Cosmos",
+            "Garden cosmos",
+            "Mexican-aster"
+          ],
+          "scientificName": "Cosmos bipinnatus Cav."
+        },
+        "gbif": {
+          "id": "3098912"
+        },
+        "powo": {
+          "id": "198320-1"
+        }
+      },
+      {
+        "score": 0.00224,
+        "species": {
+          "scientificNameWithoutAuthor": "Chrysanthemum × morifolium",
+          "scientificNameAuthorship": "(Ramat.) Hemsl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Chrysanthemum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Chrysanthemum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asteraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asteraceae"
+          },
+          "commonNames": [
+            "Hardy Garden Mum",
+            "Garden chrysanthemum",
+            "Common chrysanthemum"
+          ],
+          "scientificName": "Chrysanthemum × morifolium (Ramat.) Hemsl."
+        },
+        "gbif": {
+          "id": "3150767"
+        },
+        "powo": {
+          "id": "77111328-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 489
+  },
+  "nominatim_data": {
+    "place_id": 252802874,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

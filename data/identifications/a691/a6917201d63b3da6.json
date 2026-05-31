@@ -1,0 +1,199 @@
+{
+  "hash": "a6917201d63b3da6",
+  "image_metadata": {
+    "imageHash": "a6917201d63b3da6",
+    "imageLocation": {
+      "latitude": 7.255183333333333,
+      "longitude": 80.61913333333332,
+      "accuracy": 4.748651528267963,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780195136,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/a6917201d63b3da6.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "7c807c8182773189d7733396aeb800df"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "7c807c8182773189d7733396aeb800df",
+        "filename": "a6917201d63b3da6.png",
+        "organ": "flower",
+        "score": 0.85307
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "useful",
+    "bestMatch": "Hibiscus rosa-sinensis L.",
+    "results": [
+      {
+        "score": 0.56521,
+        "species": {
+          "scientificNameWithoutAuthor": "Hibiscus rosa-sinensis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hibiscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hibiscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Hawaiian hibiscus",
+            "Hibiscus",
+            "गुड़हल"
+          ],
+          "scientificName": "Hibiscus rosa-sinensis L."
+        },
+        "gbif": {
+          "id": "3152559"
+        },
+        "powo": {
+          "id": "560756-1"
+        }
+      },
+      {
+        "score": 0.00222,
+        "species": {
+          "scientificNameWithoutAuthor": "Hibiscus sabdariffa",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hibiscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hibiscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Indian-sorrel",
+            "Roselle",
+            "Jamaica-sorrel"
+          ],
+          "scientificName": "Hibiscus sabdariffa L."
+        },
+        "gbif": {
+          "id": "3152582"
+        },
+        "powo": {
+          "id": "326388-2"
+        }
+      },
+      {
+        "score": 0.00125,
+        "species": {
+          "scientificNameWithoutAuthor": "Hibiscus syriacus",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hibiscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hibiscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Rose of Sharon",
+            "Syrian hibiscus",
+            "Common Hibiscus"
+          ],
+          "scientificName": "Hibiscus syriacus L."
+        },
+        "gbif": {
+          "id": "3152583"
+        },
+        "powo": {
+          "id": "560890-1"
+        }
+      },
+      {
+        "score": 0.00103,
+        "species": {
+          "scientificNameWithoutAuthor": "Hibiscus moscheutos",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Hibiscus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Hibiscus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Crimsoneyed rosemallow",
+            "Swamp rose-mallow",
+            "Rose Mallow"
+          ],
+          "scientificName": "Hibiscus moscheutos L."
+        },
+        "gbif": {
+          "id": "3152596"
+        },
+        "powo": {
+          "id": "30181863-2"
+        },
+        "iucn": {
+          "id": "64314251",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 476
+  },
+  "nominatim_data": {
+    "place_id": 252802874,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

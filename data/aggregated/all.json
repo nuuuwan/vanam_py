@@ -87,6 +87,35 @@
     ]
   },
   {
+    "imageHash": "607ecec2cda9a033",
+    "latLng": {
+      "lat": 7.255127777777778,
+      "lng": 80.61890277777778
+    },
+    "source": "exif",
+    "utImageTaken": 1780198005,
+    "timeImageTaken": "2026-05-31 03:26:45",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.87442,
+        "species": "Nymphaea nouchali Burm.f.",
+        "genus": "Nymphaea",
+        "family": "Nymphaeaceae",
+        "commonNames": [
+          "Blue Water Lily",
+          "Red and blue water-lily",
+          "Indian bllue waterlily"
+        ],
+        "gbifId": "7326947",
+        "iucnId": "168917",
+        "iucnCategory": "LC",
+        "powoId": "605643-1"
+      }
+    ]
+  },
+  {
     "imageHash": "663afd2517de2239",
     "latLng": {
       "lat": -8.704022222222221,
@@ -127,6 +156,35 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "319172-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "0f9f9030665b3cc4",
+    "latLng": {
+      "lat": 7.255261111111111,
+      "lng": 80.61911111111111
+    },
+    "source": "exif",
+    "utImageTaken": 1780198163,
+    "timeImageTaken": "2026-05-31 03:29:23",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.53525,
+        "species": "Rosa chinensis Jacq.",
+        "genus": "Rosa",
+        "family": "Rosaceae",
+        "commonNames": [
+          "Bengal rose",
+          "China Rose",
+          "Chinese rose"
+        ],
+        "gbifId": "3005039",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "732029-1"
       }
     ]
   },
@@ -957,6 +1015,35 @@
     ]
   },
   {
+    "imageHash": "90d2565ff76e32b0",
+    "latLng": {
+      "lat": 7.255202777777778,
+      "lng": 80.61889722222222
+    },
+    "source": "exif",
+    "utImageTaken": 1780197988,
+    "timeImageTaken": "2026-05-31 03:26:28",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.96242,
+        "species": "Jatropha integerrima Jacq.",
+        "genus": "Jatropha",
+        "family": "Euphorbiaceae",
+        "commonNames": [
+          "Peregrina",
+          "Butterfly tree",
+          "Integrileaf Jatropha"
+        ],
+        "gbifId": "3073017",
+        "iucnId": "241298031",
+        "iucnCategory": "LC",
+        "powoId": "350290-1"
+      }
+    ]
+  },
+  {
     "imageHash": "4afa8d459800d84f",
     "latLng": {
       "lat": 6.9129555555555555,
@@ -982,6 +1069,35 @@
         "iucnId": "135836706",
         "iucnCategory": "LC",
         "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "a6917201d63b3da6",
+    "latLng": {
+      "lat": 7.255183333333333,
+      "lng": 80.61913333333332
+    },
+    "source": "exif",
+    "utImageTaken": 1780195136,
+    "timeImageTaken": "2026-05-31 02:38:56",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.56521,
+        "species": "Hibiscus rosa-sinensis L.",
+        "genus": "Hibiscus",
+        "family": "Malvaceae",
+        "commonNames": [
+          "Hawaiian hibiscus",
+          "Hibiscus",
+          "गुड़हल"
+        ],
+        "gbifId": "3152559",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "560756-1"
       }
     ]
   },
@@ -1268,6 +1384,65 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "532810-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "d0f071717d69ef94",
+    "latLng": {
+      "lat": 7.255105555555556,
+      "lng": 80.61857499999999
+    },
+    "source": "exif",
+    "utImageTaken": 1780195112,
+    "timeImageTaken": "2026-05-31 02:38:32",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.32516,
+        "species": "Hibiscus spp.",
+        "genus": "Hibiscus",
+        "family": "Malvaceae",
+        "commonNames": [
+          "Common Hibiscus",
+          "Garden Hibiscus",
+          "Cultivated Hibiscus"
+        ],
+        "gbifId": "",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
+      },
+      {
+        "confidence": 0.28942,
+        "species": "Hibiscus rosa-sinensis L.",
+        "genus": "Hibiscus",
+        "family": "Malvaceae",
+        "commonNames": [
+          "Hawaiian hibiscus",
+          "Hibiscus",
+          "गुड़हल"
+        ],
+        "gbifId": "3152559",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "560756-1"
+      },
+      {
+        "confidence": 0.1093,
+        "species": "Hibiscus schizopetalus (Dyer) Hook.f.",
+        "genus": "Hibiscus",
+        "family": "Malvaceae",
+        "commonNames": [
+          "Coral hibiscus",
+          "Japanese lantern",
+          "Fringed Rosemallow"
+        ],
+        "gbifId": "9064581",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
       }
     ]
   },
@@ -1636,6 +1811,35 @@
     ]
   },
   {
+    "imageHash": "8e4f73a241c3e736",
+    "latLng": {
+      "lat": 7.255147222222222,
+      "lng": 80.61914166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1780195124,
+    "timeImageTaken": "2026-05-31 02:38:44",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.91941,
+        "species": "Hamelia patens Jacq.",
+        "genus": "Hamelia",
+        "family": "Rubiaceae",
+        "commonNames": [
+          "Fire bush",
+          "Redhead",
+          "Scarletbush"
+        ],
+        "gbifId": "2902066",
+        "iucnId": "136789578",
+        "iucnCategory": "LC",
+        "powoId": "752194-1"
+      }
+    ]
+  },
+  {
     "imageHash": "2f54f1d12f691001",
     "latLng": {
       "lat": 51.50516388888889,
@@ -1719,6 +1923,48 @@
         "iucnId": "113172076",
         "iucnCategory": "NT",
         "powoId": ""
+      }
+    ]
+  },
+  {
+    "imageHash": "03bdfaaea141e8e7",
+    "latLng": {
+      "lat": 7.2552111111111115,
+      "lng": 80.61904166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1780195151,
+    "timeImageTaken": "2026-05-31 02:39:11",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.46103,
+        "species": "Dahlia × hortensis Guillaumin",
+        "genus": "Dahlia",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Bishop of Llandaff"
+        ],
+        "gbifId": "5387161",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
+      },
+      {
+        "confidence": 0.27131,
+        "species": "Dahlia pinnata Cav.",
+        "genus": "Dahlia",
+        "family": "Asteraceae",
+        "commonNames": [
+          "Dahlia",
+          "Pinnate dahlia",
+          "کوکب"
+        ],
+        "gbifId": "5387142",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "30027297-2"
       }
     ]
   },
@@ -2111,6 +2357,35 @@
         "iucnId": "135836706",
         "iucnCategory": "LC",
         "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "7d3d1fc16bb0956c",
+    "latLng": {
+      "lat": 7.255263888888889,
+      "lng": 80.61911666666666
+    },
+    "source": "exif",
+    "utImageTaken": 1780198216,
+    "timeImageTaken": "2026-05-31 03:30:16",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.3421,
+        "species": "Rosa chinensis Jacq.",
+        "genus": "Rosa",
+        "family": "Rosaceae",
+        "commonNames": [
+          "Bengal rose",
+          "China Rose",
+          "Chinese rose"
+        ],
+        "gbifId": "3005039",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "732029-1"
       }
     ]
   },
@@ -2753,6 +3028,50 @@
     ]
   },
   {
+    "imageHash": "2bc6b8564ddffcd4",
+    "latLng": {
+      "lat": 7.2552055555555555,
+      "lng": 80.61896388888889
+    },
+    "source": "exif",
+    "utImageTaken": 1780195173,
+    "timeImageTaken": "2026-05-31 02:39:33",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.52562,
+        "species": "Impatiens walleriana Hook.f.",
+        "genus": "Impatiens",
+        "family": "Balsaminaceae",
+        "commonNames": [
+          "Busy lizzy",
+          "Impatiens",
+          "Sultan's Balsam"
+        ],
+        "gbifId": "2891772",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "374419-1"
+      },
+      {
+        "confidence": 0.17025,
+        "species": "Impatiens hawkeri W.Bull",
+        "genus": "Impatiens",
+        "family": "Balsaminaceae",
+        "commonNames": [
+          "Impatiens",
+          "New Guinea Impatiens",
+          "گل حنا"
+        ],
+        "gbifId": "4193702",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "374127-1"
+      }
+    ]
+  },
+  {
     "imageHash": "59ef65230591a29c",
     "latLng": {
       "lat": 7.255127777777778,
@@ -3112,6 +3431,35 @@
         "iucnId": "135836706",
         "iucnCategory": "LC",
         "powoId": "102036-2"
+      }
+    ]
+  },
+  {
+    "imageHash": "2e26126ce838e064",
+    "latLng": {
+      "lat": 7.2552666666666665,
+      "lng": 80.61911111111111
+    },
+    "source": "exif",
+    "utImageTaken": 1780198170,
+    "timeImageTaken": "2026-05-31 03:29:30",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.17237,
+        "species": "Rosa chinensis Jacq.",
+        "genus": "Rosa",
+        "family": "Rosaceae",
+        "commonNames": [
+          "Bengal rose",
+          "China Rose",
+          "Chinese rose"
+        ],
+        "gbifId": "3005039",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "732029-1"
       }
     ]
   },

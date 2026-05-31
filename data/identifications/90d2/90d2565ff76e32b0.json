@@ -1,0 +1,112 @@
+{
+  "hash": "90d2565ff76e32b0",
+  "image_metadata": {
+    "imageHash": "90d2565ff76e32b0",
+    "imageLocation": {
+      "latitude": 7.255202777777778,
+      "longitude": 80.61889722222222,
+      "accuracy": 3.200802819659291,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780197988,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/90d2565ff76e32b0.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "350570b22e95e81a3bbc57a6ad8e7cb2"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "350570b22e95e81a3bbc57a6ad8e7cb2",
+        "filename": "90d2565ff76e32b0.png",
+        "organ": "flower",
+        "score": 0.87665
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Jatropha integerrima Jacq.",
+    "results": [
+      {
+        "score": 0.96242,
+        "species": {
+          "scientificNameWithoutAuthor": "Jatropha integerrima",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Jatropha",
+            "scientificNameAuthorship": "",
+            "scientificName": "Jatropha"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Peregrina",
+            "Butterfly tree",
+            "Integrileaf Jatropha"
+          ],
+          "scientificName": "Jatropha integerrima Jacq."
+        },
+        "gbif": {
+          "id": "3073017"
+        },
+        "powo": {
+          "id": "350290-1"
+        },
+        "iucn": {
+          "id": "241298031",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 480
+  },
+  "nominatim_data": {
+    "place_id": 255345790,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}
