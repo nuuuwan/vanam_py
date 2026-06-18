@@ -1,0 +1,372 @@
+{
+  "hash": "06e399f2ef28f666",
+  "image_metadata": {
+    "imageHash": "06e399f2ef28f666",
+    "imageLocation": {
+      "latitude": 6.918752777777778,
+      "longitude": 79.85908611111111,
+      "accuracy": 4.735336381450033,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1781747707,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/06e399f2ef28f666.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "d8c00df39de11763de5ded070575dd06"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "d8c00df39de11763de5ded070575dd06",
+        "filename": "06e399f2ef28f666.png",
+        "organ": "leaf",
+        "score": 0.74224
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Aloe officinalis Forssk.",
+    "results": [
+      {
+        "score": 0.70907,
+        "species": {
+          "scientificNameWithoutAuthor": "Aloe officinalis",
+          "scientificNameAuthorship": "Forssk.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aloe",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aloe"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asphodelaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asphodelaceae"
+          },
+          "commonNames": [
+            "Aloe Vera",
+            "Aloe",
+            "سگل قرمز، آلوئه ورا گل قرمز"
+          ],
+          "scientificName": "Aloe officinalis Forssk."
+        },
+        "gbif": {
+          "id": "2777592"
+        },
+        "powo": {
+          "id": "529722-1"
+        }
+      },
+      {
+        "score": 0.16793,
+        "species": {
+          "scientificNameWithoutAuthor": "Aloe vera",
+          "scientificNameAuthorship": "(L.) Burm.f.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aloe",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aloe"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asphodelaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asphodelaceae"
+          },
+          "commonNames": [
+            "Aloe vera",
+            "Aloe",
+            "Medicinal aloe"
+          ],
+          "scientificName": "Aloe vera (L.) Burm.f."
+        },
+        "gbif": {
+          "id": "2777724"
+        },
+        "powo": {
+          "id": "530017-1"
+        }
+      },
+      {
+        "score": 0.01733,
+        "species": {
+          "scientificNameWithoutAuthor": "Aloe camperi",
+          "scientificNameAuthorship": "Schweinf.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aloe",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aloe"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asphodelaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asphodelaceae"
+          },
+          "commonNames": [
+            "Camper's aloe",
+            "Camper's Aloe",
+            "Popcorn Aloe"
+          ],
+          "scientificName": "Aloe camperi Schweinf."
+        },
+        "gbif": {
+          "id": "2777151"
+        },
+        "powo": {
+          "id": "529298-1"
+        },
+        "iucn": {
+          "id": "201340",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00737,
+        "species": {
+          "scientificNameWithoutAuthor": "Aloe tororoana",
+          "scientificNameAuthorship": "Reynolds",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aloe",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aloe"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asphodelaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asphodelaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Aloe tororoana Reynolds"
+        },
+        "gbif": {
+          "id": "2777852"
+        },
+        "powo": {
+          "id": "529969-1"
+        },
+        "iucn": {
+          "id": "47348717",
+          "category": "VU"
+        }
+      },
+      {
+        "score": 0.00458,
+        "species": {
+          "scientificNameWithoutAuthor": "Aloiampelos striatula",
+          "scientificNameAuthorship": "(Haw.) Klopper & Gideon F.Sm.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aloiampelos",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aloiampelos"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asphodelaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asphodelaceae"
+          },
+          "commonNames": [
+            "Hardy Aloe",
+            "Hardy aloe",
+            "Stripe Sheathed Narrow-Leaved Aloe"
+          ],
+          "scientificName": "Aloiampelos striatula (Haw.) Klopper & Gideon F.Sm."
+        },
+        "gbif": {
+          "id": "9287107"
+        },
+        "powo": {
+          "id": "77125510-1"
+        }
+      },
+      {
+        "score": 0.0039,
+        "species": {
+          "scientificNameWithoutAuthor": "Aloe dorotheae",
+          "scientificNameAuthorship": "A.Berger",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aloe",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aloe"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asphodelaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asphodelaceae"
+          },
+          "commonNames": [
+            "Sunset aloe"
+          ],
+          "scientificName": "Aloe dorotheae A.Berger"
+        },
+        "gbif": {
+          "id": "2777773"
+        },
+        "powo": {
+          "id": "529411-1"
+        },
+        "iucn": {
+          "id": "158335",
+          "category": "CR"
+        }
+      },
+      {
+        "score": 0.0037,
+        "species": {
+          "scientificNameWithoutAuthor": "Aloe pseudorubroviolacea",
+          "scientificNameAuthorship": "Lavranos & Collen.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aloe",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aloe"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asphodelaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asphodelaceae"
+          },
+          "commonNames": [
+            "Arabian Aloe"
+          ],
+          "scientificName": "Aloe pseudorubroviolacea Lavranos & Collen."
+        },
+        "gbif": {
+          "id": "2777148"
+        },
+        "powo": {
+          "id": "1013410-1"
+        }
+      },
+      {
+        "score": 0.00336,
+        "species": {
+          "scientificNameWithoutAuthor": "Aloe arborescens",
+          "scientificNameAuthorship": "Mill.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aloe",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aloe"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asphodelaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asphodelaceae"
+          },
+          "commonNames": [
+            "Candelabra aloe",
+            "Octopus plant",
+            "Krantz Aloe"
+          ],
+          "scientificName": "Aloe arborescens Mill."
+        },
+        "gbif": {
+          "id": "2777537"
+        },
+        "powo": {
+          "id": "529214-1"
+        },
+        "iucn": {
+          "id": "110688013",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00329,
+        "species": {
+          "scientificNameWithoutAuthor": "Aloe rivierei",
+          "scientificNameAuthorship": "Lavranos & L.E.Newton",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aloe",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aloe"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asphodelaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asphodelaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Aloe rivierei Lavranos & L.E.Newton"
+        },
+        "gbif": {
+          "id": "2778089"
+        },
+        "powo": {
+          "id": "529851-1"
+        }
+      },
+      {
+        "score": 0.00258,
+        "species": {
+          "scientificNameWithoutAuthor": "Aloe fibrosa",
+          "scientificNameAuthorship": "Lavranos & L.E.Newton",
+          "genus": {
+            "scientificNameWithoutAuthor": "Aloe",
+            "scientificNameAuthorship": "",
+            "scientificName": "Aloe"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Asphodelaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Asphodelaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Aloe fibrosa Lavranos & L.E.Newton"
+        },
+        "gbif": {
+          "id": "2777703"
+        },
+        "powo": {
+          "id": "529450-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 482
+  },
+  "nominatim_data": {
+    "place_id": 254316476,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 13892838,
+    "lat": "6.9194506",
+    "lon": "79.8590426",
+    "class": "building",
+    "type": "apartments",
+    "place_rank": 30,
+    "importance": 7.168307011516011e-05,
+    "addresstype": "building",
+    "name": "On320 Apartments",
+    "display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "address": {
+      "building": "On320 Apartments",
+      "house_number": "320",
+      "road": "Dr. Colvin R. de Silva Mawatha (Union Place)",
+      "neighbourhood": "Hyde Park Corner",
+      "suburb": "Hunupitiya",
+      "village": "Slave Island",
+      "city": "Colombo",
+      "state_district": "Colombo District",
+      "ISO3166-2-lvl5": "LK-11",
+      "state": "Western Province",
+      "ISO3166-2-lvl4": "LK-1",
+      "postcode": "00200",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "6.9187890",
+      "6.9196281",
+      "79.8588565",
+      "79.8594654"
+    ]
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "hash": "a91ad360b2e159a3",
+  "image_metadata": {
+    "imageHash": "a91ad360b2e159a3",
+    "imageLocation": {
+      "latitude": 7.2551805555555555,
+      "longitude": 80.61899444444444,
+      "accuracy": 4.748651528267963,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1780369748,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/a91ad360b2e159a3.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "f62a222735439cff6b7aab0d979876a1"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "f62a222735439cff6b7aab0d979876a1",
+        "filename": "a91ad360b2e159a3.png",
+        "organ": "habit",
+        "score": 0.61366
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Kopsia arborea Blume",
+    "results": [
+      {
+        "score": 0.43789,
+        "species": {
+          "scientificNameWithoutAuthor": "Kopsia arborea",
+          "scientificNameAuthorship": "Blume",
+          "genus": {
+            "scientificNameWithoutAuthor": "Kopsia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Kopsia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Java prune",
+            "Penang sloe",
+            "White kopsia"
+          ],
+          "scientificName": "Kopsia arborea Blume"
+        },
+        "gbif": {
+          "id": "5536040"
+        },
+        "powo": {
+          "id": "79490-1"
+        },
+        "iucn": {
+          "id": "147643327",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.02841,
+        "species": {
+          "scientificNameWithoutAuthor": "Tabernaemontana cerifera",
+          "scientificNameAuthorship": "Pancher & Sebert",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tabernaemontana",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tabernaemontana"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Tabernaemontana cerifera Pancher & Sebert"
+        },
+        "gbif": {
+          "id": "3618437"
+        },
+        "powo": {
+          "id": "82046-1"
+        }
+      },
+      {
+        "score": 0.02254,
+        "species": {
+          "scientificNameWithoutAuthor": "Parahancornia fasciculata",
+          "scientificNameAuthorship": "(Poir.) Benoist",
+          "genus": {
+            "scientificNameWithoutAuthor": "Parahancornia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Parahancornia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Parahancornia fasciculata (Poir.) Benoist"
+        },
+        "gbif": {
+          "id": "3621214"
+        },
+        "powo": {
+          "id": "182946-2"
+        },
+        "iucn": {
+          "id": "180071279",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01075,
+        "species": {
+          "scientificNameWithoutAuthor": "Solanum bahamense",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Solanum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Solanaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Solanaceae"
+          },
+          "commonNames": [
+            "Bahama nightshade",
+            "Bahama Nightshade",
+            "Canker berry"
+          ],
+          "scientificName": "Solanum bahamense L."
+        },
+        "gbif": {
+          "id": "2929568"
+        },
+        "powo": {
+          "id": "285186-2"
+        },
+        "iucn": {
+          "id": "152909785",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00861,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × aurantium",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Sour orange",
+            "Bitter orange",
+            "Bigarade"
+          ],
+          "scientificName": "Citrus × aurantium L."
+        },
+        "gbif": {
+          "id": "8077391"
+        },
+        "powo": {
+          "id": "59600-2"
+        }
+      },
+      {
+        "score": 0.00578,
+        "species": {
+          "scientificNameWithoutAuthor": "Kopsia singapurensis",
+          "scientificNameAuthorship": "Ridl.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Kopsia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Kopsia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Singapore kopsia",
+            "Singapore Kopsia",
+            "White kopsia"
+          ],
+          "scientificName": "Kopsia singapurensis Ridl."
+        },
+        "gbif": {
+          "id": "5535896"
+        },
+        "powo": {
+          "id": "79524-1"
+        },
+        "iucn": {
+          "id": "31758",
+          "category": "VU"
+        }
+      },
+      {
+        "score": 0.00516,
+        "species": {
+          "scientificNameWithoutAuthor": "Jasminum magnificum",
+          "scientificNameAuthorship": "Lingelsh.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Jasminum",
+            "scientificNameAuthorship": "",
+            "scientificName": "Jasminum"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Oleaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Oleaceae"
+          },
+          "commonNames": [],
+          "scientificName": "Jasminum magnificum Lingelsh."
+        },
+        "gbif": {
+          "id": "3683403"
+        },
+        "powo": {
+          "id": "609613-1"
+        }
+      },
+      {
+        "score": 0.00437,
+        "species": {
+          "scientificNameWithoutAuthor": "Coffea arabica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Coffea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Coffea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rubiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rubiaceae"
+          },
+          "commonNames": [
+            "Coffee",
+            "Arabian coffee",
+            "Arabica coffee"
+          ],
+          "scientificName": "Coffea arabica L."
+        },
+        "gbif": {
+          "id": "2895345"
+        },
+        "powo": {
+          "id": "747038-1"
+        },
+        "iucn": {
+          "id": "18289789",
+          "category": "EN"
+        }
+      },
+      {
+        "score": 0.00302,
+        "species": {
+          "scientificNameWithoutAuthor": "Saba senegalensis",
+          "scientificNameAuthorship": "(A.DC.) Pichon",
+          "genus": {
+            "scientificNameWithoutAuthor": "Saba",
+            "scientificNameAuthorship": "",
+            "scientificName": "Saba"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Monkey Fruit",
+            "Senegal saba"
+          ],
+          "scientificName": "Saba senegalensis (A.DC.) Pichon"
+        },
+        "gbif": {
+          "id": "3169621"
+        },
+        "powo": {
+          "id": "81759-1"
+        }
+      },
+      {
+        "score": 0.00266,
+        "species": {
+          "scientificNameWithoutAuthor": "Vallesia antillana",
+          "scientificNameAuthorship": "Woodson",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vallesia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vallesia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Apocynaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Apocynaceae"
+          },
+          "commonNames": [
+            "Pearlberry",
+            "Tearshrub"
+          ],
+          "scientificName": "Vallesia antillana Woodson"
+        },
+        "gbif": {
+          "id": "5414417"
+        },
+        "powo": {
+          "id": "262478-2"
+        },
+        "iucn": {
+          "id": "201805541",
+          "category": "LC"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 480
+  },
+  "nominatim_data": {
+    "place_id": 255293400,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4025970936,
+    "lat": "7.2551341",
+    "lon": "80.6193894",
+    "class": "tourism",
+    "type": "hotel",
+    "place_rank": 30,
+    "importance": 5.9515526054734375e-05,
+    "addresstype": "tourism",
+    "name": "Mount Batten Bungalow",
+    "display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "address": {
+      "tourism": "Mount Batten Bungalow",
+      "road": "Heerassagala Road",
+      "hamlet": "Elagolla",
+      "village": "Heeressagala",
+      "state_district": "Kandy District",
+      "ISO3166-2-lvl5": "LK-21",
+      "state": "Central Province",
+      "ISO3166-2-lvl4": "LK-2",
+      "postcode": "85129",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "7.2550841",
+      "7.2551841",
+      "80.6193394",
+      "80.6194394"
+    ]
+  }
+}

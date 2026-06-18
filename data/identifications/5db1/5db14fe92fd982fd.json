@@ -1,0 +1,229 @@
+{
+  "hash": "5db14fe92fd982fd",
+  "image_metadata": {
+    "imageHash": "5db14fe92fd982fd",
+    "imageLocation": {
+      "latitude": 6.918766666666667,
+      "longitude": 79.85909166666666,
+      "accuracy": 29.94167123788627,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1781747699,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/5db14fe92fd982fd.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "056a4e73dddf7effa1a05d497d73169b"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "056a4e73dddf7effa1a05d497d73169b",
+        "filename": "5db14fe92fd982fd.png",
+        "organ": "leaf",
+        "score": 0.73773
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "useful",
+    "bestMatch": "Plectranthus amboinicus (Lour.) Spreng.",
+    "results": [
+      {
+        "score": 0.46074,
+        "species": {
+          "scientificNameWithoutAuthor": "Plectranthus amboinicus",
+          "scientificNameAuthorship": "(Lour.) Spreng.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plectranthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plectranthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Cuban oregano",
+            "Indian mint",
+            "French thyme"
+          ],
+          "scientificName": "Plectranthus amboinicus (Lour.) Spreng."
+        },
+        "gbif": {
+          "id": "2926636"
+        }
+      },
+      {
+        "score": 0.08206,
+        "species": {
+          "scientificNameWithoutAuthor": "Plectranthus barbatus",
+          "scientificNameAuthorship": "Andrews",
+          "genus": {
+            "scientificNameWithoutAuthor": "Plectranthus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Plectranthus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Forskohlii",
+            "Boldo",
+            "Coleus"
+          ],
+          "scientificName": "Plectranthus barbatus Andrews"
+        },
+        "gbif": {
+          "id": "6412796"
+        }
+      },
+      {
+        "score": 0.00739,
+        "species": {
+          "scientificNameWithoutAuthor": "Mentha suaveolens",
+          "scientificNameAuthorship": "Ehrh.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Mentha",
+            "scientificNameAuthorship": "",
+            "scientificName": "Mentha"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Lamiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Lamiaceae"
+          },
+          "commonNames": [
+            "Apple mint",
+            "Apple Mint",
+            "Pineapple Mint"
+          ],
+          "scientificName": "Mentha suaveolens Ehrh."
+        },
+        "gbif": {
+          "id": "2927190"
+        },
+        "powo": {
+          "id": "451188-1"
+        },
+        "iucn": {
+          "id": "164109",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00163,
+        "species": {
+          "scientificNameWithoutAuthor": "Caryocar brasiliense",
+          "scientificNameAuthorship": "A.St.-Hil.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Caryocar",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caryocar"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caryocaraceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caryocaraceae"
+          },
+          "commonNames": [
+            "Pekea nut",
+            "Pekea Nut",
+            "Pequi"
+          ],
+          "scientificName": "Caryocar brasiliense A.St.-Hil."
+        },
+        "gbif": {
+          "id": "3189663"
+        },
+        "powo": {
+          "id": "828593-1"
+        },
+        "iucn": {
+          "id": "144313008",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00132,
+        "species": {
+          "scientificNameWithoutAuthor": "Stachytarpheta mutabilis",
+          "scientificNameAuthorship": "(Jacq.) Vahl",
+          "genus": {
+            "scientificNameWithoutAuthor": "Stachytarpheta",
+            "scientificNameAuthorship": "",
+            "scientificName": "Stachytarpheta"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Verbenaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Verbenaceae"
+          },
+          "commonNames": [
+            "Coral porterweed",
+            "Changeable Velvetberry",
+            "Snakeweed"
+          ],
+          "scientificName": "Stachytarpheta mutabilis (Jacq.) Vahl"
+        },
+        "gbif": {
+          "id": "2925462"
+        },
+        "powo": {
+          "id": "243385-2"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 481
+  },
+  "nominatim_data": {
+    "place_id": 254316476,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 13892838,
+    "lat": "6.9194506",
+    "lon": "79.8590426",
+    "class": "building",
+    "type": "apartments",
+    "place_rank": 30,
+    "importance": 7.168307011516011e-05,
+    "addresstype": "building",
+    "name": "On320 Apartments",
+    "display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "address": {
+      "building": "On320 Apartments",
+      "house_number": "320",
+      "road": "Dr. Colvin R. de Silva Mawatha (Union Place)",
+      "neighbourhood": "Hyde Park Corner",
+      "suburb": "Hunupitiya",
+      "village": "Slave Island",
+      "city": "Colombo",
+      "state_district": "Colombo District",
+      "ISO3166-2-lvl5": "LK-11",
+      "state": "Western Province",
+      "ISO3166-2-lvl4": "LK-1",
+      "postcode": "00200",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "6.9187890",
+      "6.9196281",
+      "79.8588565",
+      "79.8594654"
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "hash": "edac5d01cd5c6c74",
+  "image_metadata": {
+    "imageHash": "edac5d01cd5c6c74",
+    "imageLocation": {
+      "latitude": 6.918722222222223,
+      "longitude": 79.85907777777777,
+      "accuracy": 6.213439339500038,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1781747702,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/edac5d01cd5c6c74.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "b5b9edff208eee8a3f6182a16ddf0acb"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "b5b9edff208eee8a3f6182a16ddf0acb",
+        "filename": "edac5d01cd5c6c74.png",
+        "organ": "leaf",
+        "score": 0.80291
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Carica papaya L.",
+    "results": [
+      {
+        "score": 0.70275,
+        "species": {
+          "scientificNameWithoutAuthor": "Carica papaya",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Carica",
+            "scientificNameAuthorship": "",
+            "scientificName": "Carica"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caricaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caricaceae"
+          },
+          "commonNames": [
+            "Papaya",
+            "Pawpaw",
+            "Paw paw"
+          ],
+          "scientificName": "Carica papaya L."
+        },
+        "gbif": {
+          "id": "2874484"
+        },
+        "powo": {
+          "id": "30011248-2"
+        },
+        "iucn": {
+          "id": "20681422",
+          "category": "DD"
+        }
+      },
+      {
+        "score": 0.01193,
+        "species": {
+          "scientificNameWithoutAuthor": "Callianthe picta",
+          "scientificNameAuthorship": "(Gillies ex Hook. & Arn.) Donnell",
+          "genus": {
+            "scientificNameWithoutAuthor": "Callianthe",
+            "scientificNameAuthorship": "",
+            "scientificName": "Callianthe"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Redvein Chinese lantern",
+            "Painted Indian Mallow",
+            "Red Vein Chinese Lantern"
+          ],
+          "scientificName": "Callianthe picta (Gillies ex Hook. & Arn.) Donnell"
+        },
+        "gbif": {
+          "id": "7900084"
+        },
+        "powo": {
+          "id": "77130215-1"
+        }
+      },
+      {
+        "score": 0.01007,
+        "species": {
+          "scientificNameWithoutAuthor": "Ricinus communis",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Ricinus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Ricinus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "Castor oil-plant",
+            "Castor bean-plant",
+            "Castor bean"
+          ],
+          "scientificName": "Ricinus communis L."
+        },
+        "gbif": {
+          "id": "5380041"
+        },
+        "powo": {
+          "id": "355498-1"
+        }
+      },
+      {
+        "score": 0.00763,
+        "species": {
+          "scientificNameWithoutAuthor": "Acer macrophyllum",
+          "scientificNameAuthorship": "Pursh",
+          "genus": {
+            "scientificNameWithoutAuthor": "Acer",
+            "scientificNameAuthorship": "",
+            "scientificName": "Acer"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Sapindaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Sapindaceae"
+          },
+          "commonNames": [
+            "Bigleaf maple",
+            "Big leaved maple",
+            "Big leaved Maple"
+          ],
+          "scientificName": "Acer macrophyllum Pursh"
+        },
+        "gbif": {
+          "id": "3189835"
+        },
+        "powo": {
+          "id": "317376-2"
+        },
+        "iucn": {
+          "id": "193830",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00691,
+        "species": {
+          "scientificNameWithoutAuthor": "Fatsia japonica",
+          "scientificNameAuthorship": "(Thunb.) Decne. & Planch.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Fatsia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Fatsia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araliaceae"
+          },
+          "commonNames": [
+            "Japanese fatsia",
+            "Japanese Aralia",
+            "Paperplant"
+          ],
+          "scientificName": "Fatsia japonica (Thunb.) Decne. & Planch."
+        },
+        "gbif": {
+          "id": "3039046"
+        },
+        "powo": {
+          "id": "90496-1"
+        }
+      },
+      {
+        "score": 0.00689,
+        "species": {
+          "scientificNameWithoutAuthor": "Liquidambar styraciflua",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Liquidambar",
+            "scientificNameAuthorship": "",
+            "scientificName": "Liquidambar"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Altingiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Altingiaceae"
+          },
+          "commonNames": [
+            "Sweetgum",
+            "American Sweet Gum",
+            "Sweet gum"
+          ],
+          "scientificName": "Liquidambar styraciflua L."
+        },
+        "gbif": {
+          "id": "3152824"
+        },
+        "powo": {
+          "id": "430718-1"
+        },
+        "iucn": {
+          "id": "33966",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00428,
+        "species": {
+          "scientificNameWithoutAuthor": "Brachychiton discolor",
+          "scientificNameAuthorship": "F.Muell.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Brachychiton",
+            "scientificNameAuthorship": "",
+            "scientificName": "Brachychiton"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Malvaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Malvaceae"
+          },
+          "commonNames": [
+            "Lacebarktree",
+            "Queensland lacebark",
+            "Hat Tree"
+          ],
+          "scientificName": "Brachychiton discolor F.Muell."
+        },
+        "gbif": {
+          "id": "7426033"
+        },
+        "powo": {
+          "id": "822259-1"
+        },
+        "iucn": {
+          "id": "192229298",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00352,
+        "species": {
+          "scientificNameWithoutAuthor": "Cecropia albicans",
+          "scientificNameAuthorship": "Trécul",
+          "genus": {
+            "scientificNameWithoutAuthor": "Cecropia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Cecropia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Urticaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Urticaceae"
+          },
+          "commonNames": [
+            "Hand of Bakasura",
+            "Hand of Bakasura (బకాసురుని చెయ్యి)"
+          ],
+          "scientificName": "Cecropia albicans Trécul"
+        },
+        "gbif": {
+          "id": "4013561"
+        },
+        "powo": {
+          "id": "850915-1"
+        },
+        "iucn": {
+          "id": "219813960",
+          "category": "NT"
+        }
+      },
+      {
+        "score": 0.00346,
+        "species": {
+          "scientificNameWithoutAuthor": "Tetrapanax papyrifer",
+          "scientificNameAuthorship": "(Hook.) K.Koch",
+          "genus": {
+            "scientificNameWithoutAuthor": "Tetrapanax",
+            "scientificNameAuthorship": "",
+            "scientificName": "Tetrapanax"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Araliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Araliaceae"
+          },
+          "commonNames": [
+            "Chinese rice paper plant",
+            "Rice paper plant",
+            "Rice paper-plant"
+          ],
+          "scientificName": "Tetrapanax papyrifer (Hook.) K.Koch"
+        },
+        "gbif": {
+          "id": "3035275"
+        },
+        "powo": {
+          "id": "86417-3"
+        },
+        "iucn": {
+          "id": "147626842",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00313,
+        "species": {
+          "scientificNameWithoutAuthor": "Vasconcellea × pentagona",
+          "scientificNameAuthorship": "(Heilborn) Mabb.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Vasconcellea",
+            "scientificNameAuthorship": "",
+            "scientificName": "Vasconcellea"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Caricaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Caricaceae"
+          },
+          "commonNames": [
+            "Babaco"
+          ],
+          "scientificName": "Vasconcellea × pentagona (Heilborn) Mabb."
+        },
+        "gbif": {
+          "id": "10961701"
+        },
+        "powo": {
+          "id": "77164259-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 478
+  },
+  "nominatim_data": {
+    "place_id": 254316476,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 13892838,
+    "lat": "6.9194506",
+    "lon": "79.8590426",
+    "class": "building",
+    "type": "apartments",
+    "place_rank": 30,
+    "importance": 7.168307011516011e-05,
+    "addresstype": "building",
+    "name": "On320 Apartments",
+    "display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "address": {
+      "building": "On320 Apartments",
+      "house_number": "320",
+      "road": "Dr. Colvin R. de Silva Mawatha (Union Place)",
+      "neighbourhood": "Hyde Park Corner",
+      "suburb": "Hunupitiya",
+      "village": "Slave Island",
+      "city": "Colombo",
+      "state_district": "Colombo District",
+      "ISO3166-2-lvl5": "LK-11",
+      "state": "Western Province",
+      "ISO3166-2-lvl4": "LK-1",
+      "postcode": "00200",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "6.9187890",
+      "6.9196281",
+      "79.8588565",
+      "79.8594654"
+    ]
+  }
+}

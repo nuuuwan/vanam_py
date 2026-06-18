@@ -2011,6 +2011,50 @@
     ]
   },
   {
+    "imageHash": "06e399f2ef28f666",
+    "latLng": {
+      "lat": 6.918752777777778,
+      "lng": 79.85908611111111
+    },
+    "source": "exif",
+    "utImageTaken": 1781747707,
+    "timeImageTaken": "2026-06-18 01:55:07",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.70907,
+        "species": "Aloe officinalis Forssk.",
+        "genus": "Aloe",
+        "family": "Asphodelaceae",
+        "commonNames": [
+          "Aloe Vera",
+          "Aloe",
+          "سگل قرمز، آلوئه ورا گل قرمز"
+        ],
+        "gbifId": "2777592",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "529722-1"
+      },
+      {
+        "confidence": 0.16793,
+        "species": "Aloe vera (L.) Burm.f.",
+        "genus": "Aloe",
+        "family": "Asphodelaceae",
+        "commonNames": [
+          "Aloe vera",
+          "Aloe",
+          "Medicinal aloe"
+        ],
+        "gbifId": "2777724",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "530017-1"
+      }
+    ]
+  },
+  {
     "imageHash": "91db4368445c2189",
     "latLng": {
       "lat": 7.255416666666667,
@@ -3235,6 +3279,35 @@
     ]
   },
   {
+    "imageHash": "edac5d01cd5c6c74",
+    "latLng": {
+      "lat": 6.918722222222223,
+      "lng": 79.85907777777777
+    },
+    "source": "exif",
+    "utImageTaken": 1781747702,
+    "timeImageTaken": "2026-06-18 01:55:02",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.70275,
+        "species": "Carica papaya L.",
+        "genus": "Carica",
+        "family": "Caricaceae",
+        "commonNames": [
+          "Papaya",
+          "Pawpaw",
+          "Paw paw"
+        ],
+        "gbifId": "2874484",
+        "iucnId": "20681422",
+        "iucnCategory": "DD",
+        "powoId": "30011248-2"
+      }
+    ]
+  },
+  {
     "imageHash": "b0e3a6cd50db0815",
     "latLng": {
       "lat": 52.62828888888889,
@@ -3362,6 +3435,35 @@
         "iucnId": "149853146",
         "iucnCategory": "LC",
         "powoId": "82097-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "a91ad360b2e159a3",
+    "latLng": {
+      "lat": 7.2551805555555555,
+      "lng": 80.61899444444444
+    },
+    "source": "exif",
+    "utImageTaken": 1780369748,
+    "timeImageTaken": "2026-06-02 03:09:08",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "Mount Batten Bungalow, Heerassagala Road, Elagolla, Heeressagala, Kandy District, Central Province, 85129, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.43789,
+        "species": "Kopsia arborea Blume",
+        "genus": "Kopsia",
+        "family": "Apocynaceae",
+        "commonNames": [
+          "Java prune",
+          "Penang sloe",
+          "White kopsia"
+        ],
+        "gbifId": "5536040",
+        "iucnId": "147643327",
+        "iucnCategory": "LC",
+        "powoId": "79490-1"
       }
     ]
   },
@@ -3524,6 +3626,35 @@
     ]
   },
   {
+    "imageHash": "5db14fe92fd982fd",
+    "latLng": {
+      "lat": 6.918766666666667,
+      "lng": 79.85909166666666
+    },
+    "source": "exif",
+    "utImageTaken": 1781747699,
+    "timeImageTaken": "2026-06-18 01:54:59",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.46074,
+        "species": "Plectranthus amboinicus (Lour.) Spreng.",
+        "genus": "Plectranthus",
+        "family": "Lamiaceae",
+        "commonNames": [
+          "Cuban oregano",
+          "Indian mint",
+          "French thyme"
+        ],
+        "gbifId": "2926636",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": ""
+      }
+    ]
+  },
+  {
     "imageHash": "2ef1ca46bb4adcc5",
     "latLng": {
       "lat": 6.912911111111112,
@@ -3608,6 +3739,50 @@
         "iucnId": "",
         "iucnCategory": "",
         "powoId": "732569-1"
+      }
+    ]
+  },
+  {
+    "imageHash": "ac161a873a4b06b0",
+    "latLng": {
+      "lat": 6.91885,
+      "lng": 79.85905555555556
+    },
+    "source": "exif",
+    "utImageTaken": 1781747696,
+    "timeImageTaken": "2026-06-18 01:54:56",
+    "userId": "1koj6ac",
+    "nominatim_display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "predictions": [
+      {
+        "confidence": 0.36705,
+        "species": "Citrus × limon (L.) Osbeck",
+        "genus": "Citrus",
+        "family": "Rutaceae",
+        "commonNames": [
+          "Lemon",
+          "Lemon tree",
+          "Mandarin lime"
+        ],
+        "gbifId": "7647136",
+        "iucnId": "",
+        "iucnCategory": "",
+        "powoId": "60454758-2"
+      },
+      {
+        "confidence": 0.13227,
+        "species": "Citrus medica L.",
+        "genus": "Citrus",
+        "family": "Rutaceae",
+        "commonNames": [
+          "Lemon",
+          "Citron",
+          "Buddha's hand"
+        ],
+        "gbifId": "3190157",
+        "iucnId": "62041221",
+        "iucnCategory": "LC",
+        "powoId": "59603-2"
       }
     ]
   },

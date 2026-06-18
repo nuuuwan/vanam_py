@@ -1,0 +1,392 @@
+{
+  "hash": "ac161a873a4b06b0",
+  "image_metadata": {
+    "imageHash": "ac161a873a4b06b0",
+    "imageLocation": {
+      "latitude": 6.91885,
+      "longitude": 79.85905555555556,
+      "accuracy": 11.553235093198008,
+      "source": "exif",
+      "nominatimDisplayName": null
+    },
+    "utImageTaken": 1781747696,
+    "userId": "1koj6ac",
+    "imageUrl": "https://lfuxonhs29atvppr.public.blob.vercel-storage.com/plant-images/ac161a873a4b06b0.png"
+  },
+  "plantnet_data": {
+    "query": {
+      "project": "all",
+      "images": [
+        "8023127eb4d27ecdd8243d23e29e1ca3"
+      ],
+      "organs": [
+        "auto"
+      ],
+      "includeRelatedImages": false,
+      "noReject": false,
+      "type": null
+    },
+    "predictedOrgans": [
+      {
+        "image": "8023127eb4d27ecdd8243d23e29e1ca3",
+        "filename": "ac161a873a4b06b0.png",
+        "organ": "leaf",
+        "score": 0.78779
+      }
+    ],
+    "language": "en",
+    "preferedReferential": "k-world-flora",
+    "bestMatch": "Citrus × limon (L.) Osbeck",
+    "results": [
+      {
+        "score": 0.36705,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × limon",
+          "scientificNameAuthorship": "(L.) Osbeck",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Lemon tree",
+            "Mandarin lime"
+          ],
+          "scientificName": "Citrus × limon (L.) Osbeck"
+        },
+        "gbif": {
+          "id": "7647136"
+        },
+        "powo": {
+          "id": "60454758-2"
+        }
+      },
+      {
+        "score": 0.13227,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus medica",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lemon",
+            "Citron",
+            "Buddha's hand"
+          ],
+          "scientificName": "Citrus medica L."
+        },
+        "gbif": {
+          "id": "3190157"
+        },
+        "powo": {
+          "id": "59603-2"
+        },
+        "iucn": {
+          "id": "62041221",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.06953,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus maxima",
+          "scientificNameAuthorship": "(Burm.) Merr.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Pomelo",
+            "Buntan",
+            "Citron"
+          ],
+          "scientificName": "Citrus maxima (Burm.) Merr."
+        },
+        "gbif": {
+          "id": "3190160"
+        },
+        "powo": {
+          "id": "30075266-2"
+        },
+        "iucn": {
+          "id": "62042732",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.03261,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus hystrix",
+          "scientificNameAuthorship": "DC.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Kaffir lime",
+            "Makrut lime",
+            "Thai lime"
+          ],
+          "scientificName": "Citrus hystrix DC."
+        },
+        "gbif": {
+          "id": "6433679"
+        },
+        "powo": {
+          "id": "771927-1"
+        },
+        "iucn": {
+          "id": "62038171",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.01152,
+        "species": {
+          "scientificNameWithoutAuthor": "Musa acuminata",
+          "scientificNameAuthorship": "Colla",
+          "genus": {
+            "scientificNameWithoutAuthor": "Musa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Musa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Musaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Musaceae"
+          },
+          "commonNames": [
+            "Dwarf banana",
+            "Cavendish banana",
+            "Banana"
+          ],
+          "scientificName": "Musa acuminata Colla"
+        },
+        "gbif": {
+          "id": "2762680"
+        },
+        "powo": {
+          "id": "797527-1"
+        },
+        "iucn": {
+          "id": "22486320",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00811,
+        "species": {
+          "scientificNameWithoutAuthor": "Rosa chinensis",
+          "scientificNameAuthorship": "Jacq.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Rosa",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosa"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rosaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rosaceae"
+          },
+          "commonNames": [
+            "Bengal rose",
+            "China Rose",
+            "Chinese rose"
+          ],
+          "scientificName": "Rosa chinensis Jacq."
+        },
+        "gbif": {
+          "id": "3005039"
+        },
+        "powo": {
+          "id": "732029-1"
+        }
+      },
+      {
+        "score": 0.00688,
+        "species": {
+          "scientificNameWithoutAuthor": "Magnolia macrophylla",
+          "scientificNameAuthorship": "Michx.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Magnolia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnolia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Magnoliaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Magnoliaceae"
+          },
+          "commonNames": [
+            "Big leaf magnolia",
+            "Bigleaf Magnolia",
+            "Umbrella tree"
+          ],
+          "scientificName": "Magnolia macrophylla Michx."
+        },
+        "gbif": {
+          "id": "3153783"
+        },
+        "powo": {
+          "id": "30417720-2"
+        },
+        "iucn": {
+          "id": "62595",
+          "category": "LC"
+        }
+      },
+      {
+        "score": 0.00638,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × aurantiifolia",
+          "scientificNameAuthorship": "(Christm.) Swingle",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Lime",
+            "Key lime",
+            "Egyptian lime"
+          ],
+          "scientificName": "Citrus × aurantiifolia (Christm.) Swingle"
+        },
+        "gbif": {
+          "id": "3190164"
+        },
+        "powo": {
+          "id": "59599-2"
+        }
+      },
+      {
+        "score": 0.00619,
+        "species": {
+          "scientificNameWithoutAuthor": "Citrus × aurantium",
+          "scientificNameAuthorship": "L.",
+          "genus": {
+            "scientificNameWithoutAuthor": "Citrus",
+            "scientificNameAuthorship": "",
+            "scientificName": "Citrus"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Rutaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Rutaceae"
+          },
+          "commonNames": [
+            "Sour orange",
+            "Bitter orange",
+            "Bigarade"
+          ],
+          "scientificName": "Citrus × aurantium L."
+        },
+        "gbif": {
+          "id": "8077391"
+        },
+        "powo": {
+          "id": "59600-2"
+        }
+      },
+      {
+        "score": 0.00421,
+        "species": {
+          "scientificNameWithoutAuthor": "Euphorbia umbellata",
+          "scientificNameAuthorship": "(Pax) Bruyns",
+          "genus": {
+            "scientificNameWithoutAuthor": "Euphorbia",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbia"
+          },
+          "family": {
+            "scientificNameWithoutAuthor": "Euphorbiaceae",
+            "scientificNameAuthorship": "",
+            "scientificName": "Euphorbiaceae"
+          },
+          "commonNames": [
+            "زبان فارسی را فعال کنید",
+            "گل فردوس",
+            "African milk bush"
+          ],
+          "scientificName": "Euphorbia umbellata (Pax) Bruyns"
+        },
+        "gbif": {
+          "id": "3070438"
+        },
+        "powo": {
+          "id": "77089481-1"
+        }
+      }
+    ],
+    "version": "2026-03-20 (7.4)",
+    "remainingIdentificationRequests": 479
+  },
+  "nominatim_data": {
+    "place_id": 255201686,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 13892838,
+    "lat": "6.9194506",
+    "lon": "79.8590426",
+    "class": "building",
+    "type": "apartments",
+    "place_rank": 30,
+    "importance": 7.168307011516011e-05,
+    "addresstype": "building",
+    "name": "On320 Apartments",
+    "display_name": "On320 Apartments, 320, Dr. Colvin R. de Silva Mawatha (Union Place), Hyde Park Corner, Hunupitiya, Slave Island, Colombo, Colombo District, Western Province, 00200, Sri Lanka",
+    "address": {
+      "building": "On320 Apartments",
+      "house_number": "320",
+      "road": "Dr. Colvin R. de Silva Mawatha (Union Place)",
+      "neighbourhood": "Hyde Park Corner",
+      "suburb": "Hunupitiya",
+      "village": "Slave Island",
+      "city": "Colombo",
+      "state_district": "Colombo District",
+      "ISO3166-2-lvl5": "LK-11",
+      "state": "Western Province",
+      "ISO3166-2-lvl4": "LK-1",
+      "postcode": "00200",
+      "country": "Sri Lanka",
+      "country_code": "lk"
+    },
+    "boundingbox": [
+      "6.9187890",
+      "6.9196281",
+      "79.8588565",
+      "79.8594654"
+    ]
+  }
+}
