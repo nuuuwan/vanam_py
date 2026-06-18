@@ -48,7 +48,10 @@ jobs:
       - name: "Step 5: Aggregate identifications"
         run: python -m workflows.aggregate
 
-      - name: "Step 6: Build data README"
+      - name: "Step 6: Clean up old unprocessed images"
+        run: python -m workflows.cleanup_old_images
+
+      - name: "Step 7: Build data README"
         run: python -m workflows.data_readme_build
 
       - name: "Commit and push updated data"
