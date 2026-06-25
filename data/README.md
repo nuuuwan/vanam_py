@@ -1,6 +1,6 @@
 # Vanam - Data
 
-![updated](https://img.shields.io/badge/updated-2026--06--24%2021:57:58-blue)  ![data size](https://img.shields.io/badge/data%20size-9.0M-lightgrey)
+![updated](https://img.shields.io/badge/updated-2026--06--25%2001:24:21-blue)  ![data size](https://img.shields.io/badge/data%20size-9.0M-lightgrey)
 
 **131** plant identification(s), sorted by most recently photographed.
 
